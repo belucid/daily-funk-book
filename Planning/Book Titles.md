@@ -1,10 +1,10 @@
 **Working Title:**
 
-Funk-a-Day: 365 Doses of Deep Groove
+Funky Medicine: 365 Daily Doses of Funk
 
 **Alternatives:**
 
-Funky Medicine: 365 Daily Doses of Funk
+Funk-a-Day: 365 Doses of Deep Groove
 
 365 Days of Funk: Classics, Curveballs and Cult Favorites
 

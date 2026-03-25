@@ -11,7 +11,7 @@ Deep Funk (45's only, not on album)
 
 **Coverage (20+):**
 Acid Jazz
-P-Funk / Psychedelic Funk
+Psychedelic Funk
 Funk Rock
 Minneapolis Sound
 	Prince ~8
@@ -21,7 +21,7 @@ Minneapolis Sound
 	 Family ~1
 	 94 East ~1
 	 Non-Prince affiliated ~6
-Afrobeat / Afrofunk
+Afrobeat
 Latin Funk
 *~120*
 

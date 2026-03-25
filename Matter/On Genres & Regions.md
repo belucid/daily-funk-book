@@ -1,5 +1,4 @@
-
-All the music in this book lives under the broad umbrella of funk. The labels below are really subgenres, but to keep things simple I refer to them as genres throughout.
+All the music in this book lives under the broad umbrella of funk. The labels below are really subgenres, but to keep things simple I refer to them as genres throughout. Assigning a genre to each entry was not always straightforward, and many tracks could reasonably fit more than one category. Even in cases where you would label a track differently, I hope my choice makes sense as a reasonable option.
 
 What follows are my working definitions for each genre as used in this book, listed in order from most entries to fewest.
 

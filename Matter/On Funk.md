@@ -1,8 +1,8 @@
-The single best definition of funk I have ever read comes from Rickey Vincent’s well-researched 1996 book, *Funk: The Music, The People, and The Rhythm of the One*. The book is out of print, but it is worth hunting down.
+The best definition of funk I've come across is from Rickey Vincent’s well-researched 1996 book, *Funk: The Music, The People, and The Rhythm of the One*. The book is out of print, but it is worth hunting down.
 
 > Funk is that low-down dirty feeling that pops up when a *baad* funk jam gets to the heated part, and you forget about that contrived dance you were trying, and you *get off your ass and jam*.
 
-Vincent’s primary point is that funk is easier to recognize than to reduce to a strict formula, and I agree. Funk has a strong “you’ll know it when you hear it” quality, and any strict definition will fall short. Still, I owe you an attempt to describe what you are listening for.
+Vincent’s point is that funk is easier to recognize than to reduce to a strict formula, and I agree. Funk has a strong “you’ll know it when you hear it” quality, and any strict definition will fall short. Still, I owe you an attempt to describe what you are listening for.
 
 At its core, funk makes rhythm the main event. The groove is not just accompaniment for a singer or soloist. It *is* the song. Funk shifts the musical emphasis away from melodies and chord changes and toward tightly interlocking rhythmic parts. Drums, bass, guitar, keys, horns, and vocals behave like gears in one machine.
 
@@ -14,4 +14,4 @@ Here's how the book’s selections distribute across time. The 1970s are the cen
 
 {Graph of tracks' years from the book}
 
-Funk was also, in practice, a singles-oriented genre. That is why this book is organized around one track per day rather than one album at a time. I will tell you which album a track first appeared on, but I want you to keep the singles mindset in mind. This book follows that tradition with one focused listen each day that opens up a new corner of the funk world.
+Funk was also a singles-oriented genre. That is why this book is organized around one track per day rather than one album at a time. I will tell you which album a track first appeared on, but I want you to keep the singles mindset in mind. This book follows that tradition with one focused listen each day that opens up a new corner of the funk world.

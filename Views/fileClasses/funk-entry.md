@@ -9,7 +9,7 @@ status:
   - complete
 genre:
   - Acid Jazz
-  - Afrobeat / Afrofunk
+  - Afrobeat
   - Avant-Funk
   - Classic Funk
   - Country Funk
@@ -21,7 +21,7 @@ genre:
   - Gospel Funk
   - Jazz-Funk
   - Minneapolis Sound
-  - P-Funk / Psychedelic Funk
+  - Psychedelic Funk
   - Soul Jazz
   - Latin Funk
   - Nu-Funk

@@ -3,15 +3,15 @@ Free text — record label name (e.g. Aware Records, People Records, Blue Note)
 
 ## genre
 - Classic Funk
-- Jazz-Funk
+- Jazz Funk
 - Soul Jazz
 - Deep Funk
 - Acid Jazz
 - Free Funk
-- P-Funk / Psychedelic Funk
+- Psychedelic Funk
 - Funk Rock
 - Minneapolis Sound
-- Afrobeat / Afrofunk
+- Afrobeat
 - Latin Funk
 - Go-Go
 - Country Funk
