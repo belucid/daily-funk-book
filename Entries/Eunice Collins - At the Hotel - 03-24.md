@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 03-24
 artist: Eunice Collins
 track: At the Hotel
 album:
@@ -11,13 +11,13 @@ genre: Deep Funk
 region: US - Illinois
 listening mission: Collins walked into a studio by chance, recorded the song in a single take, never signed a contract or got paid, and vanished from the music world for 40 years. What might a Eunice Collins album have sounded like?
 status: review
-writing theme:
+writing theme: Tale of unusual recording and Deep funk rediscovery.
 ---
 Eunice Collins walked into a small Chicago studio on a whim and recorded this track in one take. Never signed a contract, never got paid, and then vanished from the record-making world. What might a full Eunice Collins album have sounded like?
 
-She called the song “What’s Your Hurry Baby,” but the studio owner retitled it “At the Hotel” without her input. The background singers refused to participate at first, so Eunice recruited others in the room to sing with her. The single-take, lo-fi recording gives it a distinctive, intimate sound.
+She called the song “What’s Your Hurry Baby,” but the studio owner retitled it “At the Hotel” without her input. The background singers refused to participate at first, so Eunice recruited others in the room to sing with her. The single-take and lo-fi recording gives it a distinctive, intimate sound.
 
-Decades later, the track found a second life. Lion Babe built “Treat Me Like Fire” around its sample, and it even played over the end credits of an episode of Donald Glover's *Atlanta*.
+Decades later, the track found a second life. Lion Babe built “Treat Me Like Fire” around its sample, and it even played over the end credits of an episode of Donald Glover's *Atlanta* on March 24, 2022.
 
 ---
 ## Research Notes
