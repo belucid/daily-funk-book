@@ -1,0 +1,1 @@
+Each daily entry includes a listening mission, should you choose to accept it. These prompts are intentionally open-ended and have no right answer. Treat them as small challenges to keep your ears awake, not as homework. The goal is simply to listen actively, notice what you notice, and carry at least one new question with you into the day.

@@ -1,0 +1,54 @@
+---
+fileClass: fileClass
+status:
+  - stub
+  - research
+  - research-review
+  - draft
+  - review
+  - complete
+genre:
+  - Acid Jazz
+  - Afrobeat / Afrofunk
+  - Avant-Funk
+  - Classic Funk
+  - Country Funk
+  - Deep Funk
+  - Electro Funk
+  - Free Funk
+  - Funk Rock
+  - Go-Go
+  - Gospel Funk
+  - Jazz-Funk
+  - Minneapolis Sound
+  - P-Funk / Psychedelic Funk
+  - Soul Jazz
+  - Latin Funk
+  - Nu-Funk
+region:
+  - Brazil
+  - Benin
+  - Cameroon
+  - Cuba
+  - France
+  - Ghana
+  - Jamaica
+  - Nigeria
+  - Senegal
+  - UK
+  - US - California
+  - US - D.C.
+  - US - Florida
+  - US - Georgia
+  - US - Illinois
+  - US - Louisiana
+  - US - Michigan
+  - US - Minnesota
+  - US - Midwest
+  - US - New York
+  - US - Northeast
+  - US - Ohio
+  - US - Southeast
+  - US - Texas
+  - US - West
+---
