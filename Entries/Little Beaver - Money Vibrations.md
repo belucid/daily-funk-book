@@ -8,9 +8,10 @@ label:
 year:
 track length:
 genre:
+  - Deep Funk
 region:
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

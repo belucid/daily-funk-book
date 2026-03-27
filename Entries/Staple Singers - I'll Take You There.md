@@ -3,15 +3,15 @@ fileClass: funk-entry
 day:
 artist: Staple Singers
 track: I'll Take You There
-album: 
+album:
 label:
 year:
-track length: 
-genre: 
-region: 
-listening mission: 
-status: stub
-writing theme: 
+track length:
+genre:
+region:
+listening mission:
+status: research
+writing theme:
 ---
 
 ---

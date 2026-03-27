@@ -11,14 +11,14 @@ genre:
   - Deep Funk
 region: US - Louisiana
 listening mission: Harris recorded her vocal separately from the band. Notice when your attention shifts from her voice to the rhythm section. What tells you they were not in the room together?
-status: review
+status: complete
 writing theme: Two separate tracks competing for attention
 ---
-Betty Harris was born September 9, 1939, in Orlando, Florida. In her last recorded song, "There’s a Break in the Road," it feels like two parallel songs are fighting for your ear. Producer Allen Toussaint and Harris are aiming for a late-1960s soul single, but the session band, freshly formed as The Meters, seem to have other plans.
+Betty Harris was born on September 9, 1939, in Orlando, Florida. In her last recorded song, "There’s a Break in the Road," it feels like two parallel songs are fighting for your ear. Producer Allen Toussaint and Harris are aiming for a late-1960s soul single, but the session band, freshly formed as The Meters, seem to have other plans.
 
-The Meters laid down a nasty, funk-forward rhythm, though without Zigaboo Modeliste on drums. The groove demands attention and competes for the soul of the track. Calling it "backing" almost misses the point, especially since they cut the track without Harris in the room.
+The Meters laid down a nasty, funk-forward rhythm. The groove demands attention and competes for the soul of the track. Calling it "backing" almost misses the point, especially since they cut the track without Harris in the room.
 
-In 1969 and the years that followed, The Meters would create some of the greatest classic funk instrumentals ever recorded. To me this feels like a Meters instrumental trying to break free.
+In 1969 and the years that followed, The Meters would create some of the greatest classic funk instrumentals ever recorded. To me, this feels like a Meters instrumental trying to break free.
 
 ---
 ## Research Notes

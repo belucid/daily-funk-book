@@ -2,7 +2,7 @@ All the music in this book lives under the broad umbrella of funk. The labels be
 
 What follows are my working definitions for each genre as used in this book, listed in order from most entries to fewest.
 
-**Classic Funk (n days):** Since we have "classic rock," we can have "classic funk". In this book, classic funk is the music that defined the core vocabulary and was released into the commercial pipeline of major labels, well-distributed singles and albums, radio play, concert tours, and chart presence. The emphasis here is not on later rediscovery but on the period when funk was a central sound in mainstream American music.
+**Classic Funk (n days):** Since we have "classic rock," we can have "classic funk". In this book, classic funk is the music that defined the core vocabulary and was released into the commercial pipeline of major labels, well-distributed singles and albums, radio play, concert tours, and chart presence. The emphasis is not on later rediscovery but on the period when funk was a central sound in mainstream American music.
 
 I draw the classic era as roughly 1968 through 1977. These years capture funk’s arrival as its own dominant language, its peak as a hit-making engine, and the moments before disco becomes the dominant commercial dance music. You will still hear plenty of soul, blues, gospel, and R&B roots in classic funk, but the defining feature is that the track’s primary identity is funk, not funk fused into another genre such as rock, jazz, or Latin styles.
 

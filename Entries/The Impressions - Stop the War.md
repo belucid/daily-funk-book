@@ -10,7 +10,7 @@ track length:
 genre:
 region:
 listening mission: Beatles influences
-status: stub
+status: research
 writing theme: Perennial nature of an anti-war song, Beatles influence on this
 ---
 

@@ -6,11 +6,11 @@ track: Voices Inside (Everything is Everything)
 album: Donny Hathaway Live
 label:
 year:
-track length: 
-genre: 
-region: 
-listening mission: 
-status: stub
+track length:
+genre:
+region:
+listening mission:
+status: research
 writing theme: Funk isn't in a rush
 ---
 

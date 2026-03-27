@@ -12,14 +12,14 @@ genre:
 region:
   - US - Southeast
 listening mission: Listen to what Lou does just five minutes in when he swaps words for sounds. Why end it this way?
-status: complete
+status: review
 writing theme: Not fitting expectations
 ---
 Lou Bond (born Ronald Edward Lewis) didn't slide neatly into Stax’s world in 1974. He was too eclectic for the label’s lane, and too slippery for the decade’s genres. It's still hard to name what he was doing.
 
 His only album, *Lou Bond*, feels like a category error on purpose. Even the cover dares you to decide what you’re about to hear. An old blues man? Too young. A folk singer? Too Black to tick that box.
 
-Is it soul? Psychedelic funk? Jazz? Folk by a Black songwriter inside a Southern soul label? Yes, it's all of these.
+Is it soul or psychedelic funk? Jazz or folk by a Black songwriter inside a Southern soul label? Yes, it's all of these.
 
 Today’s track, “To the Establishment,” is a protest song that refuses to hurry. It's more mood than manifesto. Slow, relaxed, and dreamy. It tries to hypnotize you instead of shouting its argument in your face.
 

@@ -1,19 +1,20 @@
 ---
 fileClass: funk-entry
 day:
-artist: Herb Alpert
-track: Rise
-album: Rise
+artist: Tower of Power
+track: Squib Cakes
+album: Back to Oakland
 label:
-year: 1979
+year: 1974
 track length:
 genre:
-  - Jazz-Funk
+  - Classic Funk
 region:
 listening mission:
 status: research
-writing theme: Pays to Own the Record Label
+writing theme:
 ---
 
 ---
 ## Research Notes
+

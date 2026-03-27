@@ -15,11 +15,11 @@ listening mission: You could easily mistake this for a James Brown track. What g
 status: complete
 writing theme: Murder of Dyke
 ---
-Arlester “Dyke” Christian was the singer, songwriter, and bassist fronting Dyke & The Blazers. Formed in 1965, the band scored major hits with “Funky Broadway” and today’s track, “Let a Woman Be a Woman” The drum break, played by James Gadson, became a hip-hop staple and has been sampled more than 230 times. 
+Arlester “Dyke” Christian was the singer, songwriter, and bassist who fronted Dyke & The Blazers. Formed in 1965, the band scored major hits with “Funky Broadway” and today’s track, “Let a Woman Be a Woman” The drum break from the latter, played by James Gadson, became a hip-hop staple and has been sampled more than 230 times. 
 
-Dyke wrote from lived experience, and his chaotic life matched the streets he sang about. “Funky Broadway” is not about New York, it points to Broadway Road in Phoenix, where the band was based.
+Dyke wrote from lived experience, and his chaotic life matched the streets he sang about. “Funky Broadway” is not about New York; it points to Broadway Road in Phoenix, where the band was based.
 
-On March 13, 1971, Dyke was shot and killed by a fellow addict. He was 27. That places him in the mythologized 27 Club, alongside Robert Johnson, Jimi Hendrix, Janis Joplin, Jim Morrison, Kurt Cobain, and Amy Winehouse. At the time of his murder, Dyke was about to tour the UK and had an album project lined up with Barry White.
+Tragically, Dyke's career was cut short on March 13, 1971, when he was shot and killed by a fellow addict at the age of 27. This places him in the mythologized 27 Club, alongside a group of influential musicians including Robert Johnson, Jimi Hendrix, Janis Joplin, Jim Morrison, Kurt Cobain, and Amy Winehouse. At the time of his murder, Dyke was about to tour the UK and had an album project lined up with Barry White.
 
 ---
 ## Research Notes

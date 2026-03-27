@@ -15,11 +15,11 @@ listening mission: Tjader doubles the length of yesterday's track and adds synth
 status: complete
 writing theme: The Swedish-American king of Latin funk
 ---
-Today’s track is a cover of Preston’s “Cool Ade” from yesterday, cut by vibraphonist and bandleader Callen Radcliffe Tjader Jr. He was born on July 16, 1925, in St. Louis to Swedish-American vaudevillians. His father tap-danced and his mother played piano.
+Today’s track is a cover of Preston’s “Cool Ade” from yesterday, cut by vibraphonist and bandleader Callen Radcliffe Tjader Jr. He was born on July 16, 1925, in St. Louis to Swedish-American vaudevillians. His father tap-danced and his mother played the piano.
 
-After the Navy, Tjader studied at San Francisco State and met a young Dave Brubeck. He played drums in Brubeck’s early groups, and had his path altered when Cuban percussionist Armando Peraza sat in with the band. Tjader dove into the tradition, teaching himself bongos and cencerro (cowbell), and eventually became one of the defining forces in Latin jazz.
+Following his service in the Navy, Tjader studied music at San Francisco State, where he encountered a young Dave Brubeck. He played drums in Brubeck’s early groups, and his path was altered when Cuban percussionist Armando Peraza sat in with the band. Tjader immersed himself in the tradition, teaching himself bongos and cencerro (cowbell), and eventually became one of the defining forces in Latin jazz.
 
-A modern listener might pause at an outsider leading a Latin jazz band. But what happens when an outsider is also one of the best? Cal Tjader is often described as the most successful non-Latino musician in Latin jazz, and he influenced later artists, including Carlos Santana.
+A modern listener might wonder about an outsider leading a Latin jazz band. But what happens when the outsider is also one of the best? Tjader is often described as the most successful non-Latino musician in Latin jazz, and he influenced later artists, including Carlos Santana.
 
 ---
 ## Research Notes

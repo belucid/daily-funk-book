@@ -1,19 +1,19 @@
 ---
 fileClass: funk-entry
 day:
-artist: Herb Alpert
-track: Rise
-album: Rise
+artist: Commodores
+track: I Feel Sanctified
+album: Machine Gun
 label:
-year: 1979
+year: 1974
 track length:
 genre:
-  - Jazz-Funk
 region:
 listening mission:
 status: research
-writing theme: Pays to Own the Record Label
+writing theme:
 ---
 
 ---
 ## Research Notes
+

@@ -1,14 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: Dennis Coffey
-track: Scorpio
-album:
+artist: War
+track: The World is a Ghetto
+album: The World is a Ghetto
 label:
 year:
-track length:
+track length: 10m 10s
 genre:
-  - Funk Rock
+  - Classic Funk
 region:
 listening mission:
 status: research
@@ -18,4 +18,3 @@ writing theme:
 ---
 ## Research Notes
 
-truly legendary drum break

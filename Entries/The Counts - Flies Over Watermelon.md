@@ -11,7 +11,7 @@ genre:
 region:
   - US - Ohio
 listening mission:
-status: stub
+status: research
 writing theme: A case for slow funk
 ---
 

@@ -8,15 +8,22 @@ label: Kent Records
 year: 1970
 track length: 2m 02s
 genre:
-  - Soul Jazz
+  - Classic Funk
 region: US - California
-listening mission: This track is barely two minutes long, but notice how it builds a complete groove, peaks, has some breaks, and then exits without a wasted second.
-status: research-review
+listening mission: This track is barely two minutes long. Notice how it builds a complete groove, peaks, and gets out without a wasted second. What would a longer version add, or would it just dilute the punch?
+status: research
 writing theme: collaboration between 3 generations
 ---
+Today's track, "Cool Ade" by Preston Love is a collaboration between two generations of talented musicians. Older jazz men Johnny Otis (producer, pianist, vibes) and Preston Love provide reputational gravitas to an overtly silly and commercial album, while Otis' teenage son Shuggie Otis, makes his recorded debut on guitar at just 14 years old.
+
+Make sure you listen to this one on headphones and notice the intense stereo separation of the rhythm section and the rest of the band.
 
 ---
 ## Research Notes
+
+open: what instrument(s) did Preston Love play on this track? Who did the vocals?
+
+open: if Shuggie was born in 1953 and was 14 that means this would have been recorded in 1968 at the latest. We have the release date as 1970 (and note the recording was 1969). 1969 and 14 and Shuggies birth date don't add up.
 
 **[AUDIT]** `2026-03-22 12:00` — `track length` changed from `2m` to `2m 02s` — Source: https://www.allmusic.com/album/omaha-bar-b-q-mw0000015093 and https://music.apple.com/us/album/johnny-otis-presents-preston-loves-omaha-bar-b-q/1015476037
 **[AUDIT]** `2026-03-22 12:00` — `region` changed from `(empty)` to `US - California` — Source: Recorded in Los Angeles by Johnny Otis's band; Love was based in LA as Motown's West Coast bandleader from early 1960s to 1972. See https://richielove.com/preston-love-sr-tribute/

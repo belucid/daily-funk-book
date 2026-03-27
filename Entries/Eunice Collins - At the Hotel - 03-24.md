@@ -13,7 +13,7 @@ listening mission: Collins walked into a studio by chance, recorded the song in 
 status: review
 writing theme: Tale of unusual recording and Deep funk rediscovery.
 ---
-Eunice Collins walked into a small Chicago studio on a whim and recorded this track in one take. Never signed a contract, never got paid, and then vanished from the record-making world. What might a full Eunice Collins album have sounded like?
+Eunice Collins walked into a small Chicago studio on a whim and recorded this track in one take. She never signed a contract, never got paid, and then vanished from the record-making world. What might a full Eunice Collins album have sounded like?
 
 She called the song “What’s Your Hurry Baby,” but the studio owner retitled it “At the Hotel” without her input. The background singers refused to participate at first, so Eunice recruited others in the room to sing with her. The single-take and lo-fi recording gives it a distinctive, intimate sound.
 

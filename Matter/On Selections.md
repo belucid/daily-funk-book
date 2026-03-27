@@ -14,6 +14,7 @@ Here is an illustrative, not exhaustive, list of the kind of mega-hits I mean:
 - "Tell Me Something Good", Chaka Khan & Rufus (1974)
 - "Shining Star", Earth, Wind & Fire (1975)
 - "Love Rollercoaster", Ohio Players (1975)
+- "Low Rider", War (1975)
 - "Play That Funky Music", Wild Cherry (1976)
 - "Brick House", Commodores (1977)
 - "September", Earth, Wind & Fire (1978)

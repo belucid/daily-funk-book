@@ -3,15 +3,15 @@ fileClass: funk-entry
 day:
 artist: Herbie Hancock
 track: Chameleon
-album: 
+album:
 label:
 year:
-track length: 
+track length:
 genre: Jazz-Funk
-region: 
-listening mission: 
-status: stub
-writing theme: Jazz artists
+region:
+listening mission:
+status: research
+writing theme: Jazz artists "selling out"
 ---
 
 ---
