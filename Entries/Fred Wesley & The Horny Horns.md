@@ -1,13 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: The O'Jays
+artist: Fred Wesley & The Horny Horns
 track:
-album:
-label:
-year:
+album: A Blow For Me, A Toot For You
+label: Atlantic
+year: 1977
 track length:
 genre:
+  - Classic Funk
 region:
 listening mission:
 status: stub

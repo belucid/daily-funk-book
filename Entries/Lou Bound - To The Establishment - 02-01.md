@@ -12,18 +12,16 @@ genre:
 region:
   - US - Southeast
 listening mission: Listen to what Lou does just five minutes in when he swaps words for sounds. Why end it this way?
-status: review
+status: complete
 writing theme: Not fitting expectations
 ---
-Lou Bond (born Ronald Edward Lewis) didn't slide neatly into Stax’s world in 1974. He was too eclectic for the label’s lane, and too slippery for the decade’s genres. It's still hard to name what he was doing.
+Lou Bond (born Ronald Edward Lewis) didn't fit in Stax’s world in 1974. He was too eclectic for the label’s distinctive soul sound. It's still hard to name what he was doing.
 
-His only album, *Lou Bond*, feels like a category error on purpose. Even the cover dares you to decide what you’re about to hear. An old blues man? Too young. A folk singer? Too Black to tick that box.
+The cover of his only album, *Lou Bond*, dares you to decide what you’re about to hear. An old blues man? He's too young. A folk singer? Too Black to be filed there. Is it soul or psychedelic funk? Jazz, or folk music from a Black songwriter on a Southern soul label? It’s all of these.
 
-Is it soul or psychedelic funk? Jazz or folk by a Black songwriter inside a Southern soul label? Yes, it's all of these.
+Today’s track, "To the Establishment," is a protest song that refuses to hurry. It's more mood than manifesto. Slow, relaxed, and dreamy, it tries to hypnotize you instead of shouting its argument.
 
-Today’s track, “To the Establishment,” is a protest song that refuses to hurry. It's more mood than manifesto. Slow, relaxed, and dreamy. It tries to hypnotize you instead of shouting its argument in your face.
-
-At eleven minutes, it was never going to be a radio staple like “War” or “What’s Going On.” But it still matters. This song isn’t built for the format or the moment. It's for anyone who likes their truth delivered in a long, unbothered groove.
+At eleven minutes, it was never destined to be a radio staple like "War" or "What’s Going On." But it still matters. It’s for anyone who likes their truth delivered in a long, unbothered groove.
 
 ---
 ## Research Notes

@@ -1,20 +1,24 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-24
 artist: Red Hot Chili Peppers
 track: Give It Away
 album: Blood Sugar Sex Magik
-label: Warner Bros. Records
+label: Warner Brothers Records
 year: 1991
 track length: 4m 43s
 genre:
   - Funk Rock
 region: US - California
-listening mission:
-status: research-review
+listening mission: The word 'give' appears 68 times When does the repetition stop being a lyric and start becoming a rhythm instrument?
+status: complete
 writing theme:
 ---
-For a bonus listen, the Weird Al Yankovic parody, "" is just as funky.
+*Blood Sugar Sex Magik* was released on September 24, 1991, the same day Nirvana released *Nevermind*. It is hard not to treat that date as a pivotal point, with a decade's defining sounds arriving all at once.
+
+Legendary producer Rick Rubin helped strip away the metal-leaning guitars of the Chili Peppers' previous record, *Mother’s Milk*, and pushed the band toward something rawer and leaner, with funk-rock back at its center. The bassist Flea did not think the iconic bassline was anything special at first. His bandmates overruled him, and Rubin convinced Flea to simplify it further for the final recording.
+
+As a bonus listen, try "Bedrock Anthem," Weird Al Yankovic's 1993 Flintstones-themed parody of "Give It Away" and "Under the Bridge." It's just as funky.
 
 ---
 ## Research Notes

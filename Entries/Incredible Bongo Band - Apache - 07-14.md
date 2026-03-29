@@ -1,18 +1,26 @@
 ---
 fileClass: funk-entry
-day:
+day: 07-14
 artist: Incredible Bongo Band
 track: Apache
 album: Bongo Rock
-label: Pride/MGM
+label: MGM Records
 year: "1973"
 track length: 4m 53s
 genre:
+  - Deep Funk
 region: US - California
-listening mission:
-status: research-review
-writing theme:
+listening mission: The famous break drops halfway through. Before it hits, it is all surf guitar and bongos.
+status: complete
+writing theme: odd facts
 ---
+There are plenty of strange stories in funk history, but the Incredible Bongo Band’s “Apache” is a contender for the wildest.
+
+Start with the drum and percussion break. It helped make "Apache" one of the most sampled recordings ever, appearing in more than 800 tracks. DJ Kool Herc called it the national anthem of hip-hop. The mystery is that even the musicians involved do not know who played drums on the famous break. The track was cut across two sessions, one with Jim Gordon on drums and another with Kat Hendrikse, and no one is certain which take made the final master
+
+Then comes the next twist. The Incredible Bongo Band was not really a band at all. It was assembled by MGM Records executive Michael Viner from a rotating cast of Los Angeles session players. It was originally created to record music for the 1972 B-movie *The Thing with Two Heads*, built around the bizarre premise of a racist white man's head being transplanted onto a Black man’s body. Even the group's personnel list has a mythic quality, with Ringo Starr appearing on its second album.
+
+Finally, back to one of those drummers, Jim Gordon, who was born on this day in 1945. Gordon's life took a tragic turn when he murdered his mother during a psychotic episode linked to schizophrenia. He died while incarcerated in 2023, which adds a sad coda to a song that has been powering hip-hop for forty years.
 
 ---
 ## Research Notes
@@ -27,7 +35,14 @@ drum break that birthed hip hop
 
 ### Open Research Questions
 
-No explicit `open:` questions found in the existing notes. The note "drum break that birthed hip hop" is addressed throughout the research below.
+Open: What day was Jim Gordon born?
+**Resolved:** Jim Gordon was born on **July 14, 1945** in Los Angeles, California. Sources: [Wikipedia](https://en.wikipedia.org/wiki/Jim_Gordon_(musician)), [Famous Birthdays](https://www.famousbirthdays.com/people/jim-gordon.html)
+
+What day did Jim Gordon die?
+**Resolved:** Jim Gordon died on **March 13, 2023** at the California Medical Facility in Vacaville, California. He was 77 years old. He is believed to have died of natural causes. Sources: [NPR](https://www.npr.org/2023/03/17/1164142924/jim-gordon-a-famed-session-drummer-who-killed-mother-dies), [Best Classic Bands](https://bestclassicbands.com/jim-gordon-dead-drummer-derek-and-the-dominos-3-15-233/), [Wikipedia](https://en.wikipedia.org/wiki/Jim_Gordon_(musician))
+
+Is Apache the most sampled song in history?
+**Resolved: No.** According to WhoSampled, "Apache" has been sampled in approximately 807 songs, which is impressive but far from the most sampled. The most sampled track in history is "Amen, Brother" by The Winstons (over 7,498 samples), followed by "Think (About It)" by Lyn Collins (4,261 samples). "Apache" is highly sampled but the "most sampled song in history" claim is not accurate. The entry text currently says "over 700 recordings," which is closer to the WhoSampled count of ~807 and is a defensible number. The claim "most sampled" should be softened to something like "one of the most sampled." Sources: [WhoSampled Most Sampled Tracks](https://www.whosampled.com/most-sampled-tracks/), [WhoSampled Apache page](https://www.whosampled.com/Incredible-Bongo-Band/Apache/)
 
 ### Writing Theme Suggestions
 

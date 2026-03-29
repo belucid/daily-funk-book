@@ -22,15 +22,15 @@ In this book, soul jazz is mostly used to label the earlier, smaller-ensemble si
 
 **Latin Funk (n days):** I needed one label that can comfortably hold “funk plus Latin rhythms” across Afro-Cuban, Puerto Rican, Brazilian, and all pan-Latin flavors, so the best umbrella term is Latin funk. I use this as a label for music that combines funk with Latin music elements and  percussion-driven grooves.
 
-**Minneapolis Sound (n days):** Everybody finds funk through a door, and mine was Prince Rogers Nelson of Minneapolis, Minnesota. The Minneapolis sound is a lean, high-tempo evolution of 1970s funk rock, fused with new wave and synth-pop, and often utilizing the early drum machines of the 1980s. You probably already know the hits, so these entries focus on Prince’s funkier deep cuts, plus the Prince-adjacent musicians and groups that made the scene.
+**Minneapolis Sound (n days):** Everybody finds funk through a door, and mine was Prince Rogers Nelson of Minneapolis, Minnesota. The Minneapolis sound is a lean, high-tempo evolution of 1970s funk-rock, fused with new wave and synth-pop, and often utilizing the early drum machines of the 1980s. You probably already know the hits, so these entries focus on Prince’s funkier deep cuts, plus the Prince-adjacent musicians and groups that made the scene.
 
 **Psychedelic Funk (n days):** Many people call this tradition P-Funk, and at the center of it is George Clinton and his Parliament-Funkadelic universe. In this book I use “psychedelic funk” as the broader label, because it lets me point to the sound and the ideas without implying every artist is part of that specific family tree. Psychedelic funk fuses funk’s groove with psychedelic music’s surreal colors and sounds, often leaning into alter egos, invented worlds, and hallucinatory storytelling in the spirit of late-60s psychedelic rock.
 
-**Funk Rock (n days):**
+**Funk Rock (n days):** Mixing rock and roll with funk rhythms goes back at least to Little Richard in the 1950s, and the fusion shows up throughout the 1960s and 1970s. In this book, though, most funk-rock entries come from the style's surge in popularity in the 1980s and 1990s.
 
 **Acid Jazz (n days):** Acid jazz is a late-1980s and 1990s offshoot that revives 1970s jazz-funk for sampling and club culture. It keeps dancers moving with tight grooves, hooks, and atmosphere, not extended improvisation.
 
-**Afrobeat (n days):** I could easily have chosen Afrofunk as the label...
+**Afrobeat (n days):**  Afrobeat was pioneered by Fela Kuti in the 1960s when he merged American soul and jazz with West African rhythms and traditions. The style quickly spread throughout West Africa, and in this book, Afrobeat is used as a broad label for funk rooted in Africa. I could have used “Afrofunk,” but Afrobeat is the more widely recognized term.
 
 ---
 2 sentences

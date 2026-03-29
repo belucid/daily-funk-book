@@ -9,15 +9,15 @@ year: 1974
 track length: 3m 33s
 genre: Deep Funk
 region: US - Illinois
-listening mission: Collins walked into a studio by chance, recorded the song in a single take, never signed a contract or got paid, and vanished from the music world for 40 years. What might a Eunice Collins album have sounded like?
-status: review
+listening mission: What might a Eunice Collins album have sounded like?
+status: complete
 writing theme: Tale of unusual recording and Deep funk rediscovery.
 ---
-Eunice Collins walked into a small Chicago studio on a whim and recorded this track in one take. She never signed a contract, never got paid, and then vanished from the record-making world. What might a full Eunice Collins album have sounded like?
+Eunice Collins walked into a small Chicago studio on a whim and recorded this track in a single take. She never signed a contract, never got paid, and then disappeared from the recording world.
 
-She called the song “What’s Your Hurry Baby,” but the studio owner retitled it “At the Hotel” without her input. The background singers refused to participate at first, so Eunice recruited others in the room to sing with her. The single-take and lo-fi recording gives it a distinctive, intimate sound.
+Eunice called her song “What’s Your Hurry Baby,” but the studio owner renamed it “At the Hotel” without her input. The background singers refused to participate at first, so Eunice recruited others in the room to sing with her. The single-take, lo-fi session gave the track its intimate, distinctive sound.
 
-Decades later, the track found a second life. Lion Babe built “Treat Me Like Fire” around its sample, and it even played over the end credits of an episode of Donald Glover's *Atlanta* on March 24, 2022.
+Decades later, the track found a second life when Lion Babe built “Treat Me Like Fire” around a sample of it. The new attention led to its use over the end credits of a March 24, 2022 episode of Donald Glover’s *Atlanta*, and to a 7-inch reissue for Record Store Day that same year.
 
 ---
 ## Research Notes

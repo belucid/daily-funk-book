@@ -2,7 +2,7 @@
 fileClass: funk-entry
 day:
 artist: Quincy Jones
-track: Sanford and Son Theme
+track: Sanford and Son Theme (The Streetbeater)
 album:
 label:
 year: 1973

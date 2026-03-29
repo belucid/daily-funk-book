@@ -16,7 +16,6 @@ genre:
   - Deep Funk
   - Electro Funk
   - Free Funk
-  - Funk Rock
   - Go-Go
   - Gospel Funk
   - Jazz-Funk
@@ -25,6 +24,7 @@ genre:
   - Soul Jazz
   - Latin Funk
   - Nu-Funk
+  - Funk Rock
 region:
   - Brazil
   - Benin
