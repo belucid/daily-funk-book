@@ -12,11 +12,11 @@ genre:
 region: US - California
 listening mission: This was originally cut at 120 BPM before the drummer insisted they slow it to 100. Listen to how much space that slower tempo creates. Could this groove work any faster?
 status: complete
-writing theme: Pays to Own the Record Label
+writing theme: It pays to Own the Record Label
 ---
 I can safely say that my introduction to funk was Prince, but it's also safe to say my gateway to jazz-funk was today's track, "Rise," by Herb Alpert. "Rise" reached No. 1 on the *Billboard* Hot 100 on this day in 1979, and it was my father’s favorite song. I must have heard it 500 times or more growing up. Though my siblings grew to hate the whole *Rise* album, I never tired of it. I've always understood my father's obsession, and apparently I'm in very good company. Notorious B.I.G. sampled "Rise" for his 1997 hit "Hypnotize" because he remembered hearing it everywhere in New York City as a ten-year-old.
 
-Herb Alpert's discography can seem almost absurdly large for a trumpet player, but the explanation is simple: he was the A in A&M Records. In September 1962, Alpert co-founded the label with Jerry Moss, the M in the name. A&M went on to enormous success with artists including the Police, Janet Jackson, Cat Stevens, Joe Cocker, Supertramp, and Bryan Adams. In 1989, Alpert and Moss sold the label to PolyGram for $500 million, then later sued the new owners for breach of contract and settled for another $200 million. Make sure you get your kids into trumpet lessons.
+Herb Alpert's discography can seem almost absurdly large for a trumpet player, but the explanation is simple: he was the A in A&M Records. In September 1962, Alpert co-founded the label with Jerry Moss, the M in the name. A&M went on to enormous success with artists including the Police, Janet Jackson, Cat Stevens, Joe Cocker, Supertramp, and Bryan Adams. In 1989, Alpert and Moss sold the label to PolyGram for $500 million, then later sued the new owners for breach of contract and settled for another $200 million. So make sure you get your kids into trumpet lessons.
 
 It is hard to pin down the exact number of Herb Alpert singles and albums on A&M, but between his solo records and those credited to Herb Alpert & the Tijuana Brass, there were hundreds. Twenty-eight of his albums reached the *Billboard* 200, and most of his catalog is on the label he helped build.
 

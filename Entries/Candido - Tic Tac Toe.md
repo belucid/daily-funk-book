@@ -14,7 +14,7 @@ listening mission: Can the congas play a melody? A conga player has 3-5 pitches 
 status: research
 writing theme:
 ---
-Long before TikTok, young people used to entertain themselves with Tic Tac Toe whenever there was anything at hand to write with and write on.
+Long before TikTok, young people used to entertain themselves with Tic Tac Toe if there was anything at hand to write with and write on.
 
 ---
 ## Research Notes

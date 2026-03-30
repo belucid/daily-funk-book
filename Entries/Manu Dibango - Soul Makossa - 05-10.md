@@ -17,7 +17,7 @@ writing theme: relationship between makossa and funk
 ---
 The famous "ma-ma-say, ma-ma-sa" chant from yesterday's "Wanna Be Startin' Somethin'" is borrowed from Manu Dibango's 1972 hit "Soul Makossa." The lyrical larceny led to a lawsuit by Dibango, which was settled for one million French francs. Another lawsuit followed in 2009 when Rihanna sampled Michael Jackson's song in "Don't Stop the Music."
 
-Makossa is urban dance music from Douala, Cameroon. The word comes from the Duala language: "kossa" means "dance," and "ma kossa" roughly translates to “I dance.” It's used as a shouted encouragement to keep the dancers moving.
+Makossa is urban dance music from Douala, Cameroon. The word comes from the Duala language where "kossa" means "dance," and "ma kossa" roughly translates to “I dance.” It's used as a shouted encouragement to keep the dancers moving.
 
 The style took shape in the 1950s and 1960s and then evolved in the 1970s by absorbing American soul and funk. On “Soul Makossa,” you can hear both at once: funk in the groove, guitar textures, and horn-led arrangement; makossa in the layered rhythms and vocal chants.
 

@@ -15,7 +15,7 @@ listening mission: Listen to what Lou does just five minutes in when he swaps wo
 status: complete
 writing theme: Not fitting expectations
 ---
-Lou Bond (born Ronald Edward Lewis) didn't fit in Stax’s world in 1974. He was too eclectic for the label’s distinctive soul sound. It's still hard to name what he was doing.
+Lou Bond (born Ronald Edward Lewis) didn't fit in Stax’s world in 1974. He was too eclectic for the label’s distinctive soul sound, and it's still hard to name exactly what he was doing.
 
 The cover of his only album, *Lou Bond*, dares you to decide what you’re about to hear. An old blues man? He's too young. A folk singer? Too Black to be filed there. Is it soul or psychedelic funk? Jazz, or folk music from a Black songwriter on a Southern soul label? It’s all of these.
 
