@@ -12,6 +12,7 @@ Here is an illustrative, not exhaustive, list of the kind of mega-hits I mean:
 - "Pick Up the Pieces", Average White Band (1974)
 - "Lady Marmalade", Labelle (1974)
 - "Tell Me Something Good", Chaka Khan & Rufus (1974)
+- "Kung Fu Fighting", Carl Douglas (1974)
 - "Shining Star", Earth, Wind & Fire (1975)
 - "Love Rollercoaster", Ohio Players (1975)
 - "Low Rider", War (1975)

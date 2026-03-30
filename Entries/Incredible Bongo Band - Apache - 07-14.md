@@ -18,9 +18,9 @@ There are plenty of strange stories in funk history, but the Incredible Bongo Ba
 
 Start with the drum and percussion break. It helped make "Apache" one of the most sampled recordings ever, appearing in more than 800 tracks. DJ Kool Herc called it the national anthem of hip-hop. The mystery is that even the musicians involved do not know who played drums on the famous break. The track was cut across two sessions, one with Jim Gordon on drums and another with Kat Hendrikse, and no one is certain which take made the final master
 
-Then comes the next twist. The Incredible Bongo Band was not really a band at all. It was assembled by MGM Records executive Michael Viner from a rotating cast of Los Angeles session players. It was originally created to record music for the 1972 B-movie *The Thing with Two Heads*, built around the bizarre premise of a racist white man's head being transplanted onto a Black man’s body. Even the group's personnel list has a mythic quality, with Ringo Starr appearing on its second album.
+Now add the next twist. The Incredible Bongo Band was not really a band at all. It was assembled by MGM Records executive Michael Viner from a rotating cast of Los Angeles session players. The project was created to record music for the 1972 B-movie *The Thing with Two Heads*, built around the bizarre premise of a racist white man's head being transplanted onto a Black man’s body. Even the group's personnel list has a mythic quality, with Ringo Starr appearing on its second album.
 
-Finally, back to one of those drummers, Jim Gordon, who was born on this day in 1945. Gordon's life took a tragic turn when he murdered his mother during a psychotic episode linked to schizophrenia. He died while incarcerated in 2023, which adds a sad coda to a song that has been powering hip-hop for forty years.
+Finally, let's go back to one of those drummers, Jim Gordon, who was born on this day in 1945. Gordon's life took a tragic turn when he murdered his mother during a psychotic episode linked to schizophrenia. He died while incarcerated in 2023, which adds a sad coda to a song that has been powering hip-hop for forty years.
 
 ---
 ## Research Notes

@@ -123,7 +123,7 @@ The current genre is: **Deep Funk**
 
 2. **Classic Funk** — Dyke & The Blazers are undeniably a classic funk act (1965-1971, major label distribution, chart hits, concert tours). The band fits the classic era perfectly. However, "Moon" specifically was never part of that commercial pipeline, which makes Deep Funk the better label for this particular track.
 
-3. **P-Funk / Psychedelic Funk** — At 6+ minutes, if "Moon" has any psychedelic or trippy qualities in its groove (hard to confirm without detailed listening), this could be a secondary consideration. But without evidence of psychedelic elements, this is speculative.
+3. **Psychedelic Funk** — At 6+ minutes, if "Moon" has any psychedelic or trippy qualities in its groove (hard to confirm without detailed listening), this could be a secondary consideration. But without evidence of psychedelic elements, this is speculative.
 
 **Recommendation:** Keep Deep Funk. The track’s release history is the defining feature.
 

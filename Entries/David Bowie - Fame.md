@@ -8,7 +8,7 @@ label: RCA Records
 year: "1975"
 track length: 4m 12s
 genre:
-  - Funk Rock
+  - Avant-Funk
 region:
   - US - New York
 listening mission:

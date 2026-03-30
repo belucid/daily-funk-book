@@ -10,15 +10,15 @@ track length: 7m 14s
 genre:
   - Classic Funk
 region: US - Northeast
-listening mission: The iconic opening bass line is played with a pick and uses both phaser and echo effects. Can you hear where the phaser ends and the echo begins?
-status: review
+listening mission: The iconic opening bass line is played with a pick and uses both phaser and echo effects. Can you hear the phaser and echo effects separately?
+status: complete
 writing theme: The bassist who wrote the opening
 ---
-When you listen to today's track in its entirety, the lyrics offer a damning list of what people will do for money: lie, cheat, steal from their own mothers. Yet the chorus is so infectious that it became the unironic opening theme for NBC's *The Apprentice*, a show celebrating wealth and greed.
+When you listen to today's track in its entirety, the lyrics offer a damning list of what people will do for money: lie, cheat, and steal from their own mothers. Yet the chorus is so infectious that it became the unironic opening theme for NBC's *The Apprentice*, a show celebrating wealth and greed.
 
-Anthony Jackson was just 21 years old when he showed up for his session gig as a bassist at Sigma Sound Studios in Philadelphia. He brought a pick and a wah-wah pedal, an unusual choice for a bassist at the time that ended up earning him a writing credit on the track. The studio had just bought a new Eventide phaser, and eager to try it out, engineer Joe Tarsia recorded the bass with and without the effect. Producer Kenny Gamble preferred the phased version and added an echo to the mix. The end result became one of the most sampled basslines in history.
+Anthony Jackson was just 21 years old when he showed up for his session gig as a bassist at Sigma Sound Studios in Philadelphia. He brought a pick and a wah-wah pedal, an unusual choice for a bassist at the time which earned him a writing credit on the track. The studio had recently purchased a new Eventide phaser, and eager to try it out, engineer Joe Tarsia recorded the bass with and without the effect. Producer Kenny Gamble preferred the phased version and added an echo to the mix. The end result opens the song and became one of the most sampled basslines in history.
 
-Jackson died on this day in 2025, but not before leaving that mark on this song and the over 100 tracks that sampled it.
+Jackson died on this day in 2025, but not before leaving his mark on this song and the over 100 tracks that sampled it.
 
 ---
 ## Research Notes

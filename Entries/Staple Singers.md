@@ -1,8 +1,8 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
-track: I'll Take You There
+artist:
+track:
 album:
 label:
 year:
@@ -11,10 +11,10 @@ genre:
   - Gospel Funk
 region:
 listening mission:
-status: research
+status: stub
 writing theme:
 ---
 
 ---
 ## Research Notes
-![[IMG_0673.jpeg]]
+

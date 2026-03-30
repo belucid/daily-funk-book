@@ -7,10 +7,10 @@ const targets = {
   "Soul Jazz": 40,
   "Deep Funk": 40,
   "Acid Jazz": 20,
-  "P-Funk / Psychedelic Funk": 20,
+  "Psychedelic Funk": 20,
   "Funk Rock": 20,
   "Minneapolis Sound": 20,
-  "Afrobeat / Afrofunk": 20,
+  "Afrobeat": 20,
   "Latin Funk": 20,
   "Free Funk": 3,
   "Go-Go": 3,
@@ -24,7 +24,7 @@ const targets = {
 const tiers = [
   { name: "Focus", min: 60, genres: ["Classic Funk", "Jazz-Funk"] },
   { name: "Substantial", min: 40, genres: ["Soul Jazz", "Deep Funk"] },
-  { name: "Coverage", min: 20, genres: ["Acid Jazz", "P-Funk / Psychedelic Funk", "Funk Rock", "Minneapolis Sound", "Afrobeat / Afrofunk", "Latin Funk"] },
+  { name: "Coverage", min: 20, genres: ["Acid Jazz", "Psychedelic Funk", "Funk Rock", "Minneapolis Sound", "Afrobeat", "Latin Funk"] },
   { name: "Some Coverage", min: 3, genres: ["Free Funk", "Go-Go", "Country Funk", "Gospel Funk", "Avant-Funk", "Electro Funk", "Nu-Funk"] },
 ];
 

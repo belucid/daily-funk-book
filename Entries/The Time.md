@@ -1,20 +1,20 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
-track: I'll Take You There
+artist: The Time
+track:
 album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
+  - Minneapolis Sound
 region:
 listening mission:
-status: research
+status: stub
 writing theme:
 ---
 
 ---
 ## Research Notes
-![[IMG_0673.jpeg]]
+

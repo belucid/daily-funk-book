@@ -1,15 +1,16 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
-track: I'll Take You There
+artist: The O'Jays
+track: Survival
 album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
+  - Classic Funk
 region:
+  - US - Northeast
 listening mission:
 status: research
 writing theme:
@@ -17,4 +18,4 @@ writing theme:
 
 ---
 ## Research Notes
-![[IMG_0673.jpeg]]
+
