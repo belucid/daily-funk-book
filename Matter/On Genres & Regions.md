@@ -8,11 +8,11 @@ I draw the classic era as roughly 1968 through 1977. These years capture funk’
 
 **Jazz Funk (n days):** Often filed under jazz fusion, jazz funk was the most commercially visible form of jazz in the 1970s. In this book I define it three ways: by the players, by the musical traits, and by the era. 
 
-By the players, jazz funk is funk played by jazz musicians whose earlier careers were in more traditional jazz styles. Many jazz listeners heard this shift as a sellout when 1950s and 1960s favorites chased a bigger audience and a harder backbeat.
+By the players, jazz funk is funk played by jazz musicians whose earlier careers were in more traditional jazz styles. Many jazz listeners heard this shift as a sellout when their favorite artists from the 1950s and 1960s chased a bigger audience and a harder backbeat.
 
-By the music, jazz funk keeps key jazz habits inside a funk groove: longer track lengths, room for extended improvisation, and a rhythm section built to support soloists. Compared with classic funk, it usually leans less on vocal hooks and short radio-friendly run times, and it often includes covers of contemporary pop songs.
+By the music, jazz funk keeps key jazz habits inside a funk groove: longer track lengths, room for extended improvisation, and a rhythm section built to support soloists. Compared with classic funk, it usually leans less on vocal choruses and short radio-friendly run times, and it often includes covers of contemporary pop songs.
 
-By the era, jazz funk is most at home in the mid-1970s. Earlier “funky jazz” tends to sit closer to soul jazz, and later jazz fusion often smooths out and moves away from the grit and pocket that make it feel like jazz and funk meeting in the same smoke-filled room.
+By the era, jazz funk is most at home in the mid-1970s. Earlier “funky jazz” sits closer to soul jazz, and after the 1970s jazz fusion moved away from the grit and pocket that make it feel like jazz and funk meeting in the same smoke-filled room.
 
 **Soul Jazz (n days):** Soul jazz is one of the clearest bridges between hard bop jazz and funk. Emerging in the early 1960s, it kept jazz improvisation and blues harmonies but shifted the rhythm away from the swung feel toward a more danceable groove to reach listeners beyond the jazz club. The sound was often built around smaller groups, especially organ trios and quartets. The bass and drums locked in to an increasingly syncopated pocket, leaving the organ or sax to carry the melody and solos.
 
@@ -26,24 +26,17 @@ In this book, soul jazz is mostly used to label the earlier, smaller-ensemble si
 
 **Psychedelic Funk (n days):** Many people call this tradition P-Funk, and at the center of it is George Clinton and his Parliament-Funkadelic universe. In this book I use “psychedelic funk” as the broader label, because it lets me point to the sound and the ideas without implying every artist is part of that specific family tree. Psychedelic funk fuses funk’s groove with psychedelic music’s surreal colors and sounds, often leaning into alter egos, invented worlds, and hallucinatory storytelling in the spirit of late-60s psychedelic rock.
 
-**Funk Rock (n days):** Mixing rock and roll with funk rhythms goes back at least to Little Richard in the 1950s, and the fusion shows up throughout the 1960s and 1970s. In this book, though, most funk-rock entries come from the style's surge in popularity in the 1980s and 1990s.
+**Funk Rock (n days):** Mixing rock and roll with funk rhythms goes back at least to Little Richard in the 1950s, and the fusion shows up throughout the 1960s and 1970s. In this book, though, most funk rock entries come from the style's surge in popularity in the 1980s and 1990s.
 
 **Acid Jazz (n days):** Acid jazz is a late-1980s and 1990s offshoot that revives 1970s jazz-funk for sampling and club culture. It keeps dancers moving with tight grooves, hooks, and atmosphere, not extended improvisation.
 
 **Afrobeat (n days):**  Afrobeat was pioneered by Fela Kuti in the 1960s when he merged American soul and jazz with West African rhythms and traditions. The style quickly spread throughout West Africa, and in this book, Afrobeat is used as a broad label for funk rooted in Africa. I could have used “Afrofunk,” but Afrobeat is the more widely recognized term.
 
----
-2 sentences
+**Free Funk (n days):** When adventurous avant-garde jazz players like Ornette Coleman and James “Blood” Ulmer pushed into funk, the result was the productive contradiction known as free funk.
 
----
+**Go-Go (n days):** More than most of these genres, go-go is defined by a specific time and place: late 1970s and early 1980s Washington, D.C. Its signature is a conga-and-cowbell-driven beat built and call and response with the crowd
 
-**Free Funk (n days):**
-https://en.wikipedia.org/wiki/Free_funk
-
-**Go-Go (n days):**
-https://en.wikipedia.org/wiki/Go-go
-
-**Country Funk (n days):**
+**Country Funk (n days):** Like most genres, country funk was named after the fact, but this one is an extreme case. The 2012 crate-digger compilation _Country Funk, 1969-1975_ effectively named the genre and spotlighted the core fusion tracks that define it.
 
 **Gospel Funk (n days):**
 

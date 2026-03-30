@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 03-27
 artist: Prince
 track: Cloreen Bacon Skin
 album: Crystal Ball
@@ -10,10 +10,17 @@ track length: 15m 36s
 genre:
   - Minneapolis Sound
 region: US - Minnesota
-listening mission:
-status: research-review
+listening mission: Prince keeps telling drummer Morris Day to “keep that pocket.” Each time he says it, listen to Morris’ drums. Is Morris actually slipping, or is Prince just messing with him?
+status: review
 writing theme: Humor in funk, too indulgent to release this given the length and the strip down nature of drums and bass and spoken word
 ---
+At fifteen-plus minutes, today’s track is one of the longest official Prince releases, and also one of the leanest. It is just Prince on bass and voice, and Morris Day on drums, cut at Sunset Sound in Hollywood on March 27, 1983. Prince does all the talking. Morris Day stays silent. It’s got comedic moments and a big, fat, funky beat, but can you make it through fifteen-plus minutes of this stripped-down sound? The real question is why Prince decided listeners would want this on the _Crystal Ball_ triple album.
+
+Prince’s comedy here comes through his recurring "Jamie Starr" alter ego: a barbershop tough-guy voice, an imitation of older men, and maybe even a trace of his father, John L. Nelson.
+
+Everything you hear here was improvised, including the name “Cloreen” and the unflattering “Bacon Skin” tag. This kind of on-the-spot jamming was a fundamental part of Prince’s creative process. You can hear its afterlife too. Morris’ drums resurface on “Irresistible Bitch,” and “Cloreen Bacon Skin” is later self-sampled in “Soul Psychodelicide.”
+
+Dirty secret time: this is my favorite Prince song.
 
 ---
 ## Research Notes
@@ -25,8 +32,7 @@ writing theme: Humor in funk, too indulgent to release this given the length and
 
 ### Open Research Questions
 
-No open research questions found in the entry.
-
+open: years for Irresistible Bitch and Soul Psychodelicide.
 ### Writing Theme Suggestions
 
 The current `writing theme` is: "Humor in funk, too indulgent to release this given the length and the strip down nature of drums and bass and spoken word"

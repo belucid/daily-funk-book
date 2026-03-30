@@ -51,4 +51,5 @@ region:
   - US - Southeast
   - US - Texas
   - US - West
+  - Japan
 ---
