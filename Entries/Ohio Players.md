@@ -1,14 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
+artist: Ohio Players
 track:
 album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
+  - Classic Funk
 region:
 listening mission:
 status: stub

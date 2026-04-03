@@ -1,14 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
+artist: Lee Fields
 track:
 album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
+  - Nu-Funk
 region:
 listening mission:
 status: stub

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 01 - 02
+day: 01-02
 artist: Eric Burdon & War
 track: Spill the Wine
 album: Eric Burdon Declares "War"
@@ -8,9 +8,9 @@ label: MGM Records
 year: 1970
 track length: 4m 51s
 genre:
-  - Classic Funk
+  - Psychedelic Funk
 region: US - California
-listening mission: If you listen closely you'll hear a woman speaking Spanish in the background, and a flute solo threading through the groove.
+listening mission: Listen to the flute answering Burdon’s vocal. Is it filling the space where background singers might have been in an earlier style?
 status: complete
 writing theme:
 ---

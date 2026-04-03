@@ -14,7 +14,7 @@ listening mission: Prince keeps telling drummer Morris Day to “keep that pocke
 status: complete
 writing theme: Humor in funk, too indulgent to release this given the length and the strip down nature of drums and bass and spoken word
 ---
-At fifteen-plus minutes, today’s track is one of the longest official Prince releases, and also one of the leanest. It is just Prince on bass and Morris Day on drums, alone at Sunset Sound in Hollywood on March 27, 1983. Prince does all the talking. Morris Day stays silent. It’s got comedic elements and a fat, funky beat, but can you make it through fifteen-plus minutes of this stripped-down sound? The real question is why Prince decided listeners would want this on the _Crystal Ball_ triple album.
+At fifteen-plus minutes, today’s track is one of the longest official Prince releases, and also one of the leanest. It is just Prince on bass and Morris Day on drums, alone at Sunset Sound in Hollywood on March 27, 1983. Prince does all the talking. Morris Day stays silent. It has comedic elements and a fat, funky beat, but can you make it through all fifteen-plus minutes of this stripped-down sound? The real question is why Prince decided listeners would want this on the _Crystal Ball_ triple album.
 
 Prince’s comedy comes through his recurring "Jamie Starr" persona, an imitation of the older men he heard at the barbershop growing up.
 

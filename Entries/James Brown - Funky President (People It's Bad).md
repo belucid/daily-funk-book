@@ -1,17 +1,18 @@
 ---
 fileClass: funk-entry
 day:
-artist: The Time
-track:
+artist: James Brown
+track: Funky President (People It's Bad)
 album:
 label:
 year:
 track length:
 genre:
-  - Minneapolis Sound
+  - Classic Funk
 region:
+  - US - Southeast
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

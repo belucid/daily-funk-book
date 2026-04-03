@@ -15,7 +15,7 @@ listening mission: Khruangbin first cut this in 2015 as “People Everywhere (St
 status: complete
 writing theme:
 ---
-*The Universe Smiles Upon You ii* is a deliberate echo of Khruangbin's 2015 debut album, *The Universe Smiles Upon You*. The band returned a decade later to record it from January 4 to 6, 2025, in the same Central Texas barn where they have made most of their music. As a chill, funk-forward jam band, these tracks are never played the same way twice, but re-recording them was a way to celebrate the band’s evolution and to hear how a decade of playing together affects the same set of songs. The release landed exactly ten years after the original, and the recording sessions were staged across the same dates ten years apart.
+*The Universe Smiles Upon You ii* is a deliberate echo of Khruangbin's 2015 debut album, *The Universe Smiles Upon You*. The band returned a decade later to record it from January 4 to 6, 2025, in the same Central Texas barn where they have made most of their music. As a jam band, these tracks are never played the same way twice, but re-recording them was a way to celebrate the band’s evolution and to hear how a decade of playing together affects the same set of songs. The release landed exactly ten years after the original, and the recording sessions were staged across the same dates ten years apart.
 
 Khruangbin recorded this live, with the trio in a circle on the dirt floor of a corrugated tin barn. There is very little isolation between them, and no condensers on the microphones. They sometimes joke that the barn is the fourth member of the band. Can you hear the room? If so, what does it add?
 

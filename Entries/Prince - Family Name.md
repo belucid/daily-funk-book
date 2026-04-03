@@ -1,14 +1,16 @@
 ---
 fileClass: funk-entry
 day:
-artist: Miles Davis
-track: On the Corner
-album: On the Corner
+artist: Prince
+track: Family Name
+album:
 label:
-year: 1972
+year:
 track length:
 genre:
+  - Psychedelic Funk
 region:
+  - US - Minnesota
 listening mission:
 status: research
 writing theme:
@@ -16,3 +18,4 @@ writing theme:
 
 ---
 ## Research Notes
+

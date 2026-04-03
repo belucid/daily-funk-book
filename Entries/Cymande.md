@@ -1,17 +1,17 @@
 ---
 fileClass: funk-entry
 day:
-artist: Prince
-track: Computer Blue
+artist: Cymande
+track:
 album:
 label:
 year:
 track length:
 genre:
-  - Minneapolis Sound
+  - Afrobeat
 region:
 listening mission:
-status: research
+status: stub
 writing theme:
 ---
 

@@ -1,14 +1,13 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
+artist: Bohannon
 track:
 album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
 region:
 listening mission:
 status: stub

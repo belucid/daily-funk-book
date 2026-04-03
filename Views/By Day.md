@@ -1,4 +1,3 @@
-# By Day
 
 ```dataviewjs
 const pages = dv.pages('"Daily Funk Project/Entries"');

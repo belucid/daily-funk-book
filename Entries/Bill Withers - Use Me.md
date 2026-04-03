@@ -10,11 +10,15 @@ track length: 3m 45s
 genre:
   - Classic Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: The song has only two chords. What's doing the work that harmony usually does?
+status: review
 writing theme:
 ---
-It's not lost on me that one of the defining characteristics of funk I listed in the preface was less focus on the quality of the vocals, yet the artist behind today's track, Bill Withers, has an absolutely fantastic soul voice. So let me be clear, having a great voice still doesn't hurt.
+Bill Withers assembled toilets for Boeing 747s by day and wrote songs at night. Even after “Ain’t No Sunshine” became a hit, he couldn’t bring himself to quit his day job. Withers said the feeling of being used started with his employer paying him $3 an hour, but this song channels that into something more intimate.
+
+The rhythm section came in fully locked from Charles Wright’s Watts 103rd Street Rhythm Band. They rehearsed in drummer James Gadson’s garage, then cut the whole *Still Bill* album in eight hours for $7,500. The clavinet riff that defines “Use Me” started with Ray Jackson noodling on the keys during rehearsal, one of those magical accidents. By one account, Gadson played the groove continuously for about five minutes while Withers came up with the idea for the song. All the members of the band are credited as co-producers on the album: Jackson, Benorce Blackmon, Melvin Dunlap, and Gadson.
+
+And yes, even with a voice that good, this is funk. Funk does not require lesser vocals. It just does not need the singer to dominate the song. Withers sits tight in the groove and still sounds like a generational soul vocalist.
 
 ---
 ## Research Notes
@@ -22,6 +26,14 @@ It's not lost on me that one of the defining characteristics of funk I listed in
 ### Open Research Questions
 
 No open research questions found in the entry.
+
+### Fact-Check Notes (2026-04-02)
+
+1. **"he was too nervous to quit his day job"** — Sources consistently say Withers *refused* to quit because he considered the music business unstable and wanted a fallback, not because of nervousness. The distinction matters: pragmatic caution, not anxiety. The research notes (Artist section) phrase it as "believing the music industry was unstable." Consider changing "too nervous" to "refused" or "too cautious." — Sources: [Washington Post](https://www.washingtonpost.com/arts-entertainment/2020/04/04/bill-withers-aint-no-sunshine/), [Far Out Magazine](https://faroutmagazine.co.uk/bill-withers-isolated-vocals-aint-no-sunshine/)
+
+2. **"Disguised as a love song, 'Use Me' came from being paid $3 an hour and feeling used."** — The $3/hour detail and employer connection are verified from the 2009 *Still Bill* documentary. However, in the same documentary Withers said the song "was written from a universal point of view rather than a single person." The song's lyrics are explicitly about a romantic/sexual relationship where both parties use each other, with friends and family disapproving. "Disguised as a love song" implies the employer is the real subject, but it's more accurate to say the workplace feeling fed into the song's broader emotional territory. Consider reframing, e.g.: "Withers said the feeling of being used started with his employer, paying him $3 an hour, but the song channels that into something more intimate." — Sources: [TikTok/@slash citing 2009 Still Bill documentary](https://www.tiktok.com/@slash/video/7332032390920965418), [American Songwriter](https://americansongwriter.com/the-story-and-meaning-behind-use-me-bill-withers-funky-look-at-the-power-dynamics-of-a-relationship/)
+
+3. All other factual claims in the entry body verified as accurate: Boeing toilet seats, the Watts 103rd rhythm section, Gadson's garage rehearsals, eight-hour session for $7,500, Ray Jackson's clavinet noodling.
 
 ### Writing Theme Suggestions
 

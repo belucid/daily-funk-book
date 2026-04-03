@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 11-04
 artist: Tower of Power
 track: Squib Cakes
 album: Back to Oakland
@@ -14,6 +14,7 @@ listening mission:
 status: research-review
 writing theme:
 ---
+**November 4 (11-04)** — David Garibaldi's birthday (born November 4, 1946). Garibaldi's drumming is the defining feature of this track and the "Oakland Stroke" sound broadly. **No entry currently assigned to this date.** Strong choice. Source: https://en.wikipedia.org/wiki/David_Garibaldi_(musician)
 
 ---
 ## Research Notes

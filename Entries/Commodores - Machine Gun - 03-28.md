@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 03-28
 artist: Commodores
 track: Machine Gun
 album: Machine Gun
@@ -10,10 +10,15 @@ track length: 2m 43s
 genre:
   - Classic Funk
 region: US - Southeast
-listening mission:
-status: research-review
+listening mission: It was originally called “The Ram.” Motown founder Berry Gordy said it sounded like machine guns, and the new title stuck. What would you name this instrumental?
+status: complete
 writing theme: instrumental track from a band that became know for its vocalists
 ---
+Milan Williams was born on March 28, 1948, in Okolona, Mississippi. He wrote “Machine Gun” and played the clavinet, synth bass, and lead synth on the song. Williams built the track’s signature low end on keys, providing an early example of a funk hit where the bassline comes from a keyboard part rather than a bass guitar. It foreshadows the synth-bass era years before electro funk made it a defining sound.
+
+“Machine Gun” was the Commodores’ first hit, but it created an odd problem. The song got famous, but the band stayed faceless. Commodores trumpeter William King told an interviewer, “Everybody knew ‘Machine Gun’ but they didn’t know the Commodores. That was because it was an instrumental.” The album, also named *Machine Gun*, contains ten uptempo funk tracks with no ballads to showcase the band’s vocal chops. In response, the band leaned harder into ballads on later albums, which eventually made them superstars as a group and as solo artists.
+
+There is often tension between songs built around groove and songs built to spotlight vocal talent. The Commodores went on to make funk staples like “Brick House,” but many of their biggest hits were ballads. Lionel Richie’s post-Commodores solo work is amazing, but it’s not funky.
 
 ---
 ## Research Notes
@@ -24,7 +29,25 @@ writing theme: instrumental track from a band that became know for its vocalists
 
 ### Open Research Questions
 
-No open research questions were found in the existing notes.
+**What was William King's role in the Commodores at the time of this recording?**
+
+William King (born January 30, 1949) was a founding member of the Commodores, primarily playing **trumpet**. He also played guitar, synthesizer, flute, and congas/percussion across the band's career, and served as the group's **choreographer**, designing their coordinated stage routines. On "Machine Gun" specifically, King's trumpet contributed to the horn section alongside Lionel Richie's saxophone, delivering what one source describes as "precise, machine-like stabs and swells, evoking mechanical efficiency amid the organic funk." King was not a lead vocalist but contributed backing vocals. He is one of only two original members (with Walter Orange) who continued performing as the Commodores into the 2020s, and remains active with the current touring lineup. — Sources: [William King (singer), Wikipedia](https://en.wikipedia.org/wiki/William_King_(singer)); [The Commodores, Encyclopedia of Alabama](https://encyclopediaofalabama.org/article/the-commodores/); [Commodores, Wikipedia](https://en.wikipedia.org/wiki/Commodores)
+
+**Other than Lionel Richie, who are considered the great singers in the Commodores? Who went on to solo success?**
+
+The Commodores had three primary lead vocalists across their history:
+
+1. **Lionel Richie** (1968-1982): The most famous, he sang lead on ballads like "Easy," "Still," and "Three Times a Lady." His solo career was enormously successful, producing hits like "All Night Long," "Hello," and "Dancing on the Ceiling." By far the most commercially successful solo career of any Commodore.
+
+2. **Walter "Clyde" Orange** (joined 1972, replacing the original vocalist): Drummer and co-lead vocalist who handled the **funkier, more uptempo material**. He sang lead on "Brick House" (#5 Pop, #4 R&B, 1977) and wrote and sang "Nightshift" (#3 Pop, #1 R&B, 1985), which won the Commodores their only Grammy Award (Best R&B Vocal Performance). Orange did not pursue a significant solo career, instead remaining with the Commodores as a touring and recording member through 2024. — Sources: [Commodores, Wikipedia](https://en.wikipedia.org/wiki/Commodores); [Happy Birthday Walter Orange, SoulTracks](https://soultracks.com/birthday-walter-orange-commodores/)
+
+3. **J.D. Nicholas** (joined 1984): Replaced Richie as co-lead vocalist. He sang on the Grammy-winning "Nightshift" and remained with the band through 2024. His success was entirely within the Commodores rather than as a solo artist. — Source: [Commodores, Wikipedia](https://en.wikipedia.org/wiki/Commodores)
+
+4. **Skyler Jett** briefly served as lead vocalist (1982-1983) between Richie's departure and Nicholas's arrival. — Source: [The Commodores, Encyclopedia of Alabama](https://encyclopediaofalabama.org/article/the-commodores/)
+
+**Thomas McClary** (lead guitarist, 1968-1984) also had vocals on some tracks and pursued a solo career after leaving. He signed with Motown and released a self-titled album in 1984 featuring the single "Thin Walls," which peaked at #57 on the Billboard R&B chart. He later pivoted to gospel music, relocating to Florida and releasing *A Revolution Not a Revival* in 2008. He published a memoir, *Rock and Soul*, in 2017. — Source: [Thomas McClary, Wikipedia](https://en.wikipedia.org/wiki/Thomas_McClary_(musician))
+
+**Summary for the entry's theme:** The irony is sharp. The Commodores' first hit was a pure instrumental, yet the band's three greatest assets were its singers (Richie, Orange, Nicholas). Orange is the overlooked powerhouse: he sang "Brick House" and wrote/sang "Nightshift," arguably the two biggest Commodores tracks after "Easy." No member other than Richie achieved major solo success.
 
 ### Writing Theme Suggestions
 

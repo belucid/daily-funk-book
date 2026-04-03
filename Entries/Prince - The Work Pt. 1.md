@@ -1,17 +1,18 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
-track:
+artist: Prince
+track: The Work Pt. 1
 album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
+  - Minneapolis Sound
 region:
+  - US - Minnesota
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

@@ -1,17 +1,18 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
-track:
-album:
+artist: Prince
+track: Face Down
+album: Emancipation
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
+  - Minneapolis Sound
 region:
+  - US - Minnesota
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

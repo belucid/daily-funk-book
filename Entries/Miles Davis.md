@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: Miles Davis
 track:
-album: Bitches Brew
+album: On the Corner
 label:
 year: 1972
 track length:

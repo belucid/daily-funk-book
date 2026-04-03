@@ -1,18 +1,19 @@
 ---
 fileClass: funk-entry
 day:
-artist: The Headhunters
-track: God Made Me Funky
-album:
+artist: Azymuth
+track:
+album: Fênix
 label:
 year:
 track length:
 genre:
 region:
 listening mission:
-status: research
+status: stub
 writing theme:
 ---
 
 ---
 ## Research Notes
+

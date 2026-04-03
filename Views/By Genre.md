@@ -1,4 +1,3 @@
-# By Genre
 
 ```dataviewjs
 const targets = {

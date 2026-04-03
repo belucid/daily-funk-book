@@ -11,15 +11,15 @@ genre:
   - Free Funk
 region:
   - US - New York
-listening mission: I've labeled today's track as free funk. What sounds most free to you?
-status: review
+listening mission: I've labeled today's song as free funk. What sounds most free to you?
+status: complete
 writing theme:
 ---
-"NTU" is a Bantu word for "unity in all things," and the "Troop" in the band's title included the audience, who were invited to bring their own percussion to concerts to participate in the music-making. The band was often deliberately free of chorded instruments (no keys, no guitar), giving Bartz maximum freedom to play any note on the sax at any time without clashing. 
+“NTU” is a Bantu word for “unity in all things,” and the “Troop” in the band’s title included the audience. People were invited to bring their own percussion to concerts to participate in the music-making. The band was often deliberately free of chorded instruments (no keys, no guitar), giving Bartz maximum freedom to play any note on the sax at any time without clashing.
 
-Gary Bartz was born on this day in 1940. Even with that democratic spirit, Bartz was not running a casual drum circle. He was steeped in jazz history and craft. His father ran a jazz club in Baltimore called the North End Lounge, and Bartz said he committed to jazz after hearing Charlie Parker as a kid. True to his mission, he played with Charles Mingus and Art Blakey before forming NTU Troop with vocalist Andy Bey. Miles Davis came calling soon after.
+Gary Bartz, born on this day in 1940, infused his music with a democratic spirit. That didn’t mean he was running a casual drum circle. Bartz was steeped in jazz history and craft. His father ran a jazz club in Baltimore called the North End Lounge, and Bartz said he committed to jazz after hearing Charlie Parker as a kid. True to his mission, he played with Charles Mingus and Art Blakey before forming NTU Troop with vocalist Andy Bey. Miles Davis came calling soon after.
 
-The title of today's track, "Uhuru Sasa," means "freedom now" in Swahili and it has a double meaning. In addition to the social and political message, the title represents the band's deliberate attempt to strip away the harmonic constraints of Western music. With no chord progressions guiding the way, Bartz's saxophone is free to go anywhere.
+The title of today’s track, “Uhuru Sasa,” means “freedom now” in Swahili. Beyond the social and political message, it also represents the band’s deliberate attempt to strip away the harmonic constraints of Western music. With no chord progressions guiding the way, Bartz’s saxophone is free to go anywhere.
 
 ---
 ## Research Notes

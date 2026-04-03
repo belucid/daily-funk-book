@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 03-30
 artist: Bill Withers
 track: Lonely Town, Lonely Street
 album: Still Bill
@@ -11,14 +11,14 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: This opens the album that gave us “Lean on Me.” Listen to how the rhythm section pushes Withers into a different feel here.
-status: review
+status: complete
 writing theme:
 ---
-Bill Withers' soul standard "Lean on Me" is so well known that, like Otis Redding with "(Sittin' On) The Dock of the Bay," he can feel synonymous with his biggest hit. But even at his most soulful, Withers was not shy about dropping a few funky burners onto his 1970s records.
+Bill Withers' soul standard "Lean on Me" is so well known that, like Otis Redding with "(Sittin' On) The Dock of the Bay," he has become synonymous with his biggest hit. But even at his most soulful, Withers was not shy about dropping a few funky burners onto his 1970s records.
 
-The rhythm section on today's track is the muscle from Charles Wright & the Watts 103rd Street Rhythm Band: James Gadson, Melvin Dunlap, Benorce Blackmon, and Ray Jackson. This was a fully formed, hit-making funk unit, and from the first track on *Still Bill*, "Lonely Town, Lonely Street," you can hear the shift in Withers' sound. This album carries a different feel than the earlier, more pure soul of *Just As I Am*, backed by a Booker T. Jones-led ensemble of Stax players.
+The rhythm section on today's track is the muscle from Charles Wright & the Watts 103rd Street Rhythm Band: James Gadson, Melvin Dunlap, Benorce Blackmon, and Ray Jackson. This was a fully formed, hit-making funk unit, and from the first track on *Still Bill*, "Lonely Town, Lonely Street," you can hear the shift in Withers' sound. This album carries a more funk infused feel compared to the earlier, more pure soul of *Just As I Am*, which was backed by a Booker T. Jones-led ensemble of Stax players.
 
-We lost one of my favorite voices of all time, Bill Withers, on this day in 2020. I don't know when or where you're reading this, but I'm tempted to say there ain't no sunshine today because he's gone.
+We lost one of my favorite voices, Bill Withers, on this day in 2020. I don't know when or where you're reading this, but I'm tempted to say there ain't no sunshine today because he's gone.
 
 ---
 ## Research Notes

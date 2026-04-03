@@ -1,4 +1,4 @@
-I intentionally avoided including the biggest, most unavoidable funk hits. Not because they are not incredible songs, but because most readers already know them, even if they do not think of themselves as “funk listeners.” This book is meant to be a daily journey of discovery, not a greatest-hits playlist.
+I intentionally avoided including the biggest, most unavoidable funk hits. Not because they are not incredible songs, but because most readers will already know them, even if they do not think of themselves as “funk listeners.” This book is meant to be a daily journey of discovery, not a greatest-hits playlist.
 
 Here is an illustrative, not exhaustive, list of the kind of mega-hits I mean:
 
@@ -18,6 +18,7 @@ Here is an illustrative, not exhaustive, list of the kind of mega-hits I mean:
 - "Low Rider", War (1975)
 - "Play That Funky Music", Wild Cherry (1976)
 - "Brick House", Commodores (1977)
+- “Car Wash”, Rose Royce (1977)
 - "September", Earth, Wind & Fire (1978)
 - "Super Freak", Rick James (1981)
 - "1999", Prince (1982)
@@ -26,4 +27,4 @@ Here is an illustrative, not exhaustive, list of the kind of mega-hits I mean:
 
 Not that these are not amazing songs. They are. If you are not familiar with any one of them, go listen immediately. It's just that I assume most people, no matter when they were born, already know at least the chorus from the songs in this platinum tier of funk history.
 
-Rather than cement a cartoonish view of what funk is, I want this book to open your ears to the variety and depth the genre offers once you peek beyond the obvious. That is where the real fun starts, and where the surprises live.
+Rather than cement a cartoonish view of what funk is, I want this book to open your ears to the variety and depth the genre offers once you peek beyond the obvious.

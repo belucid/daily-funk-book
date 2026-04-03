@@ -1,4 +1,3 @@
-# By Status
 
 ```dataviewjs
 const pages = dv.pages('"Daily Funk Project/Entries"');

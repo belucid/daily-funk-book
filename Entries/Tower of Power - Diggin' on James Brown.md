@@ -8,11 +8,18 @@ label: Epic Records
 year: 1995
 track length: 4m 40s
 genre:
+  - Classic Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: This is a horn band paying tribute to the Godfather of Funk. Listen closely to the horn arrangement. What makes it sound like Tower of Power, not James Brown?
+status: complete
 writing theme:
 ---
+By the time they recorded today’s “Diggin’ on James Brown” in 1995, Tower of Power had survived a revolving door of lead singers, outlived funk’s commercial decline, and carried the dark footnote that one of their former frontmen, Rick Stevens, was convicted in a 1976 triple murder case. *Souled Out* featured yet another lineup, but even after all the trials, literal and figurative, writing a funky love letter to James Brown was a worthy pursuit.
+
+Singer Brent Carter handled lead vocals elsewhere on the album, but Emilio Castillo, the band’s co-founder, stepped out from behind the saxophone to deliver this tribute himself. Castillo explained that James Brown is the godfather who made a horn-driven funk band like Tower of Power possible.
+
+The admiration was reportedly mutual. Castillo said James Brown told him in 1994 that he and his band regularly listened to Tower of Power albums.
+
 
 ---
 ## Research Notes

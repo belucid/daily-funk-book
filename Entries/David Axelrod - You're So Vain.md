@@ -11,7 +11,7 @@ genre:
   - Jazz-Funk
 region:
   - US - California
-listening mission: I trust you know Carly Simon's original soft rock version. What changed to make this so funky?
+listening mission: I trust you know Carly Simon's original soft rock version. What changed to make this funky?
 status: research-review
 writing theme: Beethoven to have played on the recording or sing, but this is credited to Axelrod, who arranged and conducted and mixed this, but didn't write the song or play or sing a note on it
 ---
