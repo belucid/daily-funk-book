@@ -10,13 +10,17 @@ track length: 9m 35s
 genre:
   - Jazz-Funk
 region: US - California
-listening mission:
-status: draft
+listening mission: Notice how things start to tear themselves apart after the five-minute mark. The groove pulls itself back together about three minutes later. Does that return feel like a funk version of coming back to the home key for closure?
+status: review
 writing theme:
 ---
-*Survival of the Fittest* was the Headhunters' debut as an independent band. Herbie Hancock co-produced the album but appears nowhere as a player. Today's song from the album, "God Make Me Funky," started as a radio jingle for Everett and Jones BBQ in East Oakland. It was written by bassist Paul Jackson and drummer Mike Clark in 1971. Callers kept phoning Oakland radio station KDIA asking about the commercial's music. This inspired the band to turn it into a track for their album. The jingle later became one of the most sampled drum breaks in hip-hop history.
+*Survival of the Fittest* was the Headhunters’ first album as their own band, after years as Herbie Hancock’s sidemen. Herbie co-produced the album but does not appear as a player.
 
-The track's popularity as a sample is partly due to technical constraints in early sampling machines like the E-mu SP-12 and SP-1200. They had very limited recording time, and the clean drum and conga intro of "God Make Me Funky" fit perfectly within those tight limitations.
+Today's song, "God Make Me Funky," started as a radio jingle for Everett and Jones BBQ in East Oakland. It was written by bassist Paul Jackson and drummer Mike Clark in 1971. Callers kept phoning Oakland radio station KDIA asking about the commercial's music, so the band to turn the commercial into a full-length track. The track's intro later became one of the most sampled drum breaks in hip-hop history.
+
+The track’s popularity as a sample is partly due to technical constraints in early sampling machines. They had limited recording time, and the clean drum and conga opening fits perfectly in those tight limits. The drums are played by Clark, who was born today in 1946 in Sacramento, CA, though the groove is pure Oakland.
+
+If you have any friends who don’t get the whole year-long funk mission you’re on, play them this. It’s ten minutes of the absolute nastiest groove they’ll ever hear.
 
 ---
 ## Research Notes

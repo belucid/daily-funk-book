@@ -10,7 +10,7 @@ track length:
 genre:
 region:
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

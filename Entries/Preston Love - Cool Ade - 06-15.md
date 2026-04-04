@@ -11,12 +11,12 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: Use headphones and focus on the stereo field. Notice how the rhythm section sits in a different space from the rest of the band.
-status: review
+status: complete
 writing theme: collaboration between 3 generations
 ---
 Today’s song, “Cool Ade,” is a collaboration across generations. Jazz veterans Johnny Otis (producer, piano, vibes) and Preston Love (saxophone) bring the gravitas, while Otis’ teenage son Shuggie Otis makes his recorded debut on guitar and bass at just 14. Shuggie also earned writing credits on the album.
 
-Preston Love’s career runs from lead alto sax with Count Basie in the 1940s, through leading Motown sessions on the West Coast in the 1960s, to cutting this funky instrumental with a teenage guitar prodigy. The track appears on an album built around food-themed titles, a celebration of Black Midwestern food culture.
+Preston Love’s career stretched from lead alto sax with Count Basie in the 1940s, through leading Motown sessions on the West Coast in the 1960s, to cutting this funky instrumental with a teenage guitar prodigy. The track appears on an album built around food-themed titles, a celebration of Black Midwestern food culture.
 
 This song is barely two minutes long. Notice how it builds a complete groove, peaks, and gets out without a wasted second. What would a longer version add, or would it just dilute the punch?
 

@@ -12,16 +12,16 @@ genre:
 region:
   - US - Southeast
 listening mission: Wait for the moment Brown calls out, “Maceo, blow your horn.” Part 1 cuts right as the solo is about to start. Why do you think Brown chose that cliffhanger?
-status: review
+status: complete
 writing theme:
 ---
-There was never any question in my mind that this journey would begin with James Brown. Spoiler alert, it will end with him too, on New Year’s Eve. Everything in between is the branching funk tree that sprouted at the feet of the Godfather.
+There was never any question in my mind that this journey would begin with James Brown. Spoiler alert: it will end with him too, on New Year’s Eve. Everything in between is the branching tree that sprouted at the feet of the Godfather.
 
-Today’s track is “Mother Popcorn (Pt. 1).” Why the “Pt. 1”? Throughout the 1960s and into the 1970s, Brown was recording long funk workouts, but the 45 rpm 7-inch single only held about 4 minutes per side. So the jam would get split across two sides, labeled Part 1 and Part 2.
+Today’s song is “Mother Popcorn (Pt. 1).” The (Pt. 1) is there because in the 1960s and 1970s, Brown was recording long funk workouts, but the 45 rpm 7-inch single only held about 4 minutes per side. So the jam would get split across two sides, labeled Part 1 and Part 2.
 
-During Brown’s commercial peak, funk albums gathered up recent singles for listeners who wanted a long-playing record. *It’s a Mother* was built around this hit, and it leans into the Part 1 and Part 2 format, sequencing six of these split tracks back to back so the groove keeps rolling.
+During Brown’s commercial peak, funk albums gathered up recent singles for listeners who wanted a long-playing record. *It’s a Mother* leans into the Part 1 and Part 2 format, sequencing six of these split tracks back to back so the groove keeps rolling.
 
-The song owes a lot to Brown's earlier hit, "Cold Sweat," but it has a busier, more rhythm-driven sound. And when Brown uses "mother" in his lyrics, he's not referring to his absentee mother, who left him when he was four years old. It's a euphemism for a big booty.
+The song owes a lot to Brown's earlier hit, "Cold Sweat," but it has a busier, more rhythm-driven sound. When Brown uses "mother" in his lyrics, he's not referring to his absentee mother, who left him when he was four years old. It's a euphemism for a big booty.
 
 ---
 ## Research Notes

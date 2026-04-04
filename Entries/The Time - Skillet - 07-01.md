@@ -11,15 +11,15 @@ genre:
   - Funk Rock
 region:
   - US - Minnesota
-listening mission: This is Jesse Johnson’s show. Listen to how his guitar shifts between funk rhythm and rock soloing. Does it feel like funk with rock solos, or rock with a funky beat?
-status: review
+listening mission: This is Jesse Johnson’s show. Listen to the rock soloing. Does it feel like funk with rock solos, or rock with a funky beat?
+status: complete
 writing theme: out of time, out of sound
 ---
-As one of my favorite bands, The Time were always going to show up a lot in this book. Today’s pick is them in an unexpected decade and genre: the funk-rock track “Skillet” from their lesser-known 1990 album *Pandemonium*.
+As one of my favorite bands, The Time were always going to show up in this book. Today’s pick is them in an unexpected decade and genre: the funk-rock track “Skillet” from their lesser-known 1990 album *Pandemonium*.
 
-Guitarist Jesse Johnson (born June 1, 1960) wrote “Skillet” with bandmates Jimmy Jam and Terry Lewis, with no Prince involvement. By 1990, Johnson had stepped out from under Prince’s purple shadow and had three solo albums out. The guitar stamp here is all him.
+Guitarist Jesse Johnson (born June 1, 1960) wrote “Skillet” with his bandmates Jimmy Jam and Terry Lewis, with no involvement from Prince. By 1990, Johnson had stepped out from under Prince’s purple shadow and had three solo albums out. The guitar sound here is all him.
 
-The track even inspired the album cover. All seven band members stand inside a cast-iron skillet. Photographer Jeff Katz shot it with practical effects in the pre-Photoshop era.
+The track inspired the album cover. All seven band members stand inside a cast-iron skillet. Photographer Jeff Katz shot it with practical effects in the pre-Photoshop era.
 
 ---
 ## Research Notes

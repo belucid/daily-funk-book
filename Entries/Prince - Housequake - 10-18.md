@@ -11,11 +11,15 @@ genre:
   - Minneapolis Sound
 region:
   - US - Minnesota
-listening mission: The day before this session, Prince fired his band, The Revolution. He played every instrument except horns. Listen to how the track sounds like a full band even though it's one prodigiously talented person.
-status: draft
+listening mission: The day before this session, Prince fired his band. He plays every instrument except the horns. Listen for the call and response answered by Prince himself. Since it’s all Prince, who is he repeatedly telling to shut up?
+status: complete
 writing theme:
 ---
-On  October 17, 1986 Prince announced to the world that he was parting ways with his long time band, the revolution.
+On  October 17, 1986 Prince announced he was parting ways with his long time band, The Revolution. The next day, he was back in the studio, making today's song. "Housequake" was inspired by the the Southern California earthquakes Prince experienced in 1986. 
+
+The track is a one-man-band power move, a redeclaration that Prince did not need anybody. In it, he says: “Everybody shut up. Listen to the band.” For Prince, the band was just him.
+
+"Housequake" was the first track recorded for the shelved *Camille* project, an album Prince planned to release under a feminine alter ego. He later folded material from *Camille* and two other album projects into the *Sign o' the Times* double album. The Camille voice was achieved by pitch-shifting and tape speed manipulation, and it would show up again in songs for years.
 
 ---
 ## Research Notes
