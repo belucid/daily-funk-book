@@ -1,6 +1,6 @@
-I intentionally avoided including the biggest, most unavoidable funk hits. Not because they are not incredible songs, but because most readers will already know them, even if they do not think of themselves as “funk listeners.” This book is meant to be a daily journey of discovery, not a greatest-hits playlist.
+I intentionally avoided including the biggest, most unavoidable funk hits. Not because they are not incredible songs, but because most readers will already know them. This book is meant to offer a daily journey of discovery, not a greatest-hits playlist.
 
-Here is an illustrative, not exhaustive, list of the kind of mega-hits I mean:
+Here is an illustrative, though not exhaustive, list of the kind of mega-hits I mean:
 
 - "Thank You (Falettinme Be Mice Elf Again)", Sly & the Family Stone (1969)
 -  "Get Up (I Feel Like Being a) Sex Machine", James Brown (1970)
@@ -25,6 +25,6 @@ Here is an illustrative, not exhaustive, list of the kind of mega-hits I mean:
 - "You Dropped a Bomb on Me", The Gap Band (1982)
 - "Sign 'O' the Times", Prince (1987)
 
-Not that these are not amazing songs. They are. If you are not familiar with any one of them, go listen immediately. It's just that I assume most people, no matter when they were born, already know at least the chorus from the songs in this platinum tier of funk history.
+Not that these are not amazing songs. They are. If you’re not familiar with any of them, go listen to it immediately. It's just that I assume most people, no matter when they were born, already know at least the chorus from the songs in this platinum tier of funk history.
 
 Rather than cement a cartoonish view of what funk is, I want this book to open your ears to the variety and depth the genre offers once you peek beyond the obvious.

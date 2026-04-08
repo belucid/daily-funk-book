@@ -10,7 +10,7 @@ track length: 7m 37s
 genre:
   - Jazz-Funk
 region: US - California
-listening mission: This was originally cut at 120 BPM before the drummer insisted they slow it to 100. Listen to how much space that slower tempo creates. Could this groove work any faster?
+listening mission: This was originally cut at a more disco 120 BPM before the drummer insisted they slow it to 100. Listen to how much space that slower tempo creates.
 status: complete
 writing theme: It pays to Own the Record Label
 ---

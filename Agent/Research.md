@@ -140,13 +140,23 @@ For each suggestion you make, check the existing `./Daily Funk Project/Entries` 
 
 ### Step 6: Genre Suggestions
 
-Read the `./Daily Funk Project/Matter/On Genre.md` front matter list and definition of the book's genres. 
+Read the `./Daily Funk Project/Matter/On Genres & Regions.md` front matter list and definition of the book's genres. 
 
-Consider the current value of the genre field, if any, and our enumeration and definition of genres.
+Consider the current value of the `genre` field, if any, and our enumeration and definition of genres.
 
 Your job is to make a CASE and a SUGGESTION for 2-3 genres that the track may fit into and why. Cite your sources and explain the rationale for your suggestions. Do NOT edit the genre field itself, that's just for the author.
 
-### Step 7: Writing Theme Suggestions
+### Step 7: Region Suggestions
+
+Read the `./Daily Funk Project/Matter/On Genres & Regions.md` front matter description of regions. Read the region list from `Daily Funk Project/Planning/Field Values`
+
+Consider the current value of the `region` field, if any, and our enumeration of regions.
+
+Your job is to make a CASE and a SUGGESTION for 2-3 regions that the track may fit into and why. Cite your sources and explain the rationale for your suggestions. Feel free to put your region suggestion in the field, just be sure to audit the change.
+
+If there's a strong case that the best region is missing from our list, make a case for it.
+
+### Step 8: Writing Theme Suggestions
 
 Based on your research, suggest 2-3 possible writing themes. A writing theme is an editorial hook to frame the entry. It can be based upon an especially interesting or striking finding of fact, or can be based on an unusal aspect of the track, artist or album. For example: "A case for slow funk", "When words become sounds", "The murder of Dyke". It is an internal compass for the author, not a published label.
 
@@ -154,7 +164,7 @@ Present each suggestion with 1-2 sentences of rationale explaining what angle it
 
 If the `writing theme` field is already filled in, note it and suggest alternatives anyway. 
 
-### Step 8: Listening Mission Suggestions
+### Step 9: Listening Mission Suggestions
 
 Suggest 2-3 possible listening missions. A listening mission is a specific, active prompt as a single sentence or two, that tells the reader exactly what to listen for. It should invite active listening via a judgment call, a comparison, or a moment of focused attention. Good missions name a specific moment, technique, or feeling. Avoid generic prompts like "enjoy the groove."
 
@@ -162,7 +172,7 @@ Good examples are, "You could easily mistake this for a James Brown track. What 
 
 If the `listening mission` field is already filled in, note it but suggest some alternatives anyway.
 
-### Step 9: Streaming Links & Purchase Links
+### Step 10: Streaming Links & Purchase Links
 
 Search each of the following platforms for the track and provide a direct link where found. For platforms where you cannot find the track, distinguish between "not available on this platform" (confirmed absence) and "could not locate" (search inconclusive).
 
@@ -180,6 +190,6 @@ Search each of the following platforms for the track and provide a direct link w
 - Buy Single on Discogs (Master release where possible)
 - Buy on Amazon
 
-### Step 10: Completing an entry
+### Step 11: Completing an entry
 
 When research is complete, change `status` from `research` to `research-review`. This status change does not require an audit line.

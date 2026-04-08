@@ -1,16 +1,15 @@
 ---
 fileClass: funk-entry
 day:
-artist: Prince
-track: Face Down
-album: Emancipation
+artist: Marvin Gaye
+track: Inner City Blues (Make Me Wanna Holler)
+album:
 label:
 year:
 track length:
 genre:
-  - Minneapolis Sound
+  - Classic Funk
 region:
-  - US - Minnesota
 listening mission:
 status: research
 writing theme:

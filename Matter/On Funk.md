@@ -16,4 +16,4 @@ Here's how the book’s selections distribute across time. The 1970s are the cen
 
 {Graph of tracks' years from the book}
 
-Funk was a singles-oriented genre. That is why this book is organized around one song per day rather than one album at a time. I will tell you which album a track first appeared on, but I want you to keep the singles mindset in mind. This book follows that tradition with one focused listen each day to open up a new corner of the funk world.
+Funk was a singles-oriented genre. That is why this book is organized around one song per day rather than one album at a time. I will tell you which album a track first appeared on, but I want you to keep the singles mindset in mind. This book follows that tradition with one focused listen each day that opens up a new corner of the funk world.

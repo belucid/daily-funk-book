@@ -18,7 +18,7 @@ By the era, jazz funk is most at home in the 1970s. Earlier “funky jazz” sit
 
 In this book, soul jazz is mostly used to label the earlier, smaller-ensemble side of the story. Jazz-funk comes later and expands the palette with bigger bands, denser arrangements, and a more overtly funk-forward rhythm section. Soul jazz is the early simmer, while jazz-funk is the full boil.
 
-**Deep Funk (n days):** Deep funk is less a sound than a commercial fate. These are tracks that were overlooked on release and only found their audience later through crate-digging, DJs, and dance floors. Often they were singles from regional or private-presses, or obscurities buried on small-label albums. When a cut came from a well-known label, it usually came from a poorly selling record with limited distribution. The defining trait of deep funk is delayed recognition.
+**Deep Funk (n days):** Deep funk is less a sound than a commercial fate. These are tracks that were overlooked on release and only found their audience later through crate-digging, DJs, and dance floors. Often they were singles from regional or private-presses, or obscurities buried on small-label albums. When a song came from a well-known label, it usually came from a poorly selling record with limited distribution. The defining trait of deep funk is delayed recognition.
 
 **Latin Funk (n days):** I needed one label that can comfortably hold “funk plus Latin rhythms” across Afro-Cuban, Puerto Rican, Brazilian, and all pan-Latin flavors, so the best umbrella term is Latin funk. I use this as a label for music that combines funk with Latin musical textures and  percussion-driven grooves.
 
@@ -50,7 +50,7 @@ In this book, soul jazz is mostly used to label the earlier, smaller-ensemble si
 
 The most obvious omission, given this book centers on the 1970s, is disco. Some of the artists featured here had disco hits, and some even spent whole chapters of their careers in disco mode, but you will not find those tracks included. This is not disco backlash or a replay of Disco Demolition Night in 1979, but a scope choice. Disco shifted funk’s rhythmic complexity and syncopation toward a steadier four on the floor pulse built to keep dancers moving. Disco then branched into its own rich family tree, including boogie, house, and techno, and that lineage deserves a different book than this one.
 
-Another omission, for the sake of focus, is soul music. Soul predates funk and stands as a genre in its own right. It deserves its own day-by-day guided exploration. I hope someone chooses to write that book, and I would be an eager reader.
+Another omission, for the sake of focus, is soul music. Soul predates funk and stands as a genre in its own right. It deserves its own day-by-day guided exploration. I hope someone writes that book; I would be an eager reader.
 
 Finally, there are sub-genres of funk I have chosen not to cover, mostly because I do not know them well enough to curate them thoughtfully and to tell you why the selected tracks deserve your time. That includes G-funk, punk-funk, Brit-funk and funk metal. They may be great rabbit holes, and if any of them are your thing, you should absolutely explore them.
 

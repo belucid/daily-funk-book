@@ -8,6 +8,7 @@ label:
 year:
 track length:
 genre:
+  - Classic Funk
 region:
 listening mission:
 status: stub

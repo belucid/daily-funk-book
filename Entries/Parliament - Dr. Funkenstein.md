@@ -1,16 +1,17 @@
 ---
 fileClass: funk-entry
 day:
-artist: The Impressions
-track:
+artist: Parliament
+track: Dr. Funkenstein
 album:
 label:
 year:
 track length:
 genre:
+  - Psychedelic Funk
 region:
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

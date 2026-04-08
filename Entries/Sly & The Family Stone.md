@@ -2,16 +2,17 @@
 fileClass: funk-entry
 day:
 artist: Sly & The Family Stone
-track: 
+track:
 album: There's a Riot Going On
 label:
 year:
-track length: 
-genre: 
-region: 
-listening mission: 
+track length:
+genre:
+  - Funk Rock
+region:
+listening mission:
 status: stub
-writing theme: 
+writing theme:
 ---
 
 ---

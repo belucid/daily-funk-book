@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-18
 artist: The Rolling Stones
 track: Emotional Rescue
 album: Emotional Rescue
@@ -11,10 +11,17 @@ genre:
   - Funk Rock
 region:
   - UK
-listening mission:
-status: research-review
+listening mission: Guitarist Ronnie Wood is playing bass here, not the usual Stones bassist Bill Wyman. Can you hear a guitarist’s touch in the bassline?
+status: review
 writing theme:
 ---
+*Emotional Rescue* was a massive album. It topped charts around the world and spent seven weeks at No. 1 in the US. The title track was its biggest hit, and yet the Rolling Stones did not play "Emotional Rescue" live until 2013. Maybe the song never quite fit the band’s self-image.
+
+Mick Jagger sings the whole thing in a high falsetto that saxophonist Bobby Keys reportedly called “Minnie Mouse vocals.” Jagger defended his choice and name-checked Prince as a fellow falsettoist. 
+
+The groove is real, but between the high voice and the spoken-word seduction, it plays like Jagger winking at the listener, inviting them in on the joke. The result is legitimately funky and also a bit of a gag, which might be exactly why it stayed off the set list for so long. 
+
+I wish my jokes were this funky.
 
 ---
 ## Research Notes
@@ -26,7 +33,17 @@ writing theme:
 
 ### Open Research Questions
 
-No open research questions found in the original entry.
+**Q: Was "Emotional Rescue" the biggest hit off the album?**
+
+**Yes, by a wide margin.** The album produced three singles:
+
+1. **"Emotional Rescue"** — No. 3 US (Billboard Hot 100), No. 1 Canada, No. 9 UK
+2. **"She's So Cold"** — No. 26 US (Billboard Hot 100), No. 33 UK
+3. **"Dance Pt. 1"** — No. 9 on Billboard's Dance chart (not a pop chart entry)
+
+"Emotional Rescue" was comfortably the album's biggest hit, peaking 23 positions higher than the next single on the Hot 100.
+
+Sources: [Wikipedia: Emotional Rescue (song)](https://en.wikipedia.org/wiki/Emotional_Rescue_(song)), [Wikipedia: She's So Cold](https://en.wikipedia.org/wiki/She%27s_So_Cold), [Wikipedia: Emotional Rescue (album)](https://en.wikipedia.org/wiki/Emotional_Rescue)
 
 ### Writing Theme Suggestions
 

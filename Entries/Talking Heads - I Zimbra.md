@@ -10,10 +10,13 @@ track length: 3m 9s
 genre:
   - Avant-Funk
 region: US - New York
-listening mission:
+listening mission: Drummer Chris Frantz limits himself to playing only bass drum and hi-hat. Notice how the other percussion, the congas, djembe, and talking drum fill in the empty space.
 status: research-review
 writing theme:
 ---
+This song probably comes as a bit of a surprise. The kings of art-punk new wave, the Talking Heads, in a funk book?
+
+The lyrics here are pure nonsense. They are adapted from a 1916 nonsense Dadaist poem by Hugo Ball. Does that change the impact of the vocals, knowing they mean absolutely nothing?
 
 ---
 ## Research Notes

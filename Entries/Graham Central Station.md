@@ -2,16 +2,17 @@
 fileClass: funk-entry
 day:
 artist: Graham Central Station
-track: 
-album: 
+track:
+album:
 label:
 year:
-track length: 
-genre: 
-region: 
-listening mission: 
+track length:
+genre:
+  - Classic Funk
+region:
+listening mission:
 status: stub
-writing theme: 
+writing theme:
 ---
 
 ---
