@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 09 - 30
+day: 09-30
 artist: Patrice Rushen
 track:
 album: Shout iI Out

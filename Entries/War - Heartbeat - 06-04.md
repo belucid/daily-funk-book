@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 06-04
 artist: War
 track: Heartbeat
 album: Why Can't We Be Friends?
@@ -11,9 +11,14 @@ genre:
   - Classic Funk
 region: US - California
 listening mission:
-status: research-review
+status: review
 writing theme:
 ---
+1972’s *The World Is a Ghetto* was the best-selling album of 1973 according to *Billboard*, making War one of the biggest acts in American music. Their follow-up album, *Why Can’t We Be Friends?*, did not arrive until 1975, the result of a legal battle with the label. Even with the delay, it still reached #8 on the *Billboard* 200 and #1 on the R&B chart.
+
+The album’s hit single “Low Rider” was issued on an early promotional 12-inch, before the format became standard currency for club DJs. That same 12-inch also carried today’s track, “Heartbeat.” It was not a featured album cut, but the extra room on the 12-inch and the club context helped push it into a Top 10 spot on the dance chart.
+
+Five years later, War’s saxophonist Charles Miller was stabbed to death on June 4, 1980 during a botched robbery in Los Angeles. His iconic deep voice was a big part of "Low Rider." No one was ever arrested for his murder.
 
 ---
 ## Research Notes

@@ -11,14 +11,16 @@ genre:
   - Jazz-Funk
 region: US - New York
 listening mission:
-status: review
+status: complete
 writing theme:
 ---
-Donald Byrd was born December 9, 1932, in Detroit, Michigan. His *Donald Byrd and 125th Street, N.Y.C.* is a standout late-period jazz-funk album. Since it's from 1979, you'll hear some disco tracks, but the whole thing is worth a listen. You already heard a very different side of this album on October 22 with “Morning.”
+Donald Byrd was born on December 9, 1932, in Detroit, Michigan. His album *Donald Byrd and 125th Street, N.Y.C.* is a standout late-period jazz-funk album. Released in 1979, it includes some disco tracks, but overall it's a compelling listen. You heard a different side of this album on October 22 with “Morning.”
 
-The album cover features a painting by former NFL player turned artist Ernie Barnes. He also painted covers for Curtis Mayfield and The Crusaders, and his painting “The Sugar Shack” even hangs on the apartment wall in the TV show *Good Times*. The singer you hear on today’s track is not Byrd, but Jim Gilstrap, who handles the album’s vocals. If he sounds familiar, it may be because he also sang the theme to *Good Times*.
+The album cover is a painting by former NFL player turned artist Ernie Barnes. He also painted covers for Curtis Mayfield and The Crusaders, and one of his “The Sugar Shack” hangs on the apartment wall in the TV show *Good Times*. 
 
-Today’s track, “People Suppose to Be Free,” can be heard as a response to the Rascals’ 1968 #1 hit “People Got to Be Free.” Ten years later, Byrd swaps the demanding “got” for the resigned “suppose,” trading the righteous insistence of the 1960s for the tired resignation of the late 1970s. More tellingly, the social message in the chorus gets undercut by verses that make the freedom question feel personal, even romantic.
+The singer you hear on today’s track, “People Suppose to Be Free,” is not Byrd, but Jim Gilstrap, who handles the album’s vocals. If he sounds familiar, it may be because he also sang the theme to *Good Times*.
+
+The song can be heard as a response to the Rascals’ 1968 #1 hit “People Got to Be Free.” Ten years later, Byrd swaps the demanding “got” for the resigned “suppose,” trading the righteous insistence of the 1960s for the tired resignation of the late 1970s. More tellingly, the social message in the chorus gets undercut by verses that make the freedom question feel personal, even romantic.
 
 
 ---

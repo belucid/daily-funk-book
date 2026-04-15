@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 09 - 26
+day: 09-26
 artist: Gary Bartz NTU Troop
 track: Uhuru Sasa
 album: Harlem Bush Music - Uhuru

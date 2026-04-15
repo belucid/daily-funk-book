@@ -1,20 +1,25 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-20
 artist: David Bowie
 track: Fame
 album: Young Americans
 label: RCA Records
 year: "1975"
-track length: 4m 12s
+track length: 4m 24s
 genre:
   - Avant-Funk
 region:
   - US - New York
-listening mission:
-status: research-review
+listening mission: Listen to how the locked-in groove lets Bowie sing with increasing freedom, even when the tape-speed vocal effects kick in after three minutes.
+status: review
 writing theme:
 ---
+If you can hear the connection between today’s song, David Bowie’s "Fame," and a James Brown track, it's not in the singing. It's in the guitar. Carlos Alomar, who plays guitar on “Fame,” was in Brown’s band before joining Bowie. Strip away Bowie’s art-rock vocal and the track reveals itself as pure James Brown: a one-chord vamp driven by an irresistible rhythm. It stays on F7 throughout, with the drums, bass, and guitar locked tight together. Later that same year, Brown borrowed Alomar's guitar riff for "Hot (I Need to Be Loved, Loved, Loved, Loved)."
+
+"Fame" reached No. 1 on the *Billboard* Hot 100 in the week of September 20, 1975. It was Bowie’s first chart-topper, but more familiar territory for his co-writer. Along with Bowie and Alomar, "Fame" was written by John Lennon. Both men were living in New York City at the time, and Mick Jagger introduced them. 
+
+Bowie invited Lennon into the studio, and the song came together quickly in a single session. They began with Alomar's guitar riff, and Lennon started singing the word “fame” over it. Can you hear his backing vocal contributions in the final version?
 
 ---
 ## Research Notes
@@ -31,7 +36,31 @@ writing theme:
 
 ### Open Research Questions
 
-No open research questions were found in the existing notes.
+**1. Verify Bowie had no other #1 songs.**
+
+**Finding: This is incorrect as stated in the entry body.** Bowie had *two* #1 hits on the Billboard Hot 100 during his lifetime:
+
+- **"Fame"** reached #1 on September 20, 1975. Source: [Billboard, "David Bowie 'Fame' No. 1 Hot 100 1975"](https://www.billboard.com/pro/david-bowie-fame-no-1-hot-100-1975-rewinding-charts/)
+- **"Let's Dance"** reached #1 on May 21, 1983. Source: [Billboard, "David Bowie Was No. 1 On The Hot 100 In 1983"](https://www.billboard.com/pro/david-bowie-no-1-hot-100-1983-chart-rewind/)
+
+Also corroborated by the [David Bowie Wikipedia discography](https://en.wikipedia.org/wiki/David_Bowie_discography), which lists both songs as Bowie's only US #1 singles.
+
+The current body copy reads: *"Bowie's first and only chart-topper during his lifetime."* This should be corrected. Accurate phrasings for the author to consider:
+- "Bowie's first US #1, and one of only two he would score in his lifetime, the other being 'Let's Dance' eight years later."
+- "Bowie's first US chart-topper. He would hit #1 only once more, with 'Let's Dance' in 1983."
+
+Note: "Fame" *was* Bowie's first and only #1 on the UK Singles Chart if you restrict to UK charts (he had other UK #1s later, e.g., "Ashes to Ashes" 1980, "Under Pressure" 1981, "Let's Dance" 1983). But the body copy specifies "#1 on the Billboard Hot 100," so the US chart is the relevant frame, and "only" is wrong.
+
+**2. Verify Lennon is co-author of Fame.**
+
+**Finding: Confirmed.** "Fame" is credited to three writers: **David Bowie, Carlos Alomar, and John Lennon.**
+
+- [Wikipedia, "Fame (David Bowie song)"](https://en.wikipedia.org/wiki/Fame_(David_Bowie_song)) lists all three as co-writers.
+- [SecondHandSongs](https://secondhandsongs.com/work/1540/all) registers the work as "written by Carlos Alomar, John Lennon, David Bowie."
+- [JohnLennon.com](https://www.johnlennon.com/music/collaborations/david-bowie-fame/) documents Lennon's role on the session: the "aim / Fame" vocal hook, backwards piano, and backing "oohs."
+- Publishing is split across Lenono Music (Lennon), Tintoretto Music / Chrysalis Songs (Bowie), and related publishers, consistent with a three-way co-write. Source: [SecondHandSongs](https://secondhandsongs.com/work/1540/all)
+
+No counter-source found; the three-way credit is universal across every reference checked.
 
 ### Writing Theme Suggestions
 

@@ -1,18 +1,17 @@
 ---
 fileClass: funk-entry
 day:
-artist: James Brown
-track: Funky President (People It's Bad)
+artist:
+track:
 album:
 label:
 year:
 track length:
 genre:
-  - Classic Funk
+  - Acid Jazz
 region:
-  - US - Southeast
 listening mission:
-status: research
+status: stub
 writing theme:
 ---
 

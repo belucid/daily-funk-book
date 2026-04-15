@@ -11,12 +11,15 @@ genre:
   - Minneapolis Sound
 region:
   - US - Minnesota
-listening mission:
-status: research-review
+listening mission: That eerie synth line sounds like it crawled straight out of yesterday's "Funky Worm." Who did it better?
+status: complete
 writing theme:
 ---
+The title of today’s song, “Black Sweat,” has two origin stories. One suggests it came from black hair dye running down Prince’s face onstage. Another ties it to Prince's spot-on impersonation of the perennially sweaty James Brown. Either way, the title captures the physical exertion of performing extended funk jams.
 
- 
+Like "Kiss" and "When Doves Cry," "Black Sweat" has no bass guitar. But unlike those two tracks, it's super funky. It pulls this off without the quintessential funk instrument. The groove is built from a drum machine, a single eerie synth line, and Prince's falsetto. It's a masterclass in how little you need when everything is exactly right.
+
+"Black Sweat" was the lead single on the *3121* album, named for the address of the house Prince rented in Beverly Hills. The house hosted Prince’s legendary parties with purple decor, celebrity guests, and the ever-present possibility that a spontaneous concert would break out.
  
 ---
 ## Research Notes
@@ -28,7 +31,17 @@ writing theme:
 
 ### Open Research Questions
 
-No open research questions found in the entry.
+Open: Do "When Doves Cry" and "Kiss" both have no bass.
+
+**Resolution: Yes, confirmed. Both tracks have no bass guitar in the final mix, making "Black Sweat" the third major Prince single with this approach.**
+
+**"When Doves Cry" (1984):** Prince originally recorded a bass line but deliberately removed it from the final mix. Engineer Susan Rogers confirmed: "The bass is on the multi-track tape, but it was muted in the final mix." Prince told his engineer, "Ain't nobody gonna believe I'd do this." The decision came after a conversation with singer Jill Jones, who encouraged him: "Why don't you have it your way?" During live performances, bass player Brown Mark added bass lines back in. — Sources: https://www.guitarworld.com/artists/bassists/why-prince-removed-the-bassline-from-when-doves-cry | https://www.musicradar.com/news/prince-when-doves-cry-no-bass
+
+**"Kiss" (1986):** No bass guitar was recorded for the final version. Engineer David Z used the kick drum run through an AMS RMX-16 reverb on the Reverse 2 setting to serve as both kick drum and bass simultaneously: "We didn't need a real bass." The only element close to a bass line is a DX7 synth marimba track. Notably, the 12-inch extended version does add bass guitar (played by Brown Mark) after the four-minute mark, along with organ and horns. — Sources: https://www.soundonsound.com/techniques/classic-tracks-prince-kiss | https://www.talkbass.com/threads/kiss-by-prince.119465/
+
+**"Black Sweat" (2006):** Also confirmed no bass in the mix, completing the trilogy. Rolling Stone described it as featuring "nothing but drum machine rhythms, glorious falsetto and a noodle-y synthesizer melody." — Source: https://au.rollingstone.com/music/music-lists/25-essential-prince-songs-9980/black-sweat-2006-10008/
+
+**Summary for the author:** The "funk by subtraction" writing theme is well supported. All three tracks are confirmed bass-free in their standard versions, spanning 22 years of Prince's career (1984, 1986, 2006). Each used a different strategy to fill the low end: "When Doves Cry" left it empty, "Kiss" used a reverbed kick drum, and "Black Sweat" relies on the drum machine alone.
 
 ### Writing Theme Suggestions
 

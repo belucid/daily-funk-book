@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 11-22
 artist: Takuya Kuroda
 track: Choy Soda
 album: Midnight Crisp
@@ -8,11 +8,17 @@ label: First Word Records
 year: 2022
 track length: 4m 47s
 genre:
-region: US - New York
-listening mission:
-status: research-review
+  - Jazz-Funk
+region: Japan
+listening mission: Singer Corey King softly repeats his two lines through the first half. How does that set up what happens in the second half?
+status: complete
 writing theme:
 ---
+CHOYA is a Japanese beverage company founded in 1914 in Osaka, and best known for its plum and yuzu drinks. Today’s track, “Choy Soda,” begins with a laid-back vocal groove, then ratchets up the intensity as sax, synths, and trumpet trade solos. At the end, Takuya Kuroda shouts out his favorite drink, giving the track its name.
+
+Kuroda was born in Japan and moved to Boston and then NYC to study jazz. He spent years in an Afrobeat band, became the lead horn for DJ Premier’s Badder Band, and is here self-producing for a London label release.
+
+“Choy Soda” sits right at the intersection of his influences. You’ll hear real jazz chops, a funky groove, and hip-hop production values. If Miles Davis were still around, I would not be surprised if he was making music that sounded something like this.
 
 ---
 ## Research Notes
@@ -23,7 +29,9 @@ writing theme:
 
 ### Open Research Questions
 
-No open research questions were found in the entry.
+Open: Should Choy Soda have been "Choya Soda", the soda brand?
+
+**Resolved (2026-04-08):** Almost certainly a deliberate reference to CHOYA, the well-known Japanese beverage company (founded 1914, Osaka) famous for its ume plum soda and yuzu soda products. The KNKX review confirms the track is about a drink: "Kuroda's own shouted vocals exclaiming his choice of beverage wrap up the song." However, the spelling "Choy Soda" is consistent across every official release (artist-controlled Bandcamp, vinyl pressing FW260, Spotify, Apple Music, and the 2024 Waajeed remix single), ruling out a label typo. Kuroda grew up in Ashiya, near CHOYA's Osaka headquarters, and would certainly know the brand. The truncated spelling appears intentional: likely a playful respelling, phonetic abbreviation, or trademark-avoidance move. No interview was found where Kuroda explains the title directly (searched KNKX, Shepherd Express, Atwood Magazine, High Road Touring retrospective). The answer may live in the physical liner notes or simply in Kuroda's head. Sources: [CHOYA official site](https://www.choya.co.jp/en/products/non_alcoholic/choya-ume-soda-non-alcohol/), [KNKX review](https://www.knkx.org/show/the-new-cool/2022-09-22/take-an-early-listen-to-takuya-kurodas-new-late-night-modern-jazz), [Bandcamp](https://takuyakuroda.bandcamp.com/track/choy-soda)
 
 ### Writing Theme Suggestions
 

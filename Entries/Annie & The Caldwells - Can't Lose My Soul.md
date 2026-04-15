@@ -9,10 +9,15 @@ year: "2025"
 track length: 10m 17s
 genre: Gospel Funk
 region: US - Southeast
-listening mission:
-status: research-review
+listening mission: The Caldwells recorded this live in a one-room church with no rehearsal. Listen for the moments where the family locks in without cues. That is 50 years of familiarity.
+status: complete
 writing theme: When words become sounds
 ---
+Annie Caldwell was a singer in the Staples Jr. Singers at the age of 11 in 1971. The band's name came from audiences who told them they sounded like the Staple Singers. Their privately pressed 1975 album *When Do We Get Paid* was sold from the family’s front lawn in Aberdeen, Mississippi, and later became a grail for gospel-soul collectors. The album received a proper reissue in 2022.
+
+Annie now sings for Annie & The Caldwells. Not everything in the music business is big business. Sometimes funk is a side hustle in service of the Lord. Annie runs a women’s clothing store in West Point, Mississippi, and the rest of the band holds day jobs too, including a forklift driver, hospital transporter, elementary school teacher, and hairstylist.
+
+Musically, today’s song “Can’t Lose My Soul” starts like a funky sermon. Around six minutes in, the funk thickens, and by the end, you’ve heard the word “soul” so many times it stops being a word and becomes a sound.
 
 ---
 ## Research Notes

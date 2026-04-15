@@ -9,7 +9,7 @@ year:
 track length:
 genre:
   - Psychedelic Funk
-region:
+region: US - Michigan
 listening mission:
 status: research
 writing theme:

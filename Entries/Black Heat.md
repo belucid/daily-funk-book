@@ -1,15 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: Morris Day
+artist: Black Heat
 track:
 album:
 label:
 year:
 track length:
 genre:
-  - Minneapolis Sound
-region: US - Minnesota
+region:
 listening mission:
 status: stub
 writing theme:

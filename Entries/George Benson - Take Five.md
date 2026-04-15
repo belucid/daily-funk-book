@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 07-01
+day:
 artist: George Benson
 track: Take Five
 album: Bad Benson
@@ -14,7 +14,7 @@ listening mission: The title points to the song's 5/4 time. Count to five with t
 status: complete
 writing theme:
 ---
-“Take Five” was composed by Paul Desmond and recorded by the Dave Brubeck Quartet on July 1, 1959. It became a surprise hit when it was reissued in 1961, reaching #25 on the *Billboard* Hot 100 and becoming the first jazz single to sell over a million copies.
+“Take Five” was composed by Paul Desmond and recorded by the Dave Brubeck Quartet in 1959. It became a surprise hit when it was reissued in 1961, reaching #25 on the *Billboard* Hot 100 and becoming the first jazz single to sell over a million copies.
 
 Over a decade later, Phil Upchurch suggested a “Take Five” cover and wrote the funky arrangement. George Benson was not interested until he heard what Upchurch had done. If you’ve got time, listen to Brubeck’s original, then compare it to Benson's version. What makes Upchurch’s arrangement feel funky?
 

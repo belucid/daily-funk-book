@@ -2,16 +2,16 @@
 fileClass: funk-entry
 day:
 artist: The Wild Tchoupitoulas
-track: 
+track:
 album: The Wild Tchoupitoulas
 label:
 year:
-track length: 
-genre: 
-region: 
-listening mission: 
+track length:
+genre:
+region: US - Louisiana
+listening mission:
 status: stub
-writing theme: 
+writing theme:
 ---
 
 ---

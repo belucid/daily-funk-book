@@ -12,16 +12,14 @@ genre:
 region:
   - UK
 listening mission: Guitarist Ronnie Wood is playing bass here, not the usual Stones bassist Bill Wyman. Can you hear a guitarist’s touch in the bassline?
-status: review
+status: complete
 writing theme:
 ---
-*Emotional Rescue* was a massive album. It topped charts around the world and spent seven weeks at No. 1 in the US. The title track was its biggest hit, and yet the Rolling Stones did not play "Emotional Rescue" live until 2013. Maybe the song never quite fit the band’s self-image.
+*Emotional Rescue* topped charts around the world and spent seven weeks at #1 in the US. The title track was its biggest hit, and yet the Rolling Stones did not play "Emotional Rescue" live until 2013. Perhaps the song never quite fit the band’s self-image.
 
-Mick Jagger sings the whole thing in a high falsetto that saxophonist Bobby Keys reportedly called “Minnie Mouse vocals.” Jagger defended his choice and name-checked Prince as a fellow falsettoist. 
+Mick Jagger sings the entire thing in a high falsetto that saxophonist Bobby Keys reportedly called “Minnie Mouse vocals.” Jagger defended his choice and name-checked Prince as a fellow falsettoist. 
 
-The groove is real, but between the high voice and the spoken-word seduction, it plays like Jagger winking at the listener, inviting them in on the joke. The result is legitimately funky and also a bit of a gag, which might be exactly why it stayed off the set list for so long. 
-
-I wish my jokes were this funky.
+The high voice and the spoken-word seduction sound like Jagger winking at the listener, inviting them in on the joke. The result is both legitimately funky and also a bit of a gag, which might be why it stayed off the set list for so long.
 
 ---
 ## Research Notes

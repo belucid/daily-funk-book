@@ -10,11 +10,13 @@ track length: 7m 49s
 genre:
   - Classic Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: Squib Cakes" is slang the band invented to describe the shape of a woman's hips and the way she walks. Other than the chant "squib cakes," the song is an instrumental  Can you hear the shape and movement?
+status: review
 writing theme:
 ---
-**November 4 (11-04)** — David Garibaldi's birthday (born November 4, 1946). Garibaldi's drumming is the defining feature of this track and the "Oakland Stroke" sound broadly. **No entry currently assigned to this date.** Strong choice. Source: https://en.wikipedia.org/wiki/David_Garibaldi_(musician)
+David Garibaldi was born on November 4, 1946. His drumming is the defining feature of today’s track, Tower of Power’s "Squib Cakes." Among drummers, Garibaldi is close to mythical. His ghost-note layering, syncopation, and Latin-inflected funk became a masterclass that generations have studied. *Rolling Stone* ranked him #46 on its “100 Greatest Drummers of All Time” list, and *Modern Drummer* readers voted him top R&B/Funk drummer six consecutive years from 1980 to 1985.
+
+_Back to Oakland_ is often singled out as essential listening for drummers. It opens and closes with “Oakland Stroke,” a short intro and reprise that bookend the record. Oakland Stroke became the name for Garibaldi's drumming style and the band's signature rhythmic feel.
 
 ---
 ## Research Notes

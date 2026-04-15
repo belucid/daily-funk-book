@@ -1,15 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: Morris Day
-track:
+artist: JB's
+track: These Are the JB's
 album:
 label:
 year:
 track length:
 genre:
-  - Minneapolis Sound
-region: US - Minnesota
+region: US - Georgia
 listening mission:
 status: stub
 writing theme:

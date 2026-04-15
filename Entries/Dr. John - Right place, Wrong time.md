@@ -1,20 +1,18 @@
 ---
 fileClass: funk-entry
 day:
-artist: Morris Day
-track:
+artist: Dr. John
+track: Right place, Wrong time
 album:
 label:
 year:
 track length:
 genre:
-  - Minneapolis Sound
-region: US - Minnesota
+region:
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 
 ---
 ## Research Notes
-

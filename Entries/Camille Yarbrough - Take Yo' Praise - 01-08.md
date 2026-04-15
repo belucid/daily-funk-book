@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-08
 artist: Camille Yarbrough
 track: Take Yo' Praise
 album: The Iron Pot Cooker
@@ -8,13 +8,18 @@ label: Vanguard
 year: 1975
 track length: 4m 13s
 genre:
-  - Soul Jazz
+  - Deep Funk
 region:
   - US - New York
-listening mission:
-status: research-review
+listening mission: You likely know the vocal intro from Fatboy Slim’s “Praise You.” How does hearing it in its original context change it?
+status: review
 writing theme: Songs where the sample is better known than the sampled, seems like a cover at first, cause the sample has the words
 ---
+Sometimes we hear the original only after becoming familiar with a cover, so the original ends up sounding like the cover. The same thing can happen with samples, and it will almost certainly happen when you hear the opening of today’s song, “Take Yo’ Praise” by Camille Yarbrough. 
+
+Born on January 8, 1938, Yarbrough wrote “Take Yo’ Praise” in honor of the many anonymous contributors to the civil rights movement and, in an ironic twist, became an anonymous contributor to a #1 hit herself.
+
+Fatboy Slim discovered the track at a bootleg record stall in North London and sampled the vocal intro at a higher pitch and faster tempo. The more familiar result, "Praise You," reached #1 in the UK and #1 on the *Billboard* Dance chart. Its video was shot for $800 outside a movie theater in Los Angeles. It won three MTV Video Music Awards and was voted the best music video of all time in MTV's 20th anniversary poll in 2001.
 
 ---
 ## Research Notes

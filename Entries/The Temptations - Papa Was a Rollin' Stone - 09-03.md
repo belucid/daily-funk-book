@@ -1,19 +1,24 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-03
 artist: The Temptations
 track: Papa Was a Rollin' Stone
 album: All Directions
 label: Gordy
 year: 1972
-track length: 11m 45s
+track length: 12m 5s
 genre:
   - Classic Funk
 region: US - Michigan
-listening mission:
-status: research-review
+listening mission: The Temptations take turns, each asking different questions about the absent father, but getting the same answer. Listen to how each voice expresses a different emotion.
+status: review
 writing theme:
 ---
+At twelve minutes, the album version of “Papa Was a Rollin’ Stone” is built on patience. The vocals don't arrive until nearly four minutes in, and the long instrumental stretches return throughout. People have suggested those gaps mirror the father’s absence. At 6m 54s, the single edit was one of the longest #1 hits in *Billboard* Hot 100 history up to that point.
+
+The Temptations were not the first to record it. The Undisputed Truth recorded a shorter radio-friendly version earlier the same year but it failed to move up the charts. Producer Norman Whitfield turned the three-minute flop into a twelve-minute hit. The Temptations resisted the direction and nearly refused to record it, but Whitfield’s patience paid off.
+
+The Temptations’ version went to #1 and won three Grammys in 1973. It also sits at #169 on *Rolling Stone’s* list of the 500 Greatest Songs of All Time.
 
 ---
 ## Research Notes

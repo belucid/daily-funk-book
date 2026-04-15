@@ -9,7 +9,7 @@ year:
 track length:
 genre:
   - Minneapolis Sound
-region:
+region: US - Minnesota
 listening mission:
 status: stub
 writing theme:

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 09-19
+day: 04-21
 artist: Prince
 track: Face Down
 album: Emancipation
@@ -11,13 +11,15 @@ genre:
   - Minneapolis Sound
 region:
   - US - Minnesota
-listening mission: Prince shouts for horns, orchestra, and bass, and each time the song responds with something a bit forced and underwhelming. What do you think he is doing with that. Just humor, or something else?
+listening mission: Prince shouts for horns, orchestra, and bass, and each time the song responds with something a bit forced and underwhelming. Is this just humor, or something else?
 status: review
 writing theme:
 ---
-Prince showed NPG keyboardist Morris Hayes a scathing review of their recent album, The Gold Experience. In an attempt to cheer Prince up, Hayes went on a long tirade with a few choice lines. Two days later, Prince handed him a finished song built out of Hayes’ own words. That song was today’s track, “Face Down.” Prince was always listening, always collecting, and he filtered life through a musical lens. Here, he turned a friend’s venting into new art.
+Prince showed NPG keyboardist Morris Hayes a scathing review of their recent album, *The Gold Experience*. In an attempt to cheer Prince up, Hayes went on a long tirade with a few choice lines. Two days later, Prince handed him a finished song built out of Hayes' own words. That song was today’s track, “Face Down.” Prince was always listening, always collecting, and he filtered life through a musical lens. Here, he turned a friend’s venting into new art.
 
 You’ll notice “Face Down” is about as close as you’ll ever hear Prince come to rapping. He’s not rapping exactly, but he’s not singing either. It plays like a gangsta-rap parody run through a funk filter. Prince is entertaining himself, skewering his critics, and cracking up his friend. And somehow, it still grooves hard.
+
+Prince died on April 21, 2016. In “Face Down,” he jokes about being buried face down with his critics kissing his ass. In reality, there was no such orientation decision to make. He was cremated, and his ashes are kept at Paisley Park in a custom urn that's a scale model of the building.
 
 ---
 ## Research Notes

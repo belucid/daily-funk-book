@@ -11,14 +11,14 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: Dylan’s original is a seven-minute solo acoustic rant. Preston cuts it in half and adds drums, bass, horns, and strings. How much of Dylan’s anger survives the funky treatment?
-status: review
+status: complete
 writing theme:
 ---
-Billy Preston has one of the best claims to be the true fifth Beatle. He played with them at their last live performance together, the rooftop concert at Apple on January 30, 1969. He also played organ on late-era sessions for *Abbey Road* and *Let It Be*, and he's the only outside musician to be name-checked on a Beatles single: “Get Back” and “Don’t Let Me Down” are by “The Beatles with Billy Preston.”
+Billy Preston has one of the best claims to be the true fifth Beatle. He played with them at their last live performance together, the rooftop concert at Apple on January 30, 1969. He also played organ on late-era sessions for *Abbey Road* and *Let It Be*, and he's the only outside musician to be named on a Beatles single: “Get Back” and “Don’t Let Me Down” are by “The Beatles with Billy Preston.”
 
 Preston first crossed paths with the Beatles in Hamburg while he was touring with Little Richard. Years later, George Harrison produced Preston’s album *That’s the Way God Planned It*, and it became the first non-Beatles release on Apple. From there, Harrison brought him into the Beatles’ London orbit. Preston was inducted into the Rock and Roll Hall of Fame in 2021, with Ringo Starr handling the announcement.
 
-Today’s song is Preston’s cover of Bob Dylan’s “It’s Alright (I’m Only Bleeding)” from 1965’s *Bringing It All Back Home*. Dylan’s original was basically a one-take live studio performance. Preston turned it into something more arranged and cinematic, with horn and string arrangements by Motown's Paul Riser.
+Today’s song is Preston’s cover of Bob Dylan’s “It’s Alright (I’m Only Bleeding)” from 1965’s *Bringing It All Back Home*. Dylan’s original was basically a one-take live studio performance. Preston's track is more arranged and cinematic, with horn and string arrangements by Motown's Paul Riser.
 
 
 ---

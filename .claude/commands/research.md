@@ -54,10 +54,11 @@ When writing to the Research Notes section, use these fixed headings, in this or
 ### Open Research Questions
 ### Writing Theme Suggestions
 ### Listening Mission Suggestions
-### Date Suggestions
 ### Interest and Surprise
+### Date Suggestions
 ### Field Verification
 ### Genre Suggestions
+### Region Suggestions
 ### Streaming & Purchase Links
 ### Sources
 ```

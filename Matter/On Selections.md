@@ -1,4 +1,4 @@
-I intentionally avoided including the biggest, most unavoidable funk hits. Not because they are not incredible songs, but because most readers will already know them. This book is meant to offer a daily journey of discovery, not a greatest-hits playlist.
+I intentionally avoided the biggest, most unavoidable funk hits. Not because they are not incredible, but because most readers already know them. This book is meant to be a daily journey of discovery, not a greatest-hits playlist.
 
 Here is an illustrative, though not exhaustive, list of the kind of mega-hits I mean:
 
@@ -25,6 +25,6 @@ Here is an illustrative, though not exhaustive, list of the kind of mega-hits I 
 - "You Dropped a Bomb on Me", The Gap Band (1982)
 - "Sign 'O' the Times", Prince (1987)
 
-Not that these are not amazing songs. They are. If you’re not familiar with any of them, go listen to it immediately. It's just that I assume most people, no matter when they were born, already know at least the chorus from the songs in this platinum tier of funk history.
+These are amazing songs. If you're not familiar with any of them, go listen immediately. I just assume most people, no matter when they were born, already know at least the chorus of the songs in this platinum tier of funk history.
 
 Rather than cement a cartoonish view of what funk is, I want this book to open your ears to the variety and depth the genre offers once you peek beyond the obvious.

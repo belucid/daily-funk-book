@@ -11,16 +11,14 @@ genre:
   - Jazz-Funk
 region: US - New York
 listening mission: Donald Byrd is the bandleader and virtuoso trumpeter, but he stays out of the way and lets the rhythm section lead. Listen to how Clare Fischer takes the spotlight on keys.
-status: review
+status: complete
 writing theme:
 ---
 Grammy-winning jazz musician, composer, and arranger Clare Fischer was born October 22, 1928, in Durand, Michigan. He moved to Hollywood in 1962 and worked in the Wrecking Crew-era LA session ecosystem.
 
-Today's track, "Morning," is Fischer's composition, and it puts his Fender Rhodes front and center. Fischer has a lighter touch than many on the instrument, and he displays his talent as a multi-instrumentalist on the rest of the album, including synths, acoustic piano, and even some alto saxophone.
+Today’s track, “Morning,” is a Fischer composition that started life as a cha-cha on his 1965 Afro-Cuban album *Manteca!* This version strips away the Latin percussion and drops his Fender Rhodes into a jazz-funk groove. Fischer has a lighter touch than many on the instrument, and he shows his range across the rest of the album too, including synths, acoustic piano, and even some alto saxophone.
 
-"Morning" started life as a cha-cha on Fischer's 1965 Afro-Cuban album *Manteca!* This later version strips away the Latin percussion and drops the tune into a jazz-funk groove. The transformation is complete.
- 
-Clare Fischer first worked with Donald Byrd doing arrangements in the late 1950s. Twenty years later they came together for *Donald Byrd and 125th Street, N.Y.C.*, which despite the title, was recorded at The Sound Factory in Hollywood, CA. Fischer later did most of Prince's arranging from 1985 until Prince's death in 2016.
+Fischer first worked with Donald Byrd as an arranger in the late 1950s. Twenty years later they reunited for *Donald Byrd and 125th Street, N.Y.C.*, which, despite the title, was recorded at The Sound Factory in Hollywood, CA. Fischer later did most of Prince’s arranging from 1985 until Prince’s death in 2016.
 
 
 ---

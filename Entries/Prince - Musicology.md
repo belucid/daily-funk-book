@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 04-20
+day:
 artist: Prince
 track: Musicology
 album: Musicology
@@ -11,7 +11,7 @@ genre:
   - Minneapolis Sound
 region:
   - US - Minnesota
-listening mission: Prince being Prince, he does not do retro like everyone else. Released April 20, 2004, what do you hear that roots this in 2004, not 1974?
+listening mission: Prince being Prince, he does not do retro like everyone else. What do you hear that roots this in 2004, not 1974?
 status: complete
 writing theme:
 ---
@@ -19,7 +19,7 @@ It’s time to warn you about a peculiar side effect of funk exposure. It’s ca
 
 “Musicology” is Prince in full retro mode, an “old school joint” aimed at the “true funk soldiers.” He shouts out a few of his heroes to educate the younger crowd, including James Brown, Sly Stone, and Earth, Wind and Fire. And just past the four-minute mark, he drops in a quick sample of his own “Kiss.” Is he placing himself in the funk canon?
 
-Prince and his team ran a promotion for the Musicology tour to provide a copy of the CD with every concert ticket purchased. The tour was the highest-grossing of 2004, so it had the effect of boosting album sales tremendously. As with so many things, Prince’s innovation rewrote the rules, and his strategy became an industry standard. After Prince’s success, bundling became so common that *Billboard* eventually tightened its rules around ticket and merch bundles.
+Prince and his team ran a promotion for the Musicology tour to provide a copy of the CD with every concert ticket purchased. The tour was the highest-grossing of 2004, so it had the effect of boosting album sales tremendously. As with so many things, Prince’s innovation rewrote the rules, and the bundling strategy became an industry standard. After Prince’s success, it became so common that *Billboard* eventually tightened its rules around ticket and merch bundles.
 
 ---
 ## Research Notes

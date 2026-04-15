@@ -9,7 +9,7 @@ year:
 track length:
 genre:
   - Gospel Funk
-region:
+region: US - Illinois
 listening mission:
 status: stub
 writing theme:

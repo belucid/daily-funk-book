@@ -1,4 +1,4 @@
-All the music in this book lives under the broad umbrella of funk. The labels below are really subgenres, but to keep things simple I refer to them as genres throughout. Assigning a genre to each entry was not always straightforward; many songs could reasonably fit more than one category. Even in cases where you would label a track differently, I hope my choice makes sense as a reasonable option.
+All the music in this book lives under the broad umbrella of funk. The labels below are really sub-genres, but to keep things simple I refer to them as genres throughout. Assigning a genre to each entry was not always straightforward; many songs could reasonably fit more than one category. Even in cases where you would label a track differently, I hope my choice makes sense as a reasonable option.
 
 What follows are my working definitions for each genre as used in this book, listed in order from most entries to fewest.
 
@@ -22,11 +22,11 @@ In this book, soul jazz is mostly used to label the earlier, smaller-ensemble si
 
 **Latin Funk (n days):** I needed one label that can comfortably hold “funk plus Latin rhythms” across Afro-Cuban, Puerto Rican, Brazilian, and all pan-Latin flavors, so the best umbrella term is Latin funk. I use this as a label for music that combines funk with Latin musical textures and  percussion-driven grooves.
 
-**Minneapolis Sound (n days):** Everybody finds funk through a door, and mine was Prince Rogers Nelson of Minneapolis, Minnesota. The Minneapolis sound is a lean, high-tempo evolution of 1970s funk-rock, fused with new wave and synth-pop, and often utilizing the early drum machines of the 1980s. You probably already know the hits, so these entries focus on Prince’s funkier deep cuts, plus the Prince-adjacent musicians and groups that made the scene.
+**Minneapolis Sound (n days):** Everybody finds funk through a door, and for some of you, I hope it's this book. My door was Prince Rogers Nelson of Minneapolis, Minnesota. The Minneapolis sound is a lean, high-tempo evolution of 1970s funk-rock, fused with new wave and synth-pop, and often utilizing the early drum machines of the 1980s. You probably already know the hits, so these entries focus on Prince’s funkier deep cuts, plus the Prince-adjacent musicians and groups that made the scene.
 
 **Psychedelic Funk (n days):** Many people call this tradition P-Funk, and at the center of it is George Clinton and his Parliament-Funkadelic universe. In this book I use “psychedelic funk” as the broader label, because it lets me point to the sound and the ideas without implying every artist is part of that specific family tree. Psychedelic funk fuses funk’s groove with psychedelic music’s surreal lyrics, colors and sounds, often leaning into alter egos, invented worlds, and hallucinatory storytelling in the spirit of late-60s psychedelic rock.
 
-**Funk Rock (n days):** Mixing rock and roll with funk rhythms goes back at least to Little Richard in the 1950s, and the fusion shows up throughout the 1960s and 1970s. In this book, though, most funk rock entries come from the style's surge in popularity in the 1980s and 1990s.
+**Funk Rock (n days):** Mixing rock and roll with funk rhythms goes back at least to Little Richard in the 1950s, and the fusion shows up throughout the 1960s and 1970s. Many of the funk rock entries in the book come from the style's surge in popularity in the 1980s and 1990s.
 
 **Acid Jazz (n days):** Acid jazz is a late-1980s and 1990s offshoot that revives 1970s jazz-funk for sampling and club culture. It keeps dancers moving with tight grooves, hooks, and atmosphere, not extended improvisation.
 
@@ -56,7 +56,7 @@ Finally, there are sub-genres of funk I have chosen not to cover, mostly because
 
 ### On Regions
 
-Each daily track is tagged with a geographic region. Like subgenres, region can be fuzzy. Should it reflect where the artist is from, where the band formed, where the label operated, where the recording happened, or where the scene lived? I made one call for each entry. It will not be perfect, but each choice is meant to represent the track's origins and be defensible.
+Each daily track is tagged with a geographic region. Like genres, region can be fuzzy. Should it reflect where the artist is from, where the band formed, where the label operated, where the recording happened, or where the scene lived? I made one call for each entry. It will not be perfect, but each choice is meant to represent the track's origins and be defensible.
 
 A second challenge is deciding what counts as a region. I avoided city-level tags. In a few cases a state has a distinct enough sound to stand on its own, while in others I used broader US regions. Outside the US, I tagged tracks by country.
 

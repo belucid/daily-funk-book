@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 02-01
+day:
 artist: Lou Bond
 track: To The Establishment
 album: Lou Bond

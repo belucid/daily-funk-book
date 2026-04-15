@@ -11,14 +11,14 @@ genre:
   - Deep Funk
 region: US - California
 listening mission: Dylan’s original is a loose, shambolic brass-band march. Clayton’s version hits hard and fast. Does the subject matter lend itself to a tight funk groove?
-status: review
+status: complete
 writing theme:
 ---
-What do you name your daughter when she’s born on Christmas Day? “Merry,” of course. Merry Clayton was born on Christmas Day in 1948 and became one of the great backing singers. You know her voice, even if you don't know her name.
+What do you name your daughter when she’s born on Christmas Day? “Merry,” of course. Merry Clayton was born on Christmas in 1948 and became one of the great backing singers. You know her voice, even if you don't know her name.
 
-Clayton’s 1975 album *Keep Your Eye On the Sparrow* was cut with an A-list of funky session players, including Steve Gadd, Idris Muhammad, Bob James, and Ralph MacDonald. Clayton earned that kind of support the hard way, after years of key background work for artists like Ray Charles, Neil Young, Mick Jagger, and Joe Cocker. She’s also one of the background singers featured in the Grammy- and Oscar-winning documentary *20 Feet From Stardom*.
+Clayton’s 1975 album *Keep Your Eye On the Sparrow* featured an A-list of funky session players, including Steve Gadd, Idris Muhammad, Bob James, and Ralph MacDonald. She earned that support the hard way from years of key background work for artists like Ray Charles, Neil Young, Mick Jagger, and Joe Cocker. Her vocal work was featured in the Grammy- and Oscar-winning documentary *20 Feet From Stardom*.
 
-In 2014, Clayton was injured in a car accident and both legs were amputated below the knee. When she was told, her first question was whether anything had happened to her voice. She came back with a new album in 2021, *Beautiful Scars*.
+In 2014, a car accident left her with both legs amputated below the knee. When she was told, her first question was whether anything had happened to her voice. She recovered and released a new album in 2021, *Beautiful Scars*.
 
 ---
 ## Research Notes
