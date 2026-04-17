@@ -8,12 +8,14 @@ label: Imperial
 year: 1968
 track length: 4m 04s
 genre:
+  - Deep Funk
 region:
   - US - Texas
 listening mission: How short does a guitar note need to be before it's percussion?
 status: research-review
 writing theme: Most sellout backlash was directed at Jazz musicians, but blues musicians also crossed over and made funk in search of more commercial success.
 ---
+Canned Heat discovery of Albert and record deal arrangement.
 
 ---
 ## Research Notes
@@ -114,16 +116,17 @@ Primary recommendation: keep **US - Texas**.
 
 ### Streaming & Purchase Links
 
+actually seems to be on these streaming services as 
 - Spotify: https://open.spotify.com/track/63pNJyyNVXaCEW34ce5FeK
 - YouTube Music: could not locate a confirmed canonical URL; almost certainly available via the *Complete Imperial Recordings* compilation. Author should search directly.
 - Apple Music: could not locate a direct track URL. Likely available on the *Complete Imperial Recordings* reissue.
 - Amazon Music: could not locate a direct stream URL; album page at https://www.amazon.com/Albert-Collins-Anywhere-Together-Whatcha/dp/B00ARN5H6C
 - Deezer (as part of *Complete Imperial Recordings*): https://www.deezer.com/us/album/11603616
-- Tidal: could not locate.
+- Tidal: https://tidal.com/album/53168620
 - Qobuz: could not locate.
 - SoundCloud: could not locate.
 - Audiomack: could not locate.
-- YouTube Video: could not locate a confirmed canonical upload via web search; author should search "Albert Collins Do the Sissy" on YouTube directly.
+- YouTube Video: https://www.youtube.com/watch?v=V81fd7HIcnU
 - Buy Album on Discogs (master): https://www.discogs.com/master/392915-Albert-Collins-Love-Can-Be-Found-Anywhere-Even-In-A-Guitar
 - Buy Single on Discogs (master): https://www.discogs.com/master/1387358-Albert-Collins-Do-The-Sissy-Turnin-On
 - Buy on Amazon: https://www.amazon.com/Love-Found-Anywhere-even-Guitar/dp/B0012KF7C8

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 12-9
+day: 12-09
 artist: Donald Byrd and 125th Street, N.Y.C.
 track: People Suppose to Be Free
 album: Donald Byrd and 125th Street, N.Y.C.

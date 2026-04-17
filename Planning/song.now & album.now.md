@@ -10,6 +10,7 @@ Tidal
 Qbuz
 Audiomack
 Deezer
+Feature.fm
 YouTube
 Buy on Discogs
 Buy on Amazon

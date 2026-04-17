@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 10-22
 artist: Donald Byrd and 125th Street, N.Y.C.
 track: Morning
 album: Donald Byrd and 125th Street, N.Y.C.

@@ -10,15 +10,15 @@ track length: 7m 25s
 genre:
   - Classic Funk
 region: US - California
-listening mission:
-status: review
+listening mission: "Listen to how War shows how the groove works by building it in plain sight over the first 30 seconds: just guitar, then bass, then drums, then percussion, before the vocals enter and the horns respond."
+status: complete
 writing theme:
 ---
-1972’s *The World Is a Ghetto* was the best-selling album of 1973 according to *Billboard*, making War one of the biggest acts in American music. Their follow-up album, *Why Can’t We Be Friends?*, did not arrive until 1975, the result of a legal battle with the label. Even with the delay, it still reached #8 on the *Billboard* 200 and #1 on the R&B chart.
+1972’s *The World Is a Ghetto* was the best-selling album of 1973 according to *Billboard*, making War one of the biggest acts in American music. Their follow-up, *Why Can’t We Be Friends?*, did not arrive until 1975 due to a dispute with the label. Even with the delay, it reached #8 on the *Billboard* 200 and #1 on the R&B chart.
 
-The album’s hit single “Low Rider” was issued on an early promotional 12-inch, before the format became standard currency for club DJs. That same 12-inch also carried today’s track, “Heartbeat.” It was not a featured album cut, but the extra room on the 12-inch and the club context helped push it into a Top 10 spot on the dance chart.
+The album’s hit single "Low Rider" was issued as one of the first promotional 12-inch records for club DJs. That 12-inch also carried today’s track, “Heartbeat.” Although not itself a single from the album, the extra space on the record and the dance-floor context helped “Heartbeat” reach the Top 10 on the dance chart. As you listen, count how many times “funky” shows up in the lyrics.
 
-Five years later, War’s saxophonist Charles Miller was stabbed to death on June 4, 1980 during a botched robbery in Los Angeles. His iconic deep voice was a big part of "Low Rider." No one was ever arrested for his murder.
+Five years later, on June 4, 1980, War’s saxophonist Charles Miller was stabbed to death during a botched robbery in Los Angeles. His iconic deep voice was a big part of "Low Rider." No one was ever arrested for his murder.
 
 ---
 ## Research Notes
@@ -28,7 +28,13 @@ Five years later, War’s saxophonist Charles Miller was stabbed to death on Jun
 
 ### Open Research Questions
 
-No open research questions were found in the entry.
+**Q: Was *The World Is a Ghetto* really the best-selling album of 1973?**
+
+**A: Yes.** *The World Is a Ghetto* sat at #1 on Billboard's Year-End Top Pop Albums chart for 1973, with Seals & Crofts' *Summer Breeze* at #2, Stevie Wonder's *Talking Book* at #3, Carly Simon's *No Secrets* at #4, and the *Lady Sings the Blues* soundtrack at #5. — Source: https://bestsellingalbums.org/year-end/Billboard_Top_Albums_1973
+
+Billboard confirmed the claim in its own coverage: per the December 29, 1973 issue, the album was "the top pop album of the year," beating out Seals & Crofts, Stevie Wonder, and Carly Simon. — Source: https://www.billboard.com/music/rb-hip-hop/war-the-world-is-a-ghetto-billboard-chart-1235551303/
+
+Worth noting for accuracy: the album only spent two weeks at #1 on the weekly Billboard 200 (February 10 and 17, 1973), but it was the highest-grossing album across the whole calendar year. Some online sources erroneously give year-end 1973's top slot to Elton John's *Goodbye Yellow Brick Road*, but that album was released in October 1973 and actually topped the year-end 1974 chart, not 1973. The "best-selling album of 1973" claim in the entry body is accurate. — Source: https://en.wikipedia.org/wiki/The_World_Is_a_Ghetto
 
 ### Writing Theme Suggestions
 

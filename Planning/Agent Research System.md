@@ -1,5 +1,5 @@
 
-### Getting Resources
+### Getting Research Resources
 
   1. Discogs API token (most impactful)
   Discogs has a proper API. With a personal access token, https://api.discogs.com/masters/375941 works where the web URL 403s. You'd add the token to ~/.funk/config.toml, the funk script injects it into the

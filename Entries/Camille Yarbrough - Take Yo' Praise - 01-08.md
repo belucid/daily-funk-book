@@ -11,15 +11,15 @@ genre:
   - Deep Funk
 region:
   - US - New York
-listening mission: You likely know the vocal intro from Fatboy Slim’s “Praise You.” How does hearing it in its original context change it?
-status: review
+listening mission: You likely know the vocal from Fatboy Slim’s “Praise You.” How does hearing it in its original context change it?
+status: complete
 writing theme: Songs where the sample is better known than the sampled, seems like a cover at first, cause the sample has the words
 ---
-Sometimes we hear the original only after becoming familiar with a cover, so the original ends up sounding like the cover. The same thing can happen with samples, and it will almost certainly happen when you hear the opening of today’s song, “Take Yo’ Praise” by Camille Yarbrough. 
+Sometimes we hear the original version only after becoming familiar with a cover, so the original sounds like the cover. That happens with samples too. It might happen to you when you hear the opening of today’s song, "Take Yo’ Praise" by Camille Yarbrough. 
 
-Born on January 8, 1938, Yarbrough wrote “Take Yo’ Praise” in honor of the many anonymous contributors to the civil rights movement and, in an ironic twist, became an anonymous contributor to a #1 hit herself.
+Born on January 8, 1938, Yarbrough wrote the song to honor anonymous contributors to the civil rights movement, only to become an anonymous contributor to a #1 hit herself.
 
-Fatboy Slim discovered the track at a bootleg record stall in North London and sampled the vocal intro at a higher pitch and faster tempo. The more familiar result, "Praise You," reached #1 in the UK and #1 on the *Billboard* Dance chart. Its video was shot for $800 outside a movie theater in Los Angeles. It won three MTV Video Music Awards and was voted the best music video of all time in MTV's 20th anniversary poll in 2001.
+Fatboy Slim found the track at a North London bootleg record stall and sampled her vocal at a higher pitch and faster tempo. His more familiar "Praise You" reached #1 in the UK and topped the *Billboard* Dance chart. The music video, shot for $800 outside a movie theater in Los Angeles, won three MTV Video Music Awards and was voted the best music video of all time in MTV's 20th anniversary poll in 2001.
 
 ---
 ## Research Notes
