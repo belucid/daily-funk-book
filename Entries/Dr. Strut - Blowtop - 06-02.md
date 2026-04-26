@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 06-02
 artist: Dr. Strut
 track: Blowtop
 album: Dr. Strut
@@ -11,10 +11,15 @@ genre:
   - Jazz-Funk
 region:
   - US - California
-listening mission:
-status: research-review
+listening mission: Does this feel like a live band playing together in a room, or like a session built in pieces?
+status: review
 writing theme:
 ---
+Most of Dr. Strut’s debut album, released June 2, 1979, was cut in just one or two takes with minimal overdubbing, rare for an LA jazz-fusion session in 1979. “Blowtop” captures what the band was chasing: quick punch out of the gate, then restless energy as the groove shifts around.
+ 
+Dr. Strut originally formed as the Legendary Dynamic Groovadelics, but thankfully Motown head Berry Gordy rechristened them Dr. Strut when he signed them to the label’s new jazz division. Gordy shut that division down two years later, leaving the band to find a Japanese label for their third record. They were big in Japan.
+
+“Blowtop” was composed by saxophonist David Woodford. You already know his work: he is the tenor saxophonist who later screamed through Glenn Frey’s “The Heat Is On” in *Beverly Hills Cop*.
 
 ---
 ## Research Notes

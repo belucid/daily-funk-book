@@ -8,11 +8,19 @@ label: People Records
 year: 1974
 track length: 4m 32s
 genre:
+  - Classic Funk
 region: US - Southeast
-listening mission:
-status: research-review
+listening mission: Listen for the line “I don’t need nobody tell me how to blow my horn.” Is Fred Wesley paying tribute to James Brown’s “I Don’t Want Nobody to Give Me Nothing,” or taking a jab at the boss?
+status: review
 writing theme:
 ---
+James Brown was a larger-than-life figure who cast a long shadow. Some artists, like Bootsy Collins, had to break away from Brown rather than try to share his spotlight. Others, including saxophonist Maceo Parker and trombonist, bandleader, and musical director Fred Wesley, found ways to step forward from inside the machine. One of those ways was through the James Brown-produced JB’s albums, which featured the band without the frontman.
+
+“Little Boy Black” comes from the JB’s 1974 album *Breakin’ Bread*. Fred Wesley opens the track by thanking listeners for buying their records, then follows with a proto-rap that, to my ear, sets the template for Morris Day and Jerome’s comic interplay in The Time a decade later.
+
+James Brown is credited only as producer, but his voice is clearly audible in the second half of the song. Even with Brown’s stamp all over it, and even with the album on his own label, it is hard to imagine him putting this much focus on multiple trombone solos on one of his own records.
+
+The album marked the end of the Fred Wesley era of the JB’s. He left soon after to join George Clinton and Parliament-Funkadelic.
 
 ---
 ## Research Notes
@@ -26,6 +34,7 @@ writing theme:
 **[AUDIT]** `2026-04-19 14:00` — `track length` changed from `(empty)` to `4m 32s` — Source: https://www.deezer.com/en/album/74437452 and https://open.spotify.com/track/3DvvtufdDb1Oo4oQ22Hi2r (Note: the original 1974 LP listing shows 3:54, but all current streaming masters time the track at 4:32; using the streaming duration since that's what readers will encounter.)
 
 ### Open Research Questions
+
 
 No open questions were left in the entry by the author. A few questions I tried to resolve during research and their status:
 

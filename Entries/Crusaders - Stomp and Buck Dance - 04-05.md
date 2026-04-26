@@ -10,11 +10,15 @@ track length: 5m 51s
 genre:
   - Jazz-Funk
 region: US - Texas
-listening mission:
-status: research-review
+listening mission: Listen for Henderson’s trombone in “Stomp and Buck Dance.” It can be harder to pick out than the guitar, bass, keys, and sax you’re now used to hearing.
+status: review
 writing theme:
 ---
-**04-05 (Apr 5, 2014)** — Wayne Henderson, the track's composer, died on this date. A memorial frame works well for a Henderson-written tune. 
+Today’s song, "Stomp and Buck Dance," was written by Crusaders co-founder and trombonist Wayne Henderson. He was born in 1939 in Houston’s Fifth Ward and started playing trombone in middle school. He co-founded his first band in 1954 at age 15. At Henderson's urging, that same group eventually shortened its name to the Crusaders in 1971.
+
+Henderson left the group in 1975, mainly to focus on his in-demand production work. He produced some of the late-1970s tracks in this book, working with Ronnie Laws, Pleasure, Side Effect, Roy Ayers, and Hiroshima and others. He also released a few solo records for Polydor during the same period.
+
+The surviving members of the Crusaders reunited for tours in 1995 and 2010, and Henderson was still on stage as a Crusader in London in October 2013, six months before his death from complications of diabetes on April 5, 2014.
 
 ---
 ## Research Notes
@@ -27,7 +31,52 @@ writing theme:
 
 ### Open Research Questions
 
-No `open:` items were present in the file. Nothing to resolve.
+OPEN: This entry is going to focus on Wayne Henderson, so need details on his bio, early years, career. Interesting facts about Wayne.
+
+**Resolution: Wayne Henderson bio dossier**
+
+*Vital stats*
+- Full name: Wayne Maurice Henderson — Source: https://en.wikipedia.org/wiki/Wayne_Henderson_(musician)
+- Born: September 24, 1939, Houston, Texas (Fifth Ward) — Sources: https://en.wikipedia.org/wiki/Wayne_Henderson_(musician) ; https://www.jazzwise.com/news/article/a-tribute-to-a-lifelong-jazz-crusader-wayne-henderson-24-09-39-05-04-14
+- Died: April 5, 2014, Culver City, California, of heart failure, age 74. He had been living with diabetes. Note: NPR's obituary, written April 7, 2014, refers to him dying "Friday," which would have been April 4. Wikipedia, Jazzwise, BlackPast and SoulTracks all use April 5. Treat April 5 as the consensus, with NPR as a minority outlier. — Sources: https://en.wikipedia.org/wiki/Wayne_Henderson_(musician) ; https://www.npr.org/sections/ablogsupreme/2014/04/07/300294194/wayne-henderson-jazz-crusaders-co-founder-dies
+- Primary instrument: trombone. Began studying it in sixth grade. — Source: https://www.tshaonline.org/handbook/entries/crusaders
+
+*Early years and the band's pre-history*
+- Grew up in Houston's Fifth Ward, the same neighborhood that produced Joe Sample, Wilton Felder, and Stix Hooper. The four met as kids and started playing together at Smith Junior High School, then continued through Phyllis Wheatley High School, and on into Texas Southern University. — Source: https://www.tshaonline.org/handbook/entries/crusaders
+- Their first band was the Swingsters, formed in 1954 when they were teenagers, mixing jazz, blues, and R&B into what they later called the "Gulf Coast sound." — Source: https://www.tshaonline.org/handbook/entries/crusaders
+- The group went through several names (Swingsters → Modern Jazz Sextet → Nite Hawks, briefly the house band at the New Frontier Hotel in Las Vegas) before relocating to Los Angeles in 1958 and signing to Pacific Jazz in 1961 as the Jazz Crusaders. — Sources: https://www.tshaonline.org/handbook/entries/crusaders ; https://en.wikipedia.org/wiki/The_Crusaders_(jazz_fusion_group)
+
+*Crusaders contributions*
+- Co-founder of the Jazz Crusaders (1961). Sixteen albums on Pacific Jazz / World Pacific between 1961 and 1969, beginning with *Freedom Sound* (1961) and *Lookin' Ahead* (1962). — Source: https://en.wikipedia.org/wiki/The_Crusaders_(jazz_fusion_group)
+- The band's signature horn voicing came from Henderson's trombone working in tight unison with Wilton Felder's tenor sax — an unusual front line that gave the Jazz Crusaders a sound nobody else had. — Source: https://www.jazzwise.com/news/article/a-tribute-to-a-lifelong-jazz-crusader-wayne-henderson-24-09-39-05-04-14
+- It was Henderson who pushed the band to drop "Jazz" from the name in 1971, signaling the move toward funk-leaning, R&B-friendly material. The first album under the new name (*Crusaders 1*, 1972) launched the band's commercial peak. — Source: https://www.tshaonline.org/handbook/entries/crusaders
+- Wrote "Stomp and Buck Dance" (1974), among his most-played Crusaders compositions. — Source: https://en.wikipedia.org/wiki/Southern_Comfort_(The_Crusaders_album)
+- Left the group in 1975 (some sources say 1976) to focus on production work. He returned periodically: in 1995 he assembled a new lineup as "The Jazz Crusaders" with Felder, Ronnie Laws, and Larry Carlton, and toured again with Joe Sample in 2010. His last performance was in London in October 2013. — Sources: https://en.wikipedia.org/wiki/Wayne_Henderson_(musician) ; https://www.tshaonline.org/handbook/entries/crusaders
+
+*Production career — At Home Productions*
+- Founded At Home Productions in the mid-1970s; tagline "All Good Music Starts At Home." Built a stable of session players (Bobby Lyle on keys, Ronnie Laws on sax, etc.) that became the backbone of his releases. — Source: http://dougpayne.blogspot.com/2010/08/wayne-henderson-and-at-home-productions.html
+- Produced records for Ronnie Laws, Pleasure, Side Effect, Bobby Lyle, Roy Ayers, Monk Montgomery, Hiroshima, Gabor Szabo, Caldera, Billy Cobham, Ernie Watts, the McCrarys, Narada Michael Walden, Michael White, and others. — Sources: http://dougpayne.blogspot.com/2010/08/wayne-henderson-and-at-home-productions.html ; https://www.soulandjazzandfunk.com/news/wayne-henderson-dies/
+- Co-led two well-known albums with Roy Ayers: *Step Into Our Life* (1978) and *Prime Time* (1980). — Source: https://www.discogs.com/master/219480-Roy-Ayers-Wayne-Henderson-Step-In-To-Our-Life
+- Production credits also reportedly include sessions or arranging work for Marvin Gaye, B.B. King, George Benson, Joni Mitchell, Bill Withers, Ramsey Lewis, Patti Austin, and Steely Dan. He co-produced Rebbie Jackson's "Centipede" with Michael Jackson. — Sources: https://www.jazzwise.com/news/article/a-tribute-to-a-lifelong-jazz-crusader-wayne-henderson-24-09-39-05-04-14 ; grokipedia summary fetched via https://grokipedia.com/page/Wayne_Henderson_(musician)
+
+*Solo recordings as leader*
+- Late 1960s: *People Get Ready* and *Soul Sound System*. — Source: https://www.makingascene.org/446/
+- Late 1970s solo run on ABC and Polydor: *Big Daddy's Place* (1977), *Living On A Dream* (1978), *Emphasised* (1979). — Source: https://www.makingascene.org/446/
+
+*Later years and teaching*
+- Joined the faculty of the California College of Music in Pasadena in 2007. — Source: https://en.wikipedia.org/wiki/Wayne_Henderson_(musician)
+
+*Color and character details worth using*
+- Jazzwise's tribute describes Henderson as having "a burly, barreling sound that seemed to mirror his imposing physique" — i.e., the trombone tone matched the man. — Source: https://www.jazzwise.com/news/article/a-tribute-to-a-lifelong-jazz-crusader-wayne-henderson-24-09-39-05-04-14
+- He was the band's name-change instigator, and the rebrand from Jazz Crusaders to The Crusaders is what set up the run of crossover hits that followed; in other words, the Crusaders' commercial pivot is largely Henderson's idea. — Source: https://www.tshaonline.org/handbook/entries/crusaders
+- He kept coming back. He left the band in 1975/76 but reunited members in 1995 and 2010, and was still on stage as a Jazz Crusader in London in October 2013, six months before his death. The "lifelong Crusader" framing in obituary headlines is literal. — Source: https://en.wikipedia.org/wiki/Wayne_Henderson_(musician)
+- The band's "Gulf Coast sound" tag came from the Houston four-piece's own self-description in their teens, before any of the labels existed. Henderson is one of the only people who can claim to have helped invent both that pre-jazz-funk sound and the 1970s funk-fusion variant of it. — Source: https://www.tshaonline.org/handbook/entries/crusaders
+
+*Possible writing hooks the bio opens up*
+- The trombone is rarely a funk lead instrument; Henderson is one of the genre's most prominent trombonists. The "Stomp and Buck Dance" head is essentially a trombone-led R&B hook, which is unusual and worth pointing out.
+- Henderson is the band's commercial-pivot architect: the name change, the funk turn, and the radio-friendly composition style all trace back through him.
+- The producer-after-the-band arc is a clean second-act story — he stops touring at 35-36 and pivots into a production house that runs through the late 1970s jazz-funk and disco era.
+- He came back. The "lifelong Crusader" angle (the man literally still on stage as a Jazz Crusader six months before he died) is a strong human note for a memorial-frame entry on his death anniversary.
 
 ### Writing Theme Suggestions
 

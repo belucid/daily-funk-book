@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 10-26
 artist: Herbie Hancock
 track: Chameleon
 album: Head Hunters
@@ -9,17 +9,28 @@ year: "1973"
 track length: 15m 41s
 genre: Jazz-Funk
 region: US - California
-listening mission:
-status: research-review
-writing theme: Jazz artists "selling out"
+listening mission: The iconic 12-note bassline that opens “Chameleon” was played on an ARP Odyssey synth, not a bass guitar. Listen to the texture of those low notes. Would anything be missing if it were played on electric bass?
+status: review
+writing theme: Pointer Sisters reaction
 ---
+Herbie Hancock’s Mwandishi band opened for the Pointer Sisters at the Troubadour in LA in the summer of 1973. It did not go well. By October 26 of the same year, he was releasing a new album with a new band.
+
+In his autobiography *Possibilities*, Hancock recalls watching the crowd go wild for the Pointer Sisters’ funky sound while barely tolerating his own avant-garde jazz. The experience was humbling. Hancock’s response was to form a new band and head in a new direction.
+
+The working title of today’s track was “Caesar Salad,” but the final title, “Chameleon,” became a metaphor for Hancock himself. He's an artist who never stopped changing colors. He was a classically trained pianist as a child. After his early Blue Note records, Miles Davis brought him into the second great quintet, where he played acoustic piano in one of the most important bands in jazz. He later pushed into the avant-garde with Mwandishi, using analog synthesizers to expand the sound of jazz. After the Troubadour wake-up call, he helped bring jazz-funk into the commercial mainstream with his new band, The Headhunters. A decade later, he changed colors again with the electronic smash hit “Rockit.”
 
 ---
 ## Research Notes
 
 ### Open Research Questions
 
-No open research questions found in the entry.
+When did Mwandishi open for the Pointer Sisters at the Troubadour in LA?
+
+**Resolution: best estimate is summer 1973; exact calendar date not nailed down from web sources.** The most-cited primary essay (Bob Belden's "Chameleon: The Life and Music of Herbie Hancock," hosted on Hancock's official site) places the show in the "summer of 1973." Other sources confirm it happened after Sextant's release (March 30, 1973) and during the chart run of "Yes We Can Can" (the Pointer Sisters single broke that summer), narrowing the window to roughly June-August 1973. A Newsweek piece by Maureen Orth dated August 20, 1973 references the Pointers' breakthrough Troubadour engagement as having occurred "three months ago" (around May 1973), but the Mwandishi opening slot may have been a separate later booking. The Hollywood Bowl's "Head Hunters at 50" essay also says only "summer of 1973." Bob Gluck's 2012 book *You'll Know When You Get There: Herbie Hancock and the Mwandishi Band* (University of Chicago Press) is the most thorough scholarly treatment of the band and the most likely place to find a precise date, but I could not access its full text via the web. Steps taken: searched Wikipedia (Mwandishi, Sextant), Hancock's official essay archive, the Hollywood Bowl essay, Red Bull Music Academy Daily, the Pointer Sisters Wikipedia page, and Newsweek archive references; none gave a specific calendar date. — Sources: https://www.herbiehancock.com/2017/01/08/essay-chameleon-the-life-and-music-of-herbie-hancock/ ; https://www.hollywoodbowl.com/about/watch-and-listen/head-hunters-at-50-how-herbie-hancock-cut-loose-and-made-one-of-the-greatest-albums-of-all-time ; https://maureenorth.com/1973/08/pointers-on-parade-the-pointer-sisters/ ; https://en.wikipedia.org/wiki/Sextant_(album) ; https://books.google.com/books?id=JIWR0I__4RQC
+
+What's the name of Hancock's autobiography where he recounts the Pointer Sisters story?
+
+**Resolution: *Possibilities*, co-written with Lisa Dickey, published by Viking on October 23, 2014.** Hardcover ISBN 978-0670014712 (Viking); paperback ISBN 978-0143128021 (Penguin Books, 2015). The book covers Hancock's Mwandishi era and the pivot to Headhunters, including the Pointer Sisters Troubadour story, and is also the source for his disclosure of a past crack cocaine addiction (already cited in this entry's artist trivia). Online previews of the relevant Headhunters chapter are visible on Google Books, but the specific Pointer Sisters passage is not fully quotable from the web preview alone; for a direct quotation the author will need a copy of the book. — Sources: https://www.penguinrandomhouse.com/books/313520/herbie-hancock-possibilities-by-herbie-hancock-with-lisa-dickey/ ; https://books.google.com/books/about/Herbie_Hancock_Possibilities.html?id=lTlBAwAAQBAJ ; https://www.washingtonpost.com/entertainment/books/book-review-herbie-hancocks-possibilities/2014/11/06/717e12f2-48be-11e4-b72e-d60a9229cc10_story.html
 
 ### Writing Theme Suggestions
 
@@ -76,15 +87,15 @@ No listening mission currently set.
 
 Key dates from research:
 
-| Date | Event | Source |
-|------|-------|--------|
-| April 12 | Herbie Hancock's birthday (born 1940) | https://en.wikipedia.org/wiki/Herbie_Hancock |
-| October 26 | Head Hunters album release date (1973) | https://en.wikipedia.org/wiki/Head_Hunters |
-| February 22 | Harvey Mason's birthday (born 1947) | https://en.wikipedia.org/wiki/Harvey_Mason |
-| March 28 | Paul Jackson's birthday (born 1947) | https://en.wikipedia.org/wiki/Paul_Jackson_(bassist) |
-| March 18 | Paul Jackson's death (2021) | https://www.npr.org/2021/03/19/978930638/paul-jackson-headhunters-bassist-who-played-with-herbie-hancock-dies-at-73 |
-| August 29 | Bennie Maupin's birthday (born 1940) | https://en.wikipedia.org/wiki/Bennie_Maupin |
-| June 27 | Bill Summers' birthday (born 1948) | https://en.wikipedia.org/wiki/Bill_Summers_(musician) |
+| Date        | Event                                  | Source                                                                                                              |
+| ----------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| April 12    | Herbie Hancock's birthday (born 1940)  | https://en.wikipedia.org/wiki/Herbie_Hancock                                                                        |
+| October 26  | Head Hunters album release date (1973) | https://en.wikipedia.org/wiki/Head_Hunters                                                                          |
+| February 22 | Harvey Mason's birthday (born 1947)    | https://en.wikipedia.org/wiki/Harvey_Mason                                                                          |
+| March 28    | Paul Jackson's birthday (born 1947)    | https://en.wikipedia.org/wiki/Paul_Jackson_(bassist)                                                                |
+| March 18    | Paul Jackson's death (2021)            | https://www.npr.org/2021/03/19/978930638/paul-jackson-headhunters-bassist-who-played-with-herbie-hancock-dies-at-73 |
+| August 29   | Bennie Maupin's birthday (born 1940)   | https://en.wikipedia.org/wiki/Bennie_Maupin                                                                         |
+| June 27     | Bill Summers' birthday (born 1948)     | https://en.wikipedia.org/wiki/Bill_Summers_(musician)                                                               |
 
 **Suggested dates:**
 
