@@ -2,6 +2,8 @@ I intentionally avoided the biggest, most unavoidable funk hits. Not because the
 
 Here is an illustrative, though not exhaustive, list of the kind of mega-hits I mean:
 
+- "Cold Sweat", James Brown (1967)
+- "Everyday People", Sly Stone (1968)
 - "Thank You (Falettinme Be Mice Elf Again)", Sly & the Family Stone (1969)
 -  "Get Up (I Feel Like Being a) Sex Machine", James Brown (1970)
 - "War", Edwin Starr (1970)
@@ -19,10 +21,13 @@ Here is an illustrative, though not exhaustive, list of the kind of mega-hits I 
 - "Play That Funky Music", Wild Cherry (1976)
 - "Brick House", Commodores (1977)
 - “Car Wash”, Rose Royce (1977)
+- "Flash Light", Parliament (1978)
 - "September", Earth, Wind & Fire (1978)
+- "Le Freak", Chic (1978)
 - "Super Freak", Rick James (1981)
 - "1999", Prince (1982)
 - "You Dropped a Bomb on Me", The Gap Band (1982)
+- "Kiss", Prince (1986)
 - "Sign 'O' the Times", Prince (1987)
 
 These are amazing songs. If you're not familiar with any of them, go listen immediately. I just assume most people, no matter when they were born, already know at least the chorus of the songs in this platinum tier of funk history.

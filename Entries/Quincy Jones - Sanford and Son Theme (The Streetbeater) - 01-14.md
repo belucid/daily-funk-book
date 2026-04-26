@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-14
 artist: Quincy Jones
 track: Sanford and Son Theme (The Streetbeater)
 album: You've Got It Bad Girl
@@ -8,12 +8,19 @@ label: A&M Records
 year: 1973
 track length: 3m 06s
 genre:
-  - Classic Funk
+  - Jazz-Funk
 region: US - California
-listening mission:
-status: research-review
-writing theme: Funk in TV (mention Seinfeld)
+listening mission: The main melody is multiple layered harmonica tracks. Can you hear where one harmonica ends and another begins, or does it sound like one instrument?
+status: complete
+writing theme: Funk in TV
 ---
+Friday, January 14, 1972, marked the premiere of *Sanford and Son*. Critics saw Redd Foxx’s Fred Sanford as NBC’s answer to Archie Bunker from *All in the Family*, which aired directly before it. *Sanford and Son* finished the 1971-1972 season as sixth best in the ratings. It ran for six seasons, ending in 1977, and it's been in syndication ever since.
+
+It is hard to overstate how segregated American music still was in 1972. Black radio and white radio operated in separate spheres, as did the record stores and concert circuits. Today’s song, “Sanford and Son Theme (The Streetbeater)” by Quincy Jones, may have been the first funk millions of white Americans heard every week, not by choosing a station or buying a record, but because it aired before a sitcom.
+
+Jones wrote the theme before seeing the show. He based it on his friendship with Foxx and his familiarity with Foxx's humor.
+
+You’ve probably never heard the full three-minute version. Does it work better at full length, or at the TV show’s quick 50 seconds?
 
 ---
 ## Research Notes
@@ -22,6 +29,9 @@ writing theme: Funk in TV (mention Seinfeld)
 
 No open research questions were found in the existing notes.
 
+OPEN: What were the ratings for Sanford and Sons in season 1? 
+
+premiere. When did Quincy write the song?
 ### Writing Theme Suggestions
 
 Current writing theme: "Funk in TV (mention Seinfeld)"
@@ -118,6 +128,8 @@ Current writing theme: "Funk in TV (mention Seinfeld)"
 - **Buy on Amazon:** https://www.amazon.com/Sanford-Son-Streetbeater-Theme-Quincy/dp/B008MZSY5S
 
 ### Sources
+
+https://www.forbes.com/sites/jimryan1/2021/08/27/composer-jonathan-wolff-on-creating-seinfeld-theme-song-new-seinfeld-soundtrack-album/
 
 - Wikipedia — Sanford and Son Theme (The Streetbeater): https://en.wikipedia.org/wiki/Sanford_and_Son_Theme_(The_Streetbeater)
 - Wikipedia — You've Got It Bad Girl: https://en.wikipedia.org/wiki/You've_Got_It_Bad_Girl

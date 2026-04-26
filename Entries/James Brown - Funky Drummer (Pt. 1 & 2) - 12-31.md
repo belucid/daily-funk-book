@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: James Brown
 track: Funky Drummer (Pt. 1 & 2)
-album: In the Jungle Groove
+album:
 label: King Records
 year: "1970"
 track length: 9m 15s
@@ -11,10 +11,20 @@ genre:
   - Classic Funk
 region:
   - US - Southeast
-listening mission:
-status: research-review
+listening mission: If you had to sum up funk with one drum pattern, it would be this one. Lock in on it and decide what makes it so funky.
+status: complete
 writing theme:
 ---
+We end our journey where it began, with James Brown. About four and a half minutes into "Funky Drummer," Brown tells the band exactly what he wants, and just past the five-minute mark he barks: “1, 2, 3, 4, hit it!” The result is a twenty-second drum break that became a core rhythm of hip-hop.
+
+The funky drummer is Clyde Stubblefield. His improvised creation has been sampled on over two thousand tracks, yet he never received royalties for it. He died of cancer in 2017, leaving unpaid medical bills behind.
+
+Prince and Stubblefield never met, but Prince quietly covered much of his medical care during chemotherapy. Stubblefield’s wife revealed the financial support only after Prince’s death.
+
+“Funky Drummer” was released as a two-part single on King Records in March 1970. It didn't appear on an album until the 1986 Polydor compilation *In the Jungle Groove*. The original 7-inch single split the performance into Part 1 (2m 36s) and Part 2 (2m 55s). The unedited version runs 9m 14s.
+
+This is the power of funk: one groove, one funky drummer, one perfect break, and a whole new world built on top of it.
+
 
 ---
 ## Research Notes

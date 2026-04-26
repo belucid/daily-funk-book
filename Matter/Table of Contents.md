@@ -1,8 +1,9 @@
-Preface
-On Funk
-On Selections
-On Listening Missions
-On Genres & Regions
+Author's Note
+Introduction
+	On Funk
+	On Selections
+	On Listening Missions
+	On Genres & Regions
 January
 February
 March
@@ -15,6 +16,5 @@ September
 October
 November
 December
-What the Groove Taught Us
 Keep Digging
 

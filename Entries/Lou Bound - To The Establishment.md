@@ -21,7 +21,7 @@ The cover of his only album, *Lou Bond*, dares you to decide what you’re about
 
 Today’s track, "To the Establishment," is a protest song that refuses to hurry. It's more mood than manifesto. Slow, relaxed, and dreamy, it tries to hypnotize you instead of shouting its argument.
 
-At eleven minutes, it was never destined to be a radio staple like "War" or "What’s Going On." But it still matters. It’s for anyone who likes their truth delivered in a long, unbothered groove.
+At eleven minutes, it was never destined to be a radio staple like "War" or "What’s Going On." But it still matters for anyone who likes their truth delivered in a long, unbothered groove.
 
 ---
 ## Research Notes

@@ -4,7 +4,7 @@ day: 10-18
 artist: Prince
 track: Housequake
 album: Sign o' the Times
-label: Paisley Park / Warner Bros.
+label: Paisley Park Records
 year: "1987"
 track length: 4m 38s
 genre:

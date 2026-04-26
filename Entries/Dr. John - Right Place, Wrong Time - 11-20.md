@@ -10,15 +10,15 @@ track length: 2m 50s
 genre:
   - Classic Funk
 region: US - Louisiana
-listening mission: Listen to the bridge where Dr. John slips in some stride piano. That's the oldest New Orleans piano tradition. Does it feel like a distraction, or does it anchor the whole track in N'awlins?
-status: review
+listening mission: The Meters are the band here, but the guitar solo isn't Leo Nocentelli. It's session player David Spinozza, called in from the hallway to improvise it. Does his solo sound out of place, or does it fit the New Orleans funk vibe?
+status: complete
 writing theme:
 ---
 Born Malcolm John Rebennack on November 20, 1941, in the Third Ward of New Orleans, Dr. John (not a real doctor) became one of the musicians most synonymous with the city’s rich musical culture. Through the 1960s, Dr. John was a first-call session player for anyone recording there, and a cult figure onstage as a psychedelic voodoo shaman.
 
 Today’s song, “Right Place, Wrong Time,” gave him his only Top 10 pop single on the *Billboard* Hot 100. The rhythm section is The Meters, so the track has that greasy groove you can only get from New Orleans.
 
-Dr. John wrote most of the twisted lyrics, but he also collected lines from friends. Bob Dylan contributed "I been in the right trip, but I must have used the wrong car," Bette Midler gave him "My head’s in a bad place, but I don’t know what it’s there for," and Doug Sahm pitched in “I been in the right set, but it must have been the wrong sign.” And the immortal "just need a little brain salad surgery" was Ninth Ward slang for oral sex, obscure enough to slide past radio censors.
+Dr. John wrote most of the twisted lyrics, but he also collected lines from friends. Bob Dylan contributed "I been in the right trip, but I must have used the wrong car," Bette Midler gave him "My head’s in a bad place, but I don’t know what it’s there for," and Doug Sahm pitched in “I been in the right set, but it must have been the wrong sign.” But the strangest line is pure Dr. John: “just need a little brain salad surgery.” It was Ninth Ward slang for oral sex, obscure enough to slide past radio censors.
 
 
 ---

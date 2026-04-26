@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 06-19
 artist: Albert Collins
 track: Do the Sissy
 album: Love Can Be Found Anywhere (Even In a Guitar)
@@ -12,10 +12,15 @@ genre:
 region:
   - US - Texas
 listening mission: How short does a guitar note need to be before it's percussion?
-status: research-review
-writing theme: Most sellout backlash was directed at Jazz musicians, but blues musicians also crossed over and made funk in search of more commercial success.
+status: complete
+writing theme: Canned Heat discovery of Albert and record deal arrangement.
 ---
-Canned Heat discovery of Albert and record deal arrangement.
+On June 19, 1968, the members of Canned Heat saw Albert Collins at Houston’s Ponderosa Club. He was slicing through a Texas blues set with his signature ice-pick guitar tone. They were so impressed they helped broker a deal for Collins to record an album for Imperial, a sister label to their own Liberty Records. Canned Heat frontman Bob Hite wrote the liner notes for *Love Can Be Found Anywhere (Even in a Guitar)*, and the title itself comes from a Canned Heat lyric.
+
+Collins recorded two more funky albums for Imperial before returning to his core Texas blues on 1971’s *There’s Gotta Be a Change* for the short-lived Tumbleweed label. He later landed on Chicago’s Alligator Records, where he cut four more blues albums across the 1970s and 1980s before his death in 1993.
+
+Today’s song, “Do the Sissy,” belongs to a small family of tracks that name-check the Sissy dance, including Rufus Thomas’s “Sophisticated Sissy” and the Meters’ pair “Sophisticated Cissy” and “Cissy Strut.” The dance originated in New Orleans’ Black gay community before it crossed into the mainstream by the time these songs were recorded.
+
 
 ---
 ## Research Notes
@@ -28,9 +33,32 @@ Author-provided links:
 
 ### Open Research Questions
 
-No `open:` items were flagged by the author.
+**OPEN: was Canned Heat on Imperial?**
+No — Canned Heat was on **Liberty Records** (and later Liberty/United Artists). Imperial and Liberty were sister labels under the same corporate umbrella: Liberty acquired Imperial in 1963, so the two labels shared executives, promotion staff, and A&R connections. That corporate kinship is what let Canned Heat (a Liberty act) broker Collins's introduction to Imperial (the Liberty subsidiary) without actually being on Imperial themselves. Sources: https://en.wikipedia.org/wiki/Canned_Heat · https://dereksmusicblog.com/2019/03/24/canned-heats-liberty-records-years/
 
-One lingering factual item the author may want to verify: exact release date of the "Do the Sissy" / "Turnin' On" single (Imperial 66391). Discogs and Wikipedia confirm the pairing and catalog number, but no source pins down the month. The LP was released in 1968 after Canned Heat connected Collins with Imperial in June 1968, so the single is most likely late 1968. Searches across Discogs, Wikipedia, AllMusic, and eBay listings did not surface a dated label scan or trade-paper entry.
+**OPEN: what was Bob Hite's role in Canned Heat?**
+Co-lead vocalist from 1965 until his death in 1981. Co-founded the band with Alan "Blind Owl" Wilson; the two met as record collectors and blues historians. Nicknamed "The Bear" for his 300-plus-pound frame and barrelhouse stage presence. Primarily a singer, but also played harmonica, flute, guitar, and bass occasionally. He fronted the band at Monterey (June 1967) and Woodstock (August 1969). His standing as a blues authority and record collector is why he wrote the Collins liner notes, and why he was in a position to recognize Collins's importance in Houston. Sources: https://en.wikipedia.org/wiki/Bob_Hite · https://www.udiscovermusic.com/stories/the-story-of-a-big-bear/
+
+**OPEN: who performed with Albert on the album, where did those musicians come from?**
+Not conclusively documented in available online sources. The original 1968 Imperial LP sleeve and Discogs listings do not list sidemen individually; AllMusic's page is a combined 1997 CD reissue that likewise does not surface session personnel. What is established: **Bill Hall** produced the album. Hall was a Beaumont, Texas-based producer who had earlier worked with Collins on his 1960s Houston recordings. Collins had just moved to Kansas City in July 1968 (playing in keyboardist Lawrence Wright's organ trio) and did not relocate to Palo Alto until November 1968, so the band on the record was likely a studio-assembled mix rather than a road band. Research approach used: Discogs release-page lookups, AllMusic album page, Home of the Groove essay, WBSS Media biography, Wikipedia's Collins page, search-engine queries for "session musicians," "personnel," "sidemen" paired with title. A more definitive answer likely requires the liner notes themselves (Bob Hite wrote them) or the booklet from EMI's 1991 *Complete Imperial Recordings* 2xCD — physical sources not indexed online. Sources: https://homeofthegroove.blogspot.com/2011/06/sissy-variations-or-queen-of-funky.html · https://en.wikipedia.org/wiki/Albert_Collins · https://wbssmedia.com/artists/detail/2400
+
+**OPEN: where was the album recorded?**
+Not conclusively confirmed. Home of the Groove's Dan Phillips writes that Collins "was associated with the West Coast at this time (having signed with Liberty/Imperial in 1968)" but that "the exact recording location remains uncertain." The working assumption in most secondary sources is **Los Angeles** (Imperial's home base), but no primary source I could access pins a specific studio. Complicating factors: Collins did not move to California until November 1968, producer Bill Hall was Beaumont-based, and the LP was prepared in 1968 — suggesting sessions may have straddled Texas and California. Research approach used: combing Discogs release pages, AllMusic, Home of the Groove, WBSS Media, and eBay label-scan listings; none name a studio. The EMI 1991 *Complete Imperial Recordings* liner notes (physical only) are the most likely definitive source. Source: https://homeofthegroove.blogspot.com/2011/06/sissy-variations-or-queen-of-funky.html
+
+**OPEN: when did Albert next do a pure blues album?**
+Depends on how "pure blues" is defined:
+- ***Trash Talkin'*** (Imperial, 1969) — similar funk-leaning instrumental formula to *Love Can Be Found Anywhere*. Not a pivot back to pure blues.
+- ***The Compleat Albert Collins*** (Imperial LP-12449, April 1970) — still funky and mostly instrumental. Third and final Imperial LP.
+- ***There's Gotta Be A Change*** (Tumbleweed, November 1971) — the first clear pivot back toward blues. Produced in Denver for the newly formed Tumbleweed label; Collins's only album to chart (No. 196, Billboard Top LPs, 1972). This is the literal "next" blues-oriented album. Tumbleweed folded in 1973, leaving Collins without a label.
+- ***Ice Pickin'*** (Alligator, August 1978) — the celebrated return. Paired Collins with Chicago blues sidemen at Curtom Studios; nominated for a 1979 Grammy and named best blues album of 1978 by Melody Maker and the Montreux Jazz Festival. This is the canonical "return to blues" moment for most critics, thanks to the six-year gap with no album between Tumbleweed's collapse and Alligator picking him up.
+
+Best single answer: ***There's Gotta Be A Change*** (1971) is the literal next blues-leaning album; ***Ice Pickin'*** (1978) is the one the blues world treats as his proper return. Sources: https://en.wikipedia.org/wiki/Albert_Collins · https://en.wikipedia.org/wiki/Ice_Pickin%27 · https://sessiondays.com/2018/12/1971-albert-collins-theres-gotta-be-a-change/
+
+**OPEN: what was the name of the club?**
+**The Ponderosa Club**, in a Black neighborhood of Houston. The encounter happened on **June 19, 1968**. Canned Heat had a gig at Houston's Music Hall that night; a record-collector friend of Bob Hite's tipped them off that Albert Collins was playing the Ponderosa. The band went over, sat down with ribs, watched Collins work his unorthodox minor-tuning/capo approach, and introduced themselves after the set. That introduction is the moment that led to the Imperial deal and ultimately to *Love Can Be Found Anywhere (Even In A Guitar)*. Sources: https://en.wikipedia.org/wiki/Albert_Collins · https://www.tshaonline.org/handbook/entries/collins-albert
+
+**Lingering: exact release date of the "Do the Sissy" / "Turnin' On" single (Imperial 66391)**
+Still not pinned to a specific month. Sources conflict on year alone — some online discographies show 1968, others 1969. The LP (Imperial LP-12428) was a 1968 release; Imperial's 66000-series singles were sequencing through late 1968 into early 1969, so a late-1968 issue date is plausible but unconfirmed. I searched Discogs, 45cat, 45worlds, Wikipedia, Home of the Groove, AllMusic, WBSS Media, and Billboard's archived 1968 issues on worldradiohistory.com, plus eBay label-scan listings — none surfaced a dated Billboard "Spotlight Singles" entry or a promo-copy date stamp. The most promising remaining leads for the author: (a) the EMI *Complete Imperial Recordings* booklet; (b) Billboard and Cashbox issue-by-issue search in the World Radio History archive for Oct 1968–Feb 1969; (c) a physical label scan showing a promo stamp. Sources: https://www.discogs.com/master/1387358-Albert-Collins-Do-The-Sissy-Turnin-On · https://www.45cat.com/artist/albert-collins/all
 
 ### Writing Theme Suggestions
 

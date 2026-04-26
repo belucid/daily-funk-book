@@ -25,7 +25,6 @@ Free text — record label name (e.g. Aware Records, People Records, Blue Note)
 ### United States
 - US - California
 - US - Illinois
-- US - Georgia
 - US - Louisiana
 - US - Michigan
 - US - Minnesota
@@ -50,6 +49,8 @@ Free text — record label name (e.g. Aware Records, People Records, Blue Note)
 - Cuba
 - France
 - Jamaica
+- Japan
+- Kenya
 
 ## status
 - stub

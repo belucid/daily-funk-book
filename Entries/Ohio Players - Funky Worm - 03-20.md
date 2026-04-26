@@ -11,12 +11,12 @@ genre:
   - Psychedelic Funk
 region: US - Ohio
 listening mission: At under three minutes, does this feel like a throwaway novelty song? Does knowing it became one of the most sampled tracks ever, and that its synth line helped define West Coast G-funk, change your assessment?
-status: review
+status: complete
 writing theme:
 ---
-In today’s track, “Granny” describes a “Funky Worm” who plays guitar with no hands. The song hit #1 on the *Billboard* R&B chart and #15 on the Hot 100 in May 1973.
+In today’s song, Granny describes a “Funky Worm” who plays the guitar with no hands. The song hit #1 on the *Billboard* R&B chart and #15 on the Hot 100 in May 1973.
 
-That “guitar” is an ARP Soloist synthesizer. Ohio Players multi-instrumentalist Walter “Junie” Morrison spotted the newly released synth in a New York music shop and used it to create the riff you hear as the worm’s guitar part. Morrison is also the voice of “Granny.” He later joined George Clinton’s Parliament-Funkadelic in 1977 as a key musical force and helped shape the P-Funk sound.
+That “guitar” is actually an ARP Soloist synthesizer. Walter “Junie” Morrison spotted the newly released synth in a New York music shop and used it to create the riff you hear as the worm’s part. Morrison is also the voice of Granny, and his twisted sense of funky humor was influential when he later joined George Clinton’s Parliament-Funkadelic in 1977 and helped shape the P-Funk sound.
 
 In 2023, paleontologists paid the song a perfect tribute by naming a 220-million-year-old fossil *Funcusvermis gilmorei*, literally “funky worm,” after the track they kept playing while collecting the fossils.
 

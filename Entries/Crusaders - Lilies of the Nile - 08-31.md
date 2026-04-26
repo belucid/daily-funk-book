@@ -10,13 +10,13 @@ track length: 9m 35s
 genre:
   - Jazz-Funk
 region: US - Texas
-listening mission: This is jazz-funk in a slower, smokey, sultry vein. Can you imagine Barry White vocals in place of the tenor sax melody?
-status: review
+listening mission: This is jazz-funk in a slower, sultry vein. Can you imagine Barry White vocals in place of the tenor sax melody?
+status: complete
 writing theme:
 ---
-Today's song, "Lilies of the Nile," was composed by Wilton Felder, who plays tenor saxophone and electric bass on the track. Felder was born on August 31, 1940, and in the early 1970s he was one of Motown’s West Coast first-call bass players.
+Today's song, "Lilies of the Nile," was composed by Wilton Felder, who plays tenor saxophone and electric bass on the track. Felder was born on August 31, 1940, and in the early 1970s, he was one of Motown’s West Coast first-call bass players.
 
-If you’ve been paying close attention, this is our third day with a track from the Crusaders’ *Southern Comfort*. Call me a fanboy if you want, but it is a colossal two-LP jazz-funk monster. In 1974 it hit #31 on the *Billboard* 200, #1 on the jazz chart, and #3 on the soul chart. If you have time, the whole album is worth the trip.
+If you’ve been paying close attention, this is our third day with a track from the Crusaders’ *Southern Comfort*. Call me a fanboy if you want, but it is a colossal two-LP jazz-funk monster. In 1974, it hit #31 on the *Billboard* 200, #1 on the jazz chart, and #3 on the soul chart. If you have time, the whole album is worth the trip.
 
 
 

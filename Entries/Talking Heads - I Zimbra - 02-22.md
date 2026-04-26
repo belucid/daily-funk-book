@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 02-22
 artist: Talking Heads
 track: I Zimbra
 album: Fear of Music
@@ -10,13 +10,17 @@ track length: 3m 9s
 genre:
   - Avant-Funk
 region: US - New York
-listening mission: Drummer Chris Frantz limits himself to playing only bass drum and hi-hat. Notice how the other percussion, the congas, djembe, and talking drum fill in the empty space.
-status: research-review
+listening mission: Drummer Chris Frantz limits himself to bass drum and hi-hat. Notice how the congas, djembe, and talking drum fill in the space.
+status: review
 writing theme:
 ---
-This song probably comes as a bit of a surprise. The kings of art-punk new wave, the Talking Heads, in a funk book?
+Today’s song, "I Zimbra," is a surprise. The kings of art-punk new wave, Talking Heads, in a funk book?
 
-The lyrics here are pure nonsense. They are adapted from a 1916 nonsense Dadaist poem by Hugo Ball. Does that change the impact of the vocals, knowing they mean absolutely nothing?
+The track does not fit into the usual funk mold, and it’s not just the band. There’s also a 1979 disco feel to the four-on-the-floor kick drum. The key is that rhythm is the driver. The groove is dense and built on African-influenced polyrhythms. It is funk, just filtered through an avant-garde sensibility.
+
+The lyrics are pure nonsense. They are taken from a 1916 Dadaist sound poem "Gadji beri bimba," by German poet Hugo Ball. Ball was born on February 22, 1886, and the poem was first performed at the Cabaret Voltaire in Zurich in 1916. More than sixty years later, Brian Eno suggested that the band chant the poem, and its author ended up credited alongside Eno and David Byrne as a songwriter, despite having been dead for more than fifty years.
+
+Does knowing they mean absolutely nothing change the impact of the vocals?
 
 ---
 ## Research Notes

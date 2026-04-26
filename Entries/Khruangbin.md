@@ -12,7 +12,7 @@ genre:
 region:
 listening mission:
 status: stub
-writing theme: We think of Funk as "hot", meant to be danced to, meant to excite. Can funk be cool, meant to be swayed to, to calm and relax?
+writing theme: We often think of Funk as "hot", meant to be danced to, meant to excite. Can funk be cool, meant to be swayed to, to calm and relax?
 ---
 
 ---

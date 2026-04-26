@@ -16,7 +16,7 @@ writing theme:
 ---
 *Survival of the Fittest* was the Headhunters’ first album as their own band, after years as Herbie Hancock’s sidemen. Herbie co-produced the album but does not appear as a player.
 
-Today's song, "God Make Me Funky," started as a radio jingle for Everett and Jones BBQ in East Oakland. It was written by bassist Paul Jackson and drummer Mike Clark in 1971. Callers kept phoning Oakland radio station KDIA asking about the commercial's music, so the band to turn the commercial into a full-length track. The track's intro later became one of the most sampled drum breaks in hip-hop history.
+Today's song, "God Make Me Funky," started as a radio jingle for Everett and Jones BBQ in East Oakland. It was written by bassist Paul Jackson and drummer Mike Clark in 1971. Callers kept phoning Oakland radio station KDIA asking about the commercial's music, so the band turned the commercial into a full-length track. The track's intro later became one of the most sampled drum breaks in hip-hop history.
 
 The track’s popularity as a sample is partly due to technical constraints in early sampling machines. They had limited recording time, and the clean drum and conga opening fits perfectly in those tight limits. The drums are played by Clark, who was born today in 1946 in Sacramento, CA, though the groove is pure Oakland.
 

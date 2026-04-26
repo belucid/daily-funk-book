@@ -115,7 +115,6 @@ Valid values for the `region` field:
 
 - US - California
 - US - Illinois
-- US - Georgia
 - US - Louisiana
 - US - Michigan
 - US - Minnesota
@@ -141,9 +140,11 @@ Valid values for the `region` field:
 - Cuba
 - France
 - Jamaica
+- Kenya
 
 ## Style Rules
 
 - Never use em dashes in writing or suggestions. Use commas, colons, or restructure the sentence instead.
 - Writing is groove-first: vivid, clear, tight pacing. Avoid academic framing or long digressions.
 - The book is welcoming, not gatekeeping. Write for curious newcomers as much as for experts.
+- Only use straight " and ', never curly.

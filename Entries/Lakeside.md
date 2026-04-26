@@ -1,8 +1,8 @@
 ---
 fileClass: funk-entry
 day:
-artist: The Winstons
-track: Amen, Brother
+artist: Lakeside
+track:
 album:
 label:
 year:
@@ -17,4 +17,3 @@ writing theme:
 ---
 ## Research Notes
 
-Most sampled songs in history, over 7,000 verified samples

@@ -18,7 +18,7 @@ writing theme:
 
 Legendary producer Rick Rubin helped strip away the metal-leaning guitars of the Chili Peppers' previous record, *Mother’s Milk*, and pushed the band toward something rawer and leaner, with funk-rock back at its center. The bassist Flea did not think the iconic bassline was anything special at first. His bandmates overruled him, and Rubin convinced Flea to simplify it further for the final recording.
 
-As a bonus listen, try "Bedrock Anthem," Weird Al Yankovic's 1993 Flintstones-themed parody of "Give It Away" and "Under the Bridge."
+As a bonus listen, try "Bedrock Anthem," Weird Al Yankovic's 1993 Flintstones-themed parody of "Give It Away" and "Under the Bridge." Does Weird Al keep it funky?
 
 ---
 ## Research Notes

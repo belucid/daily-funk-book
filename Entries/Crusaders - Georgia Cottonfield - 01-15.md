@@ -10,17 +10,17 @@ track length: 7m 02s
 genre:
   - Jazz-Funk
 region: US - Texas
-listening mission: One difference between jazz and jazz-funk is the shift from a walking bass that helps define the harmonic progression to a rhythmic bass that helps define the groove. Can you hear when the bass switches to take on the more traditional jazz role and when it ultimately returns to the groove?
-status: review
+listening mission: One difference between jazz and jazz-funk is the shift from a walking bass that helps define the harmonic progression to a rhythmic bass that helps define the groove. Can you hear both styles of bass at different times in the track?
+status: complete
 writing theme: Dropping 'Jazz' was a statement.
 ---
-The founding members of the Swingsters met in 1954 at Phillis Wheatley High School in Houston's Fifth Ward. After a few name changes, they released 16 albums in 8 years as the Jazz Crusaders on the Pacific Jazz label. In 1972, they dropped "Jazz" from their name and relaunched as the Crusaders with a funkier sound. *Crusaders 1* was actually their second album under the new name, but the first on Blue Thumb Records.
+The founding members of the Swingsters met in 1954 at Phillis Wheatley High School in Houston's Fifth Ward. After a few name changes, they released 16 albums in eight years as the Jazz Crusaders on the Pacific Jazz label. Dropping "Jazz" from their name in 1972, they relaunched as the Crusaders with a funkier sound. *Crusaders 1* was actually their second album under the new name, but the first on Blue Thumb Records.
 
-Today’s song, “Georgia Cottonfield,” doesn't sound like 1950s and 1960s hard bop. It's got electric piano, a funk guitar, and Joe Sample’s Houston blues reframed as jazz-funk. The track opens the album with a strong statement of the band’s new, more commercial direction.
+Today’s song, “Georgia Cottonfield,” does not sound like 1950s and 1960s hard bop. It has electric piano, a funk guitar, and Joe Sample’s Houston blues reframed as jazz-funk. The track opens the album with a strong statement of the band’s new, more commercial direction.
 
 Staying power can be a curse. Fans of the Jazz Crusaders’ traditional sound were not pleased with the shift into jazz-funk, and then some 1970s fans felt the same whiplash when the band chased disco and smoother fusion in the late 1970s and into the 1980s.
 
-I have my own biases toward jazz-funk, but for my money the Blue Thumb albums from 1972 to 1977 are the ones to seek out.
+I have my biases toward jazz-funk, but for my money, the Blue Thumb albums from 1972 to 1977 are the ones to seek out.
 
 ---
 ## Research Notes

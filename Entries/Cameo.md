@@ -1,16 +1,16 @@
 ---
 fileClass: funk-entry
 day:
-artist: Curtis Mayfield
-track: Billy Jack
-album:
+artist: Cameo
+track:
+album: Alligator Woman
 label:
 year:
 track length:
 genre:
 region:
 listening mission:
-status: research
+status: stub
 writing theme:
 ---
 

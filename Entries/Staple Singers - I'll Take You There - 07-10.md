@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 07-10
 artist: Staple Singers
 track: I'll Take You There
 album: "Be Altitude: Respect Yourself"
@@ -10,10 +10,15 @@ track length: 4m 43s
 genre:
   - Gospel Funk
 region: US - Illinois
-listening mission:
-status: research-review
+listening mission: The bassline arrives before anyone sings a word, and it carries the entire track. Listen for when Mavis Staples stops singing words and starts echoing the bassline.
+status: complete
 writing theme:
 ---
+"I'll Take You There" is my favorite funk song. It has no real verses, just call and response, band cues, and raw reactions to the groove. There's no real chord progression either, just a two-chord vamp on C and F. Mavis Staples’ funky vocals and that deep Muscle Shoals pocket make it work.
+
+The song's iconic bassline was lifted from "Liquidator" by the Harry J Allstars, a 1969 Jamaican reggae instrumental. Al Bell brought the record to Muscle Shoals Sound Studio, but the session musicians thought it was a demo due to the rough recording. They used the bassline without crediting the original.
+
+Lead singer Mavis Staples was born on July 10, 1939. She says she co-wrote the lyrics with Al Bell and was furious not to receive a writing credit. The dispute lingered, and has been cited as a factor in the Staple Singers’ eventual break with Stax.
 
 ---
 ## Research Notes

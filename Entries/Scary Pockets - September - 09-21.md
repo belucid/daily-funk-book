@@ -11,14 +11,14 @@ genre:
   - Nu-Funk
 region: US - California
 listening mission: Earth, Wind & Fire’s “September” is built around big horns and stacked vocal harmonies. Scary Pockets strips it down to a small ensemble with no horns and a single singer. Does it still work?
-status: review
+status: complete
 writing theme:
 ---
-Most nu-funk is original material that sounds like it could have been released during the classic funk period of the early 1970s. Scary Pockets flips that formula, taking pop songs listeners know and placing them in a setting that feels new to many of them: a live band locked into a tight, funky pocket with a rhythm-first arrangement.
+Most nu-funk is original material that sounds like it could have been released during the classic funk period of the early 1970s. Scary Pockets flips this formula by reworking pop songs listeners already know, placing them in a 1970s-sounding live band with a tight pocket and a rhythm-first arrangement.
 
-Unlike typical Scary Pockets covers such as "MMMBop" or "Creep," "September" is a stress test of the band’s approach because the original already belongs to the classic funk canon. Funking up a pop song is one thing. Reworking an established funk classic is a higher bar. Judge for yourself, but I think they clear it.
+Unlike typical Scary Pockets covers such as "MMMBop" or "Creep," "September" is a stress test of the band’s approach because the original song already belongs to the funk canon. Funking up a pop song is one thing. Reworking an established funk classic is a higher bar. Judge for yourself, but I think they clear it.
 
-Jack Conte, the co-founder and CEO of Patreon, is also the keyboardist of Scary Pockets. From 2017 through the end of 2023, the band built its audience by releasing a new cover on YouTube each week. The band’s Patreon supporters helped fund the project.
+Scary Pockets’ keyboardist Jack Conte is also Patreon’s co-founder and CEO. From 2017 to 2023, the band built its audience by releasing a new funk cover on YouTube each week. The band’s Patreon supporters helped fund the project and sustain the weekly cadence. We should all be so lucky to find a way to seamlessly blend our day job and hobby.
 
 ---
 ## Research Notes

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-13
 artist: Donny Hathaway
 track: Voices Inside (Everything is Everything)
 album: Donny Hathaway Live
@@ -8,20 +8,52 @@ label: Atlantic Records
 year: 1972
 track length: 13m 47s
 genre:
+  - Jazz-Funk
 region: US - New York
-listening mission:
-status: research-review
-writing theme: Funk isn't in a rush
+listening mission: Fourteen minutes later, as the song winds down and the crowd starts clapping, how do you feel? Are you sad the groove is ending, or relieved?
+status: review
+writing theme:
 ---
+The studio version of today’s “Voices Inside (Everything Is Everything)” appears on Donny Hathaway’s 1970 debut *Everything Is Everything*, and it clocks in at a radio-friendly 3m 28s. In this live performance, Hathaway and the band stretch it to nearly fourteen minutes. That extra space is where the jazz in jazz-funk lives: four solos that turn a tight song into a slow-burn showcase.
 
-Thirteen and a half minutes later, as the song comes to its elongated completion and the crowd starts clapping, how do *you* feel? Are you sad the groove has come to an end, or relieved?
+Hathaway takes the first solo on Wurlitzer electric piano. By the early 1970s, electric piano and clavinet were pushing aside the Hammond organ that had defined so much 1960s soul jazz.
+
+Next up, Mike Howard steps in with a short guitar solo that feels more jazz than blues, a little dissonant, a little heady, but still sitting on the groove.
+
+Around six minutes, Cornell Dupree takes over on guitar with a different sound. To my ear, it leans more blues, more grit, more grease.
+
+Finally, Willie Weeks delivers the moment the crowd didn't know they were waiting for: a bass solo so funky you can hear the room react in real time. Hathaway’s solo has plenty of spark, but Weeks lights the fuse.
+
+My only complaint is that Fred White, the funky drummer here, didn't take a solo. Born January 13, 1955, he was only 16 at the time, but already playing like a veteran. He earned his first gold record on this album before going on to join Earth, Wind & Fire.
 
 ---
 ## Research Notes
 
 ### Open Research Questions
 
-No open research questions were found in the existing notes.
+Open: What kind of electric piano is Hathaway playing on Voices Inside (Everything is Everything)
+
+**Resolution (2026-04-23):** Almost certainly a **Wurlitzer 200** electric piano.
+
+The short version for the author: Hathaway is the most famous Wurlitzer player in soul. The *Live* album is widely identified as a Wurlitzer record, and by 1971 the specific model in production was the Wurlitzer 200 (the 200A did not ship until 1974). No primary source (album liner notes, an interview with Hathaway, or a photograph of the Bitter End rig) nails the instrument for this specific track, so this is a confident deduction from converging secondary sources rather than a documented fact.
+
+What the evidence shows:
+
+1. **Wikipedia's personnel list for *Live* is non-specific.** Hathaway is credited with "vocals, electric piano, piano, organ, arrangements." The model of electric piano is not stated. Source: https://en.wikipedia.org/wiki/Live_(Donny_Hathaway_album)
+2. **Every substantive review or keyboard-focused write-up of the album names a Wurlitzer.** The longform Songs From So Deep piece on *Live* states: "The live performance is dominated by Hathaway's Wurlitzer electric piano." Search-indexed summaries of the same article add, "Hathaway used the Wurlitzer, technically believed to be a Wurli 200." Source: https://songsfromsodeep.wordpress.com/2019/02/14/double-live-gonzos-part-5-live-donny-hathaway/
+3. **Hathaway's career-long association is with the Wurlitzer, not the Rhodes.** The Abbey Road Institute's history of the Wurlitzer 200/200A names him alongside Supertramp, Elton John, Queen, Joni Mitchell and Steely Dan as signature users; it does not make the same claim for him on the Rhodes. Source: https://abbeyroadinstitute.com/miami/blog/classic-keys-the-wurlitzer-electronic-piano/
+4. **Equipboard lists both a Wurlitzer 200A and a Fender Rhodes Mark I Stage 73 (1969–1975) as Hathaway's gear.** This corroborates a Wurlitzer as his primary instrument while noting a Rhodes was also in the rig at times. It does not specify which instrument was used on *Live*. Source: https://equipboard.com/pros/donny-hathaway
+5. **A 1971 recording predates the 200A.** The Wurlitzer 200 was in production from roughly 1968 and was replaced by the 200A in 1974. So a 1971 live set would have been a **200**, not a 200A. Source: https://en.wikipedia.org/wiki/Wurlitzer_electronic_piano ; https://docwurly.com/wurlitzer-ep-history/wurlitzer-electric-piano-models-a-list/
+6. **A single conflicting data point.** One search excerpt referenced "elastic Fender Rhodes stabs" on "The Ghetto." This is outvoted by multiple sources pointing to Wurlitzer on that same track, so the reference appears to be mistaken. It is worth mentioning only because it is the one contrary note in an otherwise clean consensus.
+7. **Aural tell for the reader.** The Wurlitzer has a reedy, barking, slightly overdriven sound when pushed; the Rhodes has a glassy, bell-like tone. Hathaway's piano on "Voices Inside" sits in that bark-and-bite range, which matches the Wurlitzer signature.
+
+What would have tipped this from "confident deduction" to "documented fact," and why it does not exist in the public record:
+
+- The original Atlantic/Atco 1972 gatefold liner notes (checked via Discogs release pages) credit musicians by name and instrument family only, not by gear make or model, which was typical for the era. Source: https://www.discogs.com/release/5613647-Donny-Hathaway-Live ; https://www.discogs.com/release/6955426-Donny-Hathaway-Live
+- Hathaway gave few interviews in his lifetime, and the surviving interview record (Disc and Music Echo, August 1971, referenced in the Wax Poetics piece) does not address gear. Producer Arif Mardin's own interviews focus on arrangement and engineering rather than the piano. Source: https://magazine.waxpoetics.com/rediscovery/donny-hathaway-live/ ; https://www.soundonsound.com/people/arif-mardin-producer
+- None of the band members who did give later interviews (Cornell Dupree, Willie Weeks) are on record specifying which electric piano Hathaway was playing at the Bitter End on 7 October 1971.
+
+If the author wants to hedge, the safe wording is: "a Wurlitzer electric piano, almost certainly a Wurlitzer 200." If the author wants to commit, "a Wurlitzer 200" is fully defensible on the weight of secondary evidence, the era's production window, and the sonic fingerprint.
 
 ### Writing Theme Suggestions
 

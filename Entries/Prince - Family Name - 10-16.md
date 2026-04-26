@@ -1,20 +1,25 @@
 ---
 fileClass: funk-entry
-day:
+day: 10-16
 artist: Prince
 track: Family Name
 album: The Rainbow Children
-label: NPG Records / Redline Entertainment
+label: NPG Records
 year: 2001
 track length: 8m 17s
 genre:
   - Psychedelic Funk
 region:
   - US - Minnesota
-listening mission:
-status: research-review
+listening mission: Does the groove help Prince’s message land, or does it distract from it?
+status: review
 writing theme:
 ---
+“My fellow Americans, if there is a just God, we’re gonna pay 4 this” is Thomas Jefferson as seen through a Prince Rogers Nelson lens. The song’s message is that many surnames carried by African Americans, including Nelson, were inherited from their enslavers rather than their ancestors.
+
+*The Rainbow Children* was Prince’s first studio album after reclaiming the name Prince, so names were likely on his mind. After finishing his war to free himself from Warner Bros. Records, his first move was preachy and uncommercial. He released it digitally as MP3s to members of the NPG Music Club on October 16, 2001, an early milestone in major-artist digital distribution.
+
+The album went almost completely unpromoted. It peaked at #109 on the *Billboard* 200 and became an insiders' album for the most devout Prince fans. “Family Name” is a funky sermon on an album many casual Prince fans still have not heard.
 
 ---
 ## Research Notes

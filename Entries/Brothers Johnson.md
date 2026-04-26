@@ -1,15 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: Staple Singers
+artist: Brothers Johnson
 track:
 album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
-region: US - Illinois
+region:
 listening mission:
 status: stub
 writing theme:

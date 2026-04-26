@@ -33,13 +33,13 @@ region:
   - France
   - Ghana
   - Jamaica
+  - Kenya
   - Nigeria
   - Senegal
   - UK
   - US - California
-  - US - D.C.
+  - US - DC
   - US - Florida
-  - US - Georgia
   - US - Illinois
   - US - Louisiana
   - US - Michigan

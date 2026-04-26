@@ -8,11 +8,15 @@ label: Atlantic Records
 year: 1971
 track length: 3m 15s
 genre:
+  - Classic Funk
 region: US - Michigan
-listening mission:
-status: research-review
+listening mission: "Don’t get too distracted by Aretha’s vocals. Focus on the all-star rhythm section: Bernard Purdie on drums, Chuck Rainey on bass, Cornell Dupree on guitar, Donny Hathaway on organ, and Dr. John on percussion."
+status: complete
 writing theme:
 ---
+Most listeners know Aretha Franklin as a master interpreter of other's songs. Today's "Rock Steady" is different. It's an Aretha original, written, arranged, and steered by Aretha herself. Bassist Chuck Rainey has said the released version is actually her demo, recorded on February 15, 1971, at Criteria Studios in Miami before producers Jerry Wexler and Tom Dowd arrived. 
+
+"Rock Steady" was the B-side of "Oh Me Oh My (I'm a Fool for You Baby)," but it found its own audience and outperformed the A-side, reaching #9 on the *Billboard* Hot 100 and #2 on the soul singles chart.
 
 ---
 ## Research Notes
@@ -25,7 +29,15 @@ writing theme:
 
 ### Open Research Questions
 
-No open questions were left by the author. The only ambiguity encountered during research: whether the track should be tagged by Aretha's Detroit base (US - Michigan), the Miami studio where it was cut (US - Florida), or Atlantic's New York home (US - New York). Resolution proposed under Region Suggestions.
+**Open: How did "Oh Me Oh My (I'm a Fool for You Baby)" perform on the charts?**
+
+Resolution: "Oh Me Oh My (I'm a Fool for You Baby)" peaked at **#73 on the Billboard Hot 100** and **#9 on the Billboard Best Selling Soul Singles (R&B) chart**. So while it was the intended A-side of the Atlantic 2838 single released October 11, 1971, it was dramatically out-performed by its own B-side, "Rock Steady" (#9 Hot 100, #2 Soul). The classic case of a B-side eating the A-side's lunch. — Sources: https://en.wikipedia.org/wiki/Rock_Steady_(Aretha_Franklin_song) ; https://en.wikipedia.org/wiki/Oh_Me_Oh_My_(I%27m_a_Fool_for_You_Baby)
+
+Useful context the author may want for the entry: Aretha's "Oh Me Oh My" was itself a cover of a Lulu song (same title) written by Jim Doris. Lulu's 1970 original peaked at #22 on the Billboard Hot 100, so even with Lulu's head start and Aretha's star power, the Aretha A-side underperformed both the Lulu original and its own B-side. — Source: https://en.wikipedia.org/wiki/Oh_Me_Oh_My_(I%27m_a_Fool_for_You_Baby)
+
+Side note on A/B discrepancy: Wikipedia's two articles contradict each other on which side was A and which was B. The "Rock Steady" article and multiple vinyl collector sources (Classic 45s, Dusty Groove, 45cat, Sessiondays) all support the entry body's claim that "Rock Steady" was the B-side. The "Oh Me Oh My" Wikipedia article says the opposite and should probably be treated as the erroneous source. The clearest signal: the B-side-becomes-the-hit story only makes sense if Rock Steady was the B-side, which matches what Atlantic's catalog numbering and the chart trajectory both suggest.
+
+Separate ambiguity noted during original research: whether the track should be tagged by Aretha's Detroit base (US - Michigan), the Miami studio where it was cut (US - Florida), or Atlantic's New York home (US - New York). Resolution proposed under Region Suggestions.
 
 ### Writing Theme Suggestions
 

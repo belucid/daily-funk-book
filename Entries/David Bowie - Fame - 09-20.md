@@ -12,14 +12,14 @@ genre:
 region:
   - US - New York
 listening mission: Listen to how the locked-in groove lets Bowie sing with increasing freedom, even when the tape-speed vocal effects kick in after three minutes.
-status: review
+status: complete
 writing theme:
 ---
-If you can hear the connection between today’s song, David Bowie’s "Fame," and a James Brown track, it's not in the singing. It's in the guitar. Carlos Alomar, who plays guitar on “Fame,” was in Brown’s band before joining Bowie. Strip away Bowie’s art-rock vocal and the track reveals itself as pure James Brown: a one-chord vamp driven by an irresistible rhythm. It stays on F7 throughout, with the drums, bass, and guitar locked tight together. Later that same year, Brown borrowed Alomar's guitar riff for "Hot (I Need to Be Loved, Loved, Loved, Loved)."
+If you can hear a connection between today’s song, David Bowie’s "Fame," and a James Brown track, it's not in the singing. It's in the guitar, played by Carlos Alomar, who was a member of Brown’s band before joining Bowie. If you strip away Bowie’s art-rock vocals, the track reveals itself as pure James Brown: a one-chord vamp driven by an irresistible rhythm. The song stays on an F chord, with drums, bass, and guitar locked tight. Later that year, Brown used Alomar's guitar riff for "Hot (I Need to Be Loved, Loved, Loved, Loved)."
 
-"Fame" reached No. 1 on the *Billboard* Hot 100 in the week of September 20, 1975. It was Bowie’s first chart-topper, but more familiar territory for his co-writer. Along with Bowie and Alomar, "Fame" was written by John Lennon. Both men were living in New York City at the time, and Mick Jagger introduced them. 
+"Fame" reached #1 on the *Billboard* Hot 100 in September 1975. It was Bowie’s first chart-topper, but more familiar territory for his co-writer. Along with Bowie and Alomar, "Fame" was written by John Lennon. Both men were living in New York City at the time, and Mick Jagger introduced them. 
 
-Bowie invited Lennon into the studio, and the song came together quickly in a single session. They began with Alomar's guitar riff, and Lennon started singing the word “fame” over it. Can you hear his backing vocal contributions in the final version?
+Bowie called Lennon and invited him to the studio. They started with Alomar’s guitar riff, and Lennon improvised the word “fame” over it. From there, the song came together fast, and you can hear Lennon’s backing vocals in the final version.
 
 ---
 ## Research Notes

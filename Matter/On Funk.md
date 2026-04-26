@@ -1,4 +1,4 @@
-The best definition of funk I've come across is from Rickey Vincent’s well-researched 1996 book, *Funk: The Music, The People, and The Rhythm of the One*. The book is out of print, but it’s worth hunting down.
+The best definition of funk I've come across is from Rickey Vincent’s well-researched 1996 book, *Funk: The Music, The People, and The Rhythm of the One*.
 
 > Funk is that low-down dirty feeling that pops up when a *baad* funk jam gets to the heated part, and you forget about that contrived dance you were trying, and you *get off your ass and jam*.
 
@@ -10,7 +10,7 @@ With funk, the bass becomes more syncopated and moves forward in the mix. The dr
 
 In funk, the human voice is still important, but it plays a different role. Instrumentals are more common than in most popular styles, and even on vocal tracks the singer is often treated as another piece of the rhythm section. Funk does not demand the kind of vocal performance you hear in soul. Instead, you often get call and response, chants, and short repeated phrases that slowly turn words into sounds. It's not a melody floating above the groove, but a voice that sits inside the pocket and helps drive it.
 
-If funk has a single origin point, it is James Brown in the 1960s. This book aims to do justice to funk's heyday as one of the key commercial genres and cultural forces of the 1970s, while still reminding you that funk is a living genre, spanning the 1960s through today. 
+If funk has a single origin point, it's James Brown in the 1960s. This book aims to do justice to funk's heyday as one of the key commercial genres and cultural forces of the 1970s, while still reminding you that funk is a living genre, spanning the 1960s through today. 
 
 Here's how the book’s selections distribute across time. The 1970s are the center of gravity, with roots in the 1960s and branches reaching forward to today.
 

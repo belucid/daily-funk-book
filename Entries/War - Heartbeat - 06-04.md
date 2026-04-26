@@ -10,15 +10,17 @@ track length: 7m 25s
 genre:
   - Classic Funk
 region: US - California
-listening mission: "Listen to how War shows how the groove works by building it in plain sight over the first 30 seconds: just guitar, then bass, then drums, then percussion, before the vocals enter and the horns respond."
+listening mission: As you listen, count how many times “funky” shows up in the lyrics.
 status: complete
 writing theme:
 ---
 1972’s *The World Is a Ghetto* was the best-selling album of 1973 according to *Billboard*, making War one of the biggest acts in American music. Their follow-up, *Why Can’t We Be Friends?*, did not arrive until 1975 due to a dispute with the label. Even with the delay, it reached #8 on the *Billboard* 200 and #1 on the R&B chart.
 
-The album’s hit single "Low Rider" was issued as one of the first promotional 12-inch records for club DJs. That 12-inch also carried today’s track, “Heartbeat.” Although not itself a single from the album, the extra space on the record and the dance-floor context helped “Heartbeat” reach the Top 10 on the dance chart. As you listen, count how many times “funky” shows up in the lyrics.
+The album’s hit single “Low Rider” was issued as one of the first promotional 12-inch records for club DJs. That 12-inch also included today’s track, “Heartbeat.” Although “Heartbeat” was not itself a single from the album, the extra space on the single and the dance-floor context helped it reach the Top 10 on the dance chart.
 
-Five years later, on June 4, 1980, War’s saxophonist Charles Miller was stabbed to death during a botched robbery in Los Angeles. His iconic deep voice was a big part of "Low Rider." No one was ever arrested for his murder.
+War demonstrates how the groove works by building it up over the first 30 seconds: just guitar, then bass, then drums, then percussion, before the vocals enter and the horns respond. You're probably familiar with Sly Stone's version of the same trick from 1967's *Dance to the Music*.
+
+Five years after the single's release, on June 4, 1980, War’s saxophonist Charles Miller was stabbed to death during a botched robbery in Los Angeles. His iconic deep voice was a big part of "Low Rider." No one was ever arrested for his murder.
 
 ---
 ## Research Notes

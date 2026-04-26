@@ -10,7 +10,7 @@ track length: 4m 28s
 genre:
   - Classic Funk
 region:
-  - US - Georgia
+  - US - Southeast
 listening mission:
 status: research-review
 writing theme:

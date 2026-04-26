@@ -8,9 +8,9 @@ label:
 year:
 track length:
 genre:
-region: US - Georgia
+region: US - Southeast
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 
