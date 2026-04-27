@@ -11,20 +11,18 @@ genre:
   - Jazz-Funk
 region: US - New York
 listening mission: Fourteen minutes later, as the song winds down and the crowd starts clapping, how do you feel? Are you sad the groove is ending, or relieved?
-status: review
+status: complete
 writing theme:
 ---
-The studio version of today’s “Voices Inside (Everything Is Everything)” appears on Donny Hathaway’s 1970 debut *Everything Is Everything*, and it clocks in at a radio-friendly 3m 28s. In this live performance, Hathaway and the band stretch it to nearly fourteen minutes. That extra space is where the jazz in jazz-funk lives: four solos that turn a tight song into a slow-burn showcase.
+The studio version of today’s “Voices Inside (Everything Is Everything)” appears on Donny Hathaway’s 1970 debut album *Everything Is Everything*, and it clocks in at a radio-friendly 3m 28s. In this live performance, Hathaway and the band stretch it to nearly fourteen minutes. That extra space is where the jazz in jazz-funk lives.
 
-Hathaway takes the first solo on Wurlitzer electric piano. By the early 1970s, electric piano and clavinet were pushing aside the Hammond organ that had defined so much 1960s soul jazz.
+Hathaway takes the first solo on a Wurlitzer electric piano. By the early 1970s, electric piano and clavinet were pushing aside the Hammond organ that had defined so much 1960s soul jazz.
 
-Next up, Mike Howard steps in with a short guitar solo that feels more jazz than blues, a little dissonant, a little heady, but still sitting on the groove.
+Mike Howard steps in with a short, jazz-inflected guitar solo that's a little dissonant and heady, but still sits on the groove. Next up, Cornell Dupree takes over on guitar with a different voice. To my ear, it leans more blues, more grit, more grease.
 
-Around six minutes, Cornell Dupree takes over on guitar with a different sound. To my ear, it leans more blues, more grit, more grease.
+Finally, Willie Weeks delivers the moment the crowd didn't know they were waiting for: a bass solo so funky that you hear the room react. Hathaway’s solo has spark, but Weeks lights the fuse.
 
-Finally, Willie Weeks delivers the moment the crowd didn't know they were waiting for: a bass solo so funky you can hear the room react in real time. Hathaway’s solo has plenty of spark, but Weeks lights the fuse.
-
-My only complaint is that Fred White, the funky drummer here, didn't take a solo. Born January 13, 1955, he was only 16 at the time, but already playing like a veteran. He earned his first gold record on this album before going on to join Earth, Wind & Fire.
+My only complaint is that Fred White, the funky drummer here, didn't take a solo. Born on January 13, 1955, he was only 16 at the time, but already playing like a veteran. He earned his first gold record on this album before going on to join Earth, Wind & Fire.
 
 ---
 ## Research Notes

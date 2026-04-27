@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 12-31
 artist: James Brown
 track: Funky Drummer (Pt. 1 & 2)
 album:

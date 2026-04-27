@@ -10,17 +10,15 @@ track length: 3m 06s
 genre:
   - Jazz-Funk
 region: US - California
-listening mission: The main melody is multiple layered harmonica tracks. Can you hear where one harmonica ends and another begins, or does it sound like one instrument?
+listening mission: You’ve probably never heard the full three-minute version. Does it work better at full length, or at the TV show’s quick 50 seconds?
 status: complete
 writing theme: Funk in TV
 ---
-Friday, January 14, 1972, marked the premiere of *Sanford and Son*. Critics saw Redd Foxx’s Fred Sanford as NBC’s answer to Archie Bunker from *All in the Family*, which aired directly before it. *Sanford and Son* finished the 1971-1972 season as sixth best in the ratings. It ran for six seasons, ending in 1977, and it's been in syndication ever since.
+Friday, January 14, 1972, marked the premiere of *Sanford and Son*. Critics saw Redd Foxx’s Fred Sanford character as NBC’s answer to Archie Bunker from *All in the Family*, which aired directly before it. *Sanford and Son* finished the 1971-1972 season as sixth best in the ratings. It ran for six seasons, ending in 1977, and it's been in syndication ever since.
 
 It is hard to overstate how segregated American music still was in 1972. Black radio and white radio operated in separate spheres, as did the record stores and concert circuits. Today’s song, “Sanford and Son Theme (The Streetbeater)” by Quincy Jones, may have been the first funk millions of white Americans heard every week, not by choosing a station or buying a record, but because it aired before a sitcom.
 
 Jones wrote the theme before seeing the show. He based it on his friendship with Foxx and his familiarity with Foxx's humor.
-
-You’ve probably never heard the full three-minute version. Does it work better at full length, or at the TV show’s quick 50 seconds?
 
 ---
 ## Research Notes

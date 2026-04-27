@@ -10,7 +10,7 @@ track length: 7m 08s
 genre:
   - Jazz-Funk
 region: US - New York
-listening mission: The title points to the song's 5/4 time. Count to five with the beat (it's quick) until you lock in, then stop counting and just feel the odd-meter groove.
+listening mission: The title points to the song’s 5/4 time. Count to five with the beat (it’s quick). Once you lock in, stop counting and just try to feel the odd-meter groove.
 status: complete
 writing theme:
 ---
@@ -18,7 +18,7 @@ writing theme:
 
 Over a decade later, Phil Upchurch suggested a “Take Five” cover and wrote the funky arrangement. George Benson was not interested until he heard what Upchurch had done. If you’ve got time, listen to Brubeck’s original, then compare it to Benson's version. What makes Upchurch’s arrangement feel funky?
 
-The original “Take Five” convinced a wider audience that jazz can groove in 5/4 time. Benson and Upchurch proved funk could groove in 5/4 too, and they landed a minor hit of their own. *Bad Benson* reached #1 on the *Billboard* jazz chart. Later pressings of *Bad Benson* were retitled *Take Five* to emphasize the track’s presence on the album.
+The original “Take Five” convinced a wider audience that jazz can groove in 5/4 time. Benson and Upchurch proved funk could groove in 5/4 too, landing a minor hit of their own. *Bad Benson* reached #1 on the *Billboard* jazz chart. Later pressings of *Bad Benson* were retitled *Take Five* to emphasize the track’s presence on the album.
 
 ---
 ## Research Notes

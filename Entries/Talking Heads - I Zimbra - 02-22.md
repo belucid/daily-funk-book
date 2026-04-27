@@ -10,17 +10,15 @@ track length: 3m 9s
 genre:
   - Avant-Funk
 region: US - New York
-listening mission: Drummer Chris Frantz limits himself to bass drum and hi-hat. Notice how the congas, djembe, and talking drum fill in the space.
-status: review
+listening mission: Does knowing the lyrics mean absolutely nothing change the impact of the vocals?
+status: complete
 writing theme:
 ---
-Today’s song, "I Zimbra," is a surprise. The kings of art-punk new wave, Talking Heads, in a funk book?
+Today’s song, "I Zimbra," is a surprise. Talking Heads, the kings of art-punk new wave, find their way into a funk book.
 
-The track does not fit into the usual funk mold, and it’s not just the band. There’s also a 1979 disco feel to the four-on-the-floor kick drum. The key is that rhythm is the driver. The groove is dense and built on African-influenced polyrhythms. It is funk, just filtered through an avant-garde sensibility.
+The track doesn't fit into the usual funk mold, and it’s not just the band. There’s a disco feel from the four-on-the-floor kick drum. However, drummer Chris Frantz limits himself to bass drum and hi-hat, while congas, djembe, and talking drum fill in the space with dense, African-influenced polyrhythms. It's funk, just filtered through an avant-garde lens.
 
-The lyrics are pure nonsense. They are taken from a 1916 Dadaist sound poem "Gadji beri bimba," by German poet Hugo Ball. Ball was born on February 22, 1886, and the poem was first performed at the Cabaret Voltaire in Zurich in 1916. More than sixty years later, Brian Eno suggested that the band chant the poem, and its author ended up credited alongside Eno and David Byrne as a songwriter, despite having been dead for more than fifty years.
-
-Does knowing they mean absolutely nothing change the impact of the vocals?
+The lyrics are intentional nonsense. They are taken from a 1916 Dadaist sound poem, "Gadji beri bimba," by German poet Hugo Ball. Born on February 22, 1886, Ball first performed the poem at Cabaret Voltaire in Zurich in 1916. More than sixty years later, Brian Eno suggested that the band chant the poem, earning the dead poet a songwriter credit alongside Eno and David Byrne.
 
 ---
 ## Research Notes

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 02-15
 artist: Aretha Franklin
 track: Rock Steady
 album: Young, Gifted and Black

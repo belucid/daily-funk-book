@@ -2,7 +2,7 @@
 fileClass: funk-entry
 day:
 artist: SAULT
-track:
+track: Chapter 1
 album:
 label:
 year:
@@ -10,7 +10,7 @@ track length:
 genre:
 region:
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

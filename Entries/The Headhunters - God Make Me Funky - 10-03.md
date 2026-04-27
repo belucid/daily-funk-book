@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 10-03
 artist: The Headhunters
 track: God Make Me Funky
 album: Survival of the Fittest
@@ -10,15 +10,15 @@ track length: 9m 35s
 genre:
   - Jazz-Funk
 region: US - California
-listening mission: Notice how things start to tear themselves apart after the five-minute mark. The groove pulls itself back together about three minutes later. Does that return feel like a funk version of coming back to the home key for closure?
-status: review
+listening mission: Notice how the groove starts to come apart after the five-minute mark. The band pulls it back together around eight minutes in. Does that return feel like a funk version of coming back to the home key for closure?
+status: complete
 writing theme:
 ---
-*Survival of the Fittest* was the Headhunters’ first album as their own band, after years as Herbie Hancock’s sidemen. Herbie co-produced the album but does not appear as a player.
+*Survival of the Fittest* was the Headhunters’ debut album as their own band, after years as Herbie Hancock’s sidemen. Herbie co-produced the record, but does not appear as a player.
 
-Today's song, "God Make Me Funky," started as a radio jingle for Everett and Jones BBQ in East Oakland. It was written by bassist Paul Jackson and drummer Mike Clark in 1971. Callers kept phoning Oakland radio station KDIA asking about the commercial's music, so the band turned the commercial into a full-length track. The track's intro later became one of the most sampled drum breaks in hip-hop history.
+Today's song, "God Make Me Funky," started as a radio jingle for Everett and Jones BBQ in East Oakland. Bassist Paul Jackson and drummer Mike Clark wrote it in 1971. Listeners kept calling Oakland radio station KDIA, asking about the commercial's music, so the band extended the commercial into a full-length track. The song's intro became one of the most sampled drum breaks in hip-hop history.
 
-The track’s popularity as a sample is partly due to technical constraints in early sampling machines. They had limited recording time, and the clean drum and conga opening fits perfectly in those tight limits. The drums are played by Clark, who was born today in 1946 in Sacramento, CA, though the groove is pure Oakland.
+Some of the sample’s popularity comes from technical constraints in early sampling machines. They had limited recording time, and the clean drum and conga opening fit perfectly within those tight limits. Clark is on drums here, and he was born on October 3, 1946, in Sacramento.
 
 If you have any friends who don’t get the whole year-long funk mission you’re on, play them this. It’s ten minutes of the absolute nastiest groove they’ll ever hear.
 

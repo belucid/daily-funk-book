@@ -10,15 +10,15 @@ track length: 6m 10s
 genre:
   - Classic Funk
 region: US - Illinois
-listening mission: Play “Pusherman” and “Billy Jack” back to back. In 1972, Mayfield puts you inside the dealer’s mind. In 1975, he's attending the dealer’s funeral.
-status: review
+listening mission: Play “Pusherman” and “Billy Jack” back to back. In 1972, Mayfield puts you inside the dealer’s mind. By 1975, he is attending the dealer’s funeral.
+status: complete
 writing theme:
 ---
-In 1972’s *Super Fly* soundtrack, Curtis Mayfield sang of dealers and addicts from inside their world. By 1975, on “Billy Jack,” he's telling the story from inside the morgue: the dealer lies face-down, dead in the street.
+In the 1972 *Super Fly* soundtrack, Curtis Mayfield sang about dealers and addicts from inside their world. By 1975, on “Billy Jack,” he was telling the end of the story: the dealer lies dead in the street.
 
-“Billy Jack” is six minutes of slow-funk story telling with no chorus, no hook, and no obvious radio-friendly elements. Situated halfway through the 1970s, it sounds defeated. The death and violence of the 1980s crack era had not yet arrived, but the drugs-as-freedom sentiment of the 1960s was already dead and gone. They got Mayfield to play at the funeral.
+“Billy Jack” is six minutes of slow-funk storytelling with no chorus, no hook, and no obvious radio-friendly elements. Situated halfway through the 1970s, it sounds defeated. The violence of the 1980s crack era had not yet arrived, but the 1960s drugs-as-liberation dream was dead. They got Mayfield to perform at the funeral.
 
-On August 13, 1990, a stage lighting rig fell on Mayfield at Wingate Field in Brooklyn, leaving him paralyzed. He continued to write music and sing, lying on his back so gravity could help his diaphragm. He died in 1999 at age 57. 
+On August 13, 1990, a stage lighting rig fell on Mayfield at Wingate Field in Brooklyn, leaving him paralyzed. He continued to write and record, sometimes singing while lying on his back so gravity could help his diaphragm. He died in 1999 at the age of 57.
 
 ---
 ## Research Notes

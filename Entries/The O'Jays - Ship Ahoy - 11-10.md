@@ -11,14 +11,14 @@ genre:
   - Psychedelic Funk
 region: US - Northeast
 listening mission: The song starts slowly, with sound effects and two bass notes that could be from a country song. By 2m 30s, it is full-on funk. When does the switch happen?
-status: review
+status: complete
 writing theme:
 ---
 Alex Haley’s *Roots* was not published until 1976. Three years earlier, the O’Jays put listeners on a slave ship with “Ship Ahoy,” trying to convey the Middle Passage in a way popular music hadn't attempted. Before the first vocal arrives, you hear creaking timbers, crashing waves, thunder, and a cracking whip.
 
-Gamble and Huff traveled to Ghana to visit the coastal slave castles. Gamble told *Mojo* magazine that they stood in the Door of No Return as they were conceiving the song: “We stood in the Door Of No Return that led you right to the slave ship and that was it for you, you were done.”
+Kenny Gamble and Leon Huff traveled to Ghana to visit the coastal slave castles. Gamble told *Mojo* magazine that they stood in the castle's Door of No Return as they were conceiving the song: “We stood in the Door Of No Return that led you right to the slave ship and that was it for you, you were done.”
 
-The song was originally planned for the soundtrack to the 1973 blaxploitation film _Shaft in Africa._ When it didn't make it into the film, they used it instead to open their album *Ship Ahoy*, released on November 10, 1973.
+The song was originally planned for the soundtrack of the 1973 blaxploitation film _Shaft in Africa._ When it did not make it into the film, they used it to open their album *Ship Ahoy*, released on November 10, 1973.
 
 ---
 ## Research Notes

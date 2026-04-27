@@ -17,11 +17,9 @@ writing theme: Not fitting expectations
 ---
 Lou Bond (born Ronald Edward Lewis) didn't fit in Stax’s world in 1974. He was too eclectic for the label’s distinctive soul sound, and it's still hard to name exactly what he was doing.
 
-The cover of his only album, *Lou Bond*, dares you to decide what you’re about to hear. An old blues man? He's too young. A folk singer? Too Black to be filed there. Is it soul or psychedelic funk? Jazz, or folk music from a Black songwriter on a Southern soul label? It’s all of these.
+The cover of his only album, *Lou Bond*, dares you to decide what you’re about to hear. An old blues man? He's too young. A folk singer? Too Black to be filed there. Is it soul or psychedelic funk? Jazz? Folk music from a Black songwriter on a Southern soul label? It’s all of these.
 
-Today’s track, "To the Establishment," is a protest song that refuses to hurry. It's more mood than manifesto. Slow, relaxed, and dreamy, it tries to hypnotize you instead of shouting its argument.
-
-At eleven minutes, it was never destined to be a radio staple like "War" or "What’s Going On." But it still matters for anyone who likes their truth delivered in a long, unbothered groove.
+Today’s track, "To the Establishment," is a protest song that refuses to hurry. It's more mood than manifesto. Slow, relaxed, and dreamy, it tries to hypnotize you instead of shouting its argument. At eleven minutes, it was never destined to be a radio staple like "War" or "What’s Going On." But it still matters for anyone who likes their truth delivered in a long, unbothered groove.
 
 ---
 ## Research Notes

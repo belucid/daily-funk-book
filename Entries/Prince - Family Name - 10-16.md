@@ -12,14 +12,14 @@ genre:
 region:
   - US - Minnesota
 listening mission: Does the groove help Prince’s message land, or does it distract from it?
-status: review
+status: complete
 writing theme:
 ---
-“My fellow Americans, if there is a just God, we’re gonna pay 4 this” is Thomas Jefferson as seen through a Prince Rogers Nelson lens. The song’s message is that many surnames carried by African Americans, including Nelson, were inherited from their enslavers rather than their ancestors.
+“My fellow Americans, if there is a just God, we’re going to pay 4 this” is Thomas Jefferson as heard through a Prince Rogers Nelson lens. The song’s message: many African Americans have surnames, such as Nelson, that are inherited from their enslavers rather than their ancestors.
 
-*The Rainbow Children* was Prince’s first studio album after reclaiming the name Prince, so names were likely on his mind. After finishing his war to free himself from Warner Bros. Records, his first move was preachy and uncommercial. He released it digitally as MP3s to members of the NPG Music Club on October 16, 2001, an early milestone in major-artist digital distribution.
+*The Rainbow Children* was Prince’s first studio album after reclaiming the name Prince, so it's likely that names were on his mind. After breaking free from Warner Bros. Records, his first move was uncommercial and preachy. He released it digitally as MP3s to NPG Music Club members on October 16, 2001, an early milestone in digital distribution by a major artist.
 
-The album went almost completely unpromoted. It peaked at #109 on the *Billboard* 200 and became an insiders' album for the most devout Prince fans. “Family Name” is a funky sermon on an album many casual Prince fans still have not heard.
+The album went almost completely unpromoted. It peaked at #109 on the *Billboard* 200 and became an insiders' album for devoted Prince fans. “Family Name” is a funky sermon on an album many casual Prince fans haven't heard.
 
 ---
 ## Research Notes

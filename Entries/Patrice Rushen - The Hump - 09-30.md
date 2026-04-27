@@ -11,16 +11,14 @@ genre:
   - Jazz-Funk
 region: US - California
 listening mission: “The Hump” is played by a jazz prodigy and LA session-player royalty. Nothing is perfect, but this comes close. Try to find one moment you would change.
-status: review
+status: complete
 writing theme: sellout criticism to jazz artists
 ---
-Patrice Rushen, the piano prodigy behind today's track, drew more than her share of sellout accusations when she moved from straight jazz into jazz-funk. Some of that no doubt reflected a familiar double standard. As a woman, she was an easier target. More generously, some of it may have come from the hopes jazz purists placed on her as a gifted young player, someone they imagined might breathe new life into the genre as an older generation faded.
+Patrice Rushen, the piano prodigy behind today's track, drew more than her share of sellout accusations when she transitioned from straight jazz into jazz-funk. Some of the criticism originated from the hopes jazz purists placed in her as a gifted young player who might rejuvenate the genre as the older generation faded. Some of it no doubt reflected a familiar double standard: as a woman, she was an easier target.
 
-It was unfair to expect Rushen to stay pure while so many of her elders were already chasing bigger audiences and bigger paydays. Thankfully, she ignored her critics and made some of the funkiest jazz-funk records of the era. She later scored disco hits too, including 1982’s “Forget Me Nots,” a strong candidate for disco's last big hit.
+It was unfair to expect Rushen to stay pure while many of her elders were already chasing bigger audiences and paydays. Thankfully, she ignored her critics and made some of the funkiest jazz-funk records of the era. She later scored disco hits, including 1982’s “Forget Me Nots,” a strong candidate for disco's last big hit.
 
-Born on September 30, 1954, Rushen was only 22 when today’s track, “The Hump,” was released. She began playing piano at three and performed at the Monterey Jazz Festival at seventeen. She signed with the storied jazz label Prestige at nineteen and released three albums there before moving to Elektra and leaning into a more commercial direction. Later she built a wide-ranging career as a music director, composer for film, television, and the concert hall, and as a forceful advocate for music education.
-
-In other words, she never left jazz. She expanded it.
+Born on September 30, 1954, Rushen was 22 when today’s track, “The Hump,” was released. She began playing piano at the age of three and performed at the Monterey Jazz Festival at seventeen. She signed with the jazz label Prestige at nineteen and released three albums there before moving to Elektra to pursue a more commercial direction. She went on to have a wide-ranging career as a music director, a composer for film, television, and the concert hall, and a forceful advocate for music education.
 
 ---
 ## Research Notes
