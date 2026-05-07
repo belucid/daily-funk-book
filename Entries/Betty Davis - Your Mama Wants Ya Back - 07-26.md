@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 07-26
 artist: Betty Davis
 track: Your Mama Wants Ya Back
 album: They Say I'm Different
@@ -8,11 +8,20 @@ label: Just Sunshine Records
 year: 1974
 track length: 3m 27s
 genre:
+  - Deep Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: I usually ask you to focus on the music, but today listen to the lyrics. Who do you think Davis is singing to, and what is going on?
+status: complete
 writing theme:
 ---
+ Today’s song, “Your Mama Wants Ya Back,” is by Betty Davis, born Betty Mabry on July 26, 1944, in Durham, North Carolina. The Davis name came from her brief marriage to jazz great Miles Davis, but that connection often obscures the fact that Betty Davis was not just a funky singer. She was the writer, arranger, and producer of her own sound. 
+ 
+Those in the know cherish Davis’ raw, funky vocals, but *They Say I’m Different* is even more remarkable for its credits. Davis wrote, arranged, and produced her albums, an almost unheard-of level of control for a Black woman in funk in the early 1970s.
+ 
+Recorded at the Record Plant in Sausalito, *They Say I'm Different* was released on Just Sunshine Records in 1974. It peaked at #46 on the *Billboard* R&B albums chart, but Davis’ career was boxed in by a familiar double standard. U.S. television networks effectively shut her out for a sexually aggressive stage persona that would have drawn far less panic from a man.
+
+The album didn't sell well, and later became expensive and hard to find for funk collectors. In 2007, Light in the Attic reissued it, bringing it back into wider circulation. It was reissued again for the 50th anniversary in 2023, when it re-entered the German albums chart at #41.
+
 
 ---
 ## Research Notes
@@ -25,9 +34,19 @@ writing theme:
 
 ### Open Research Questions
 
-No `open:` items were left in the entry by the author.
+**Open: what caused it to enter the German album charts at #41 in 2023.**
 
-One discrepancy worth flagging for the author: several blog-level write-ups (e.g., eatsdrinksandleaves.com) credit the personnel of "Your Mama Wants Ya Back" to Larry Graham (bass), Gregg Errico (drums), Neal Schon (guitar) and the Pointer Sisters. Those musicians are documented on Betty Davis's 1973 self-titled debut, not on *They Say I'm Different*. Wikipedia's album personnel list and a track-by-track liner-note transcription at historicalalbumsdatabase.wordpress.com both place an entirely different band on the 1974 album: bass by Larry Johnson; drums split between Mike Clark, Nicky Neal, Willy Sparks and Ted Sparks; guest guitar by Buddy Miles; backing vocals by Debbie Burrell, Elaine Clarke, Mary Jones and Trudy Perkins. The historicalalbumsdatabase track-level credits specifically tag "Your Mama Wants Ya Back" with Merl Saunders on electric piano and Jimmy Godwin on rhythm guitar. Treat the Larry Graham / Gregg Errico story as a probable web error and credit the *They Say I'm Different* band instead.
+Resolved: the chart re-entry was driven by a Light in the Attic Records reissue campaign in August 2023. On August 25, 2023, LITA released a four-album Betty Davis reissue collection marking the 50th anniversary of her 1973 self-titled debut. *They Say I'm Different* was one of the four titles, alongside *Betty Davis* (1973), *Is It Love or Desire?* (recorded 1976, originally released 2009), and *Crashin' From Passion* (1979 sessions, getting its first-ever vinyl pressing). The campaign was meaningful for several converging reasons:
+
+- **Collaborator's-blessing framing.** The reissues had been started in close collaboration with Betty Davis before her death in February 2022. The campaign was effectively the first major posthumous push for her catalog and got broad coverage in *Rolling Stone*, *Uncut*, *The Quietus*, and SoulTracks. — Sources: https://www.rollingstone.com/music/music-news/betty-davis-four-essential-albums-reissued-1234776098/ ; https://www.uncut.co.uk/news/four-betty-davis-albums-to-be-reissued-in-august-142886/ ; https://thequietus.com/articles/33101-light-in-the-attic-lines-up-four-betty-davis-album-reissues
+- **Audiophile vinyl edition.** *They Say I'm Different* was issued on 180g clear-orange vinyl, remastered by Dave Cooley at Elysian Masters from the original tapes, pressed at RTI, with a 20-page booklet of new liner notes by Davis's close friend Danielle Maggio plus rare photos and lyrics. Limited audiophile pressings of cult albums routinely chart in Germany, where the vinyl-collector market is unusually large and chart entries weight physical sales heavily. — Sources: https://www.discogs.com/release/28086259-Betty-Davis-They-Say-Im-Different ; https://soultracks.com/story-betty-davis-reissues-2023/
+- **No competing 2023 catalog event.** No documentary release, sync placement, or major sample event on the album surfaced in 2023 that could explain the chart move independently. The reissue is the only documented 2023 commercial driver. — Source: https://en.wikipedia.org/wiki/They_Say_I%27m_Different
+
+Research approach for this question: searched for 2023 Betty Davis events (reissues, documentaries, sync placements, samples), cross-checked against the Light in the Attic catalog, the Discogs master release for the 2023 LP variant, and contemporaneous press coverage. The German chart's specific entry week could not be retrieved (offiziellecharts.de blocks the WebFetch tool with a 403); the Wikipedia article confirms the year and peak (#41, 2023) but does not list the week. A future researcher with browser access to offiziellecharts.de can pin the exact week, which would almost certainly fall in early September 2023, immediately after the August 25 release.
+
+---
+
+**Discrepancy flagged for the author (not an open question):** several blog-level write-ups (e.g., eatsdrinksandleaves.com) credit the personnel of "Your Mama Wants Ya Back" to Larry Graham (bass), Gregg Errico (drums), Neal Schon (guitar) and the Pointer Sisters. Those musicians are documented on Betty Davis's 1973 self-titled debut, not on *They Say I'm Different*. Wikipedia's album personnel list and a track-by-track liner-note transcription at historicalalbumsdatabase.wordpress.com both place an entirely different band on the 1974 album: bass by Larry Johnson; drums split between Mike Clark, Nicky Neal, Willy Sparks and Ted Sparks; guest guitar by Buddy Miles; backing vocals by Debbie Burrell, Elaine Clarke, Mary Jones and Trudy Perkins. The historicalalbumsdatabase track-level credits specifically tag "Your Mama Wants Ya Back" with Merl Saunders on electric piano and Jimmy Godwin on rhythm guitar. Treat the Larry Graham / Gregg Errico story as a probable web error and credit the *They Say I'm Different* band instead.
 - Source: https://en.wikipedia.org/wiki/They_Say_I%27m_Different
 - Source: https://historicalalbumsdatabase.wordpress.com/2024/09/06/betty-davis-they-say-im-different-1974/
 

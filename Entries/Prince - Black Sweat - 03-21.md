@@ -15,9 +15,9 @@ listening mission: That eerie synth line sounds like it crawled straight out of 
 status: complete
 writing theme:
 ---
-The title of today’s song, “Black Sweat,” has two origin stories. One suggests it came from black hair dye running down Prince’s face onstage. Another ties it to Prince's spot-on impersonation of the perennially sweaty James Brown. Either way, the title captures the physical exertion of performing extended funk jams.
+The title of today’s song, “Black Sweat,” has two origin stories. One suggests it came from black hair dye running down Prince’s face onstage. Another ties it to Prince's spot-on impersonation of the perennially sweaty James Brown. Either way, the title captures the physical exertion required for extended funk jams.
 
-Like "Kiss" and "When Doves Cry," "Black Sweat" has no bass guitar. But unlike those two tracks, it's super funky. It pulls this off without the quintessential funk instrument. The groove is built from a drum machine, a single eerie synth line, and Prince's falsetto. It's a masterclass in how little you need when everything is exactly right.
+Like "Kiss" and "When Doves Cry," "Black Sweat" has no bass guitar. But unlike those two tracks, it's super funky. It pulls this off without the quintessential funk instrument. Instead, the groove is built from a drum machine, a single eerie synth line, and Prince's falsetto. It's a masterclass in how little you need when everything is exactly right.
 
 "Black Sweat" was the lead single on the *3121* album, named for the address of the house Prince rented in Beverly Hills. The house hosted Prince’s legendary parties with purple decor, celebrity guests, and the ever-present possibility that a spontaneous concert would break out.
  

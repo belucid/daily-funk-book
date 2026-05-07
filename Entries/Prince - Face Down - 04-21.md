@@ -15,7 +15,9 @@ listening mission: Prince shouts for horns, orchestra, and bass, and each time t
 status: complete
 writing theme:
 ---
-Prince showed NPG keyboardist Morris Hayes a scathing review of their album, *The Gold Experience*. In an attempt to cheer Prince up, Hayes launched into a tirade with a few choice lines. Two days later, Prince handed him a finished song built from Hayes' words. That song was today’s track, “Face Down.” Prince was always listening. He filtered his life through a musical lens. Here, he turned a friend’s venting into new art.
+Let's stick with Prince again today. He's always a funky choice.
+
+In 1995, Prince showed NPG keyboardist Morris Hayes a scathing review of their album, *The Gold Experience*. In an attempt to cheer Prince up, Hayes launched into a tirade with a few choice lines. Two days later, Prince handed him a finished song built from Hayes' words. That song was today’s track, “Face Down.” Prince was always listening. He filtered his life through a musical lens, and in this case he turned a friend’s venting into new music.
 
 This song is as close as Prince gets to rapping. He’s not quite rapping, but he’s not singing either. "Face Down" plays like a gangsta rap parody run through a funk filter. Prince is having fun, skewering his critics, and amusing his friend. And it still grooves hard.
 

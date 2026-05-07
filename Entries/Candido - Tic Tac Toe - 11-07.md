@@ -16,7 +16,7 @@ writing theme:
 ---
 Long before TikTok, kids entertained themselves with tic-tac-toe. In 1963, the Stax house band of Booker T. Jones, Steve Cropper, Al Jackson Jr., and Donald “Duck” Dunn named a B-side instrumental “Tic Tac Toe.” Eight years later, Havana-born conga player Candido Camero Guerra recorded a funky Latin arrangement of the same tune for Blue Note in New York.
 
-By the early 1970s, the renowned jazz label Blue Note was making jazz-funk crossover records, and Candido's *Beautiful* album was part of that transition. His biggest success came in 1979 when he went full Latin disco on *Dancin’ & Prancin’* for the Salsoul label.
+By the early 1970s, the renowned jazz label Blue Note was making jazz-funk crossover records, and Candido's *Beautiful* album was part of that transition. His biggest success though came later when he went full Latin disco in 1979 on *Dancin’ & Prancin’* for the Salsoul label.
 
 In traditional settings, multiple congueros would each play a single conga. Candido is often credited as the first to use multiple tuned congas in a small-group jazz setup for one player, a style that modern conga players take for granted. A 2006 documentary, *Candido: Hands of Fire*, helped bring him wider attention, and he received a Latin Grammy Lifetime Achievement Award in 2009. He died in New York City on November 7, 2020, at the age of 99.
 

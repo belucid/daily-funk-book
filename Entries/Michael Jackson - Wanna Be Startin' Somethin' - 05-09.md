@@ -16,7 +16,7 @@ writing theme: Why Michael never made any pure funk music
 ---
 I really wanted at least one Michael Jackson entry in this book, but it was not as easy as it sounds. Throughout his career, Michael ruled the pop and dance genres, but he never released a pure funk track.
 
-I considered a couple tracks from 1979's *Off the Wall*, like "Don't Stop 'Til You Get Enough" or "Workin' Day and Night," but those songs sit inside a disco-forward album. This leads us to today’s track, “Wanna Be Startin’ Somethin'’,” which was released as a single on May 9, 1983, and stands out as perhaps Michael’s funkiest moment. Jackson reportedly wrote it in 1978 for his sister La Toya Jackson. He then made a demo during the *Off the Wall* era, but it was left off only to be revived in 1982 for *Thriller*, the best-selling album of all time.
+I considered a couple songs from 1979's *Off the Wall*, like "Don't Stop 'Til You Get Enough" or "Workin' Day and Night," but these are inside a disco-forward album. This leads us to today’s track, “Wanna Be Startin’ Somethin'’,” which was released as a single on May 9, 1983, and stands out as perhaps Michael’s funkiest moment. Jackson reportedly wrote it in 1978 for his sister La Toya Jackson. He then made a demo during the *Off the Wall* era, but it was left off only to be revived in 1982 for *Thriller*, the best-selling album of all time.
 
 The reason I was so eager to include a Michael Jackson track is his vocal style. Outside of James Brown, few singers use staccato attacks, yelps, and rhythmic grunts so effectively as vocal percussion. Think about the first instant you recognize an impersonation of Brown or Jackson. It's not the words. It's the sounds.
 

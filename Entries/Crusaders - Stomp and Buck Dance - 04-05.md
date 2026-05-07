@@ -11,14 +11,14 @@ genre:
   - Jazz-Funk
 region: US - Texas
 listening mission: Listen for Henderson’s trombone in “Stomp and Buck Dance.” It can be harder to pick out than the guitar, bass, keys, and sax you’re now used to hearing.
-status: review
+status: complete
 writing theme:
 ---
-Today’s song, "Stomp and Buck Dance," was written by Crusaders co-founder and trombonist Wayne Henderson. He was born in 1939 in Houston’s Fifth Ward and started playing trombone in middle school. He co-founded his first band in 1954 at age 15. At Henderson's urging, that same group eventually shortened its name to the Crusaders in 1971.
+Today’s song, "Stomp and Buck Dance," was written by Crusaders trombonist and co-founder Wayne Henderson. Born in Houston’s Fifth Ward in 1939, he started playing trombone in middle school. In 1954, at age 15, he co-founded the group that would eventually become the Crusaders.
 
-Henderson left the group in 1975, mainly to focus on his in-demand production work. He produced some of the late-1970s tracks in this book, working with Ronnie Laws, Pleasure, Side Effect, Roy Ayers, and Hiroshima and others. He also released a few solo records for Polydor during the same period.
+Henderson left the group in 1975, mainly to focus on his in-demand production work. He produced some of the late-1970s tracks in this book, working with Ronnie Laws, Pleasure, Side Effect, Roy Ayers, Hiroshima, and others. He also released a few solo records for Polydor during the same period.
 
-The surviving members of the Crusaders reunited for tours in 1995 and 2010, and Henderson was still on stage as a Crusader in London in October 2013, six months before his death from complications of diabetes on April 5, 2014.
+The surviving members of the Crusaders reunited for tours in 1995 and 2010. Henderson was still on stage as a Crusader in London in October 2013, six months before his death from complications of diabetes on April 5, 2014.
 
 ---
 ## Research Notes

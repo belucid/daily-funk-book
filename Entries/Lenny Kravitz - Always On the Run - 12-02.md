@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 12-02
 artist: Lenny Kravitz
 track: Always On The Run
 album: Mama Said
@@ -10,15 +10,19 @@ track length: 3m 53s
 genre:
   - Funk Rock
 region: US - New York
-listening mission:
-status: research-review
+listening mission: You already know Slash can rock, and the opening and solo prove it again. How does his funk guitar playing land in the rest of the song?
+status: review
 writing theme:
 ---
 
 ---
 ## Research Notes
 
-Lenny was already funk royalty in a way as his mom was on The Jeffersons
+Lenny Kravitz and Saul Hudson, better known as Slash from Guns N' Roses, went to Beverly Hills High School together in the early 1980s. Friends in school, they built separate careers in the music industry, but lost touch until a chance encounter at the 1990 American Music Awards. A couple months later, the old friends were on a train from New York to a studio in Hoboken, New Jersey. They carried two guitars, a gallon of vodka, and a plan to make a record together.
+
+The resulting album, *Mama Said*, was released in 1991 and sold over 3 million copies worldwide. The intro to the lead single, "Always on the Run," is built around an existing guitar riff by Slash that hadn't found a place in any Guns N' Roses songs. Kravitz brings the funk to match Slash's rock, playing drums, bass, and keyboards. The horns are by Earth, Wind & Fire's horn section.
+
+You probably know the mother behind all the 'my mama said...' lines in the song. The lyrics recount the maternal wisdom of Kravitz's mother, Roxie Roker. She was an actress who played Helen Willis on *The Jeffersons*. Roker died of breast cancer four years after the song, on December 2, 1995.
 
 ### Open Research Questions
 

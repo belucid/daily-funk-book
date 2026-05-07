@@ -1,19 +1,24 @@
 ---
 fileClass: funk-entry
-day:
+day: 03-25
 artist: Prince
 track: Erotic City
 album:
 label: Warner Bros.
 year: 1984
-track length: 7m 24s
+track length: 3m 55s
 genre:
   - Minneapolis Sound
 region: US - Minnesota
-listening mission:
-status: research-review
+listening mission: Sheila E. insists she was singing “funk,” not the other F-word. That helped the track slip past censors, but which version do you hear?
+status: review
 writing theme:
 ---
+You’ll quickly notice that today’s song, "Erotic City," features many voices, and many of them are Prince. He layered at least three versions of himself on the track: a slowed-down baritone, his normal register, and a sped-up helium harmony, all created through tape manipulation.
+
+But not everything is Prince. “Erotic City” is also a duet with percussionist Sheila Escovedo. It marked her debut as a pop vocalist. She arrived at Sunset Sound on March 25, 1984, expecting to play percussion, but Prince had other plans. The session must have gone well, because the two soon made her Prince-produced solo debut, *The Glamorous Life*, under the shortened stage name Sheila E. She became a long-term collaborator and his drummer and percussionist across multiple tours. 
+
+Prince released "Erotic City" as the B-side of "Let’s Go Crazy," leaving it off *Purple Rain*. The track got substantial radio play and became a bigger favorite with fans and critics than he expected. It later appeared as a major draw on *The Hits / The B-Sides*. In an unusual move for Prince, he also allowed it to be used in films, including *PCU* in 1994 and Spike Lee’s *Girl 6* in 1996. *Rolling Stone* ranked it #135 on its "200 Greatest Dance Songs of All Time," and *Slant* placed it at #33 on its "100 Best Dance Songs."
 
 ---
 ## Research Notes

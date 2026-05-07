@@ -1,16 +1,17 @@
 ---
 fileClass: funk-entry
 day:
-artist: Betty Davis
-track: Dedicated to the Press
+artist: Brand New Heavies
+track:
 album:
 label:
 year:
 track length:
 genre:
+  - Acid Jazz
 region:
 listening mission:
-status: research
+status: stub
 writing theme:
 ---
 

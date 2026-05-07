@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-27
 artist: The Impressions
 track: Stop the War
 album: Times Have Changed
@@ -8,11 +8,19 @@ label: Curtom
 year: 1972
 track length: 6m 25s
 genre:
+  - Classic Funk
 region: US - Illinois
-listening mission: Beatles influences
-status: research-review
-writing theme: Perennial nature of an anti-war song, Beatles influence on this
+listening mission: Why does the song dissolve into a spoken-word montage at the end? Can you imagine this ending without the influence of the Beatles?
+status: review
+writing theme:
 ---
+Lead singer Curtis Mayfield left the Impressions in 1970 for a solo career, but he still wrote and produced today’s song, “Stop the War,” for his old group. *Times Have Changed* was the only Impressions album to feature Leroy Hutson as Mayfield’s replacement. Hutson stayed for just one album and tour before leaving for a solo career of his own.
+
+But the lead voice here is not Mayfield or Hutson. It's Fred Cash. Cash was usually the Impressions’ harmonic anchor, but he stepped forward on a song that meant a lot to him.
+
+This song did not end the war. No song did. Not even the collective force of all the anti-war music can claim that. But public anti-war sentiment helped push the United States toward the Paris Peace Accords, signed January 27, 1973, ending direct US involvement in Vietnam. The final American combat death before the ceasefire was Lt. Col. William B. Nolde, killed just 11 hours before the agreement took effect.
+
+The peace did not hold. Fighting resumed almost immediately, and the war continued until Saigon fell on April 30, 1975.
 
 ---
 ## Research Notes
@@ -23,7 +31,19 @@ writing theme: Perennial nature of an anti-war song, Beatles influence on this
 
 ### Open Research Questions
 
-No open research questions were found in the existing notes.
+Open: main hook will be the Paris Peace accord date of 01-27
+Give me any colorful, interesting facts on this event on this day
+
+**Resolution (2026-04-29):** The Paris Peace Accords were signed January 27, 1973 at the Hotel Majestic in Paris. Colorful facts:
+
+- **Diplomatic contortion.** Thieu refused to recognize the Viet Cong, so the parties signed on separate pages of separate documents, letting everyone pretend the other side didn't exist. Source: https://www.history.com/this-day-in-history/january-27/paris-peace-accords-signed
+- **Kissinger wasn't even there.** He initialed the deal Jan 23 and stayed in Washington. Secretary of State Rogers flew to Paris. Source: https://adst.org/2016/01/a-peace-that-couldnt-last-negotiating-the-paris-accords-on-vietnam/
+- **Last American combat death.** Lt. Col. William B. Nolde, 43, killed by artillery at An Loc, 11 hours before the ceasefire. A Korean War vet and former Central Michigan University professor. Nixon attended his Arlington burial on national TV. Source: https://www.historyandheadlines.com/january-27-1973-last-american-combat-casualty-vietnam-war/
+- **Nobel refusal.** Kissinger and Le Duc Tho won the 1973 Nobel Peace Prize. Tho declined, calling it a "bourgeois sentimentality" and noting fighting hadn't stopped. He remains the only person to ever decline the Peace Prize. Two committee members resigned over Kissinger's award. Source: https://en.wikipedia.org/wiki/1973_Nobel_Peace_Prize
+- **The peace didn't hold.** Fighting didn't stop for even one hour after the ceasefire. Saigon fell April 30, 1975. Source: https://en.wikipedia.org/wiki/Paris_Peace_Accords
+- **Spy-craft theatrics.** During 1971 secret talks, Kissinger "slunk down in a car that went out of the back door" of the embassy while reporters watched the front. His cover: dinner with ABC journalist Margaret Osmer. The press criticized him for dining out, not knowing he'd already met Le Duc Tho. Source: https://adst.org/2016/01/a-peace-that-couldnt-last-negotiating-the-paris-accords-on-vietnam/
+- **Headache diplomacy.** U.S. negotiator Winston Lord: "Le Duc Tho often had headaches. When he had a headache, we knew that he wasn't going to be flexible." Source: https://adst.org/2016/01/a-peace-that-couldnt-last-negotiating-the-paris-accords-on-vietnam/
+- **Timeline.** "Stop the War" released 1972; accords signed Jan 27, 1973. The song predates the ceasefire but not the war's end (1975): it asked for something that, even when it officially arrived, didn't stick.
 
 ### Writing Theme Suggestions
 

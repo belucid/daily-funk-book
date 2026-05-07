@@ -16,7 +16,7 @@ writing theme:
 ---
 Today’s song, “The Jugglers,” went missing for 41 years. It opened the Average White Band’s 1973 debut _Show Your Hand_. The album sold poorly and their label, MCA, dropped them.
 
-Atlantic Records' Jerry Wexler heard some of the band's unreleased material at a party in Los Angeles, later saying, "Their funk hit me where I lived, their tape was great, and I wanted to sign them on the spot." Atlantic's bet paid off fast when “Pick Up the Pieces” hit No. 1 on the *Billboard* Hot 100, and the album *AWB* went to No. 1 on the *Billboard* 200.
+Atlantic Records' Jerry Wexler heard some of the band's unreleased material at a party in Los Angeles, later saying, "Their funk hit me where I lived, their tape was great, and I wanted to sign them on the spot." Wexler's bet paid off fast when their first single on Atlantic, “Pick Up the Pieces,” hit No. 1 on the *Billboard* Hot 100, and the album *AWB* went to No. 1 on the *Billboard* 200.
 
 MCA scrambled to rerelease the debut album with a more commercial cover, the midsection of a woman, and with a suggestive title, *Put It Where You Want It*. The only musical difference between the 1973 original and the 1975 rerelease is that the lead track, “The Jugglers,” was replaced by “How Can You Go Home.”
 

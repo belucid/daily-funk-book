@@ -1,8 +1,8 @@
 ---
 fileClass: funk-entry
 day:
-artist: SAULT
-track: Chapter 1
+artist: Odetta
+track: Hit or Miss
 album:
 label:
 year:

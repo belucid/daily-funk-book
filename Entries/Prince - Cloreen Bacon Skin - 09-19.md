@@ -10,15 +10,15 @@ track length: 15m 36s
 genre:
   - Minneapolis Sound
 region: US - Minnesota
-listening mission: Prince keeps telling drummer Morris Day to “keep that pocket.” Each time he says it, listen to Morris’ drums. Was Morris actually slipping, or was Prince just messing with him?
+listening mission: Prince keeps telling drummer Morris Day not to lose the pocket. Each time he says it, listen to Morris’ drums. Was Morris actually slipping, or was Prince just messing with him?
 status: complete
 writing theme: Humor in funk, too indulgent to release this given the length and the strip down nature of drums and bass and spoken word
 ---
 At fifteen-plus minutes, today’s track is one of the longest official Prince releases, and also one of the leanest. It is just Prince on bass and Morris Day on drums. Prince does all the talking. Morris Day stays silent. 
 
-The song has comedic elements and a fat, funky beat, but can you make it through all fifteen-plus minutes of this stripped-down sound? The real question is why Prince decided listeners would want this on the _Crystal Ball_ triple album.
+The song has humor and a fat, funky beat, but can you make it through all fifteen-plus minutes of this stripped-down sound? The real question is why Prince decided listeners would want this on the _Crystal Ball_ triple album.
 
-Prince’s comedy comes through his recurring "Jamie Starr" persona, an imitation of the older men he heard at the barbershop growing up. Everything you hear here was made up on-the-spot, including the name "Cloreen" and the unflattering "Bacon Skin" tag. This kind of improvised jamming was a fundamental part of Prince’s creative process. You can hear its afterlife too. Morris’ drums resurface on "Irresistible Bitch," and "Cloreen Bacon Skin" is later self-sampled in "Soul Psychodelicide."
+Prince’s comedy comes through his recurring "Jamie Starr" persona, an imitation of the older men he heard at the barbershop growing up. Everything you hear here was made up on-the-spot, including the name "Cloreen" and the unflattering "Bacon Skin" tag. This kind of improvised jamming was a fundamental part of Prince’s creative process. You can hear its afterlife too. Morris’ drum part resurface on "Irresistible Bitch," and "Cloreen Bacon Skin" is later self-sampled in "Soul Psychodelicide."
 
 Dirty secret time: this is my favorite Prince song.
 
