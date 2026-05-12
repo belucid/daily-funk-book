@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 04-02
 artist: Betty Davis
 track: Anti Love Song
 album: Betty Davis
@@ -8,11 +8,17 @@ label: Just Sunshine Records
 year: 1973
 track length: 4m 32s
 genre:
+  - Deep Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: Lock in on Larry Graham’s bass. His slap-and-pop style became a defining sound of the funk era. Does something in Davis’ vocal attack evoke a slap bass too?
+status: review
 writing theme:
 ---
+Today’s song, “Anti Love Song,” comes from Betty Davis’ self-titled debut album, released on April 2, 1973, by the independent Just Sunshine Records. At the time, many listeners knew her mainly as Miles Davis’ ex-wife, the woman credited with naming *Bitches Brew*. Her debut was a funky declaration that she was not a footnote to a jazz great.
+
+Gregg Errico is the credited producer, but make no mistake: Betty Davis was in control. She wrote and arranged every song on the album, and hand-picked the band. She brought in Sly Stone’s rhythm section, with Larry Graham on bass and Errico on drums. She also had an eye for young talent, using teenage guitarist Neal Schon and the future Pointer Sisters on backing vocals.
+
+Despite being a funk masterpiece, the album failed to make a commercial dent. It did not crack the *Billboard* 200 and topped out at #54 on the US R&B Albums chart. The establishment in 1973 was not ready for a sexually aggressive female artist. Davis may have helped clear the path for future stars like Madonna and Janet Jackson, but in the moment she was condemned, boycotted, and banned. The NAACP publicly criticized the album’s sexual content and pressured radio stations not to play her records. The first single, “If I’m in Luck I Might Get Picked Up,” was even banned in some cities.
 
 ---
 ## Research Notes

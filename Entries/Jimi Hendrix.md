@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: Jimi Hendrix
 track:
-album:
+album: Band of Gypsies
 label:
 year:
 track length:
@@ -13,7 +13,7 @@ listening mission:
 status: stub
 writing theme:
 ---
-Electric Ladyland and/or Band of Gysies albums.
+
 
 ---
 ## Research Notes

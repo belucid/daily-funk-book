@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: Bar-Kays
 track:
-album:
+album: Too Hot to Stop
 label:
 year:
 track length:

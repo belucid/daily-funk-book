@@ -1,9 +1,9 @@
 ---
 fileClass: funk-entry
 day:
-artist: Brass Construction
+artist: Earth, Wind & Fire
 track:
-album: Brass Construction 1
+album: That's the Way of the World
 label:
 year:
 track length:
@@ -13,6 +13,7 @@ listening mission:
 status: stub
 writing theme:
 ---
+Once one is picked out from this album, also check *Gratitude*.
 
 ---
 ## Research Notes

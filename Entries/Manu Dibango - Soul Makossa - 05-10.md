@@ -4,7 +4,7 @@ day: 05-10
 artist: Manu Dibango
 track: Soul Makossa
 album: Soul Makossa
-label: Atlantic (US)
+label: Atlantic (in the USA)
 year: "1972"
 track length: 4m 31s
 genre:

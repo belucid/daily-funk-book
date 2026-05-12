@@ -11,16 +11,16 @@ genre:
   - Deep Funk
 region: US - New York
 listening mission: Listen to today’s song and think about context versus musical merit. If Donna Summer had recorded this for Atlantic, instead of Sandi Hewitt singing it on a pornographic soundtrack for Bryan Records, would it be so unknown?
-status: review
+status: complete
 writing theme:
 ---
-Bernard Purdie was already the most-recorded drummer in America by 1974, but he had spent his career playing on other people's records. The soundtrack to the pornographic movie *Lialeh* was his first project as composer, producer, and bandleader.
+Bernard "Pretty" Purdie, the most-recorded drummer in America by 1974, had spent his career playing on other people's records. The soundtrack to the pornographic movie *Lialeh* was his first project as composer, producer, and bandleader.
 
-The songwriting on today’s track is credited to Purdie, with lyrics by Barron Bercovichy. Lead vocals are by the relatively unknown singer Sandi Hewitt.
+The songwriting on today’s track, "Touch Me Again," is credited to Purdie, with lyrics by Barron Bercovichy. Lead vocals are by the relatively unknown singer Sandi Hewitt.
 
-Bryan Records pressed the *Lialeh* LP in 1974, but both the movie and the record quickly disappeared. Decades later, funk collectors paid four or five figures for original copies. The soundtrack is mostly instrumental, and it does not really sound like an X-rated film score. “Touch Me Again” is the track that most leans into the film’s intended sexy mood, yet it works perfectly well as a standalone slow funk groove.
+The *Lialeh* LP was pressed by Bryan Records in 1974, but both the movie and the record quickly vanished. Decades later, funk collectors paid four or five figures for original copies. The soundtrack is mostly instrumental, with little hint that it's an X-rated film score. “Touch Me Again” is the track that leans into the film’s intended sexy mood, yet it works well as a standalone slow funk groove.
 
-Light in the Attic restored the *Lialeh* recordings and reissued the soundtrack on CD and vinyl in 2003. Thanks to that work, it is now also available to stream.
+Light in the Attic restored the *Lialeh* recordings and reissued the soundtrack on CD and vinyl in 2003. Thanks to that work, it's now available to stream.
 
 ---
 ## Research Notes

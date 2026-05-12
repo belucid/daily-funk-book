@@ -4,7 +4,7 @@ day: 02-15
 artist: Aretha Franklin
 track: Rock Steady
 album: Young, Gifted and Black
-label: Atlantic Records
+label: Atlantic
 year: 1971
 track length: 3m 15s
 genre:

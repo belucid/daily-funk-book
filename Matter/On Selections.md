@@ -11,6 +11,7 @@ Here is an illustrative, though not exhaustive, list of the kind of mega-hits I 
 - "Superfly", Curtis Mayfield (1972)
 - "Superstition", Stevie Wonder (1972)
 - "Jungle Boogie", Kool & The Gang (1973)
+- “Do It (Till You’re Satisfied)” B.T. Express (1974)
 - "Pick Up the Pieces", Average White Band (1974)
 - "Lady Marmalade", Labelle (1974)
 - "Tell Me Something Good", Chaka Khan & Rufus (1974)

@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: Brothers Johnson
 track:
-album:
+album: "Look Out for #1"
 label:
 year:
 track length:

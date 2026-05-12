@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: Stevie Wonder
 track:
-album:
+album: Innervisions
 label:
 year:
 track length:
@@ -13,6 +13,7 @@ listening mission:
 status: stub
 writing theme:
 ---
+Once one is selected from *Innervisions*, also select one from *Key of Life*.
 
 ---
 ## Research Notes

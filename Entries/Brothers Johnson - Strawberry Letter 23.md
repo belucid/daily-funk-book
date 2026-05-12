@@ -1,14 +1,13 @@
 ---
 fileClass: funk-entry
 day:
-artist: The Sensational Williams Brothers
-track: I've Got a Home
-album: I've Got a Home
+artist: Brothers Johnson
+track: Strawberry Letter 23
+album:
 label:
 year:
 track length:
 genre:
-  - Gospel Funk
 region:
 listening mission:
 status: research

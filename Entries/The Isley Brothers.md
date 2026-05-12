@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: The Isley Brothers
 track:
-album:
+album: Go For Your Guns
 label:
 year:
 track length:
