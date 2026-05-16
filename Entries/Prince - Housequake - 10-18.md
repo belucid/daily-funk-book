@@ -15,7 +15,7 @@ listening mission: The day before this session, Prince fired his band. He plays 
 status: complete
 writing theme:
 ---
-On  October 17, 1986 Prince announced he was parting ways with his long time band, The Revolution. The next day, he was back in the studio, making today's song. "Housequake" was inspired by the the Southern California earthquakes Prince experienced in 1986. 
+On  October 17, 1986 Prince announced he was parting ways with his long time band, The Revolution. The next day, he was back in the studio, making today's song, "Housequake." It was inspired by the the Southern California earthquakes Prince experienced in 1986. 
 
 The track is a one-man-band power move, a redeclaration that Prince did not need anybody. In it, he says: “Everybody shut up. Listen to the band.” For Prince, the band was just him.
 

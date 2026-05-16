@@ -16,7 +16,7 @@ writing theme:
 ---
 Released on Halloween in 2022, today’s song is Scary Pockets’ cover of the Bee Gees’ 1977 disco hit "Stayin’ Alive."
 
-Even if you don't know much disco, you know this song, which makes it a great case study. The original dances to a 104 BPM four-on-the-floor pulse. Scary Pockets slows it down, brings the vocal back to earth, and replaces the straight-ahead beat with funk syncopation and swagger.
+Even if you don't know much disco, you know this song. The original dances to a 104 BPM four-on-the-floor pulse. To make it funky, Scary Pockets slows it down, brings the vocal back to earth, and replaces the straight-ahead beat with funk syncopation and swagger. It's a good case study in the differences between funk and disco production.
 
 Episode 289 of the *Switched on Pop* podcast shows how Scary Pockets arranged this version in about 90 minutes before recording it live in the same room.
 

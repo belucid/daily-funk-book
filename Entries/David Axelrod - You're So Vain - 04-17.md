@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 02-05
+day: 04-17
 artist: David Axelrod
 track: You're So Vain
 album: Heavy Axe
@@ -15,11 +15,11 @@ listening mission: I trust you know Carly Simon’s soft-rock original. What cha
 status: complete
 writing theme:
 ---
-Producer David Axelrod never played an instrument or sang on his solo records. He arranged, conducted, and mixed them, but the sounds themselves all came from other players. He did not write today’s song either. "You’re So Vain" is a cover of Carly Simon’s #1 hit from November 1972.
+Producer David Axelrod was born on April 17, 1931, in Los Angeles. He never played an instrument or sang on his solo records. He arranged, conducted, and mixed them, but the sounds themselves all came from other players. He did not write today’s song either. "You’re So Vain" is a cover of Carly Simon’s #1 hit from November 1972.
 
 Simon’s original was recorded at Trident Studios in London with an uncredited Mick Jagger on background vocals. Axelrod’s version, cut a year later, completely reworked the song. Singer Stephanie Spruill gave it a warmer, more soulful vocal, while Axelrod replaced the singer-songwriter arrangement with a jazz-funk ensemble.
 
-Axelrod wasn't a record executive taking credit for other people’s work. He was a self-made musician who learned production, composition, and arrangement the hard way. He grew up in the streets of South Central Los Angeles and boxed competitively, then taught himself composition from Walter Piston’s textbooks. He became one of Hollywood’s most sought-after arrangers. His solo records stood out for their focus on the producer's craft: writing, arranging, conducting, and mixing. Axelrod died on February 5, 2017, at the age of 85.
+Axelrod wasn't a record executive taking credit for other people’s work. He was a self-made musician who learned production, composition, and arrangement the hard way. He grew up in the streets of South Central Los Angeles and boxed competitively, then taught himself composition from Walter Piston’s textbooks. He became one of Hollywood’s most sought-after arrangers. His solo records stood out for their focus on the producer's craft: writing, arranging, conducting, and mixing.
 
 ---
 ## Research Notes

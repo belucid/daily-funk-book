@@ -141,6 +141,8 @@ Valid values for the `region` field:
 - France
 - Jamaica
 - Kenya
+- South Africa
+- Japan
 
 ## Style Rules
 

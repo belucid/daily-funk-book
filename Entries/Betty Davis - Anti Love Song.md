@@ -11,14 +11,14 @@ genre:
   - Deep Funk
 region: US - California
 listening mission: Lock in on Larry Graham’s bass. His slap-and-pop style became a defining sound of the funk era. Does something in Davis’ vocal attack evoke a slap bass too?
-status: review
+status: complete
 writing theme:
 ---
-Today’s song, “Anti Love Song,” comes from Betty Davis’ self-titled debut album, released on April 2, 1973, by the independent Just Sunshine Records. At the time, many listeners knew her mainly as Miles Davis’ ex-wife, the woman credited with naming *Bitches Brew*. Her debut was a funky declaration that she was not a footnote to a jazz great.
+Today’s song, "Anti Love Song," is from Betty Davis’ self-titled debut album, released on April 2, 1973, by Just Sunshine Records. Many listeners knew her as Miles Davis’ ex-wife, and the woman who named his *Bitches Brew* album. Her own debut was a funky declaration of independence.
 
-Gregg Errico is the credited producer, but make no mistake: Betty Davis was in control. She wrote and arranged every song on the album, and hand-picked the band. She brought in Sly Stone’s rhythm section, with Larry Graham on bass and Errico on drums. She also had an eye for young talent, using teenage guitarist Neal Schon and the future Pointer Sisters on backing vocals.
+Gregg Errico is the credited producer, but Betty Davis was in charge. She wrote and arranged every song on the album, and hand-picked the band. She brought in Sly Stone’s rhythm section: Larry Graham on bass and Errico on drums. She also discovered young talent, using teenage guitarist Neal Schon and the future Pointer Sisters on backing vocals.
 
-Despite being a funk masterpiece, the album failed to make a commercial dent. It did not crack the *Billboard* 200 and topped out at #54 on the US R&B Albums chart. The establishment in 1973 was not ready for a sexually aggressive female artist. Davis may have helped clear the path for future stars like Madonna and Janet Jackson, but in the moment she was condemned, boycotted, and banned. The NAACP publicly criticized the album’s sexual content and pressured radio stations not to play her records. The first single, “If I’m in Luck I Might Get Picked Up,” was even banned in some cities.
+The album is a funk masterpiece, but it failed to make a commercial impact. It didn't crack the *Billboard* 200 and peaked at #54 on the US R&B Albums chart. In 1973, the establishment wasn't ready for a sexually aggressive female artist. Davis paved the way for future stars like Madonna and Janet Jackson, but at the time she was condemned, boycotted, and banned. The NAACP criticized the album’s sexual content and pressured radio stations to not play her records. The first single, “If I’m in Luck I Might Get Picked Up,” was banned in some cities.
 
 ---
 ## Research Notes

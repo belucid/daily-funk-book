@@ -1,18 +1,18 @@
 ---
 fileClass: funk-entry
 day:
-artist: Trouble Funk
-track:
+artist: Almon Memela
+track: The Things We Do In Soweto
 album:
 label:
 year:
 track length:
 genre:
-  - Go-Go
+  - Afrobeat
 region:
-  - US - DC
+  - South Africa
 listening mission:
-status: stub
+status: research
 writing theme:
 ---
 

@@ -1,7 +1,7 @@
 ---
 fileClass: funk-entry
 day: 06 - 11
-artist: Johnny Hammond
+artist: Johnny "Hammond" Smith
 track: Rock Steady
 album: Wild Horses Rock Steady
 label: Kudu Records

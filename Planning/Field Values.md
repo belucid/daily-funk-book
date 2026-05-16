@@ -51,6 +51,7 @@ Free text — record label name (e.g. Aware Records, People Records, Blue Note)
 - Jamaica
 - Japan
 - Kenya
+- South Africa
 
 ## status
 - stub

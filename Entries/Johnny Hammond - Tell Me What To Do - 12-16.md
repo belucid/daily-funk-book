@@ -1,7 +1,7 @@
 ---
 fileClass: funk-entry
 day: 12-16
-artist: Johnny Hammond
+artist: Johnny "Hammond" Smith
 track: Tell Me What To Do
 album: Gears
 label: Milestone Records

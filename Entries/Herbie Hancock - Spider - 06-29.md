@@ -9,10 +9,17 @@ year: 1976
 track length: 7m 21s
 genre:
 region: US - California
-listening mission:
-status: research-review
+listening mission: '"Spider" has the cinematic feel of mid-70s soundtrack funk. As you listen, picture the opening scene of a blaxploitation film. Who is your protagonist, and what are they up to?'
+status: review
 writing theme:
 ---
+"Spider" is the final track on side one of Herbie Hancock’s 1976 album *Secrets*. The next year, Columbia released it as a 7-inch single with "Maiden Voyage" on the B-side, but the single was not the album version. It used a 10-minute live take from *V.S.O.P. (Live)*, recorded at the Newport Jazz Festival in New York on June 29, 1976.
+
+The ever-changing Hancock created the V.S.O.P. concept in 1976 as a challenge to himself and his audience. V.S.O.P. stood for Very Special One-time Performance, and the idea was to put the major eras of Hancock's career on one bill.
+
+In those concerts, Hancock played acoustic piano on Miles Davis material with the V.S.O.P. Quintet, essentially the mid-1960s Miles Davis Quintet with Freddie Hubbard standing in for Miles on trumpet. He played electric synths on avant-garde jazz with his Mwandishi sextet. Then he played jazz-funk tunes like "Spider" with the Headhunters.
+
+For extra credit, also listen to the version of "Spider" on *V.S.O.P. (Live)*. What does Hancock do with the extra three minutes, and which version do you prefer?
 
 ---
 ## Research Notes
@@ -67,15 +74,15 @@ No open questions were left in the entry by the author.
 
 ### Date Suggestions
 
-| Date  | Event                                                  | Source                                                                                       |
-| ----- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| 04-12 | Herbie Hancock's birthday (born 1940)                  | https://en.wikipedia.org/wiki/Herbie_Hancock                                                 |
-| 06-29 | V.S.O.P. live recording of Spider (Newport, 1976)      | https://www.herbiehancock.com/music/discography/album/v-s-o-p/                               |
-| 08-15 | Secrets album release date (1976)                      | https://www.herbiehancock.com/music/discography/album/secrets/                               |
-| 12-08 | Wah Wah Watson's birthday (born 1950)                  | https://en.wikipedia.org/wiki/Wah_Wah_Watson                                                 |
-| 10-24 | Wah Wah Watson's death (2018)                          | https://en.wikipedia.org/wiki/Wah_Wah_Watson                                                 |
-| 08-29 | Bennie Maupin's birthday (born 1940)                   | https://en.wikipedia.org/wiki/Bennie_Maupin                                                  |
-| 03-28 | Paul Jackson's birthday (born 1947) — **already used** | https://en.wikipedia.org/wiki/Paul_Jackson_(bassist)                                         |
+| Date  | Event                                                  | Source                                                         |
+| ----- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| 04-12 | Herbie Hancock's birthday (born 1940)                  | https://en.wikipedia.org/wiki/Herbie_Hancock                   |
+| 06-29 | V.S.O.P. live recording of Spider (Newport, 1976)      | https://www.herbiehancock.com/music/discography/album/v-s-o-p/ |
+| 08-15 | Secrets album release date (1976)                      | https://www.herbiehancock.com/music/discography/album/secrets/ |
+| 12-08 | Wah Wah Watson's birthday (born 1950)                  | https://en.wikipedia.org/wiki/Wah_Wah_Watson                   |
+| 10-24 | Wah Wah Watson's death (2018)                          | https://en.wikipedia.org/wiki/Wah_Wah_Watson                   |
+| 08-29 | Bennie Maupin's birthday (born 1940)                   | https://en.wikipedia.org/wiki/Bennie_Maupin                    |
+| 03-28 | Paul Jackson's birthday (born 1947) — **already used** | https://en.wikipedia.org/wiki/Paul_Jackson_(bassist)           |
 
 **Suggested dates** (none currently occupied unless flagged):
 

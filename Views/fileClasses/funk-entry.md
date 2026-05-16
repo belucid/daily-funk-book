@@ -52,4 +52,5 @@ region:
   - US - Texas
   - US - West
   - Japan
+  - South Africa
 ---

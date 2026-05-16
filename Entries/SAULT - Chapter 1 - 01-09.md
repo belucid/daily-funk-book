@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-09
 artist: SAULT
 track: Chapter 1
 album: Chapter 1
@@ -8,11 +8,22 @@ label: Forever Living Originals
 year: 2026
 track length: 2m 50s
 genre:
+  - Nu-Funk
 region: UK
-listening mission:
-status: research-review
+listening mission: "On the surface, this sounds like playground trash talk: “You’re just a loser, and hate that I’m a winner.” Listen past the taunt. Is the song really about ego, or is it about something else?"
+status: review
 writing theme:
 ---
+The album *Chapter 1* was released without warning on January 9, 2026. This is SAULT's signature move. Mystery.
+
+Despite the title, *Chapter 1* is not their debut. It's their thirteenth album in roughly seven years. 
+Their first album in 2019 was actually called *5*. The album *7* followed *5*, and *9* was their fifth album. *11* was released in 2022 and *10* in 2025. Confused yet?
+
+The mystery extends beyond when they release their music and what they call it. SAULT is a London-based collective that rarely shows its face, does not do interviews, and drops albums without warning. At their first live show, a masked performance at Drumsheds in London in December 2023, they revealed that SAULT stands for “Start A Universal Love Trend.” Does it really though, or is that a backronym? We are unlikely to find out anytime soon.
+
+It is generally assumed that SAULT’s membership shifts from album to album. The most consistent figure across the project has been producer Inflo, with Cleo Sol as the singer most closely associated with the group’s sound. *Chapter 1* also features Jack Peñate and contributions from Jimmy Jam and Terry Lewis, because apparently even the mystery collective has room for Minneapolis sound royalty.
+
+More recent SAULT albums, including Chapter 1, lean heavily into spiritual language and gospel feeling. But today’s track, "Chapter 1," is almost entirely secular. It is deeply funky, built around a killer bassline, infectious chanted vocals, and the kind of drumming that deserves a hat tip to whoever is behind the kit.
 
 ---
 ## Research Notes
