@@ -11,16 +11,16 @@ genre:
   - Afrobeat
 region: Senegal
 listening mission: Touré Kunda sang in six languages across their career, often inside a single song. Presumably you can’t understand a word of the lyrics, so try listening for meaning without translation. What do you imagine the song is about?
-status: review
+status: complete
 writing theme:
 ---
-You do realize musical genres are problematic, yes? Touré Kunda’s "Manso" does not fit neatly into the Fela Kuti, Nigerian template for Afrobeat. It is mbalax, which is Senegalese popular music, hooked to a disco bassline and shoved into a fight with some aggressive polyrhythms. To make the genre filing problem worse, the whole thing was recorded in Paris with slick 1980s production.
+Touré Kunda’s "Manso" does not fit the Fela Kuti, Nigerian template for Afrobeat. It's mbalax, which is Senegalese popular music, but hooked to a disco bassline pitted against some aggressive polyrhythms. To make the genre classification problem even worse, the whole thing was recorded in Paris.
 
-Brothers Ismaïla and Sixu Tidiane Touré were born in Casamance, Senegal. Their elder brother was a musician and helped steer them toward the business. "Touré Kunda" means "the elephant family" in Soninké, and the brothers adopted it as their stage name in 1977. They moved to Paris in 1979, where a small but important scene for West African music was beginning to take shape. From there, the bridge to the American market was much easier to cross.
+Brothers Ismaïla and Sixu Tidiane Touré were born in Casamance, Senegal. Their older brother, a musician, steered them toward the music business. "Touré Kunda" means "the elephant family" in Soninké, and the brothers adopted it as their stage name in 1977. They moved to Paris in 1979 to join the small but important West African music scene. From there, the bridge to the American market was much easier to cross.
 
-Many Afrobeat bands leaned vocally into the American side of the fusion, often singing in English or in pidgin designed to reach the widest possible audience. Touré Kunda went the other way. Across their discography, they used several languages, reflecting the linguistic mix of southwestern Senegal: Soninké, Mandingo, Wolof, Diola, Fula, and Portuguese Creole. The brothers also picked up French and English during their careers, which makes me just a little less proud of my C- in junior high German.
+Many Afrobeat bands leaned vocally into the American side of the fusion, often singing in English or in a pidgin designed to reach the widest possible audience. Touré Kunda went the other way. Across their records, they used several languages, reflecting the linguistic mix of southwestern Senegal: Soninké, Mandingo, Wolof, Diola, Fula, and Portuguese Creole. The brothers also picked up French and English during their careers, which makes me less proud of my C- in high school German.
 
-Ismaïla Touré died in Paris on February 27, 2023 at the age of 73.
+Ismaïla Touré died in Paris on February 27, 2023, at the age of 73.
 
 ---
 ## Research Notes

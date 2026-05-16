@@ -76,6 +76,19 @@ Key sources you should always look for and document the links to:
 
 In addition to documenting the links for the author, use WebFetch to read all the content you find.
 
+#### Discogs: use the JSON API, not the web URL
+
+`WebFetch` against `https://www.discogs.com/...` returns HTTP 403. You must use the Discogs JSON API at `https://api.discogs.com` with the token appended as a query parameter. See the "Discogs API" section of the system prompt for the full reference. The short version:
+
+1. Search for the master: `WebFetch` on `https://api.discogs.com/database/search?artist={artist}&track={track}&type=master&token=SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` (URL-encode the artist and track values).
+2. From the top result, pull the `id` and fetch `https://api.discogs.com/masters/{id}?token=SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` for the canonical year, tracklist with durations, genres, styles, writer credits, and YouTube video links.
+3. Fetch the main release with `https://api.discogs.com/releases/{main_release_id}?token=SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` for the original pressing's label, catalog number, country, released date, and full personnel credits.
+4. If the track was released as a 7" single, search again with `type=release&format=7"` to find the single's release date.
+
+When citing Discogs in Research Notes, always use the human-readable `uri` field from the JSON response (e.g. `https://www.discogs.com/master/375941-Cal-Tjader-Agua-Dulce`), not the `api.discogs.com` URL. The API URL is for fetching; the web URL is for the author and fact-checkers.
+
+If the token placeholder `SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` resolves to `UNSET`, skip Discogs and note in Research Notes that the API was unavailable.
+
 ### Step 2: Filling in missing fields
 
 One of your primary research tasks is to fill in any of these fields if they are currently empty:
@@ -190,6 +203,8 @@ Search each of the following platforms for the track and provide a direct link w
 - Buy Album on Discogs (Master release where possible)
 - Buy Single on Discogs (Master release where possible)
 - Buy on Amazon
+
+For the two Discogs purchase links, use the `uri` value from the master JSON you fetched in Step 1 (e.g. `https://www.discogs.com/master/375941-Cal-Tjader-Agua-Dulce`). If no master exists, fall back to the release `uri`. Do not link to `api.discogs.com` in the entry, only the human-facing `www.discogs.com` URLs.
 
 ### Step 11: Completing an entry
 

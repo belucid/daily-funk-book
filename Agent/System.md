@@ -150,3 +150,75 @@ Valid values for the `region` field:
 - Writing is groove-first: vivid, clear, tight pacing. Avoid academic framing or long digressions.
 - The book is welcoming, not gatekeeping. Write for curious newcomers as much as for experts.
 - Only use straight " and ', never curly.
+
+## Discogs API
+
+Discogs is one of the most authoritative sources for release, label, and personnel data, but `www.discogs.com` pages return HTTP 403 to `WebFetch`. Use the JSON API at `api.discogs.com` instead.
+
+### Authentication
+
+A Discogs personal access token is injected into this prompt at runtime. Append it as a query parameter on every request (since `WebFetch` cannot set custom headers):
+
+```
+?token={{DISCOGS_TOKEN}}
+```
+
+If the token value above appears as the literal string `UNSET`, the user has not configured a token in `~/.funk/config.toml`. In that case, fall back to other sources (Wikipedia, AllMusic, MusicBrainz, label sites) and note in Research Notes that Discogs API research was skipped.
+
+### Endpoints
+
+Base URL: `https://api.discogs.com`
+
+| Endpoint                              | Use it for                                                            |
+| ------------------------------------- | --------------------------------------------------------------------- |
+| `/database/search`                    | Find Discogs IDs from artist/track/album/label text. See params below |
+| `/artists/{id}`                       | Artist biography, members, real name, profile, URLs                   |
+| `/artists/{id}/releases?sort=year`    | Discography for an artist (paginated)                                 |
+| `/masters/{id}`                       | Canonical release: year, tracklist with durations, genres, styles, videos, writer credits |
+| `/masters/{id}/versions`              | Every pressing/version of a master (use to locate original pressing)  |
+| `/releases/{id}`                      | A specific pressing: label, catalog number, country, released date, full personnel credits, notes |
+| `/labels/{id}`                        | Label profile, parent label, sublabels                                |
+
+### `/database/search` parameters
+
+Combine these as needed. Most useful for funk research:
+
+- `q` — free text query
+- `type` — one of `release`, `master`, `artist`, `label`
+- `artist` — artist name
+- `track` — track title
+- `release_title` — album/release title
+- `label` — label name
+- `year` — release year
+- `country` — country
+- `format` — e.g. `Vinyl`, `7"`, `LP`
+- `per_page` (default 50, max 100), `page`
+
+Example: `https://api.discogs.com/database/search?artist=Lou+Bond&track=To+The+Establishment&type=master&token={{DISCOGS_TOKEN}}`
+
+### Recommended research flow on Discogs
+
+1. **Search** for the master with `type=master&artist=...&track=...` (or `release_title=...`). Take the top match's `id`.
+2. **Fetch the master** (`/masters/{id}`) to get the canonical year, tracklist with durations, genres, styles, writer credits, and YouTube videos.
+3. **Fetch the main release** (`/releases/{main_release}` — the ID is in the master JSON) to get the specific label, catalog number, country, and full personnel credits for the original pressing.
+4. **If the track was issued as a single**, run a second search with `type=release&format=7"` (or similar) to find the single's release date, which often differs from the album.
+
+### Field mapping
+
+Use these Discogs JSON fields when filling in the entry's editable YAML fields. Every change still needs an audit line with a citation:
+
+| Entry field    | Discogs source                                                                          |
+| -------------- | --------------------------------------------------------------------------------------- |
+| `album`        | Master `title` (the master's title is the album when the track was on one)              |
+| `label`        | Release `labels[].name` for the original pressing                                       |
+| `year`         | Master `year`, or release `released` for single-only tracks                             |
+| `track length` | Tracklist entry `duration` (Discogs uses `M:SS`; convert to `Xm Ys` format)             |
+| `region`       | Release `country` (cross-reference with the project's region enumeration)               |
+
+### Citations
+
+The API URL is what you fetch, but the human-readable web URL is what you cite for the author and fact-checkers. Every Discogs master/release/artist/label JSON includes a `uri` field (e.g. `https://www.discogs.com/master/375941-Cal-Tjader-Agua-Dulce`). Use that `uri` value as the citation source.
+
+### Rate limits and etiquette
+
+Authenticated requests are limited to 60 per minute by Discogs. The API returns `X-Discogs-Ratelimit-Remaining` headers if you need to check. For typical research (one entry per session), this is not a concern, but avoid hammering `/masters/{id}/versions` on artists with hundreds of pressings — paginate with `per_page=100&page=N` instead.

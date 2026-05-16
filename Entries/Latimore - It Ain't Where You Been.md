@@ -8,6 +8,7 @@ label: Glades
 year: 1976
 track length: 4m 24s
 genre:
+  - Classic Funk
 region:
   - US - Florida
 listening mission:

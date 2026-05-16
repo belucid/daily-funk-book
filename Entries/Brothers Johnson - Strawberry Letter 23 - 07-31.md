@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 07-31
 artist: Brothers Johnson
 track: Strawberry Letter 23
 album: Right on Time
@@ -8,12 +8,20 @@ label: A&M Records
 year: 1977
 track length: 4m 58s
 genre:
+  - Classic Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: "Enjoy an old-school guitar battle: compare Lee Ritenour’s solo at 2m 25s with Shuggie Otis’s original solo at 2m 20s into his psychedelic 1971 version. Who did it better, Shuggie or Lee?"
+status: review
 writing theme:
 ---
+Guitar prodigy Shuggie Otis wrote today's song at the age of 17 and released it as the second track on his 1971 sophomore album, *Freedom Flight*. One of the Johnson brothers, guitarist George "Lightnin' Licks" Johnson discovered the song through one of Shuggie Otis's cousins, whom he was dating.
+ 
+In 1977 The Brothers Johnson teamed up with Quincy Jones to make *Right on Time*. George convinced his bassist brother, Louis "Thunder Thumbs" Johnson and Jones that they should cover "Strawberry Letter 23." Despite the "Lightnin' Licks" nickname, Jones brought in guitar player Lee Ritenour to recreate Otis' guitar solo.
+ 
+Otis’s original went largely unnoticed, but the Johnsons, Jones, and Ritenour made "Strawberry Letter 23" into a #1 R&B hit on July 31, 1977. It has remained a funk staple ever since. Quentin Tarantino used the Brothers Johnson version in *Pulp Fiction* and *Jackie Brown*. It also appeared in the finale of *Six Feet Under* and in an episode of *Entourage*.
 
+The 1977 12-inch single was pressed on red, strawberry-scented vinyl, with a strawberry-scented jacket. Don't spend a lot of time and money trying to hunt down a copy to experience the smell. Reportedly, it's faded from most surviving copies.
+ 
 ---
 ## Research Notes
 

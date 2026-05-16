@@ -8,6 +8,7 @@ label: People
 year: 1972
 track length: 3m 01s
 genre:
+  - Classic Funk
 region: US - Southeast
 listening mission:
 status: research-review
