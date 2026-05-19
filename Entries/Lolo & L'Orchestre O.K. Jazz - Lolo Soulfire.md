@@ -126,8 +126,11 @@ I have **not** edited the region field, pending the author's decision on whether
 - **Tidal**: Could not locate a direct link; the search returned an unrelated artist profile. Likely available via the Congo Funk! album but not confirmed.
 - **Deezer**: Could not locate; search inconclusive.
 - **Qobuz**: Could not locate; search returned unrelated "Soulfire" entries.
-- **Buy Album (Discogs)**: Analog Africa "Congo Funk!" master: https://www.discogs.com/master/3520630-Orch-TP-OK-Jazz-Bon-De-Livraison-Lolo-Soulfire and release https://www.discogs.com/release/31001500-Orch-TP-OK-Jazz-Bon-De-Livraison-Lolo-Soulfire (direct fetch was blocked; URLs verified via search result titles).
-- **Buy Single (Discogs)**: Original 1971 Fiesta 51.105: https://www.discogs.com/release/12669813-Franco-Lolo-LOrchestre-O-K-Jazz-Bon-De-Livraison-Lolo-Soufire
+- **Buy Single on Discogs (Master Release)**: https://www.discogs.com/master/3520630-Orch-TP-OK-Jazz-Bon-De-Livraison-Lolo-Soulfire (the "Bon De Livraison / Lolo Soulfire" 7" master, verified via Discogs API 2026-05-16)
+- **Buy Single on Discogs (1971 original Fiesta 51.105)**: https://www.discogs.com/release/12669813-Franco-Lolo-LOrchestre-O-K-Jazz-Bon-De-Livraison-Lolo-Soufire
+- **Buy Single on Discogs (2024 Analog Africa reissue)**: https://www.discogs.com/release/31001500-Orch-TP-OK-Jazz-Bon-De-Livraison-Lolo-Soulfire
+- **Buy Compilation Album on Discogs (Master Release, "Congo Funk!", Analog Africa 2024)**: https://www.discogs.com/master/3434153-Various-Congo-Funk-Sound-Madness-From-The-Shores-Of-The-Mighty-Congo-River-KinshasaBrazzaville-1969-1
+- **Buy Album on Discogs**: Not applicable — "Lolo Soulfire" was a 7" B-side; it did not appear on a Lolo / OK Jazz studio album, only on the 2024 Congo Funk! compilation linked above.
 - **Buy on Amazon (album)**: https://www.amazon.com/Congo-Funk-Kinshasa-Brazzaville-1969-1982/dp/B0CTHBNGW1 (2xLP vinyl)
 
 ### Sources
@@ -156,7 +159,8 @@ I have **not** edited the region field, pending the author's decision on whether
 - Apple Music track: https://music.apple.com/ee/song/lolo-soulfire/1725983822
 - Apple Music artist page: https://music.apple.com/us/artist/lolo-et-lorchestre-o-k-jazz/1724411322
 - Audiomack track: https://audiomack.com/analog-africa/song/lolo-soulfire-1
-- Discogs (original 1971 single): https://www.discogs.com/release/12669813-Franco-Lolo-LOrchestre-O-K-Jazz-Bon-De-Livraison-Lolo-Soufire
+- Discogs (single master, "Bon De Livraison / Lolo Soulfire"): https://www.discogs.com/master/3520630-Orch-TP-OK-Jazz-Bon-De-Livraison-Lolo-Soulfire
+- Discogs (Congo Funk! compilation master, Analog Africa 2024): https://www.discogs.com/master/3434153-Various-Congo-Funk-Sound-Madness-From-The-Shores-Of-The-Mighty-Congo-River-KinshasaBrazzaville-1969-1
+- Discogs (original 1971 Fiesta single): https://www.discogs.com/release/12669813-Franco-Lolo-LOrchestre-O-K-Jazz-Bon-De-Livraison-Lolo-Soufire
 - Discogs (Analog Africa 2024 reissue single): https://www.discogs.com/release/31001500-Orch-TP-OK-Jazz-Bon-De-Livraison-Lolo-Soulfire
-- Discogs (Analog Africa master): https://www.discogs.com/master/3520630-Orch-TP-OK-Jazz-Bon-De-Livraison-Lolo-Soulfire
 

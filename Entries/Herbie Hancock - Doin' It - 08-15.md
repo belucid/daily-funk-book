@@ -123,7 +123,7 @@ Recommendation: US - California, on the recording-location and band-base argumen
 - **Deezer:** https://www.deezer.com/en/track/74494304
 - **YouTube Video:** https://www.youtube.com/watch?v=ziBvd7k8b2U (official audio with static art)
 - **Buy Album on Discogs (master):** https://www.discogs.com/master/47877-Herbie-Hancock-Secrets
-- **Buy Single on Discogs (master):** https://www.discogs.com/master/176873-Herbie-Hancock-Doin-It-
+- **Buy Single on Discogs (master):** https://www.discogs.com/master/176873-Herbie-Hancock-Doin-It-People-Music
 - **Buy on Amazon:** Search for "Herbie Hancock Secrets" on Amazon; multiple LP and CD editions are in print.
 
 ### Sources
@@ -139,7 +139,7 @@ Recommendation: US - California, on the recording-location and band-base argumen
 - Premier Guitar memorial, Wah Wah Watson: https://www.premierguitar.com/artists/melvin-wah-wah-watson-ragin-1950-2018
 - Guitar Player on Watson and Hancock: https://www.guitarplayer.com/news/watch-funk-guitar-master-wah-wah-watson-groove-with-herbie-hancock
 - Discogs master, Secrets album: https://www.discogs.com/master/47877-Herbie-Hancock-Secrets
-- Discogs master, Doin' It single: https://www.discogs.com/master/176873-Herbie-Hancock-Doin-It-
+- Discogs master, Doin' It single: https://www.discogs.com/master/176873-Herbie-Hancock-Doin-It-People-Music
 - Discogs release, Doin' It / People Music 7": https://www.discogs.com/release/1889129-Herbie-Hancock-Doin-It-People-Music
 - Discogs release, Doin' It / Together (Whatever) 12" promo: https://www.discogs.com/release/1489751-Herbie-Hancock-Wah-Wah-Watson-Doin-It-Together-Whatever
 - AllMusic, Secrets: https://www.allmusic.com/album/secrets-mw0000188143

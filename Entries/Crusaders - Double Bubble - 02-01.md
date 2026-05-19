@@ -104,8 +104,9 @@ I've set the field to **US - Texas** as the stronger historical/identity answer.
 - Audiomack: Could not locate.
 - Deezer: Could not locate.
 - YouTube Video: Could not locate a confirmed official upload via search.
-- Buy Album on Discogs (master): https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort (1974 US original pressing); see also https://www.discogs.com/release/4201455 and https://www.discogs.com/release/15060157-The-Crusaders-Southern-Comfort
-- Buy Single on Discogs: "Double Bubble" was not issued as a single — album-only track.
+- Buy Album on Discogs (Master Release): https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort
+- Buy Album on Discogs (1974 US original pressing, ABCD-847): https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
+- Buy Single on Discogs: "Double Bubble" was not issued as a single — album-only track (verified via Discogs API search 2026-05-16, no 7" master returned).
 - Buy on Amazon: Search the album title "Southern Comfort" + "The Crusaders" on Amazon; the eBay listings confirm multiple CD/LP editions circulate. https://www.ebay.com/itm/203446945003
 
 ### Sources
@@ -119,6 +120,7 @@ I've set the field to **US - Texas** as the stronger historical/identity answer.
 - https://www.tshaonline.org/handbook/entries/crusaders
 - https://blackpast.org/african-american-history/the-crusaders-1954-2010/
 - https://www.allmusic.com/song/double-bubble-mt0044767805
+- https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort — Discogs master release (verified via API 2026-05-16)
 - https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
 - https://www.discogs.com/release/4201455
 - https://www.discogs.com/release/15060157-The-Crusaders-Southern-Comfort

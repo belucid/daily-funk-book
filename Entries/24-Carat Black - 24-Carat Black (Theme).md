@@ -1,7 +1,7 @@
 ---
 fileClass: funk-entry
 day:
-artist: 24 Carat Black
+artist: 24-Carat Black
 track: 24-Carat Black (Theme)
 album: "Ghetto: Misfortune's Wealth"
 label: Enterprise
@@ -11,11 +11,17 @@ genre:
   - Deep Funk
 region:
   - US - Ohio
-listening mission:
-status: research-review
+listening mission: “24-Carat Black (Theme)” is the most commercial track on the record, but at seven minutes it was never going to get much radio play. Where would you cut it to make a four-minute single?
+status: review
 writing theme:
 ---
-Author quote from page 5 of 33 RPM book.
+Zach Schonfeld, who wrote a book about *Ghetto: Misfortune’s Wealth*, called it "an album that nobody has heard _of_, but everybody has heard." Released on Stax’s Enterprise subsidiary late in 1973, *Ghetto* arrived just as Stax’s distribution deal with CBS was coming apart and the label was sliding toward bankruptcy. The album sold poorly, and even though 24-Carat Black toured into 1975, the band had little label support and worse finances. The final blow came when most of the group spent time in jail over an unpaid hotel bill.
+
+The label’s troubles were not the only thing working against the record. _Ghetto_ was a funk-opera about the problems of Black poverty by Dale Warren, a conservatory-trained violinist and Motown string arranger who had orchestrated Isaac Hayes’ *Hot Buttered Soul*. Warren imagined a funky answer to the rock operas of the era, then recruited a band of teenagers from the Cincinnati area to help realize it. The result was a staged theatrical production and a 57-minute concept album. Warren refused to cut the long tracks down for radio, leaving stations with a bleak mix of singing, spoken word, string orchestration, and funk that did not fit anywhere obvious.
+
+That same obscurity later made the album irresistible to hip-hop producers tired of sampling the same familiar funk records. Jay-Z, Nas, Dr. Dre, Naughty by Nature, Pusha-T, Kendrick Lamar, and others found material in *Ghetto*, turning a commercial failure into a secret sourcebook.
+
+Today’s song, "24-Carat Black (Theme)," closes the album like it's music for the end credits of the stage production. After all the narration, orchestration, and heavy themes, the finale strips things down to a lean jazz-funk groove.
 
 ---
 ## Research Notes
@@ -144,5 +150,5 @@ The current value is `US - Southeast`, which I changed to `US - Ohio`. Rationale
 - https://24-caratblack.bandcamp.com/album/ghetto-misfortunes-wealth — Bandcamp listing for the album (track lengths)
 - https://www.groovecollector.com/24-carat-black-ghetto-misfortune-s-wealth/release/32/ — Groove Collector LP listing
 - https://www.allmusic.com/album/ghetto-misfortunes-wealth-mw0000110626 — AllMusic album page (could not fetch; HTTP 403)
-- https://www.discogs.com/master/126265-The-24-Carat-Black-Ghetto-Misfortunes-Wealth — Discogs master release (could not fetch; HTTP 403)
+- https://www.discogs.com/master/126265-The-24-Carat-Black-Ghetto-Misfortunes-Wealth — Discogs master release (verified via API 2026-05-16; canonical uri)
 - https://en.wikipedia.org/wiki/Wattstax — Wattstax

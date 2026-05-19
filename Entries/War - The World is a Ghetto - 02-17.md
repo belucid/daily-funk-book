@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 02-17
 artist: War
 track: The World is a Ghetto
 album: The World is a Ghetto
@@ -10,10 +10,15 @@ track length: 10m 10s
 genre:
   - Classic Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: Focus on Charles Miller’s saxophone entering at 3m 40s. Notice how it comes in quietly and patiently, then builds into a plaintive wail before dropping out after 6m 30s.
+status: review
 writing theme:
 ---
+Per drummer Harold Brown, the idea for today’s song, “The World Is a Ghetto,” came when the band realized that poverty was not confined to literal ghettos. Even the wealthiest enclaves carry their own kind of isolation. Percussionist Papa Dee Allen wrote the resulting song as an argument for unity, not as a complaint from an underclass. It was a powerful message in 1973, and it resonates even more today.
+
+War’s *The World Is a Ghetto* outsold Stevie Wonder’s *Talking Book*, Carly Simon’s *No Secrets*, Seals & Crofts’ *Summer Breeze*, and every other album on *Billboard’s* 1973 year-end chart. The album reached #1 on February 17, 1973, despite the title track being a slow, mournful, ten-minute groove. It was cut down to four minutes for the radio single, but the somber tone remained. The single peaked at #7 on the Billboard Hot 100 and #3 on the Hot R&B Songs chart.
+
+*Rolling Stone* later ranked the album #444 on the 500 Greatest Albums list.
 
 ---
 ## Research Notes
@@ -143,6 +148,7 @@ The current list has no missing region needed here. US - California is the right
 
 **Purchase:**
 - Buy Album on Discogs (Master Release): https://www.discogs.com/master/116938-War-The-World-Is-A-Ghetto
+- Buy Single on Discogs (Master Release): https://www.discogs.com/master/153080-War-The-World-Is-A-Ghetto-Four-Cornered-Room
 - Buy Single on Discogs (1972 7", b/w "Four Cornered Room", UA 50975): https://www.discogs.com/release/1316962-War-The-World-Is-A-Ghetto-Four-Cornered-Room
 - Buy 50th Anniversary Collector's Edition box set: https://war.com/the-world-is-a-ghetto-50th-anniversary-collectors-edition/
 
@@ -165,5 +171,6 @@ The current list has no missing region needed here. US - California is the right
 - War official site - 50th Anniversary Collector's Edition: https://war.com/the-world-is-a-ghetto-50th-anniversary-collectors-edition/
 - The Music's Over - Papa Dee Allen obituary: https://themusicsover.com/2010/08/30/thomas-papa-dee-allen/
 - Discogs - Master Release for album: https://www.discogs.com/master/116938-War-The-World-Is-A-Ghetto
+- Discogs - Master Release for single ("The World Is A Ghetto / Four Cornered Room"): https://www.discogs.com/master/153080-War-The-World-Is-A-Ghetto-Four-Cornered-Room
 - Discogs - 1972 single (UA 50975): https://www.discogs.com/release/1316962-War-The-World-Is-A-Ghetto-Four-Cornered-Room
 

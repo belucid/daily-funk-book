@@ -148,7 +148,8 @@ Current value: **(empty, set to US - Michigan)**
 - **Audiomack (track):** https://audiomack.com/denniscoffey/song/scorpio
 - **Qobuz (artist discography):** https://www.qobuz.com/us-en/interpreter/dennis-coffey/629973
 - **Amazon Music (*Evolution* album):** https://www.amazon.com/Evolution-Dennis-Coffey-Detroit-Guitar/dp/B083Z4GTLW
-- **Buy Album on Discogs (master):** https://www.discogs.com/master/185339-Dennis-Coffey-And-The-Detroit-Guitar-Band-Evolution
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/185339-Dennis-Coffey-And-The-Detroit-Guitar-Band-Evolution
+- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/185343-Dennis-Coffey-And-The-Detroit-Guitar-Band-Scorpio
 - **Buy Single on Discogs (1971 Sussex 7", Pitman pressing):** https://www.discogs.com/release/2139173-Dennis-Coffey-And-The-Detroit-Guitar-Band-Scorpio
 - **Buy Single on Discogs (1971 Sussex 7", ARP pressing):** https://www.discogs.com/release/6583708-Dennis-Coffey-And-The-Detroit-Guitar-Band-Scorpio
 - **Buy on Amazon (Sussex SUX 226 7" 45):** https://www.amazon.com/Scorpio-Sad-Angel-45-Sussex/dp/B00BEL7QEC
@@ -167,6 +168,7 @@ Not located: dedicated Spotify *Evolution* album link (search returned tracks, n
 - Red Bull Music Academy Daily, "Scorpio: A Loop History" (2015): https://daily.redbullmusicacademy.com/2015/02/scorpio-loop-history/
 - BSN Pubs, "Sussex Album Discography": https://www.bsnpubs.com/buddah/sussex.html
 - Discogs, *Evolution* master release: https://www.discogs.com/master/185339-Dennis-Coffey-And-The-Detroit-Guitar-Band-Evolution
+- Discogs, "Scorpio" single master release: https://www.discogs.com/master/185343-Dennis-Coffey-And-The-Detroit-Guitar-Band-Scorpio
 - Discogs, "Scorpio" 1971 Pitman pressing: https://www.discogs.com/release/2139173-Dennis-Coffey-And-The-Detroit-Guitar-Band-Scorpio
 - WhoSampled, songs that sampled "Scorpio": https://www.whosampled.com/Dennis-Coffey/Scorpio/sampled/
 - Setlist.fm, Coffey at Soul Train Studios, Jan 8 1972: https://www.setlist.fm/setlist/dennis-coffey/1972/soul-train-studios-los-angeles-ca-b86990e.html

@@ -98,15 +98,17 @@ Recommendation: **Classic Funk** as primary, with **Jazz-Funk** as the alternati
 - Apple Music: artist page confirmed at https://music.apple.com/us/artist/latimore/97994296; direct track link could not be located.
 - YouTube Video: could not locate a verified canonical upload of the title track; author should confirm.
 - YouTube Music, SoundCloud, Tidal, Qobuz, Audiomack, Deezer: could not locate direct track links (inconclusive, not confirmed absence).
-- Buy LP on Discogs: https://www.discogs.com/release/1447563-Latimore-It-Aint-Where-You-Been-Its-Where-Youre-Goin
-- Buy single (B-side pairing) on Discogs: https://www.discogs.com/master/509852-Latimore-Let-Me-Live-The-Life-I-Love-It-Aint-Where-You-Been
+- Buy Album on Discogs (Master Release): https://www.discogs.com/master/280787-Latimore-2-It-Aint-Where-You-Been-Its-Where-Youre-Goin
+- Buy Album on Discogs (1976 US LP, Glades): https://www.discogs.com/release/1447563-Latimore-It-Aint-Where-You-Been-Its-Where-Youre-Goin
+- Buy Single on Discogs (Master Release, B-side pairing): https://www.discogs.com/master/509852-Latimore-Let-Me-Live-The-Life-I-Love-It-Aint-Where-You-Been
 - Buy on Amazon (LP/CD): https://www.amazon.com/Aint-Where-You-Been/dp/B0045NXMNK
 
 ### Sources
 
 - Wikipedia, Latimore (musician): https://en.wikipedia.org/wiki/Latimore_(musician)
 - Wikipedia, TK Records: https://en.wikipedia.org/wiki/TK_Records
-- Discogs, LP release: https://www.discogs.com/release/1447563-Latimore-It-Aint-Where-You-Been-Its-Where-Youre-Goin
+- Discogs, album master: https://www.discogs.com/master/280787-Latimore-2-It-Aint-Where-You-Been-Its-Where-Youre-Goin
+- Discogs, 1976 LP release: https://www.discogs.com/release/1447563-Latimore-It-Aint-Where-You-Been-Its-Where-Youre-Goin
 - Discogs, single master (B-side): https://www.discogs.com/master/509852-Latimore-Let-Me-Live-The-Life-I-Love-It-Aint-Where-You-Been
 - BSN Pubs, Glades Album Discography: https://www.bsnpubs.com/florida/glades/glades.html
 - AllMusic artist page: https://www.allmusic.com/artist/latimore-mn0000111505

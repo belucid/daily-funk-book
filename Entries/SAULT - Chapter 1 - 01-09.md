@@ -126,9 +126,10 @@ My strongest single recommendation is **Nu-Funk**, with **Psychedelic Funk** as 
 - Qobuz: Could not locate a Qobuz listing.
 - Buy Album on Bandcamp: https://saultglobal.bandcamp.com/album/chapter-1
 - Buy Track on Bandcamp: https://saultglobal.bandcamp.com/track/chapter-1
-- Buy Album on Discogs: https://www.discogs.com/release/36200308-Sault-Chapter-1
+- Buy Album on Discogs (Master Release): https://www.discogs.com/master/4177902-Sault-Chapter-1
+- Buy Album on Discogs (2026 digital release): https://www.discogs.com/release/36200308-Sault-Chapter-1
 - Buy on Amazon: see Amazon Music link above for streaming/purchase
-- Buy Single on Discogs: not available; *Chapter 1* was not issued as a stand-alone single.
+- Buy Single on Discogs: not available; "Chapter 1" was not issued as a stand-alone single.
 
 ### Sources
 
@@ -141,7 +142,8 @@ My strongest single recommendation is **Nu-Funk**, with **Psychedelic Funk** as 
 - Apple Music, *Chapter 1*: https://music.apple.com/us/album/chapter-1/1867311494
 - Spotify, *Chapter 1* (album): https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe
 - Spotify, "Chapter 1" (track): https://open.spotify.com/track/6ohSXVLFYTqb4SVMD6quyb
-- Discogs, SAULT *Chapter 1*: https://www.discogs.com/release/36200308-Sault-Chapter-1
+- Discogs master, SAULT *Chapter 1*: https://www.discogs.com/master/4177902-Sault-Chapter-1
+- Discogs release, SAULT *Chapter 1* (2026 digital): https://www.discogs.com/release/36200308-Sault-Chapter-1
 - Discogs, SAULT artist page: https://www.discogs.com/artist/7328232-Sault
 - Discogs, Forever Living Originals: https://www.discogs.com/label/1682489-Forever-Living-Originals
 - Stereogum, "SAULT Share New Album 'Chapter 1'": https://stereogum.com/2484662/sault-share-new-album-chapter-1/music

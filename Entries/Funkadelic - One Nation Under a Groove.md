@@ -125,7 +125,8 @@ Recommendation: stay with US - Michigan. The Detroit recording site is the most 
 - **YouTube (album track upload):** https://www.youtube.com/watch?v=3WOZwwRH6XU
 - **YouTube (Part I, 7" 1978 transfer):** https://www.youtube.com/watch?v=PxB3glIEgJg
 - **Amazon Music (album):** https://www.amazon.com/One-Nation-Under-Groove-Funkadelic/dp/B000069CLB
-- **Buy album on Discogs (master release):** https://www.discogs.com/master/54666-Funkadelic-One-Nation-Under-A-Groove
+- **Buy album on Discogs (Master Release):** https://www.discogs.com/master/54666-Funkadelic-One-Nation-Under-A-Groove
+- **Buy single on Discogs (Master Release — Part I / Part II):** https://www.discogs.com/master/108450-Funkadelic-One-Nation-Under-A-Groove
 - **Buy 7" single on Discogs (1978 US):** https://www.discogs.com/release/1647694-Funkadelic-One-Nation-Under-A-Groove-Part-I
 - **YouTube Music:** Could not locate a canonical YT Music URL for the original 1978 mix; the track is searchable on YouTube Music via the album link, but no clean shareable URL surfaced. Background knowledge, but no source found.
 - **Deezer:** Could not locate a direct link in search results. The album appears to be on Deezer (it's on every other major DSP), but a confirmed URL did not surface.
@@ -143,7 +144,8 @@ Recommendation: stay with US - Michigan. The Detroit recording site is the most 
 - Edge of the Line track breakdown: https://www.edgeoftheline.co/articles/onenation
 - Albumism anniversary feature: https://albumism.com/features/funkadelic-one-nation-under-a-groove-album-anniversary
 - George Clinton official site (album page): https://georgeclinton.com/audio/funkadelic-one-nation-under-a-groove/
-- Discogs master release: https://www.discogs.com/master/54666-Funkadelic-One-Nation-Under-A-Groove
+- Discogs album master release: https://www.discogs.com/master/54666-Funkadelic-One-Nation-Under-A-Groove
+- Discogs single master release (Part I / Part II): https://www.discogs.com/master/108450-Funkadelic-One-Nation-Under-A-Groove
 - Discogs 7" single (1978 US): https://www.discogs.com/release/1647694-Funkadelic-One-Nation-Under-A-Groove-Part-I
 - Discogs LP 1978 gatefold: https://www.discogs.com/release/475153-Funkadelic-One-Nation-Under-A-Groove
 - AllMusic album page (blocked, listed for reference): https://www.allmusic.com/album/one-nation-under-a-groove-mw0000106837

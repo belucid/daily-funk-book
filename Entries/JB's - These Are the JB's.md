@@ -109,12 +109,12 @@ Recommendation: keep **US - Southeast** unless the writing theme centers Bootsy 
 - Tidal (artist essentials playlist that includes the track): https://tidal.com/browse/playlist/21e6311c-a882-451d-957b-d925655d750d
 - YouTube Music: could not locate a canonical single-track page (the track is available via album uploads linked above).
 - Amazon Music / Qobuz / Audiomack: could not locate a confirmed track-level page within available search results.
-- Buy album (Master release, 2014 *These Are The J.B.'s*, Now-Again): https://www.discogs.com/master/763828-The-JBs-These-Are-The-JBs
-- Buy album (Master release, 1972 *Food For Thought*): https://www.discogs.com/master/36549-The-JBs-Food-For-Thought-Pass-The-Peas-I-Mean-Gimme-Some-More
+- Buy album (Master Release, 1972 *Food For Thought*): https://www.discogs.com/master/36549-The-JBs-Food-For-Thought-Pass-The-Peas-I-Mean-Gimme-Some-More
+- Buy single (Master Release, 1970 King 45): https://www.discogs.com/master/242067-The-JBs-These-Are-The-JBs
+- Buy album (Master Release, 2014 *These Are The J.B.'s*, Now-Again compilation): https://www.discogs.com/master/763828-The-JBs-These-Are-The-JBs
 - Buy LP at Now-Again (label direct): https://www.nowagainrecords.com/the-j-b-s-these-are-the-j-b-s/
 - Buy LP at Get On Down: https://getondown.com/products/these-are-the-jbs-lp
 - Buy on Amazon (CD reissue, 2020): https://www.amazon.com/These-Are-JBS/dp/B00NUAC32A
-- Buy single (1970 King 45) on Discogs: could not locate a dedicated master release for the King 1970 "These Are The J.B.'s (Pts. 1 & 2)" single within available search results; the album master above is the best landing page.
 
 ### Sources
 
@@ -133,7 +133,8 @@ Recommendation: keep **US - Southeast** unless the writing theme centers Bootsy 
 - Sister From Another Planet (on Bootsy and LSD/departure): https://www.sisterfromanotherplanet.com/bootsy-collins-lsd-was-a-big-part-of-why-i-left-james-browns-band/
 - Guitar World on Bootsy's post-Brown reflections: https://www.guitarworld.com/artists/bassists/bootsy-collins-album-of-the-year-funkateer
 - WhoSampled page for "These Are the JB's" (could not open due to 403 in automated fetching; manual browse recommended): https://www.whosampled.com/The-J.B.'s/These-Are-the-JB's/
-- Discogs master, *These Are The J.B.'s*: https://www.discogs.com/master/763828-The-JBs-These-Are-The-JBs
-- Discogs master, *Food For Thought*: https://www.discogs.com/master/36549-The-JBs-Food-For-Thought-Pass-The-Peas-I-Mean-Gimme-Some-More
+- Discogs master, *Food For Thought* (1972 album): https://www.discogs.com/master/36549-The-JBs-Food-For-Thought-Pass-The-Peas-I-Mean-Gimme-Some-More
+- Discogs master, "These Are The J.B.s" (1970 King 45 single): https://www.discogs.com/master/242067-The-JBs-These-Are-The-JBs
+- Discogs master, *These Are The J.B.'s* (2014 Now-Again compilation): https://www.discogs.com/master/763828-The-JBs-These-Are-The-JBs
 - AllMusic, *Food for Thought*: https://www.allmusic.com/album/food-for-thought-mw0000461151
 - AllMusic, The J.B.'s artist biography: https://www.allmusic.com/artist/the-jbs-mn0000071970/biography

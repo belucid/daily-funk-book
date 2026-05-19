@@ -141,8 +141,9 @@ No case for any other region.
 - **Audiomack:** Could not locate via search.
 - **Deezer:** Could not locate via direct search; expected to be available given catalog status.
 - **YouTube Video:** https://www.youtube.com/watch?v=rquygdjf0d8
-- **Buy Album on Discogs (Right on Time master):** https://www.discogs.com/release/245644-The-Brothers-Johnson-Right-On-Time
-- **Buy Single on Discogs (Strawberry Letter 23 master):** https://www.discogs.com/master/16857-The-Brothers-Johnson-Strawberry-Letter-23
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/16844-The-Brothers-Johnson-Right-On-Time
+- **Buy Album on Discogs (1977 US LP, A&M SP-4644):** https://www.discogs.com/release/245644-The-Brothers-Johnson-Right-On-Time
+- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/16857-The-Brothers-Johnson-Strawberry-Letter-23
 - **Buy on Amazon (original 45):** https://www.amazon.com/Brothers-Johnson-Strawberry-Letter-45rpm/dp/B01BE1PBN4
 
 ### Sources
@@ -159,5 +160,6 @@ No case for any other region.
 - Rate Your Music, single release info: https://rateyourmusic.com/release/single/the-brothers-johnson/strawberry-letter-23-dancin-and-prancin/
 - BlackPast, "Brothers Johnson (1973– )": https://blackpast.org/african-american-history/brothers-johnson-1973/
 - WBSS Media, George Johnson artist page: https://wbssmedia.com/artists/detail/967
-- Discogs master release, "Strawberry Letter #23": https://www.discogs.com/master/16857-The-Brothers-Johnson-Strawberry-Letter-23
-- Discogs, Right on Time release: https://www.discogs.com/release/245644-The-Brothers-Johnson-Right-On-Time
+- Discogs master release, "Strawberry Letter #23" (single): https://www.discogs.com/master/16857-The-Brothers-Johnson-Strawberry-Letter-23
+- Discogs master release, *Right on Time* (album): https://www.discogs.com/master/16844-The-Brothers-Johnson-Right-On-Time
+- Discogs, Right on Time 1977 US LP: https://www.discogs.com/release/245644-The-Brothers-Johnson-Right-On-Time

@@ -1,9 +1,12 @@
 Author's Note
+Preface
 Introduction
 	On Funk
 	On Selections
 	On Listening Missions
-	On Genres & Regions
+	On Genres
+	On What's Missing
+	On Regions
 January
 February
 March

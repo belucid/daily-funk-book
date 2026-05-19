@@ -1,0 +1,5 @@
+The most obvious omission, given this book centers on the 1970s, is disco. Some of the artists featured here had disco hits, and some even spent whole chapters of their careers in disco mode, but you will not find those tracks included. This is not disco backlash or a replay of Disco Demolition Night in 1979, but simply a scope choice. Disco shifted funk’s rhythmic complexity and syncopation toward a steadier four on the floor pulse to keep dancers moving. Disco then branched into its own rich family tree, including boogie, house, and techno, and that lineage deserves a different book than this one.
+
+Another omission, for the sake of focus, is soul music. Soul predates funk and stands as a genre in its own right. It deserves its own day-by-day guided exploration. I hope someone writes that book; I would be an eager reader.
+
+Finally, there are sub-genres of funk I have chosen not to cover, mostly because I do not know them well enough to curate them thoughtfully and to tell you why the selected tracks deserve your time. That includes G-funk, punk-funk, Brit-funk and funk metal. If any of them sound interesting, you should absolutely explore them.

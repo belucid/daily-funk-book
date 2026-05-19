@@ -106,14 +106,16 @@ No open research questions were found in the original entry.
 - YouTube Video: Could not locate a direct video for "Cash Money"
 
 **Purchase:**
-- Buy Album on Discogs (Master Release): [Step By Step - I Always Wanted To Be In The Band](https://www.discogs.com/master/309728-Step-By-Step-I-Always-Wanted-To-Be-In-The-Band)
-- Buy Single on Discogs: [Cash Money / I Always Wanted To Be In The Band (7", Spain, Zafiro)](https://www.discogs.com/release/4743287-Step-By-Step-Cash-Money-I-Always-Wanted-To-Be-In-The-Band-)
+- Buy Album on Discogs (Master Release): [Step By Step - I Always Wanted To Be In The Band](https://www.discogs.com/master/309728-Step-By-Step-5-I-Always-Wanted-To-Be-In-The-Band)
+- Buy Single on Discogs (Master Release): [Cash Money / I Always Wanted To Be In The Band](https://www.discogs.com/master/1073264-Step-By-Step-5-Cash-Money-I-Always-Wanted-To-Be-In-The-Band-)
+- Buy Single on Discogs (1977 Spain 7", Zafiro pressing): [Cash Money / I Always Wanted To Be In The Band](https://www.discogs.com/release/4743287-Step-By-Step-Cash-Money-I-Always-Wanted-To-Be-In-The-Band-)
 - Buy on Amazon (UK, vinyl reissue): [I Always Wanted To Be In The Band (140g Black Vinyl)](https://www.amazon.co.uk/Always-Wanted-Black-Vinyl-VINYL/dp/B0937H1T82)
 
 ### Sources
 
-- [Discogs: Step By Step — Cash Money / I Always Wanted To Be In The Band (7", 1977)](https://www.discogs.com/release/4743287-Step-By-Step-Cash-Money-I-Always-Wanted-To-Be-In-The-Band-)
-- [Discogs: Step By Step — I Always Wanted To Be In The Band (Master Release)](https://www.discogs.com/master/309728-Step-By-Step-I-Always-Wanted-To-Be-In-The-Band)
+- [Discogs: Step By Step — Cash Money / I Always Wanted To Be In The Band (single Master Release)](https://www.discogs.com/master/1073264-Step-By-Step-5-Cash-Money-I-Always-Wanted-To-Be-In-The-Band-)
+- [Discogs: Step By Step — Cash Money / I Always Wanted To Be In The Band (1977 Spain 7" pressing)](https://www.discogs.com/release/4743287-Step-By-Step-Cash-Money-I-Always-Wanted-To-Be-In-The-Band-)
+- [Discogs: Step By Step — I Always Wanted To Be In The Band (album Master Release)](https://www.discogs.com/master/309728-Step-By-Step-5-I-Always-Wanted-To-Be-In-The-Band)
 - [Discogs: Step By Step — I Always Wanted To Be In The Band (LP, 1977, r2706749)](https://www.discogs.com/release/2706749-Step-By-Step-I-Always-Wanted-To-Be-In-The-Band)
 - [AllMusic: I Always Wanted To Be in the Band](https://www.allmusic.com/album/i-always-wanted-to-be-in-the-band-mw0000479556)
 - [Soul Brother Records: Step By Step Feature](https://soulbrother.com/feature/step-by-step-i-always-wanted-to-be-in-a-band/)

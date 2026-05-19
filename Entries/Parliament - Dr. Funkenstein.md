@@ -105,8 +105,8 @@ Top recommendation: **07-22** (Clinton's birthday). It ties the track to its pri
 - **YouTube Video:** Official album upload exists on the Casablanca/UMG channels; direct single canonical URL not confirmed in this session.
 - **SoundCloud:** Could not locate an official upload.
 - **Tidal / Qobuz / Deezer / Audiomack:** Could not locate direct links; the album is in wide distribution and almost certainly available on all four (not confirmed absence).
-- **Buy Album on Discogs (master):** https://www.discogs.com/master/15923-Parliament-The-Clones-Of-Dr-Funkenstein
-- **Buy Single on Discogs:** Search Casablanca NB 875 at https://www.discogs.com (direct master not located in this session).
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/15923-Parliament-The-Clones-Of-Dr-Funkenstein
+- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/170266-Parliament-Dr-Funkenstein
 - **Buy on Amazon:** https://www.amazon.com/Clones-Dr-Funkenstein-Parliament/dp/B0DKZ8G1NL
 
 ### Sources
@@ -116,7 +116,8 @@ Top recommendation: **07-22** (Clinton's birthday). It ties the track to its pri
 - Wikipedia, "George Clinton (funk musician)": https://en.wikipedia.org/wiki/George_Clinton_(funk_musician)
 - Wikipedia, "P-Funk Mothership": https://en.wikipedia.org/wiki/P-Funk_Mothership
 - AllMusic, album page: https://www.allmusic.com/album/the-clones-of-dr-funkenstein-mw0000689839
-- Discogs master: https://www.discogs.com/master/15923-Parliament-The-Clones-Of-Dr-Funkenstein
+- Discogs album master: https://www.discogs.com/master/15923-Parliament-The-Clones-Of-Dr-Funkenstein
+- Discogs single master ("Dr. Funkenstein" 7", 1977): https://www.discogs.com/master/170266-Parliament-Dr-Funkenstein
 - Discogs 1976 US pressing: https://www.discogs.com/release/70285-Parliament-The-Clones-Of-Dr-Funkenstein
 - uDiscoverMusic feature: https://www.udiscovermusic.com/stories/parliament-the-clones-of-dr-funkenstein/
 - WhoSampled, Dr. Funkenstein: https://www.whosampled.com/Parliament/Dr.-Funkenstein/

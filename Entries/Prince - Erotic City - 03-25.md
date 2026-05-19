@@ -116,9 +116,11 @@ Primary recommendation: **keep US - Minnesota.** No change warranted.
 - **Qobuz:** Available via the *Purple Rain Deluxe (Expanded Edition)* album — https://www.qobuz.com/us-en/album/purple-rain-deluxe-prince-the-revolution/0093624912002
 - **Audiomack:** Could not locate.
 - **YouTube Video:** Could not locate an authoritative official music video (the song had no commissioned promo video in 1984).
-- **Buy Single on Discogs (1984 7" Let's Go Crazy / Erotic City):** https://www.discogs.com/release/577951-Prince-And-The-Revolution-Lets-Go-Crazy-Erotic-City
+- **Buy Single on Discogs (Master Release — Let's Go Crazy / Erotic City, 1984):** https://www.discogs.com/master/16212-Prince-And-The-Revolution-Lets-Go-Crazy
+- **Buy Single on Discogs (Master Release — Erotic City / I Would Die 4 U 1989 dance-mix CD single):** https://www.discogs.com/master/16218-Prince-Erotic-City-I-Would-Die-4-U
+- **Buy Single on Discogs (1984 7" Let's Go Crazy / Erotic City, US SRC pressing):** https://www.discogs.com/release/577951-Prince-And-The-Revolution-Lets-Go-Crazy-Erotic-City
 - **Buy Single on Discogs (1985 12" Let's Go Crazy / Take Me With U / Erotic City):** https://www.discogs.com/release/133246-Prince-And-The-Revolution-Lets-Go-Crazy-Take-Me-With-U-Erotic-City
-- **Buy Single on Discogs (Erotic City / I Would Die 4 U master):** https://www.discogs.com/Prince-Erotic-City-I-Would-Die-4-U/master/16218
+- **Buy Album on Discogs:** Not applicable — "Erotic City" was a 1984 B-side. It was never on a Prince studio album; it first appeared on a studio LP via the 1993 compilation *The Hits/The B-Sides*.
 - **Buy Album on Amazon (*The Hits/The B-Sides*):** https://www.amazon.com/Hits-B-Sides-Prince/dp/B000002MNF
 - **Buy Single on Amazon (*Erotic City / I Would Die For U* CD single):** https://www.amazon.com/Erotic-City-Would-Die-Prince/dp/B000005S5D
 
@@ -128,9 +130,10 @@ Primary recommendation: **keep US - Minnesota.** No change warranted.
 - Wikipedia, "Let's Go Crazy": https://en.wikipedia.org/wiki/Let%27s_Go_Crazy
 - Wikipedia, "Sheila E.": https://en.wikipedia.org/wiki/Sheila_E.
 - Wikipedia, "Prince singles discography": https://en.wikipedia.org/wiki/Prince_singles_discography
+- Discogs master, Let's Go Crazy (1984 7" b/w Erotic City): https://www.discogs.com/master/16212-Prince-And-The-Revolution-Lets-Go-Crazy
+- Discogs master, Erotic City / I Would Die 4 U (1989 dance-mix CD single): https://www.discogs.com/master/16218-Prince-Erotic-City-I-Would-Die-4-U
 - Discogs, 1984 7" Let's Go Crazy / Erotic City (SRC pressing): https://www.discogs.com/release/577951-Prince-And-The-Revolution-Lets-Go-Crazy-Erotic-City
 - Discogs, 1985 12" Let's Go Crazy / Take Me With U / Erotic City: https://www.discogs.com/release/133246-Prince-And-The-Revolution-Lets-Go-Crazy-Take-Me-With-U-Erotic-City
-- Discogs master, Erotic City / I Would Die 4 U: https://www.discogs.com/Prince-Erotic-City-I-Would-Die-4-U/master/16218
 - Prince Songs, "Erotic City" (Harris Kornstein / Dance Music Sex Romance): https://princesongs.org/2025/08/04/erotic-city/
 - Rolling Stone Australia, "25 Essential Prince Songs — Erotic City (1984)": https://au.rollingstone.com/music/music-lists/25-essential-prince-songs-9980/erotic-city-1984-9990/
 - Ultimate Prince, "Prince Makes 'Erotic City' Come Alive": https://ultimateprince.com/prince-erotic-city/

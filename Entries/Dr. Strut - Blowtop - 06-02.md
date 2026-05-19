@@ -32,7 +32,7 @@ Dr. Strut originally formed as the Legendary Dynamic Groovadelics, but thankfull
 
 ### Open Research Questions
 
-No `open:` items were flagged by the author in the entry. One lingering factual gap after research: the band's founding lineup is well documented for the 1979 debut, but no source could be found that gives Tim Weston an exact birthdate or birthplace, and no source gives Claude Pepper an exact birthdate beyond the year 1952. Discogs and 45cat were both unreachable (403 / timeout) during research, which would be the natural places to confirm the exact catalog number of the "Granite Palace" / "Blowtop" promo 45. The b-side/single pairing is confirmed by multiple sources, but the catalog number is not. (Sources attempted: https://www.45cat.com/artist/dr-strut, https://www.discogs.com/master/538452-Dr-Strut-Granite-Palace, https://www.ebay.com/itm/350554588025.)
+No `open:` items were flagged by the author in the entry. One lingering factual gap after research: the band's founding lineup is well documented for the 1979 debut, but no source could be found that gives Tim Weston an exact birthdate or birthplace, and no source gives Claude Pepper an exact birthdate beyond the year 1952. The "Granite Palace" / "Blowtop" promo 45 master is confirmed on Discogs (https://www.discogs.com/master/538452-Dr-Strut-Granite-Palace — verified via API 2026-05-19, tracklist confirms "Granite Palace" A-side and "Blowtop" B-side), but a confirmed exact catalog number for the promo 45 was not located in this session. (Other sources attempted: https://www.45cat.com/artist/dr-strut, https://www.ebay.com/itm/350554588025.)
 
 ### Writing Theme Suggestions
 

@@ -167,7 +167,8 @@ Current region: **US - California** (just set)
 
 **Purchase:**
 - Buy Album on Discogs (Master Release): https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters
-- Buy Single on Discogs: https://www.discogs.com/release/6561232-Herbie-Hancock-Chameleon-Vein-Melter (7" single, 1974)
+- Buy Single on Discogs (Master Release): https://www.discogs.com/master/319987-Herbie-Hancock-Chameleon-Vein-Melter
+- Buy Single on Discogs (1974 US 7"): https://www.discogs.com/release/6561232-Herbie-Hancock-Chameleon-Vein-Melter
 - Buy on Amazon (CD): https://www.amazon.com/Head-Hunters-Herbie-Hancock/dp/B000002AGP
 
 ### Sources
@@ -182,8 +183,9 @@ Current region: **US - California** (just set)
 - Herbie Hancock Official Site — Head Hunters: https://www.herbiehancock.com/music/discography/album/head-hunters/
 - Herbie Hancock Official Site — Essay: Chameleon: https://www.herbiehancock.com/2017/01/08/essay-chameleon-the-life-and-music-of-herbie-hancock/
 - AllMusic — Head Hunters: https://www.allmusic.com/album/head-hunters-mw0000649551
-- Discogs — Head Hunters (Master): https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters
-- Discogs — Chameleon 7" Single: https://www.discogs.com/release/6561232-Herbie-Hancock-Chameleon-Vein-Melter
+- Discogs — Head Hunters album (Master Release): https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters
+- Discogs — Chameleon / Vein Melter single (Master Release): https://www.discogs.com/master/319987-Herbie-Hancock-Chameleon-Vein-Melter
+- Discogs — Chameleon 7" single (1974 US pressing): https://www.discogs.com/release/6561232-Herbie-Hancock-Chameleon-Vein-Melter
 - WhoSampled — Chameleon: https://www.whosampled.com/Herbie-Hancock/Chameleon/
 - Hollywood Bowl — Head Hunters at 50: https://www.hollywoodbowl.com/about/watch-and-listen/head-hunters-at-50-how-herbie-hancock-cut-loose-and-made-one-of-the-greatest-albums-of-all-time
 - Library of Congress — Head Hunters (National Recording Registry): https://www.loc.gov/static/programs/national-recording-preservation-board/documents/head-hunters.pdf

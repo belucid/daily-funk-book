@@ -162,7 +162,8 @@ Recommendation: keep **US - New York**.
 - **Qobuz:** Could not locate a verified direct track URL via the searches run.
 - **Deezer:** Could not locate a verified direct track URL via the searches run; album is available via search.
 - **Audiomack:** Could not locate.
-- **Buy Album on Discogs (Master):** https://www.discogs.com/master/598765-Johnny-Hammond-Wild-Horses-Rock-Steady
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/598765-Johnny-Hammond-Wild-Horses-Rock-Steady
+- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/634288-Johnny-Hammond-Rock-Steady
 - **Buy Single on Discogs (KU-907 7"):** https://www.discogs.com/release/3401901-Johnny-Hammond-Rock-Steady
 - **Buy on Amazon (CD reissue):** https://www.amazon.com/Horses-Steady-Johnny-Hammond-Smith/dp/B00005LJS3
 - **Dusty Groove (LP):** https://www.dustygroove.com/item/2128/Johnny-Hammond:Wild-Horses-Rock-Steady
@@ -180,7 +181,8 @@ Recommendation: keep **US - New York**.
 - Wikipedia: Rudy Van Gelder — https://en.wikipedia.org/wiki/Rudy_Van_Gelder
 - Wikipedia: Grover Washington Jr. — https://en.wikipedia.org/wiki/Grover_Washington_Jr.
 - AllMusic: _Wild Horses Rock Steady_ — https://www.allmusic.com/album/wild-horses-rock-steady-mw0000462498
-- Discogs (master): _Wild Horses Rock Steady_ — https://www.discogs.com/master/598765-Johnny-Hammond-Wild-Horses-Rock-Steady
+- Discogs (album master): _Wild Horses Rock Steady_ — https://www.discogs.com/master/598765-Johnny-Hammond-Wild-Horses-Rock-Steady
+- Discogs (single master): "Rock Steady" — https://www.discogs.com/master/634288-Johnny-Hammond-Rock-Steady
 - Discogs (1972 LP, KU-04) — https://www.discogs.com/release/1104611-Johnny-Hammond-Wild-Horses-Rock-Steady
 - Discogs (KU-907 7" single, 1972) — https://www.discogs.com/release/3401901-Johnny-Hammond-Rock-Steady
 - Doug Payne, "Johnny Hammond: Wild Horses Rock Steady" — https://www.dougpayne.com/adsnotes6.htm

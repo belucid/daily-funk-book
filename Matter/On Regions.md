@@ -1,0 +1,3 @@
+Each daily track is tagged with a geographic region. Like genres, region can be fuzzy. Should it reflect where the artist is from, where the band formed, where the label operated, where the recording happened, or where the scene lived? A compelling case can be made for each of these, so I made a decision for each entry. It will not be perfect, but each choice is meant to represent the track's origins and be defensible.
+
+A second challenge is deciding what counts as a region. I avoided city-level tags. In a few cases a state has a distinct enough sound to stand on its own, while in others I used broader US regions. Outside the US, I tagged tracks by country.
