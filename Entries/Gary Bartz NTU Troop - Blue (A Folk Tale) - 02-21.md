@@ -13,6 +13,7 @@ region: US - New York
 listening mission: "There are at least four songs in here: a country piano blues, a free alto sax solo, a nasty funk groove, and a sax-led urban blues. Why did Gary Bartz stitch them together, and what makes it feel like one piece?"
 status: complete
 writing theme:
+song.now code: hxvz
 ---
 OK, things are about to get a bit weird. Bear with me. The juice is worth the squeeze.
 

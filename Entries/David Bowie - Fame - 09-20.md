@@ -14,6 +14,7 @@ region:
 listening mission: Listen to how the locked-in groove lets Bowie sing with increasing freedom, even when the tape-speed vocal effects kick in after three minutes.
 status: complete
 writing theme:
+song.now code: 9vr2
 ---
 If you can hear a connection between today’s song, David Bowie’s "Fame," and a James Brown track, it's not in the singing. It's in the guitar, played by Carlos Alomar, who was a member of Brown’s band before joining Bowie. If you strip away Bowie’s art-rock vocals, the track reveals itself as pure James Brown: a one-chord vamp driven by an irresistible rhythm. The song stays on an F chord, with drums, bass, and guitar locked tight. Later that year, Brown used Alomar's guitar riff for "Hot (I Need to Be Loved, Loved, Loved, Loved)."
 

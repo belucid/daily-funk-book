@@ -13,6 +13,7 @@ region: US - Michigan
 listening mission: The Temptations take turns, each asking different questions about the absent father, but getting the same answer. Listen to how each voice expresses a different emotion.
 status: complete
 writing theme:
+song.now code: 5oi1
 ---
 At twelve minutes, the album version of "Papa Was a Rollin’ Stone" is built on patience. The vocals don't arrive until nearly four minutes in, and the long instrumental stretches return throughout. Listeners have suggested the vocal gaps mirror the father’s absence. At 6m 54s, the single edit was one of the longest #1 hits in *Billboard* Hot 100 history up to that point.
 

@@ -14,6 +14,7 @@ region:
 listening mission: The defining characteristic of go-go is that it feeds on live crowd participation, but this was cut in a studio. Listen for the locations in the song where the crowd would be expected to jump in. Can you spot the moments designed for call-and-response interaction?
 status: complete
 writing theme:
+song.now code: 410v
 ---
 It is not often you can point to the exact recorded track that helped birth a genre. With go-go, you can come pretty close with “E Flat Boogie,” which was released as a single in 1980. Trouble Funk did not invent go-go on its own. The group began as Trouble Band and Show, a Top 40 cover band, and learned the sound opening for go-go pioneer Chuck Brown at Club LeBaron in Palmer Park, Maryland. When “E Flat Boogie” came out, the band’s name was still settling. The label credited the record simply to "Trouble".
 

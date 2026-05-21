@@ -14,6 +14,7 @@ region:
 listening mission: Prince being Prince, he does not do retro like everyone else. What do you hear that roots this in 2004, not 1974?
 status: complete
 writing theme:
+song.now code: nov5
 ---
 It’s time to warn you about a peculiar side effect of funk exposure. It’s called “stank face.” It’s an involuntary reaction to the groove, when your mouth and nose scrunch up like you just smelled something truly nasty. If you're unsure what I mean, stand in front of a mirror and play today’s track, Prince’s Grammy-winning “Musicology” from his 2004 album of the same name. As the strings and congas fade and Prince’s squeal ushers in the drums and bass, notice what your face does. That’s stank face. Don’t worry, it’s not permanent.
 

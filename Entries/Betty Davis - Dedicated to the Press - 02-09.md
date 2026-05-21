@@ -13,6 +13,7 @@ region: US - New York
 listening mission: Listen to Betty Davis’ mix of funk, rock, humor, and confrontation. Can you hear echoes of Davis in the Red Hot Chili Peppers?
 status: complete
 writing theme:
+song.now code: 9dwb
 ---
 Today’s song, "Dedicated to the Press," finds Betty Davis taunting a system that never understood her. After two albums on a smaller label, *Nasty Gal* was supposed to be her breakthrough: a chance to bring her brand of raw funk to a major label. Island Records’ Chris Blackwell bought out her earlier contract on Robert Palmer’s recommendation, but the new album underperformed commercially, and Island shelved her follow-up. Davis’ commercial recording career was effectively over.
 

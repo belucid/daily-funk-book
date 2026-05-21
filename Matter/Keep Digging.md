@@ -1,4 +1,4 @@
-More than anything, I hope this is not the end of your funk journey. 
+You did it! I hope you had a lot of fun over the past year. More than anything, I hope this is not the end of your funk journey. 
 
 If a specific track grabbed your attention during the year, listen to the rest of the album it came from. If you discovered an artist, keep going through their catalog. A great trick is to play the album they released right before and right after the one you liked. Those bookends are likely to share the same feel, while showing you where they came from and where they went next.
 

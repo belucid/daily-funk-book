@@ -13,6 +13,7 @@ region: US - Michigan
 listening mission: "Don’t get too distracted by Aretha’s vocals. Focus on the all-star rhythm section: Bernard Purdie on drums, Chuck Rainey on bass, Cornell Dupree on guitar, Donny Hathaway on organ, and Dr. John on percussion."
 status: complete
 writing theme:
+song.now code: k7ul
 ---
 Most listeners know Aretha Franklin as a master interpreter of other's songs. Today's "Rock Steady" is different. It's an Aretha original, written, arranged, and steered by Aretha herself. Bassist Chuck Rainey has said the released version is actually her demo, recorded on February 15, 1971, at Criteria Studios in Miami before producers Jerry Wexler and Tom Dowd arrived. 
 
@@ -128,8 +129,9 @@ I populated the field as **US - Michigan**. Flip to Florida if the writing theme
 - **Deezer:** https://www.deezer.com/search/Aretha%20Franklin%20Rock%20Steady — available.
 - **Audiomack:** Could not locate.
 - **YouTube Video:** Multiple official uploads exist; e.g. search https://www.youtube.com/results?search_query=Aretha+Franklin+Rock+Steady+official.
-- **Buy Album on Discogs (Master):** https://www.discogs.com/master/72885-Aretha-Franklin-Young-Gifted-And-Black
-- **Buy Single on Discogs:** https://www.discogs.com/release/9781013-Aretha-Franklin-Rock-Steady
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/72885-Aretha-Franklin-Young-Gifted-And-Black
+- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/302858-Aretha-Franklin-Rock-Steady-Dont-Play-That-Song
+- **Buy Single on Discogs (1971 US 7"):** https://www.discogs.com/release/9781013-Aretha-Franklin-Rock-Steady
 - **Buy on Amazon:** https://www.amazon.com/s?k=Aretha+Franklin+Young+Gifted+and+Black+vinyl
 
 Note: Several direct streaming track URLs could not be verified without live platform access; author should confirm the canonical track links before publication.
@@ -144,6 +146,7 @@ Note: Several direct streaming track URLs could not be verified without live pla
 - Songfacts, "Rock Steady by Aretha Franklin": https://www.songfacts.com/facts/aretha-franklin/rock-steady
 - CBS News, Aretha Franklin obituary (August 16, 2018): https://www.cbsnews.com/news/aretha-franklin-queen-of-soul-respect-singer-dead-at-76-today-2018-08-16/
 - Detroit Historical Society, "Franklin, Aretha": https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/franklin-aretha
-- Discogs single release: https://www.discogs.com/release/9781013-Aretha-Franklin-Rock-Steady
+- Discogs single master: https://www.discogs.com/master/302858-Aretha-Franklin-Rock-Steady-Dont-Play-That-Song
+- Discogs 1971 US 7" release: https://www.discogs.com/release/9781013-Aretha-Franklin-Rock-Steady
 - Discogs master (album): https://www.discogs.com/master/72885-Aretha-Franklin-Young-Gifted-And-Black
 - AllMusic, Young, Gifted and Black: https://www.allmusic.com/album/young-gifted-and-black-mw0000621906

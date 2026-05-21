@@ -13,6 +13,7 @@ region: US - California
 listening mission: Lizzy McAlpine’s vocal sits in the pocket instead of floating above the groove like the Bee Gees. Focus on her lower-pitched “Ah, ah, ah, ah.” Does it keep you rooted in the rhythm rather than sending you soaring?
 status: complete
 writing theme:
+song.now code: k1d8
 ---
 Released on Halloween in 2022, today’s song is Scary Pockets’ cover of the Bee Gees’ 1977 disco hit "Stayin’ Alive."
 

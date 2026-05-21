@@ -14,6 +14,7 @@ region:
 listening mission: You could easily mistake this for a James Brown track. What gives it away that it isn’t?
 status: complete
 writing theme: Murder of Dyke
+song.now code: a7n5
 ---
 Arlester “Dyke” Christian was the singer, songwriter, and bassist who fronted Dyke & The Blazers. Formed in 1965, the band scored major hits with “Funky Broadway” and today’s track, “Let a Woman Be a Woman” The drum break from the latter, played by James Gadson, became a hip-hop staple and has been sampled more than 230 times. 
 
@@ -36,5 +37,6 @@ Have a booklet with this album to pull research.
 
 Source for 230 sample claim: https://www.whosampled.com/Dyke-%2526-the-Blazers/Let-a-Woman-Be-a-Woman-Let-a-Man-Be-a-Man/
 
-Buy on Discogs: https://www.discogs.com/release/19289839-Dyke-The-Blazers-I-Got-A-Message-Hollywood-1968-1970
+Buy Single on Discogs (Master Release): https://www.discogs.com/master/341177-Dyke-The-Blazers-Let-A-Woman-Be-A-Woman-Let-A-Man-Be-A-Man
+Buy Album/Comp on Discogs (I Got A Message: Hollywood 1968-1970 compilation): https://www.discogs.com/release/19289839-Dyke-The-Blazers-I-Got-A-Message-Hollywood-1968-1970
 Buy on Amazon: https://www.amazon.com/Got-Message-Hollywood-1968-1970-LP/dp/B092426HMG

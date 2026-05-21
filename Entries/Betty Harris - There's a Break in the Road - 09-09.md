@@ -13,6 +13,7 @@ region: US - Louisiana
 listening mission: Harris recorded her vocal separately from the band. Notice when your attention shifts from her voice to the rhythm section. What tells you they were not in the room together?
 status: complete
 writing theme: Two separate tracks competing for attention
+song.now code: mjlo
 ---
 Betty Harris was born on September 9, 1939, in Orlando, Florida. In her last recorded song, "There’s a Break in the Road," it feels like two parallel songs are fighting for your ear. Producer Allen Toussaint and Harris are aiming for a late-1960s soul single, but the session band, freshly formed as The Meters, seem to have other plans.
 

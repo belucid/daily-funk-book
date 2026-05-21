@@ -13,6 +13,7 @@ region: US - Texas
 listening mission: One difference between jazz and jazz-funk is the shift from a walking bass that helps define the harmonic progression to a rhythmic bass that helps define the groove. Can you hear both styles of bass at different times in the track?
 status: complete
 writing theme: Dropping 'Jazz' was a statement.
+song.now code: tll4
 ---
 The founding members of the Swingsters met in 1954 at Phillis Wheatley High School in Houston's Fifth Ward. After a few name changes, they released 16 albums in eight years as the Jazz Crusaders on the Pacific Jazz label. Dropping "Jazz" from their name in 1972, they relaunched as the Crusaders with a funkier sound. *Crusaders 1* was actually their second album under the new name, but the first on Blue Thumb Records.
 
@@ -60,7 +61,7 @@ I have my biases toward jazz-funk, but for my money, the Blue Thumb albums from 
 
 **RESOLVED — Residual questions from prior research:**
 
-- **Exact release month of *Crusaders 1*.** Confirmed as **March 1972** (US double-LP on Blue Thumb, BTS 6001). Multiple independent sources converge on March; no exact day surfaced, and Discogs pressing pages still return 403 on fetch. Good enough to cite the month; use "March 1972" in any date rationale. — Sources: https://markattheflicks.blogspot.com/2019/12/crusaders-1-by-crusaders-march-1972-us.html ; search summary confirmations across multiple retailer and collector sources
+- **Exact release month of *Crusaders 1*.** Confirmed as **March 1972** (US double-LP on Blue Thumb, BTS 6001). Multiple independent sources converge on March; no exact day surfaced. Good enough to cite the month; use "March 1972" in any date rationale. — Sources: https://markattheflicks.blogspot.com/2019/12/crusaders-1-by-crusaders-march-1972-us.html ; search summary confirmations across multiple retailer and collector sources; Discogs API (master 47654) verified 2026-05-19
 - **Track length discrepancy.** Unchanged. Set to 7:02 per Wikipedia's tracklist; Spotify/Deezer show 7:04 (fade-timing difference, trivial). — Sources: https://en.wikipedia.org/wiki/Crusaders_1 ; https://open.spotify.com/track/3cTOME6eMD6z6lQqxpgxdy
 - **"UK single LP omitted 'Georgia Cottonfield'"?** **FALSE — the prior research was wrong.** A re-read of the markattheflicks review confirms "Georgia Cottonfield" was the **final track on Side 2** of the 7-track UK Island single-LP edit (Island/Blue Thumb ILPS 9218). The UK edit's omissions included the 11-minute Carole King cover "So Far Away" and others — not "Georgia Cottonfield." The "US-only deep cut" angle should be dropped. — Source: https://markattheflicks.blogspot.com/2019/12/crusaders-1-by-crusaders-march-1972-us.html
 
@@ -143,7 +144,7 @@ Went with California for consistency with the sibling "Lilies of the Nile" entry
 - Audiomack: could not locate
 - Deezer: https://www.deezer.com/en/track/2247995
 - YouTube Video: could not locate an authoritative official link (user uploads of the full album exist, e.g. http://projazz.net/the-crusaders-crusaders-1-full-album/)
-- Buy Album on Discogs (Master): https://www.discogs.com/master/139293-The-Crusaders-Crusaders-1
+- Buy Album on Discogs (Master Release): https://www.discogs.com/master/47654-The-Crusaders-Crusaders-1
 - Buy Single on Discogs: not applicable — "Georgia Cottonfield" was not released as a single
 - Buy on Amazon: https://www.amazon.com/Crusaders-Blue-Thumb-Records-630/dp/B07FC5NKHF
 
@@ -154,7 +155,7 @@ Went with California for consistency with the sibling "Lilies of the Nile" entry
 - Wikipedia, Joe Sample: https://en.wikipedia.org/wiki/Joe_Sample
 - JazzRockSoul, The Crusaders: https://jazzrocksoul.com/artists/the-crusaders/
 - Mark Barry collector review ("Sounds Good, Looks Good..."), Crusaders 1: https://markattheflicks.blogspot.com/2019/12/crusaders-1-by-crusaders-march-1972-us.html
-- Discogs master (could not fetch, 403 — listed for author): https://www.discogs.com/master/139293-The-Crusaders-Crusaders-1
+- Discogs master (verified via API 2026-05-19; prior master ID 139293 was incorrect, correct master is below): https://www.discogs.com/master/47654-The-Crusaders-Crusaders-1
 - Spotify: https://open.spotify.com/track/3cTOME6eMD6z6lQqxpgxdy
 - Deezer: https://www.deezer.com/en/track/2247995
 - Amazon track: https://www.amazon.com/Georgia-Cottonfield/dp/B000WH6BSG

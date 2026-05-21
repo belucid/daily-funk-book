@@ -13,6 +13,7 @@ region: US - California
 listening mission: You’ve probably never heard the full three-minute version. Does it work better at full length, or at the TV show’s quick 50 seconds?
 status: complete
 writing theme: Funk in TV
+song.now code: nu1l
 ---
 Friday, January 14, 1972, marked the premiere of *Sanford and Son*. Critics saw Redd Foxx’s Fred Sanford character as NBC’s answer to Archie Bunker from *All in the Family*, which aired directly before it. *Sanford and Son* finished the 1971-1972 season as sixth best in the ratings. It ran for six seasons, ending in 1977, and it's been in syndication ever since.
 
@@ -122,7 +123,7 @@ Current writing theme: "Funk in TV (mention Seinfeld)"
 - **Deezer:** Search inconclusive; not confirmed.
 - **YouTube Video:** Search "Quincy Jones The Streetbeater Sanford and Son" on YouTube; multiple versions available but no single canonical link confirmed.
 - **Buy Album on Discogs (Master):** https://www.discogs.com/master/156483-Quincy-Jones-Youve-Got-It-Bad-Girl
-- **Buy Single on Discogs (Master):** https://www.discogs.com/Quincy-Jones-Sanford-Son-Theme-NBC-TV-The-Streetbeater/master/1171757
+- **Buy Single on Discogs (Master):** https://www.discogs.com/master/1171757-Quincy-Jones-Sanford-Son-Theme-NBC-TV-The-Streetbeater
 - **Buy on Amazon:** https://www.amazon.com/Sanford-Son-Streetbeater-Theme-Quincy/dp/B008MZSY5S
 
 ### Sources
@@ -144,6 +145,6 @@ https://www.forbes.com/sites/jimryan1/2021/08/27/composer-jonathan-wolff-on-crea
 - Grunge — Sanford and Son theme history: https://www.grunge.com/2091104/sanford-and-son-theme-song-catchiest-tune-come-out-1972-hands-down/
 - NPR — Quincy Jones obituary: https://www.npr.org/2024/11/04/834546599/quincy-jones-pop-mastermind-thriller-producer-dies
 - 45cat — Single details (A&M 1455): https://www.45cat.com/record/1455us
-- Discogs — Single master release: https://www.discogs.com/Quincy-Jones-Sanford-Son-Theme-NBC-TV-The-Streetbeater/master/1171757
+- Discogs — Single master release: https://www.discogs.com/master/1171757-Quincy-Jones-Sanford-Son-Theme-NBC-TV-The-Streetbeater
 - Discogs — Album master release: https://www.discogs.com/master/156483-Quincy-Jones-Youve-Got-It-Bad-Girl
 - KOMO News — Quincy Jones Seattle roots: https://komonews.com/news/local/quincy-jones-music-grammy-ray-charles-garfield-high-school-bremerton-pnw-pacific-northwest

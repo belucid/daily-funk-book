@@ -14,6 +14,7 @@ region:
 listening mission: Wait for the moment Brown calls out, “Maceo, blow your horn.” Part 1 cuts right as the solo is about to start. Why do you think Brown chose that cliffhanger?
 status: complete
 writing theme:
+song.now code: y02d
 ---
 There was never any question in my mind that this journey would begin with James Brown. Spoiler alert: it will end with him too, on New Year’s Eve. Everything in between is the branching tree that sprouted at the feet of the Godfather.
 

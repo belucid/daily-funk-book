@@ -13,6 +13,7 @@ region: US - California
 listening mission: Lock in on Larry Graham’s bass. His slap-and-pop style became a defining sound of the funk era. Does something in Davis’ vocal attack evoke a slap bass too?
 status: complete
 writing theme:
+song.now code: 5sgp
 ---
 Today’s song, "Anti Love Song," is from Betty Davis’ self-titled debut album, released on April 2, 1973, by Just Sunshine Records. Many listeners knew her as Miles Davis’ ex-wife, and the woman who named his *Bitches Brew* album. Her own debut was a funky declaration of independence.
 

@@ -13,6 +13,7 @@ region: US - New York
 listening mission: The title points to the song’s 5/4 time. Count to five with the beat (it’s quick). Once you lock in, stop counting and just try to feel the odd-meter groove.
 status: complete
 writing theme:
+song.now code: f7h0
 ---
 “Take Five” was composed by Paul Desmond and recorded by the Dave Brubeck Quartet in 1959. It became a surprise hit when it was reissued in 1961, reaching #25 on the *Billboard* Hot 100 and becoming the first jazz single to sell over a million copies.
 
@@ -123,8 +124,8 @@ The current genre is **Jazz-Funk**, which is strong. Here are considerations:
 - YouTube Video: Could not locate a direct link to the studio track. A well-known live performance from the 1986 Montreux Jazz Festival is widely shared but no stable URL confirmed.
 
 **Purchase:**
-- Buy Album on Discogs (Master): [Bad Benson - George Benson](https://www.discogs.com/George-Benson-Bad-Benson/master/52449)
-- Buy Reissue on Discogs (Master): [Take Five - George Benson](https://www.discogs.com/master/974439-George-Benson-Take-Five) (1979 reissue under "Take Five" title)
+- Buy Album on Discogs (Master Release): [Bad Benson - George Benson](https://www.discogs.com/master/52449-George-Benson-Bad-Benson)
+- Buy Reissue on Discogs (Master Release): [Take Five - George Benson](https://www.discogs.com/master/974439-George-Benson-Take-Five) (later reissue/compilation under "Take Five" title)
 - Buy on Amazon (CD): [Bad Benson - George Benson](https://www.amazon.com/Bad-Benson-George/dp/B000068D1F)
 
 ### Sources
@@ -135,8 +136,8 @@ The current genre is **Jazz-Funk**, which is strong. Here are considerations:
 - [Wikipedia: Steve Gadd](https://en.wikipedia.org/wiki/Steve_Gadd)
 - [AllMusic: Bad Benson](https://www.allmusic.com/album/bad-benson-mw0000194472)
 - [AllMusic: George Benson](https://www.allmusic.com/artist/george-benson-mn0000201760)
-- [Discogs: Bad Benson (Master)](https://www.discogs.com/George-Benson-Bad-Benson/master/52449)
-- [Discogs: Take Five (Master, 1979 reissue)](https://www.discogs.com/master/974439-George-Benson-Take-Five)
+- [Discogs: Bad Benson (Master)](https://www.discogs.com/master/52449-George-Benson-Bad-Benson)
+- [Discogs: Take Five (Master, reissue/compilation)](https://www.discogs.com/master/974439-George-Benson-Take-Five)
 - [Doug Payne: CTI Records - George Benson](https://www.dougpayne.com/ctiagb.htm)
 - [CT Produced: George Benson Paid His Jazz Dues](https://www.ctproduced.com/otd-george-benson-paid-his-jazz-dues/)
 - [Dusty Groove: George Benson Take Five](https://www.dustygroove.com/item/816007/George-Benson:Take-Five-portrait-cover)

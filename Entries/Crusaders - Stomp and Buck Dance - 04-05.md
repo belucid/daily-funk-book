@@ -13,6 +13,7 @@ region: US - Texas
 listening mission: Listen for Henderson’s trombone in “Stomp and Buck Dance.” It can be harder to pick out than the guitar, bass, keys, and sax you’re now used to hearing.
 status: complete
 writing theme:
+song.now code: 6sld
 ---
 Today’s song, "Stomp and Buck Dance," was written by Crusaders trombonist and co-founder Wayne Henderson. Born in Houston’s Fifth Ward in 1939, he started playing trombone in middle school. In 1954, at age 15, he co-founded the group that would eventually become the Crusaders.
 
@@ -158,8 +159,9 @@ OPEN: This entry is going to focus on Wayne Henderson, so need details on his bi
 - **Qobuz:** could not locate a confirmed direct link
 - **Audiomack:** could not locate
 - **Deezer:** could not locate a confirmed direct link
-- **Buy Album on Discogs (Master):** https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
-- **Buy Single on Discogs:** https://www.discogs.com/master/383001-Crusaders-Stomp-And-Buck-Dance-A-Ballad-For-Joe-Louis
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort
+- **Buy Album on Discogs (1974 US LP, ABCD-847):** https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
+- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/383001-The-Crusaders-Stomp-And-Buck-Dance-A-Ballad-For-Joe-Louis
 - **Buy on Amazon:** search "Crusaders Southern Comfort" — vinyl and CD reissues available; could not confirm a stable direct link
 
 ### Sources
@@ -172,8 +174,9 @@ OPEN: This entry is going to focus on Wayne Henderson, so need details on his bi
 - Andres Music Talk, "The Crusaders Remembered: Stomp And Buck Dance (1974)": https://andresmusictalk.wordpress.com/2016/08/25/the-crusaders-remembered-stomp-and-buck-dance-1974/
 - SomehowJazz, "The Crusaders 'Stomp and Buck Dance'": https://somehowjazz.com/stomp-and-buck-dance-the-crusaders/
 - WhoSampled, Stomp and Buck Dance: https://www.whosampled.com/The-Crusaders/Stomp-and-Buck-Dance/
-- Discogs, Southern Comfort (1974 LP): https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
-- Discogs, Stomp and Buck Dance / A Ballad for Joe (Louis) single master: https://www.discogs.com/master/383001-Crusaders-Stomp-And-Buck-Dance-A-Ballad-For-Joe-Louis
+- Discogs, Southern Comfort album master: https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort
+- Discogs, Southern Comfort (1974 US LP): https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
+- Discogs, Stomp and Buck Dance / A Ballad for Joe (Louis) single master: https://www.discogs.com/master/383001-The-Crusaders-Stomp-And-Buck-Dance-A-Ballad-For-Joe-Louis
 - Texas State Historical Association, "The Crusaders": https://www.tshaonline.org/handbook/entries/crusaders
 - NPR, "Wayne Henderson, Jazz Crusaders Co-Founder, Dies": https://www.npr.org/sections/ablogsupreme/2014/04/07/300294194/wayne-henderson-jazz-crusaders-co-founder-dies
 - NCpedia, Buck Dancing: https://www.ncpedia.org/buck-dancing

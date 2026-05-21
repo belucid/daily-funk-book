@@ -14,6 +14,7 @@ region:
 listening mission: Does the groove help Prince’s message land, or does it distract from it?
 status: complete
 writing theme:
+song.now code: 8z4n
 ---
 “My fellow Americans, if there is a just God, we’re going to pay 4 this” is Thomas Jefferson as heard through a Prince Rogers Nelson lens. The song’s message: many African Americans have surnames, such as Nelson, that are inherited from their enslavers rather than their ancestors.
 

@@ -14,6 +14,7 @@ region:
 listening mission: Listen to what Lou does just five minutes in when he swaps words for sounds. Why end it this way?
 status: complete
 writing theme: Not fitting expectations
+song.now code: xn0h
 ---
 Lou Bond (born Ronald Edward Lewis) didn't fit in Stax’s world in 1974. He was too eclectic for the label’s distinctive soul sound, and it's still hard to name exactly what he was doing.
 

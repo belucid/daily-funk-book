@@ -13,6 +13,7 @@ region: US - California
 listening mission: Notice how the groove starts to come apart after the five-minute mark. The band pulls it back together around eight minutes in. Does that return feel like a funk version of coming back to the home key for closure?
 status: complete
 writing theme:
+song.now code: f64l
 ---
 *Survival of the Fittest* was the Headhunters’ debut album as their own band, after years as Herbie Hancock’s sidemen. Herbie co-produced the record, but does not appear as a player.
 

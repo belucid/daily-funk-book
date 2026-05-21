@@ -13,6 +13,7 @@ region: US - California
 listening mission: The song has only two chords. What's doing the work that harmony usually does?
 status: complete
 writing theme:
+song.now code: ea51
 ---
 Bill Withers assembled toilets for Boeing 747s by day and wrote songs at night. Even after “Ain’t No Sunshine” became a hit, he couldn’t bring himself to quit his day job. Withers said the feeling of being used started with his employer paying him $3 an hour, but this song channels that into something more intimate.
 

@@ -14,6 +14,7 @@ region:
 listening mission: Khruangbin first cut this in 2015 as “People Everywhere (Still Alive)” at 2m 39s. How does this longer version change its impact?
 status: complete
 writing theme:
+song.now code: 3sno
 ---
 *The Universe Smiles Upon You ii* is a deliberate echo of Khruangbin's 2015 debut album, *The Universe Smiles Upon You*. The band returned a decade later to record it from January 4 to 6, 2025, in the same Central Texas barn where they have made most of their music. As a jam band, these tracks are never played the same way twice, but re-recording them was a way to celebrate the band’s evolution and to hear how a decade of playing together affects the same set of songs. The release landed exactly ten years after the original, and the recording sessions were staged across the same dates ten years apart.
 

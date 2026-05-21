@@ -13,6 +13,7 @@ region: US - California
 listening mission: "The lean opening guitar riff has been sampled and looped in dozens of tracks, but focus on the drums. Notice how many distinct grooves they play across the song’s sections. What holds the track together: the often-quoted guitar or the overlooked drums?"
 status: complete
 writing theme:
+song.now code: erma
 ---
 John Robert Smith was born in Louisville, Kentucky, on December 16, 1933. His "Johnny Hammond" nickname came from his command of the Hammond B-3 organ, and it helped distinguish him from jazz guitarist Johnny Smith. Hammond had already moved from bop into soul jazz, but by 1975 he needed another shift in sound.
 

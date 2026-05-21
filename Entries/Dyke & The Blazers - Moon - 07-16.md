@@ -13,6 +13,7 @@ region: US - West
 listening mission: Dyke’s hit singles were tight and radio-ready. This one runs over six minutes and was never released. Why did Dyke need this expanse of time, and what did he do with it?
 status: complete
 writing theme: Black America's perception of the moon landing
+song.now code: rlu5
 ---
 The Apollo 11 moon landing on July 16, 1969 may have been "one giant leap for mankind," but many Black Americans felt excluded from the accomplishment. They asked if the nation had the right priorities in pursuing the moon over problems here at home.
 

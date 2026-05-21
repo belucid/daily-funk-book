@@ -13,6 +13,7 @@ region: US - DC
 listening mission: Focus on the four bars of the drum break at 1m 26s. The first two bars repeat, the third holds the snare back a beat, and the fourth adds a cymbal crash. Why did those small changes make this the loop every sampler wanted?
 status: complete
 writing theme:
+song.now code: 6zoi
 ---
 “Amen, Brother” is a funky instrumental built around the gospel song “Amen,” popularized by Jester Hairston’s arrangement for the 1963 Sidney Poitier film *Lilies of the Field*. The Wintons' song is also the most sampled recording in history, with over 7,500 verified samples, thanks to a seven-second drum break that became known as the Amen break.
 
@@ -137,8 +138,9 @@ Current `region` field was empty and has been populated as **US - DC**. Candidat
 - Qobuz: Could not locate.
 - Audiomack: Could not locate.
 - Deezer: Could not locate a confirmed official upload.
-- Buy Album on Discogs (Master): https://www.discogs.com/master/The-Winstons-Color-Him-Father (search master; main master ID 1073161 at https://www.discogs.com/release/1073161-The-Winstons-Color-Him-Father)
-- Buy Single on Discogs (Master): https://www.discogs.com/master/150461-The-Winstons-Color-Him-Father-Amen-Brother
+- Buy Album on Discogs (Master Release): https://www.discogs.com/master/150460-The-Winstons-Color-Him-Father
+- Buy Album on Discogs (1969 US LP, Metromedia MD 1010): https://www.discogs.com/release/1073161-The-Winstons-Color-Him-Father
+- Buy Single on Discogs (Master Release): https://www.discogs.com/master/150461-The-Winstons-Color-Him-Father-Amen-Brother
 - Buy on Amazon: Search at https://www.amazon.com/s?k=the+winstons+color+him+father for original pressings and a 2019 Sounds of the Universe / Soul Jazz Records reissue of *Color Him Father*.
 
 ### Sources
@@ -149,8 +151,9 @@ Current `region` field was empty and has been populated as **US - DC**. Candidat
 - Gregory C. Coleman, Wikipedia: https://en.wikipedia.org/wiki/Gregory_C._Coleman
 - Color Him Father, Wikipedia: https://en.wikipedia.org/wiki/Color_Him_Father
 - Ultimate Breaks and Beats, Wikipedia: https://en.wikipedia.org/wiki/Ultimate_Breaks_and_Beats
-- Discogs — Color Him Father / Amen, Brother 45 (Master 150461): https://www.discogs.com/master/150461-The-Winstons-Color-Him-Father-Amen-Brother
-- Discogs — Color Him Father LP (Release 1073161): https://www.discogs.com/release/1073161-The-Winstons-Color-Him-Father
+- Discogs — Color Him Father / Amen, Brother 45 (single master, 150461): https://www.discogs.com/master/150461-The-Winstons-Color-Him-Father-Amen-Brother
+- Discogs — Color Him Father LP (album master, 150460): https://www.discogs.com/master/150460-The-Winstons-Color-Him-Father
+- Discogs — Color Him Father LP (1969 US release, 1073161): https://www.discogs.com/release/1073161-The-Winstons-Color-Him-Father
 - 45cat — Metromedia MM-117 listing: https://www.45cat.com/record/mms117
 - Internet Archive — *Color Him Father* LP rip with credits: https://archive.org/details/the_winstons-color_him_father-vinyl-1969
 - Ali Jamieson — "Can I Get an Amen? The Winstons' Classic Break Examined": https://alijamieson.co.uk/2021/12/31/can-i-get-amen-winstons-classic-break-examined/

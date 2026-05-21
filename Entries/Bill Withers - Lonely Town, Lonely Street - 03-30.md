@@ -13,6 +13,7 @@ region: US - California
 listening mission: This opens the album that gave us “Lean on Me.” Listen to how the rhythm section pushes Withers into a different feel here.
 status: complete
 writing theme:
+song.now code: ag1q
 ---
 Bill Withers' soul standard "Lean on Me" is so well known that, like Otis Redding with "(Sittin' On) The Dock of the Bay," he has become synonymous with his biggest hit. But even at his most soulful, Withers was not shy about dropping a few funky burners onto his 1970s records.
 

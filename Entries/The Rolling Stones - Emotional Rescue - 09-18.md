@@ -14,6 +14,7 @@ region:
 listening mission: Guitarist Ronnie Wood is playing bass here, not the usual Stones bassist Bill Wyman. Can you hear a guitarist’s touch in the bassline?
 status: complete
 writing theme:
+song.now code: y21v
 ---
 *Emotional Rescue* topped charts around the world and spent seven weeks at #1 in the US. The title track was its biggest hit, and yet the Rolling Stones did not play "Emotional Rescue" live until 2013. Perhaps the song never quite fit the band’s self-image.
 
@@ -132,8 +133,9 @@ The `genre` field is currently set to `Funk Rock`.
 - **Audiomack:** https://audiomack.com/the-rolling-stone/song/emotional-rescue-remastered-2009
 - **Deezer:** https://www.deezer.com/en/track/4124752
 - **YouTube Video:** Official Lyric Video available on The Rolling Stones YouTube channel (published Feb 10, 2023, produced by Mercury Studios). Search "Rolling Stones Emotional Rescue Official Lyric Video" for direct link.
-- **Buy Album on Discogs (Master):** https://www.discogs.com/master/39888-The-Rolling-Stones-Emotional-Rescue
-- **Buy Single on Discogs:** https://www.discogs.com/release/750098-The-Rolling-Stones-Emotional-Rescue (7" 45 RPM, 1980)
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/39888-The-Rolling-Stones-Emotional-Rescue
+- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/52725-The-Rolling-Stones-Emotional-Rescue
+- **Buy Single on Discogs (1980 US 7" 45 RPM):** https://www.discogs.com/release/750098-The-Rolling-Stones-Emotional-Rescue
 - **Buy on Amazon:** https://www.amazon.com/Emotional-Rescue-Rolling-Stones/dp/B000000W5J
 
 ### Sources
@@ -141,6 +143,7 @@ The `genre` field is currently set to `Funk Rock`.
 - Wikipedia (song): https://en.wikipedia.org/wiki/Emotional_Rescue_(song)
 - Wikipedia (album): https://en.wikipedia.org/wiki/Emotional_Rescue
 - Discogs (album master): https://www.discogs.com/master/39888-The-Rolling-Stones-Emotional-Rescue
+- Discogs (single master, "Emotional Rescue" 7"): https://www.discogs.com/master/52725-The-Rolling-Stones-Emotional-Rescue
 - AllMusic (album): https://www.allmusic.com/album/emotional-rescue-mw0000650700
 - AllMusic (song): https://www.allmusic.com/song/emotional-rescue-mt0011886225
 - Rolling Stones Data (song analysis): https://rollingstonesdata.com/songs/emotional-rescue/

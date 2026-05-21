@@ -13,6 +13,7 @@ region: US - Ohio
 listening mission: At under three minutes, does this feel like a throwaway novelty song? Does knowing it became one of the most sampled tracks ever, and that its synth line helped define West Coast G-funk, change your assessment?
 status: complete
 writing theme:
+song.now code: 9rul
 ---
 In today’s song, Granny describes a “Funky Worm” who plays the guitar with no hands. The song hit #1 on the *Billboard* R&B chart and #15 on the Hot 100 in May 1973.
 
@@ -135,8 +136,9 @@ The entry currently has `day: 3-20`. Here are researched date options:
 - **Audiomack**: https://audiomack.com/ohio-players/song/funky-worm-2023-remastered
 - **Deezer**: https://www.deezer.com/en/track/1554872092
 - **YouTube Video**: Could not locate a definitive official video link. The track appears on various compilation/fan uploads but no verified official upload was found.
-- **Buy Album on Discogs (Master)**: https://www.discogs.com/master/91535-Ohio-Players-Pleasure
-- **Buy Single on Discogs**: https://www.discogs.com/release/946303-Ohio-Players-Funky-Worm-Paint-Me (most collected pressing; no master release page found for the single)
+- **Buy Album on Discogs (Master Release)**: https://www.discogs.com/master/91535-Ohio-Players-Pleasure
+- **Buy Single on Discogs (Master Release)**: https://www.discogs.com/master/91530-Ohio-Players-Funky-Worm-Paint-Me (verified via Discogs API 2026-05-19)
+- **Buy Single on Discogs (1973 7" pressing)**: https://www.discogs.com/release/946303-Ohio-Players-Funky-Worm-Paint-Me
 - **Buy on Amazon**: https://www.amazon.com/Ohio-Players-Funky-Paint-Record/dp/B073HX48TQ (7" vinyl single)
 
 ### Sources
@@ -149,8 +151,9 @@ The entry currently has `day: 3-20`. Here are researched date options:
 - [The Ohio Players - Britannica](https://www.britannica.com/topic/The-Ohio-Players)
 - [Funky Worm - AllMusic](https://www.allmusic.com/song/funky-worm-mt0006359975)
 - [Pleasure - AllMusic](https://www.allmusic.com/album/pleasure-mw0000264093)
-- [Ohio Players - Funky Worm / Paint Me - Discogs](https://www.discogs.com/release/946303-Ohio-Players-Funky-Worm-Paint-Me)
-- [Ohio Players - Pleasure - Discogs (Master)](https://www.discogs.com/master/91535-Ohio-Players-Pleasure)
+- [Ohio Players - Funky Worm / Paint Me - Discogs single master](https://www.discogs.com/master/91530-Ohio-Players-Funky-Worm-Paint-Me)
+- [Ohio Players - Funky Worm / Paint Me - Discogs 1973 7" pressing](https://www.discogs.com/release/946303-Ohio-Players-Funky-Worm-Paint-Me)
+- [Ohio Players - Pleasure - Discogs album master](https://www.discogs.com/master/91535-Ohio-Players-Pleasure)
 - [Funky Worm - Funkatropolis](http://funkatropolis.blogspot.com/2015/08/funky-worm-by-ohio-players.html)
 - [Funky Worm synthesizer discussion - Vintage Synth Explorer](https://forum.vintagesynth.com/viewtopic.php?t=53096)
 - [Ohio Players Funky Worm sampled - WhoSampled](https://www.whosampled.com/Ohio-Players/Funky-Worm/)

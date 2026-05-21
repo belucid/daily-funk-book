@@ -14,6 +14,7 @@ region:
 listening mission: How short does a guitar note need to be before it's percussion?
 status: complete
 writing theme: Canned Heat discovery of Albert and record deal arrangement.
+song.now code: b65u
 ---
 On June 19, 1968, the members of Canned Heat saw Albert Collins at Houston’s Ponderosa Club. He was slicing through a Texas blues set with his signature ice-pick guitar tone. They were so impressed they helped broker a deal for Collins to record an album for Imperial, a sister label to their own Liberty Records. Canned Heat frontman Bob Hite wrote the liner notes for *Love Can Be Found Anywhere (Even in a Guitar)*, and the title itself comes from a Canned Heat lyric.
 

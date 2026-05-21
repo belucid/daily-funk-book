@@ -13,6 +13,7 @@ region: Kenya
 listening mission: Listen for the James Brown fingerprints, then for the African elements. Where does the track imitate Brown, and where does it sound  Kenyan?
 status: complete
 writing theme:
+song.now code: h52z
 ---
 Kenya gained its independence from Britain on December 12, 1963, at Uhuru Gardens in Nairobi. “Uhuru” is Swahili for “freedom,” and it became a rallying cry of the independence movement. Keep an ear out for it in African funk of the late 1960s and 1970s. You will spot it everywhere: in lyrics, song titles, band names, and even musicians’ first names. Uhuru Kenyatta, born during the independence era, later became Kenya’s fourth president from 2013 to 2022.
 
@@ -154,7 +155,8 @@ Per the book's `On Regions` framing in `On Genres & Regions.md` and the enumerat
 | Qobuz | No entry surfaced in search. | Search inconclusive. |
 | Audiomack | No entry surfaced in search. | Search inconclusive. |
 | Buy Album on Discogs | [Matata – Independence (master release)](https://www.discogs.com/master/172593-Matata-Independence) | Multiple 1974 pressings plus the 2021 Tidal Waves RSD reissue. |
-| Buy Single on Discogs | [Matata – Return To You / Something In Mind (1974 UK 45)](https://www.discogs.com/release/5063642-Matata-Return-To-You-Something-In-Mind) and [Matata – Return To You (1974 UK Promo 45)](https://www.discogs.com/release/9577542-Matata-Return-To-You) | Promo and stock pressings both exist. |
+| Buy Single on Discogs (Master Release) | [Matata – Return To You](https://www.discogs.com/master/615238-Matata-Return-To-You) | Canonical single master, verified via Discogs API 2026-05-19. |
+| Buy Single on Discogs (Pressings) | [Matata – Return To You / Something In Mind (1974 UK 45)](https://www.discogs.com/release/5063642-Matata-Return-To-You-Something-In-Mind) and [Matata – Return To You (1974 UK Promo 45)](https://www.discogs.com/release/9577542-Matata-Return-To-You) | Promo and stock pressings both exist. |
 | Buy on Amazon | [MATATA - Feelin' Funky (CD)](https://www.amazon.com/Feelin-Funky-Matata/dp/B0000080DV), [MATATA - Wanna Do My Thing: Complete President Recordings (2CD)](https://www.amazon.com/Wanna-Do-Thing-President-Recordings/dp/B01MSRPOKU) | Two compilations that include "Return To You"; no dedicated single on Amazon. |
 
 ### Sources
@@ -166,7 +168,8 @@ Primary
 - [Cherry Red: _Wanna Do My Thing - The Complete President Recordings_ (2CD)](https://www.cherryred.co.uk/wanna-do-my-thing-the-complete-president-recordings)
 - [MusicBrainz: Matata — _Feelin' Funky_ release](https://musicbrainz.org/release/13285fa0-dd57-4522-94d5-21897df6408a)
 - [Discogs: Matata artist discography](https://www.discogs.com/artist/323422-Matata)
-- [Discogs: Matata – _Independence_ (master release)](https://www.discogs.com/master/172593-Matata-Independence)
+- [Discogs: Matata – _Independence_ (album master)](https://www.discogs.com/master/172593-Matata-Independence)
+- [Discogs: Matata – Return To You (single master)](https://www.discogs.com/master/615238-Matata-Return-To-You)
 - [Discogs: Matata – Return To You / Something In Mind 45 (1974)](https://www.discogs.com/release/5063642-Matata-Return-To-You-Something-In-Mind)
 - [Discogs: Matata – Return To You (1974 Promo 45)](https://www.discogs.com/release/9577542-Matata-Return-To-You)
 

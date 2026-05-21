@@ -13,12 +13,13 @@ region: US - New York
 listening mission: Fourteen minutes later, as the song winds down and the crowd starts clapping, how do you feel? Are you sad the groove is ending, or relieved?
 status: complete
 writing theme:
+song.now code: zk89
 ---
 The studio version of today’s “Voices Inside (Everything Is Everything)” appears on Donny Hathaway’s 1970 debut album *Everything Is Everything*, and it clocks in at a radio-friendly 3m 28s. In this live performance, Hathaway and the band stretch it to nearly fourteen minutes. That extra space is where the jazz in jazz-funk lives.
 
 Hathaway takes the first solo on a Wurlitzer electric piano. By the early 1970s, electric piano and clavinet were pushing aside the Hammond organ that had defined so much 1960s soul jazz.
 
-Mike Howard steps in with a short, jazz-inflected guitar solo that's a little dissonant and heady, but still sits on the groove. Next up, Cornell Dupree takes over on guitar with a different voice. To my ear, it leans more blues, more grit, more grease.
+Mike Howard steps in with a short, jazz-inflected guitar solo that's a little dissonant and heady, but still sits in the groove. Next up, Cornell Dupree takes over on guitar with a different voice. To my ear, it leans more blues, more grit, more grease.
 
 Finally, Willie Weeks delivers the moment the crowd didn't know they were waiting for: a bass solo so funky that you hear the room react. Hathaway’s solo has spark, but Weeks lights the fuse.
 

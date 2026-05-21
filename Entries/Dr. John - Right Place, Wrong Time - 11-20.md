@@ -13,6 +13,7 @@ region: US - Louisiana
 listening mission: The Meters are the band here, but the guitar solo isn't Leo Nocentelli. It's session player David Spinozza, called in from the hallway to improvise it. Does his solo sound out of place, or does it fit the New Orleans funk vibe?
 status: complete
 writing theme:
+song.now code: lmz0
 ---
 Born Malcolm John Rebennack on November 20, 1941, in the Third Ward of New Orleans, Dr. John (not a real doctor) became one of the musicians most synonymous with the city’s rich musical culture. Through the 1960s, Dr. John was a first-call session player for anyone recording there, and a cult figure onstage as a psychedelic voodoo shaman.
 

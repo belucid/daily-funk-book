@@ -13,6 +13,7 @@ region: US - Illinois
 listening mission: "This was the last #1 single of 1975. Tempos were about to jump as the decade shifted into the disco era. Would this track work at a faster pace?"
 status: complete
 writing theme:
+song.now code: 6vm1
 ---
 How do you convince a deeply religious 60-year-old man to sing and play on a song about sex, alongside his own daughters? If you're Curtis Mayfield, you tell Pops Staples, "The Lord won't mind. It's just a love song."
 
@@ -151,8 +152,9 @@ Alternative to consider:
 - Audiomack: could not locate.
 - Deezer: could not locate a direct URL; the album is carried on Deezer's catalog per generic search but a stable track link did not surface.
 - Bandcamp (track, licensed reissue): https://thestaplesingers.bandcamp.com/track/lets-do-it-again
-- Buy Album on Discogs (master): https://www.discogs.com/master/180540-The-Staple-Singers-Lets-Do-It-Again-Original-Soundtrack
-- Buy Single on Discogs: https://www.discogs.com/release/1846174-The-Staple-Singers-Lets-Do-It-Again
+- Buy Album on Discogs (Master Release): https://www.discogs.com/master/180540-The-Staple-Singers-Lets-Do-It-Again-Original-Soundtrack
+- Buy Single on Discogs (Master Release): https://www.discogs.com/master/180546-The-Staple-Singers-Lets-Do-It-Again-After-Sex
+- Buy Single on Discogs (1975 US 7"): https://www.discogs.com/release/1846174-The-Staple-Singers-Lets-Do-It-Again
 - Buy on Amazon (CD reissue): https://www.amazon.com/Lets-Do-Again-Original-Sound/dp/B08761GHVG
 
 ### Sources
@@ -167,8 +169,9 @@ Alternative to consider:
 - Stereogum, "The Number Ones: The Staple Singers' 'Let's Do It Again'": https://stereogum.com/2054791/the-number-ones-the-staple-singers-lets-do-it-again/columns/the-number-ones
 - Songfacts, "Let's Do It Again": https://www.songfacts.com/facts/the-staple-singers/lets-do-it-again
 - AllMusic, _Let's Do It Again_: https://www.allmusic.com/album/lets-do-it-again-mw0000038581
-- Discogs master release: https://www.discogs.com/master/180540-The-Staple-Singers-Lets-Do-It-Again-Original-Soundtrack
-- Discogs single release: https://www.discogs.com/release/1846174-The-Staple-Singers-Lets-Do-It-Again
+- Discogs album master: https://www.discogs.com/master/180540-The-Staple-Singers-Lets-Do-It-Again-Original-Soundtrack
+- Discogs single master ("Let's Do It Again / After Sex" 7"): https://www.discogs.com/master/180546-The-Staple-Singers-Lets-Do-It-Again-After-Sex
+- Discogs single release (1975 US 7"): https://www.discogs.com/release/1846174-The-Staple-Singers-Lets-Do-It-Again
 - Find a Grave, Cleotha Staples: https://www.findagrave.com/memorial/105652778/cleotha-staples
 - Find a Grave, Yvonne Staples: https://www.findagrave.com/memorial/188698993/yvonne-staples
 - Chicago Sun-Times, Pervis Staples obituary: https://chicago.suntimes.com/2021/5/12/22432829/pervis-staples-dead-obituary-co-founded-the-staple-singers-dies-at-85-mavis-staples

@@ -13,6 +13,7 @@ region: Senegal
 listening mission: Touré Kunda sang in six languages across their career, often inside a single song. Presumably you can’t understand a word of the lyrics, so try listening for meaning without translation. What do you imagine the song is about?
 status: complete
 writing theme:
+song.now code: pdz2
 ---
 Touré Kunda’s "Manso" does not fit the Fela Kuti, Nigerian template for Afrobeat. It's mbalax, which is Senegalese popular music, but hooked to a disco bassline pitted against some aggressive polyrhythms. To make the genre classification problem even worse, the whole thing was recorded in Paris.
 

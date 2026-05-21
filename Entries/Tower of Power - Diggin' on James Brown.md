@@ -13,6 +13,7 @@ region: US - California
 listening mission: This is a horn band paying tribute to the Godfather of Funk. Listen closely to the horn arrangement. What makes it sound like Tower of Power, not James Brown?
 status: complete
 writing theme:
+song.now code: fa3r
 ---
 By the time they recorded today’s "Diggin’ on James Brown" in 1995, Tower of Power had survived a revolving door of lead singers, outlived funk’s commercial decline, and carried the dark footnote that one of their former frontmen, Rick Stevens, was convicted in a 1976 triple murder case. *Souled Out* featured yet another lineup, but even after all the trials, literal and figurative, writing a funky love letter to James Brown was a worthy pursuit.
 

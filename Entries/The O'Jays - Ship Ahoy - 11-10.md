@@ -13,6 +13,7 @@ region: US - Northeast
 listening mission: The song starts slowly, with sound effects and two bass notes that could be from a country song. By 2m 30s, it is full-on funk. When does the switch happen?
 status: complete
 writing theme:
+song.now code: ka81
 ---
 Alex Haley’s *Roots* was not published until 1976. Three years earlier, the O’Jays put listeners on a slave ship with “Ship Ahoy,” trying to convey the Middle Passage in a way popular music hadn't attempted. Before the first vocal arrives, you hear creaking timbers, crashing waves, thunder, and a cracking whip.
 

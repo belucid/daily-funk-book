@@ -14,6 +14,7 @@ region:
 listening mission: How does the famous "ma-ma-say, ma-ma-sa" chant change for you when you hear it in its original context of the Duala lyrics of a Cameroonian makossa song?
 status: complete
 writing theme: relationship between makossa and funk
+song.now code: tlmp
 ---
 The famous "ma-ma-say, ma-ma-sa" chant from yesterday's "Wanna Be Startin' Somethin'" is borrowed from Manu Dibango's 1972 hit "Soul Makossa." The lyrical larceny led to a lawsuit by Dibango, which was settled for one million French francs. Another lawsuit followed in 2009 when Rihanna sampled Michael Jackson's song in "Don't Stop the Music."
 
@@ -146,8 +147,8 @@ The genre is currently set to **Afrobeat**.
 **Audiomack**: Could not locate.
 **Deezer**: Available via Songwhip aggregator (https://songwhip.com/manu-dibango/soul-makossa); could not confirm direct Deezer link.
 **YouTube Video**: Search "Manu Dibango Soul Makossa original" on YouTube. A commonly referenced video ID is o0CeFX6E2yI.
-**Buy Album on Discogs (Master)**: https://www.discogs.com/master/141437-Manu-Dibango-Soul-Makossa
-**Buy Single on Discogs**: Could not locate a master release page for the single specifically; individual pressings available via the master release page above.
+**Buy Album on Discogs (Master Release)**: https://www.discogs.com/master/141437-Manu-Dibango-Soul-Makossa
+**Buy Single on Discogs (Master Release)**: https://www.discogs.com/master/141438-Manu-Dibango-Soul-Makossa-Lily ("Soul Makossa / Lily" 1973 7", verified via Discogs API 2026-05-19)
 **Buy on Amazon (CD)**: https://www.amazon.com/Soul-Makossa-MANU-DIBANGO/dp/B000006CL7
 **Buy on Amazon (Vinyl)**: https://www.amazon.com/Soul-Makossa-Vinyl-Manu-Dibango/dp/B00005NDOT
 
@@ -159,7 +160,8 @@ The genre is currently set to **Afrobeat**.
 - Wikipedia: 1972 African Cup of Nations — https://en.wikipedia.org/wiki/1972_African_Cup_of_Nations
 - AllMusic: Soul Makossa album — https://www.allmusic.com/album/soul-makossa-mw0000234058
 - AllMusic: Manu Dibango biography — https://www.allmusic.com/artist/manu-dibango-mn0000674011/biography
-- Discogs: Soul Makossa master release — https://www.discogs.com/master/141437-Manu-Dibango-Soul-Makossa
+- Discogs: Soul Makossa album master — https://www.discogs.com/master/141437-Manu-Dibango-Soul-Makossa
+- Discogs: Soul Makossa / Lily single master — https://www.discogs.com/master/141438-Manu-Dibango-Soul-Makossa-Lily
 - Groovecollector: Fiesta single (catalog 51 199) — https://www.groovecollector.com/manu-dibango-soul-makossa-lily/release/2762/
 - Apple Music: Soul Makossa album — https://music.apple.com/us/album/soul-makossa/1821046580
 - Conor Herbert: Manu Dibango and the Soul Makossa — https://www.conorherbert.com/music/manu-dibango

@@ -13,6 +13,7 @@ region: Japan
 listening mission: Singer Corey King softly repeats his two lines through the first half. How does that set up what happens in the second half?
 status: complete
 writing theme:
+song.now code: lps2
 ---
 CHOYA is a Japanese beverage company founded in 1914 in Osaka, and best known for its plum and yuzu drinks. Today’s track, “Choy Soda,” begins with a laid-back vocal groove, then ratchets up the intensity as sax, synths, and trumpet trade solos. At the end, Takuya Kuroda shouts out his favorite drink, giving the track its name.
 

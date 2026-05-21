@@ -13,6 +13,7 @@ region: US - Illinois
 listening mission: The bassline arrives before anyone sings a word, and it carries the entire track. Listen for when Mavis Staples stops singing words and starts echoing the bassline.
 status: complete
 writing theme:
+song.now code: w1r3
 ---
 "I'll Take You There" is my favorite funk song. It has no real verses, just call and response, band cues, and raw reactions to the groove. There's no real chord progression either, just a two-chord vamp on C and F. Mavis Staples’ funky vocals and that deep Muscle Shoals pocket make it work.
 

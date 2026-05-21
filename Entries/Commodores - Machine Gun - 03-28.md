@@ -13,6 +13,7 @@ region: US - Southeast
 listening mission: It was originally called “The Ram.” Motown founder Berry Gordy said it sounded like machine guns, and the new title stuck. What would you name this instrumental?
 status: complete
 writing theme: instrumental track from a band that became know for its vocalists
+song.now code: fjpx
 ---
 Milan Williams was born on March 28, 1948, in Okolona, Mississippi. He wrote “Machine Gun” and played the clavinet, synth bass, and lead synth on the song. Williams built the track’s signature low end on keys, providing an early example of a funk hit where the bassline comes from a keyboard part rather than a bass guitar. It foreshadows the synth-bass era years before electro funk made it a defining sound.
 

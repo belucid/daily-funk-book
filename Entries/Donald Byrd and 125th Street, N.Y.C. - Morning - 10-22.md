@@ -13,6 +13,7 @@ region: US - New York
 listening mission: Donald Byrd is the bandleader and virtuoso trumpeter, but he stays out of the way and lets the rhythm section lead. Listen to how Clare Fischer takes the spotlight on keys.
 status: complete
 writing theme:
+song.now code: 7hyl
 ---
 Grammy-winning jazz musician, composer, and arranger Clare Fischer was born October 22, 1928, in Durand, Michigan. He moved to Hollywood in 1962 and worked in the Wrecking Crew-era LA session ecosystem.
 

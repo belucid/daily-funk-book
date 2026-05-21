@@ -13,6 +13,7 @@ region: UK
 listening mission: This is a live recording from a 2015 concert at One World Theatre in Austin, TX. What clues tell you its live?
 status: complete
 writing theme:
+song.now code: hwrw
 ---
 Today’s song, “The Jugglers,” went missing for 41 years. It opened the Average White Band’s 1973 debut _Show Your Hand_. The album sold poorly and their label, MCA, dropped them.
 

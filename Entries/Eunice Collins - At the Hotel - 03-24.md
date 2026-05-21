@@ -12,6 +12,7 @@ region: US - Illinois
 listening mission: What might a Eunice Collins album have sounded like?
 status: complete
 writing theme: Tale of unusual recording and Deep funk rediscovery.
+song.now code: zdrh
 ---
 Eunice Collins walked into a small Chicago studio on a whim and recorded this track in a single take. She never signed a contract, never got paid, and then disappeared from the recording world.
 

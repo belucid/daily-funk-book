@@ -13,6 +13,7 @@ region: US - New York
 listening mission: Can the congas play a melody? A conga player has 3 to 5 pitches to work with, but do you hear them as melodic at any point?
 status: complete
 writing theme:
+song.now code: fz74
 ---
 Long before TikTok, kids entertained themselves with tic-tac-toe. In 1963, the Stax house band of Booker T. Jones, Steve Cropper, Al Jackson Jr., and Donald “Duck” Dunn named a B-side instrumental “Tic Tac Toe.” Eight years later, Havana-born conga player Candido Camero Guerra recorded a funky Latin arrangement of the same tune for Blue Note in New York.
 
@@ -122,7 +123,9 @@ Alternative: **Cuba**. Case: Candido was born in Havana, formed as a musician th
 - **Tidal:** could not locate
 - **Qobuz:** could not locate
 - **Audiomack:** could not locate
-- **Buy Album on Discogs (Master):** https://www.discogs.com/release/577147-Candido-Beautiful
+- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/166331-Candido-Beautiful
+- **Buy Album on Discogs (1971 US pressing):** https://www.discogs.com/release/577147-Candido-Beautiful
+- **Buy Single on Discogs:** Not applicable — "Tic Tac Toe" was an album cut on *Beautiful*, not issued as a stand-alone single (verified via Discogs API 2026-05-19).
 - **Buy on Soul Jazz reissue:** https://soundsoftheuniverse.com/sjr/product/candido-beautiful-1970
 - **Buy on Amazon:** search "Candido Beautiful Blue Note vinyl" — multiple reissues in print
 
@@ -131,7 +134,8 @@ Alternative: **Cuba**. Case: Candido was born in Havana, formed as a musician th
 - Wikipedia — *Beautiful* (Candido Camero album): https://en.wikipedia.org/wiki/Beautiful_(Candido_Camero_album)
 - Wikipedia — Cándido Camero: https://en.wikipedia.org/wiki/C%C3%A1ndido_Camero
 - Sessiondays — 1971 Candido – Beautiful: https://www.sessiondays.com/2023/01/1971-candido-beautiful/
-- Discogs — Candido, *Beautiful* (1971 pressing): https://www.discogs.com/release/577147-Candido-Beautiful
+- Discogs — Candido, *Beautiful* (Master Release): https://www.discogs.com/master/166331-Candido-Beautiful
+- Discogs — Candido, *Beautiful* (1971 US pressing): https://www.discogs.com/release/577147-Candido-Beautiful
 - Discogs — Booker T. & The MG's, *Mo-Onions / Tic-Tac-Toe*: https://www.discogs.com/release/2916121-Booker-T-The-MGs-Mo-Onions-Tic-Tac-Toe
 - Sounds of the Universe / Soul Jazz reissue: https://soundsoftheuniverse.com/sjr/product/candido-beautiful-1970
 - DownBeat obituary: https://downbeat.com/news/detail/conga-master-candido-camero-dies-at-99

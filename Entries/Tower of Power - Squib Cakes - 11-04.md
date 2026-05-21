@@ -13,6 +13,7 @@ region: US - California
 listening mission: Squib Cakes" is slang the band invented to describe the shape of a woman's hips and the way she walks. Other than the chant "squib cakes," the song is an instrumental. Can you hear the shape and movement in the music?
 status: complete
 writing theme:
+song.now code: w5vl
 ---
 David Garibaldi was born on November 4, 1946. His drumming defines today’s track, Tower of Power’s "Squib Cakes." Among drummers, Garibaldi is a legend. His ghost-note layering, syncopation, and Latin-inflected funk became a masterclass that generations have studied. *Rolling Stone* ranked him #46 on its “100 Greatest Drummers of All Time” list, and *Modern Drummer* readers voted him the top R&B/Funk drummer six straight years from 1980 to 1985.
 

@@ -13,6 +13,7 @@ region: US - Texas
 listening mission: This is jazz-funk in a slower, sultry vein. Can you imagine Barry White vocals in place of the tenor sax melody?
 status: complete
 writing theme:
+song.now code: ll8a
 ---
 Today's song, "Lilies of the Nile," was composed by Wilton Felder, who plays tenor saxophone and electric bass on the track. Felder was born on August 31, 1940, and in the early 1970s, he was one of Motown’s West Coast first-call bass players.
 
