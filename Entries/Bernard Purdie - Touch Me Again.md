@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 01-09
+day:
 artist: Bernard Purdie
 track: Touch Me Again
 album: Lialeh (Original Movie Sound Track)

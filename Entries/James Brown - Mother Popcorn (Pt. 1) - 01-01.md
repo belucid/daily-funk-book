@@ -16,13 +16,13 @@ status: complete
 writing theme:
 song.now code: y02d
 ---
-There was never any question in my mind that this journey would begin with James Brown. Spoiler alert: it will end with him too, on New Year’s Eve. Everything in between is the branching tree that sprouted at the feet of the Godfather.
+There was never any question in my mind that this journey would begin with James Brown. Spoiler alert: it will end with him too, on New Year’s Eve. Everything in the year between is the branching funk tree that sprouted at the feet of the Godfather.
 
-Today’s song is “Mother Popcorn (Pt. 1).” The (Pt. 1) is there because in the 1960s and 1970s, Brown was recording long funk workouts, but the 45 rpm 7-inch single only held about 4 minutes per side. So the jam would get split across two sides, labeled Part 1 and Part 2.
+Today’s song is “Mother Popcorn (Pt. 1).” The Part 1 is there because Brown was recording long funk jams, but the 45 rpm 7-inch single only held about 4 minutes per side. The song would be split across two sides, labeled Part 1 and Part 2.
 
-During Brown’s commercial peak, funk albums gathered up recent singles for listeners who wanted a long-playing record. *It’s a Mother* leans into the Part 1 and Part 2 format, sequencing six of these split tracks back to back so the groove keeps rolling.
+During Brown’s commercial peak, funk albums gathered up recent singles for listeners who wanted a long-playing record. *It’s a Mother* leans into the Part 1 and Part 2 format, sequencing six of these split tracks back to back so the longer jams don't require a record flip.
 
-The song owes a lot to Brown's earlier hit, "Cold Sweat," but it has a busier, more rhythm-driven sound. When Brown uses "mother" in his lyrics, he's not referring to his absentee mother, who left him when he was four years old. It's a euphemism for a big booty.
+"Mother Popcorn" owes a lot to Brown's earlier hit, "Cold Sweat," but it has a busier, more rhythm-driven sound. When Brown uses "mother" in his lyrics, he's not referring to his absentee mother, who left him when he was four years old. It's a euphemism for a big booty.
 
 ---
 ## Research Notes

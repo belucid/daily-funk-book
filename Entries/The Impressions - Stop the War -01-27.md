@@ -11,16 +11,17 @@ genre:
   - Classic Funk
 region: US - Illinois
 listening mission: Why does the song dissolve into a spoken-word montage at the end? Can you imagine this ending without the influence of the Beatles?
-status: review
+status: complete
 writing theme:
+song.now code: 6enm
 ---
-Lead singer Curtis Mayfield left the Impressions in 1970 for a solo career, but he still wrote and produced today’s song, “Stop the War,” for his old group. *Times Have Changed* was the only Impressions album to feature Leroy Hutson as Mayfield’s replacement. Hutson stayed for just one album and tour before leaving for a solo career of his own.
+Lead singer Curtis Mayfield left the Impressions in 1970 to pursue a solo career, but he still wrote and produced today’s song, “Stop the War,” for his former group. *Times Have Changed* was the only Impressions album to feature Leroy Hutson as Mayfield’s replacement on lead vocals. Hutson stayed for just one album and tour before leaving to start his own solo career.
 
-But the lead voice here is not Mayfield or Hutson. It's Fred Cash. Cash was usually the Impressions’ harmonic anchor, but he stepped forward on a song that meant a lot to him.
+The lead vocalist on this song is neither Mayfield nor Hutson. It's Fred Cash. Cash was typically the Impressions’ vocal harmony anchor, but he took the lead on a song that meant a lot to him.
 
-This song did not end the war. No song did. Not even the collective force of all the anti-war music can claim that. But public anti-war sentiment helped push the United States toward the Paris Peace Accords, signed January 27, 1973, ending direct US involvement in Vietnam. The final American combat death before the ceasefire was Lt. Col. William B. Nolde, killed just 11 hours before the agreement took effect.
+This song did not end the war. No song did. But public anti-war sentiment helped push the United States toward the Paris Peace Accords, signed January 27, 1973, which marked the end of direct US involvement in Vietnam. The final American combat death before the ceasefire was Lt. Col. William B. Nolde, killed just 11 hours before the agreement took effect.
 
-The peace did not hold. Fighting resumed almost immediately, and the war continued until Saigon fell on April 30, 1975.
+The peace did not last. Fighting between Vietnamese forces resumed almost immediately, and the war continued until Saigon fell on April 30, 1975.
 
 ---
 ## Research Notes

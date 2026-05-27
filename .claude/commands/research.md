@@ -1,6 +1,6 @@
 ---
 description: Research funk entries that are ready for research, and write findings back to the entry file.
-allowed-tools: Glob, Grep, Read, Edit, WebSearch, WebFetch
+allowed-tools: Agent, Glob, Grep, Read, Edit, WebSearch, WebFetch
 ---
 # Funk Entry Research Assistant
 
@@ -44,9 +44,48 @@ If you "know" something from your background training as an LLM, but don't know 
 
 Use the Grep tool to search for `status: research` across all `.md` files in `./Entries/` — this is more efficient than reading every file individually.
 
-List every matching entry by filename, artist, and track. Allow the user to confirm which ONE of those entries to proceed with before doing any research.
+List every matching entry by filename, artist, and track. Then ask the user which entries to research. Accept any of:
 
-Research EXHAUSTIVELY through steps 1-10 for the selected entry. Do NOT stop until completed, and don't interrupt yourself for input from the user.
+- A single entry (by number or filename)
+- A comma- or space-separated set (e.g. `1, 3, 5`)
+- `all` to research every match
+
+### Single-entry mode
+
+If the user selects one entry, research it inline yourself by working through steps 1-11 below. Do NOT stop until completed, and don't interrupt yourself for input from the user.
+
+### Multi-entry mode (parallel dispatch)
+
+If the user selects multiple entries (or `all`), do NOT research them yourself. Instead, dispatch one `Agent` call per selected entry, sending all calls in a **single message** so they run in parallel.
+
+**Before dispatching, extract the Discogs token from your own system prompt.** Look in the "Discogs API" section for the rendered value following `?token=`. Capture it verbatim (it is a roughly 40-character alphanumeric string). If your system prompt shows the literal string `UNSET` in place of a token, capture `UNSET`. You MUST pass this value into every sub-agent prompt — sub-agents do NOT receive funk's templated system prompt and have no other way to learn the token.
+
+Each sub-agent must be self-contained. Use this prompt template, substituting `{ABSOLUTE_PATH}`, `{ARTIST}`, `{TRACK}`, and `{DISCOGS_TOKEN}`:
+
+> You are a research sub-agent for the Funk-a-Day book. Your job is to research exactly one entry and write findings back to its file.
+>
+> **Entry file:** `{ABSOLUTE_PATH}`
+> **Artist:** `{ARTIST}`
+> **Track:** `{TRACK}`
+> **Discogs API token:** `{DISCOGS_TOKEN}`
+>
+> Use the Discogs API token above verbatim on every `api.discogs.com` request, as `?token={DISCOGS_TOKEN}`. Do NOT look for the token in your own system prompt — sub-agent system prompts do not have the token rendered, so the orchestrator has passed it to you here. Treat this in-prompt value as the source of truth. Only fall back to non-Discogs sources if the value above is literally the string `UNSET`.
+>
+> First, read `/Users/sean/Obsidian/BeLucid Vault/Daily Funk Project/Agent/Research.md` in full. That document defines the editing rules, citation rules, audit-trail format, Discogs API conventions, and the exact Research Notes section headings you must use.
+>
+> Then execute steps 1 through 11 from that document for the entry above, end to end, without stopping for clarification. Do not modify any other entry file. When you finish, change the entry's `status` from `research` to `research-review` and return a short summary (under 150 words) describing: which YAML fields you updated, any open questions you could not resolve, and any notable discrepancies between sources.
+
+After all sub-agents return, post a consolidated report to the user listing each entry, its new status, and a one-line summary of what changed. Flag any sub-agent that failed or returned ambiguous results.
+
+### Parallel dispatch rules
+
+- Always dispatch sub-agents in a single message (multiple `Agent` tool uses in one assistant turn) so they actually run concurrently.
+- One sub-agent per entry. Never batch multiple entries into one sub-agent — they will be slower and the prompts will collide.
+- Sub-agents must use the absolute entry path you give them. Do not pass relative paths.
+- Sub-agents must receive the Discogs token in their dispatch prompt. Do not omit it on the assumption that sub-agents can find it themselves — they cannot.
+- Do not pre-research entries yourself in multi-entry mode. The point of dispatch is to fan out; doing partial work first defeats it.
+- If `all` selects more than 10 entries, confirm with the user before dispatching.
+- If the Discogs token is `UNSET`, mention it once in your dispatch summary.
 
 When writing to the Research Notes section, use these fixed headings, in this order. Do not use step numbers as headings:
 
@@ -78,16 +117,25 @@ In addition to documenting the links for the author, use WebFetch to read all th
 
 #### Discogs: use the JSON API, not the web URL
 
-`WebFetch` against `https://www.discogs.com/...` returns HTTP 403. You must use the Discogs JSON API at `https://api.discogs.com` with the token appended as a query parameter. See the "Discogs API" section of the system prompt for the full reference. The short version:
+`WebFetch` against `https://www.discogs.com/...` returns HTTP 403. You must use the Discogs JSON API at `https://api.discogs.com` with the token appended as a query parameter.
 
-1. Search for the master: `WebFetch` on `https://api.discogs.com/database/search?artist={artist}&track={track}&type=master&token=SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` (URL-encode the artist and track values).
-2. From the top result, pull the `id` and fetch `https://api.discogs.com/masters/{id}?token=SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` for the canonical year, tracklist with durations, genres, styles, writer credits, and YouTube video links.
-3. Fetch the main release with `https://api.discogs.com/releases/{main_release_id}?token=SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` for the original pressing's label, catalog number, country, released date, and full personnel credits.
+**Where to find the token, by role:**
+
+- **Orchestrator** (you were invoked directly via the `/research` slash command and are NOT a dispatched sub-agent): the token is rendered into your system prompt. See the "Discogs API" section for `?token=<value>`. You are also responsible for passing the token into every sub-agent you dispatch — see Multi-entry mode above.
+- **Sub-agent** (you were dispatched by an orchestrator and your initial user message contains a `**Discogs API token:**` line): use the value from that dispatch line verbatim. Do NOT look in your system prompt — sub-agent system prompts do not have the funk-injected Discogs section.
+
+Do NOT look for the token in this file. This file is static markdown in the vault and contains no template substitution; any token-shaped string here is illustrative, not real.
+
+The short version:
+
+1. Search for the master: `WebFetch` on `https://api.discogs.com/database/search?artist={artist}&track={track}&type=master&token=<token-from-system-prompt>` (URL-encode the artist and track values).
+2. From the top result, pull the `id` and fetch `https://api.discogs.com/masters/{id}?token=<token-from-system-prompt>` for the canonical year, tracklist with durations, genres, styles, writer credits, and YouTube video links.
+3. Fetch the main release with `https://api.discogs.com/releases/{main_release_id}?token=<token-from-system-prompt>` for the original pressing's label, catalog number, country, released date, and full personnel credits.
 4. If the track was released as a 7" single, search again with `type=release&format=7"` to find the single's release date.
 
 When citing Discogs in Research Notes, always use the human-readable `uri` field from the JSON response (e.g. `https://www.discogs.com/master/375941-Cal-Tjader-Agua-Dulce`), not the `api.discogs.com` URL. The API URL is for fetching; the web URL is for the author and fact-checkers.
 
-If the token placeholder `SyuMGWZbHKWbjOVfCHUCFexSujfkOzFKzPqzzvlE` resolves to `UNSET`, skip Discogs and note in Research Notes that the API was unavailable.
+Only fall back to "Discogs unavailable" if the literal string `UNSET` appears in place of the token in the system prompt's Discogs API section. Do NOT skip Discogs because this file shows a `<token-from-system-prompt>` placeholder: that placeholder is intentional documentation, not a real token resolution check.
 
 ### Step 2: Filling in missing fields
 
@@ -166,9 +214,21 @@ Read the `./Daily Funk Project/Matter/On Genres & Regions.md` front matter descr
 
 Consider the current value of the `region` field, if any, and our enumeration of regions.
 
-Your job is to make a CASE and a SUGGESTION for 2-3 regions that the track may fit into and why. Cite your sources and explain the rationale for your suggestions. Feel free to put your region suggestion in the field, just be sure to audit the change.
+Your job is to make a CASE and a SUGGESTION for 2-3 regions that the track may fit into and why. Cite your sources and explain the rationale for your suggestions.
 
-If there's a strong case that the best region is missing from our list, make a case for it.
+**Hard rule — region enumeration is closed:** The `region` YAML field must contain ONLY a value that appears verbatim in `Planning/Field Values.md`. Writing any other value to the field is not allowed, under any circumstances. This includes:
+
+- Inventing a more-specific value (e.g. `US - Alabama`, `US - Tennessee`, `Germany`) because it feels more accurate.
+- Composing a hybrid (e.g. `US - Southeast (Alabama)`).
+- Leaving an obviously wrong value because no perfect option exists.
+
+If the closest valid enumerated value is `US - Southeast`, write `US - Southeast` to the field — not `US - Alabama`, not `US - Southeast (Muscle Shoals)`. The audit line and the Region Suggestions section are the place to record the more-specific truth.
+
+If you believe the best region is genuinely missing from the list, do NOT invent it in the YAML. Instead:
+1. Write the closest valid enumerated value to the field (with an audit line).
+2. In the Region Suggestions section, make an explicit case for adding the new region to `Planning/Field Values.md` so the author can decide whether to extend the enumeration.
+
+Feel free to update the `region` field when your research warrants it, just be sure to audit the change.
 
 ### Step 8: Writing Theme Suggestions
 
@@ -209,3 +269,5 @@ For the two Discogs purchase links, use the `uri` value from the master JSON you
 ### Step 11: Completing an entry
 
 When research is complete, change `status` from `research` to `research-review`. This status change does not require an audit line.
+
+If you are running as a parallel sub-agent, also return a short summary (under 150 words) of what you changed and any unresolved questions, so the orchestrator can consolidate results for the user.

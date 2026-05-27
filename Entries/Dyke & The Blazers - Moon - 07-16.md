@@ -15,11 +15,11 @@ status: complete
 writing theme: Black America's perception of the moon landing
 song.now code: rlu5
 ---
-The Apollo 11 moon landing on July 16, 1969 may have been "one giant leap for mankind," but many Black Americans felt excluded from the accomplishment. They asked if the nation had the right priorities in pursuing the moon over problems here at home.
+The Apollo 11 moon landing on July 16, 1969 may have been "one giant leap for mankind," but many Black Americans felt excluded from the accomplishment. They asked if the nation had the right priorities in pursuing the moon over problems at home.
 
-Gil Scott-Heron’s spoken word poem set to music, "Whitey on the Moon" (1970), is the most famous Black musical response to the moon landing, and is a worthy listen if you've never heard it. Today's "Moon" is another musical response that emphasizes exclusion, and is considered one of Arlester "Dyke" Christian’s best tracks.
+Gil Scott-Heron’s spoken word poem set to music, "Whitey on the Moon" (1970), is the most famous Black musical response to the moon landing, and is a worthy listen if you've never heard it. Today's "Moon" is another musical response that emphasizes the feeling of exclusion, and it's considered one of Arlester "Dyke" Christian’s best tracks.
 
-"Moon" was not an obvious single, and Dyke's early death (see March 13) meant there was never a new album, so this was not released during Dyke’s lifetime. It first appeared on deep funk compilations nearly 40 years after it was recorded.
+"Moon" was not an obvious single, and Dyke's early death (see March 13) meant there was no new album, so the track was not released during Dyke’s lifetime. It first appeared on deep funk compilations nearly 40 years after it was recorded.
 
 ---
 ## Research Notes

@@ -19,9 +19,9 @@ The founding members of the Swingsters met in 1954 at Phillis Wheatley High Scho
 
 Today’s song, “Georgia Cottonfield,” does not sound like 1950s and 1960s hard bop. It has electric piano, a funk guitar, and Joe Sample’s Houston blues reframed as jazz-funk. The track opens the album with a strong statement of the band’s new, more commercial direction.
 
-Staying power can be a curse. Fans of the Jazz Crusaders’ traditional sound were not pleased with the shift into jazz-funk, and then some 1970s fans felt the same whiplash when the band chased disco and smoother fusion in the late 1970s and into the 1980s.
+Staying power can be a curse. Fans of the Jazz Crusaders’ earlier sound were not pleased with the shift into jazz-funk, and then the jazz-funk fans felt it too when the band chased disco and smoother fusion into the 1980s.
 
-I have my biases toward jazz-funk, but for my money, the Blue Thumb albums from 1972 to 1977 are the ones to seek out.
+I have my biases toward jazz-funk, but for my money, the Crusader's Blue Thumb albums from 1972 to 1977 are the ones to seek out.
 
 ---
 ## Research Notes

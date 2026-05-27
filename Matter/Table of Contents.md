@@ -4,7 +4,7 @@ Introduction
 	On Funk
 	On Selections
 	On Listening Missions
-	On Genres
+	On Subgenres
 	On What's Missing
 	On Regions
 January

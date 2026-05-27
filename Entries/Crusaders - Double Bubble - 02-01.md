@@ -10,11 +10,16 @@ track length: 2m 44s
 genre:
   - Jazz-Funk
 region: US - Texas
-listening mission:
-status: research-review
+listening mission: "Listen for how the song spotlights each player: drums, bass, keys, and horns. How does it fit so many moments into such a compact space without anyone stepping on anyone else?"
+status: complete
 writing theme:
+song.now code: 1rma
 ---
-02-01 — Joe Sample's birthday. The composer of "Double Bubble" was born February 1, 1939. Honors the writer. 
+Joe Sample, composer of today’s “Double Bubble,” was born February 1, 1939. Sample was the Crusaders’ keyboardist and primary writer, and this track is a compact example of his impeccable sense of groove.
+
+You will hear a couple more tracks from the Crusaders' *Southern Comfort* album this year, and for good reason. It's a perfect example of jazz-funk at its 1974 commercial peak, before disco and smoother jazz fusion took over later in the decade. The Jazz Crusaders changed both their sound and their name to meet the demand for something funkier.
+
+What sets “Double Bubble” apart from the rest of the album is its short length. At 2m 44s, it's the shortest cut on a 63-minute, 12-track double LP, where tunes like “Whispering Pines” and “Lilies of the Nile” stretch past eight minutes. The limited room for soloing or extended improvisation in a three-minute groove is exactly what bothered some jazz purists. The Crusaders didn't seem to care. I hear “Double Bubble” as their statement that the groove is the end, not the means.
 
 ---
 ## Research Notes

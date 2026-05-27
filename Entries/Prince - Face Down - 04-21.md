@@ -18,11 +18,11 @@ song.now code: p4vw
 ---
 Let's stick with Prince again today. He's always a funky choice.
 
-In 1995, Prince showed NPG keyboardist Morris Hayes a scathing review of their album, *The Gold Experience*. In an attempt to cheer Prince up, Hayes launched into a tirade with a few choice lines. Two days later, Prince handed him a finished song built from Hayes' words. That song was today’s track, “Face Down.” Prince was always listening. He filtered his life through a musical lens, and in this case he turned a friend’s venting into new music.
+In 1995, Prince showed NPG keyboardist Morris Hayes a scathing review of their album, *The Gold Experience*. In an attempt to cheer Prince up, Hayes launched into a tirade with a few choice lines. Two days later, Prince handed Hayes a finished song built from his angry words. That song was today’s track, “Face Down.” Prince was always listening. He filtered his life through a musical lens, and in this case he turned a friend’s venting into new music.
 
 This song is as close as Prince gets to rapping. He’s not quite rapping, but he’s not singing either. "Face Down" plays like a gangsta rap parody run through a funk filter. Prince is having fun, skewering his critics, and amusing his friend. And it still grooves hard.
 
-Prince died on April 21, 2016. In the song he jokes about being buried face down so critics can kiss his ass. In fact, there was no such burial orientation decision to make. He was cremated, and his ashes are kept at Paisley Park in a custom urn modeled after the building.
+Prince died of an overdose on April 21, 2016. In the song he jokes about being buried face down so critics can kiss his ass. In fact, there was no such burial orientation decision to make. He was cremated, and his ashes are kept at Paisley Park in a custom urn modeled after the building.
 
 ---
 ## Research Notes

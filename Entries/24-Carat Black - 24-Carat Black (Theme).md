@@ -14,14 +14,15 @@ region:
 listening mission: “24-Carat Black (Theme)” is the most commercial track on the record, but at seven minutes it was never going to get much radio play. Where would you cut it to make a four-minute single?
 status: complete
 writing theme:
+song.now code: 2sqe
 ---
-Zach Schonfeld, who wrote a book about *Ghetto: Misfortune’s Wealth*, called it "an album that nobody has heard _of_, but everybody has heard." Released on Stax’s Enterprise subsidiary in late 1973, *Ghetto* arrived as Stax’s distribution deal with CBS unraveled and the label was sliding toward bankruptcy. The album sold poorly, and even though 24-Carat Black toured into 1975, the band had little label support and worse finances. The final blow came when most of the group spent time in jail over an unpaid hotel bill.
+Zach Schonfeld wrote a book about *Ghetto: Misfortune’s Wealth* and called it "an album that nobody has heard _of_, but everybody has heard." Released on Stax’s Enterprise subsidiary in late 1973, *Ghetto* arrived as Stax was sliding toward bankruptcy. The album sold poorly, and the band had little label support and worse finances. The final blow came when most of the group spent time in jail over an unpaid hotel bill.
 
-The label’s troubles weren't the only thing working against the record. *Ghetto* was a funk opera about the problems of Black poverty, written by Dale Warren, a conservatory-trained violinist and Motown string arranger who had orchestrated Isaac Hayes’ *Hot Buttered Soul*. He envisioned a funky answer to the era's rock operas, and he recruited teenagers from the Cincinnati area to help bring it to life. The result was a new band with a staged theatrical production and a 57-minute concept album. Warren refused to trim the long tracks for radio, leaving stations with a jarring mix of singing, spoken word, string orchestration, and funk that didn't fit anywhere.
+The label’s troubles weren't the only thing working against the record. *Ghetto* was a funk opera about the problems of Black poverty, written by Dale Warren, a conservatory-trained violinist and Motown string arranger. He envisioned a funky answer to the era's rock operas, and he recruited teenagers from the Cincinnati area to help bring it to life. The result was a 57-minute concept album, and Warren refused to trim the long tracks for radio, leaving stations with a jarring mix of singing, spoken word, string orchestration, and funk that didn't fit.
 
 The album's obscurity made it irresistible to hip-hop producers tired of sampling familiar funk records. Jay-Z, Nas, Dr. Dre, Naughty by Nature, Pusha-T, Kendrick Lamar, and others found fresh material in *Ghetto*, turning a commercial failure into hip-hop gold.
 
-Today’s song, "24-Carat Black (Theme)," closes the album as if it's playing over the end credits of the stage production. After the narration, orchestration, and heavy themes, the finale strips things down to a lean jazz-funk groove.
+Today’s song, "24-Carat Black (Theme)," closes the album. After the narration, orchestration, and heavy topics, the finale strips things down to a lean jazz-funk groove.
 
 ---
 ## Research Notes

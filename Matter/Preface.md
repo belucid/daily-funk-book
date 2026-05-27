@@ -4,10 +4,10 @@ A great funk track can turn a single chord into a whole world. It can leave you 
 
 That is why funk deserves more than a greatest-hits skim. It deserves time and repeated encounters. It deserves the kind of listening that lets your ear focus in over the course of a year.
 
-This book gives you one song a day because funk is a feel, and it's best understood through accumulation. One song can introduce an artist. Ten songs can reveal a scene. A hundred songs can show you how an idea travels from New Orleans to Detroit, from Lagos to Los Angeles, from gospel churches to jazz clubs, from 45 rpm singles to hip-hop samples. Over a year, you come to know funk when you hear it, and that's the only way it can be known.
+This book gives you one song a day because funk is a feel, and it's best understood through accumulation. One song can introduce an artist. Ten songs can reveal a scene. A hundred songs can show you how an idea travels from New Orleans to Detroit, from Lagos to Los Angeles, from gospel churches to jazz clubs, from 45 rpm singles to hip-hop samples. Over a year, you'll start to know funk when you hear it, and that's the only way it can be known.
 
 The daily format also keeps the exploration light and easy. You don't need to know every band, player, label, studio, and subgenre before you begin. You only need one song a day, and a few minutes of attention.
 
-Funk will reward your attention. The more you listen, the more you'll hear. You'll begin to hear how the drums and bass lock into a unit. You'll hear how a guitar can act as percussion. You'll hear singers shouting, grunting, whispering, and testifying, not just to deliver lyrics, but to help build the groove.
+Funk will reward that attention. The more you listen, the more you'll hear. You'll begin to hear how the drums and bass lock into a unit. You'll hear how a guitar can act as percussion. You'll hear singers shouting, grunting, whispering, and testifying, not to deliver lyrics, but to help build the groove.
 
 And eventually, you’ll start hearing the legacy of funk everywhere: in disco, hip-hop, R&B, pop, rock, jazz, house, and records that would never call themselves funk. You’ll hear it in the break, the loop, the vamp, the pocket, and the one. By the end of the year, you’ll have developed a new sense: a sense of funk.

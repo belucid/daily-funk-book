@@ -11,7 +11,7 @@ genre:
   - Psychedelic Funk
 region:
   - US - Texas
-listening mission: Khruangbin first cut this in 2015 as “People Everywhere (Still Alive)” at 2m 39s. How does this longer version change its impact?
+listening mission: Khruangbin first cut this in 2015 as “People Everywhere (Still Alive)” at 2m 39s. Listen to the short version first, then notice what the 8m version adds. Does the extra time deepen the impact, or dilute it?
 status: complete
 writing theme:
 song.now code: 3sno

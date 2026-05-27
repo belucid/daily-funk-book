@@ -11,16 +11,17 @@ genre:
   - Classic Funk
 region: US - Southeast
 listening mission: In this era, gospel groups were using funky sounds in praise of the Lord. Listen to how the Commodores borrow the words and sounds of gospel to make secular funk.
-status: review
+status: complete
 writing theme:
+song.now code: 1wpg
 ---
- *Machine Gun* was the Commodores’ debut album, released on July 22, 1974. Unlike the ballad-heavy LPs that later made them famous, with songs like “Easy” and “Three Times a Lady,” it's a wall-to-wall funk record. Today’s song, “I Feel Sanctified,” captures the band at their funkiest, before the Lionel Richie ballads took over.
+ *Machine Gun*, the Commodores’ debut album, was released on July 22, 1974. Unlike the ballad-heavy LPs that would later make them famous, with songs like “Easy” and “Three Times a Lady,” it's a wall-to-wall funk record. Today’s song, “I Feel Sanctified,” captures the band at their funkiest, before Lionel Richie's ballads took over.
 
-The all-white funk band Wild Cherry covered “I Feel Sanctified” two years later, planning to release it as the A-side of a single. For the flip side, they included a quick throwaway tune called “Play That Funky Music.” The label flipped when they heard the B-side and released "Play That Funky Music" as a single instead. It became a monster hit, reaching #1 on the *Billboard* Hot 100.
+Wild Cherry, an all-white funk band, covered “I Feel Sanctified” two years later, planning to release it as a single. For the flip side, they included a quick throwaway tune called “Play That Funky Music.” The label flipped when they heard the B-side and released "Play That Funky Music" instead. The song became a monster hit, reaching #1 on the *Billboard* Hot 100.
 
-Wild Cherry released their “I Feel Sanctified” cover in 1977, but it failed to chart. Nothing they did before or since "Play That Funky Music" had much commercial success, and they became funk's quintessential one-hit wonder.
+Wild Cherry released their “I Feel Sanctified” cover in 1977, but it failed to chart. Nothing they did before or since "Play That Funky Music" had much commercial success, cementing their status as funk's quintessential one-hit wonder.
 
- ---
+---
 ## Research Notes
 
 **[AUDIT]** `2026-05-05 12:00` — `label` changed from `(empty)` to `Motown` — Source: https://en.wikipedia.org/wiki/Machine_Gun_(Commodores_album)

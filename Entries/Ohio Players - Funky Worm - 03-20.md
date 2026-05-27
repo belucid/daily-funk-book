@@ -19,7 +19,7 @@ In today’s song, Granny describes a “Funky Worm” who plays the guitar with
 
 That “guitar” is actually an ARP Soloist synthesizer. Walter “Junie” Morrison spotted the newly released synth in a New York music shop and used it to create the riff you hear as the worm’s part. Morrison is also the voice of Granny, and his twisted sense of funky humor was influential when he later joined George Clinton’s Parliament-Funkadelic in 1977 and helped shape the P-Funk sound.
 
-In 2023, paleontologists paid the song a perfect tribute by naming a 220-million-year-old fossil *Funcusvermis gilmorei*, literally “funky worm,” after the track they kept playing while collecting the fossils.
+In 2023, paleontologists paid the song a perfect tribute by naming a 220-million-year-old fossil *Funcusvermis gilmorei*, literally “funky worm,” after the track they looped while collecting the fossils.
 
 ---
 ## Research Notes

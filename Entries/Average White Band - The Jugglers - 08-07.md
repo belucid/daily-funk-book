@@ -10,7 +10,7 @@ track length: 5m 13s
 genre:
   - Classic Funk
 region: UK
-listening mission: This is a live recording from a 2015 concert at One World Theatre in Austin, TX. What clues tell you its live?
+listening mission: This is a live recording from a 2015 concert at One World Theatre in Austin, TX. What clues tell you it's live?
 status: complete
 writing theme:
 song.now code: hwrw

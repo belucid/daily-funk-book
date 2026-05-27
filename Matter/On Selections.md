@@ -1,17 +1,17 @@
-I intentionally avoided the biggest, most unavoidable funk hits. Not because they are not incredible, but because most readers already know them. This book is meant to be a daily journey of discovery, not a greatest-hits playlist.
+I intentionally avoided the biggest, most unavoidable funk hits, the songs that crossed over into pop culture at large. Not because they are not incredible. They are. But most readers already know them, and this book is meant to be a daily journey of discovery, not a greatest-hits playlist.
 
-Here is an illustrative, though not exhaustive, list of the kind of mega-hits I mean:
+Here is an illustrative, though not exhaustive, list of the kind of mega-hits I will *not* be including:
 
 - "Cold Sweat", James Brown (1967)
 - "Everyday People", Sly Stone (1968)
 - "Thank You (Falettinme Be Mice Elf Again)", Sly & the Family Stone (1969)
--  "Get Up (I Feel Like Being a) Sex Machine", James Brown (1970)
+- "Get Up (I Feel Like Being a) Sex Machine", James Brown (1970)
 - "War", Edwin Starr (1970)
 - "Theme from Shaft", Isaac Hayes (1971)
 - "Superfly", Curtis Mayfield (1972)
 - "Superstition", Stevie Wonder (1972)
 - "Jungle Boogie", Kool & The Gang (1973)
-- “Do It (Till You’re Satisfied)” B.T. Express (1974)
+- "Do It (Till You’re Satisfied)" B.T. Express (1974)
 - "Pick Up the Pieces", Average White Band (1974)
 - "Lady Marmalade", Labelle (1974)
 - "Tell Me Something Good", Chaka Khan & Rufus (1974)
@@ -21,7 +21,7 @@ Here is an illustrative, though not exhaustive, list of the kind of mega-hits I 
 - "Low Rider", War (1975)
 - "Play That Funky Music", Wild Cherry (1976)
 - "Brick House", Commodores (1977)
-- “Car Wash”, Rose Royce (1977)
+- "Car Wash", Rose Royce (1977)
 - "Flash Light", Parliament (1978)
 - "September", Earth, Wind & Fire (1978)
 - "Le Freak", Chic (1978)
@@ -31,6 +31,6 @@ Here is an illustrative, though not exhaustive, list of the kind of mega-hits I 
 - "Kiss", Prince (1986)
 - "Sign 'O' the Times", Prince (1987)
 
-These are amazing songs. If you're not familiar with any of them, go listen immediately. I just assume most people, no matter when they were born, already know at least the chorus of the songs in this platinum tier of funk history.
+These are amazing songs. If you are unfamiliar with any of them, go listen immediately. I just assume most people, no matter when they were born, already know at least the chorus of the songs in this top-shelf tier of funk history.
 
 Rather than cement a cartoonish view of what funk is, I want this book to open your ears to the variety and depth the genre offers once you peek beyond the obvious hits.

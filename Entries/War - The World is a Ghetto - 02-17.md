@@ -11,14 +11,15 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: Focus on Charles Miller’s saxophone entering at 3m 40s. Notice how it comes in quietly and patiently, then builds into a plaintive wail before dropping out after 6m 30s.
-status: review
+status: complete
 writing theme:
+song.now code: btsn
 ---
-Per drummer Harold Brown, the idea for today’s song, “The World Is a Ghetto,” came when the band realized that poverty was not confined to literal ghettos. Even the wealthiest enclaves carry their own kind of isolation. Percussionist Papa Dee Allen wrote the resulting song as an argument for unity, not as a complaint from an underclass. It was a powerful message in 1973, and it resonates even more today.
+Per drummer Harold Brown, the idea for today’s song, “The World Is a Ghetto,” came when the band realized that poverty wasn't confined to literal ghettos. Wealthy enclaves, too, harbor their own kind of impoverished isolation. Percussionist Papa Dee Allen wrote the song as a call for unity, not a complaint from the underclass. The message was powerful in 1973, and it still resonates today.
 
-War’s *The World Is a Ghetto* outsold Stevie Wonder’s *Talking Book*, Carly Simon’s *No Secrets*, Seals & Crofts’ *Summer Breeze*, and every other album on *Billboard’s* 1973 year-end chart. The album reached #1 on February 17, 1973, despite the title track being a slow, mournful, ten-minute groove. It was cut down to four minutes for the radio single, but the somber tone remained. The single peaked at #7 on the Billboard Hot 100 and #3 on the Hot R&B Songs chart.
+War’s *The World Is a Ghetto* outsold Stevie Wonder’s *Talking Book*, Carly Simon’s *No Secrets*, Seals & Crofts’ *Summer Breeze*, and every other album on the 1973 *Billboard* year-end chart. The album reached #1 on February 17, 1973, despite its title track being a slow, mournful ten-minute groove. The radio single was cut down to four minutes, but the somber tone remained. The single peaked at #7 on the *Billboard* Hot 100 and #3 on the Hot R&B Songs chart.
 
-*Rolling Stone* later ranked the album #444 on the 500 Greatest Albums list.
+The album’s reputation only grew. *Rolling Stone* ranked it #444 on its 500 Greatest Albums list.
 
 ---
 ## Research Notes

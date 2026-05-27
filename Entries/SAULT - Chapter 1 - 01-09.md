@@ -11,19 +11,17 @@ genre:
   - Nu-Funk
 region: UK
 listening mission: "On the surface, this sounds like playground trash talk: “You’re just a loser, and hate that I’m a winner.” Listen past the taunt. Is the song really about ego, or is it about something else?"
-status: review
+status: complete
 writing theme:
+song.now code: b73k
 ---
-The album *Chapter 1* was released without warning on January 9, 2026. This is SAULT's signature move. Mystery.
+The album *Chapter 1* dropped without warning on January 9, 2026. Mystery is SAULT's hallmark. Despite the title, *Chapter 1* is not their debut. It's their thirteenth album in roughly seven years. Their first album in 2019 was actually called *5*. *7* followed *5*. *9* was their fifth album. *11* arrived in 2022, and *10* in 2025. Confused yet?
 
-Despite the title, *Chapter 1* is not their debut. It's their thirteenth album in roughly seven years. 
-Their first album in 2019 was actually called *5*. The album *7* followed *5*, and *9* was their fifth album. *11* was released in 2022 and *10* in 2025. Confused yet?
+The mystery is not limited to release dates and album titles. SAULT is a London-based collective that rarely shows its face and doesn't do interviews. At their first live show, a masked performance in December 2023, they revealed that SAULT stands for “Start A Universal Love Trend.”
 
-The mystery extends beyond when they release their music and what they call it. SAULT is a London-based collective that rarely shows its face, does not do interviews, and drops albums without warning. At their first live show, a masked performance at Drumsheds in London in December 2023, they revealed that SAULT stands for “Start A Universal Love Trend.” Does it really though, or is that a backronym? We are unlikely to find out anytime soon.
+SAULT’s membership shifts with each album. Producer Inflo is the most constant presence, with Cleo Sol the singer most closely tied to the group’s sound. *Chapter 1* also features Jack Peñate and contributions from Jimmy Jam and Terry Lewis, because even a mystery collective has room for Minneapolis sound royalty.
 
-It is generally assumed that SAULT’s membership shifts from album to album. The most consistent figure across the project has been producer Inflo, with Cleo Sol as the singer most closely associated with the group’s sound. *Chapter 1* also features Jack Peñate and contributions from Jimmy Jam and Terry Lewis, because apparently even the mystery collective has room for Minneapolis sound royalty.
-
-More recent SAULT albums, including Chapter 1, lean heavily into spiritual language and gospel feeling. But today’s track, "Chapter 1," is almost entirely secular. It is deeply funky, built around a killer bassline, infectious chanted vocals, and the kind of drumming that deserves a hat tip to whoever is behind the kit.
+Recent SAULT albums, including *Chapter 1*, rely on spiritual language and gospel feeling. But today’s track, "Chapter 1," is not a sermon. It's built around a killer bassline, infectious chanted vocals, and drumming that deserves a hat tip to whoever is behind the drum kit.
 
 ---
 ## Research Notes

@@ -15,15 +15,14 @@ status: complete
 writing theme:
 song.now code: 6ktd
 ---
-
----
-## Research Notes
-
 Lenny Kravitz and Saul Hudson, better known as Slash from Guns N' Roses, attended Beverly Hills High School together in the early 1980s. Friends in school, they built separate careers in the music industry and lost touch until a chance encounter at the 1990 American Music Awards. A couple months later, the old friends were on a train from New York to a studio in Hoboken, New Jersey. They brought two guitars, a gallon of vodka, and a plan to make a record together.
 
 The resulting album, *Mama Said*, was released in 1991 and sold over 3 million copies worldwide. The intro to the lead single, "Always on the Run," is built around an existing guitar riff by Slash that hadn't found a place in any Guns N' Roses songs. Kravitz brought the funk to match Slash's rock, playing the drums, bass, and keyboards on the song. The horns were by Earth, Wind & Fire's horn section.
 
 You probably know the mother behind all the 'my mama said...' lines in the song. The lyrics recount the maternal wisdom of Kravitz's mother, Roxie Roker. She was an actress who played Helen Willis on *The Jeffersons*. Roker died of breast cancer on December 2, 1995, four years after the song's release.
+
+---
+## Research Notes
 
 ### Open Research Questions
 
