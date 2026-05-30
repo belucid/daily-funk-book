@@ -15,7 +15,7 @@ status: complete
 writing theme:
 song.now code: 6zoi
 ---
-“Amen, Brother” is a funky instrumental built around the gospel song “Amen,” popularized by Jester Hairston’s arrangement for the 1963 Sidney Poitier film *Lilies of the Field*. The Wintons' song is also the most sampled recording in history, with over 7,500 verified samples, thanks to a seven-second drum break that became known as the Amen break.
+“Amen, Brother” is a funky instrumental built around the gospel song “Amen,” popularized by Jester Hairston’s arrangement for the 1963 Sidney Poitier film *Lilies of the Field*. The Winstons' song is also the most sampled recording in history, with over 7,500 verified samples, thanks to a seven-second drum break that became known as the Amen break.
 
 The Winstons were a multiracial sextet from Washington, D.C. that formed from the core of Otis Redding's and Curtis Mayfield's touring bands. Their A-side, “Color Him Father,” was a hit, reaching #7 on the Hot 100, winning the Grammy for Best R&B Song, and going gold. The unheralded B-side, “Amen, Brother,” was reportedly knocked out in 20 minutes, yet contained seven seconds that rewired hip-hop.
 

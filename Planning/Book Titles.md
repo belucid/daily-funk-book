@@ -1,6 +1,6 @@
 **Working Title:**
 
-Funky Medicine: 365 Daily Doses of Funk Music
+Funky Medicine: 365 Daily Doses of Funk
 
 **Alternatives:**
 

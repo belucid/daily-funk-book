@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-29
 artist: Odetta
 track: Hit or Miss
 album: Odetta Sings
@@ -8,11 +8,18 @@ label: Polydor
 year: 1970
 track length: 2m 52s
 genre:
+  - Deep Funk
 region:
-listening mission:
-status: research-review
+  - US - Southeast
+listening mission: "Listen to the first twenty seconds: drums alone, then drums and bass. That’s what DJs built tracks around, and that's a shame because so much of the vocal is funky too. If you were sampling vocals from this track, what would you grab?"
+status: complete
 writing theme:
 ---
+Odetta is folk royalty. Martin Luther King Jr. referred to her as the "Queen of American Folk Music," and Bob Dylan said she "turned me on to folk singing." *Odetta Sings* is primarily covers of songs by McCartney, Jagger/Richards, Randy Newman, Elton John, and James Taylor. But the two strongest tracks are the two Odetta wrote herself. Today’s "Hit or Miss" and "Movin' It On" were recorded at Muscle Shoals Sound Studio in 1970.
+
+The album flopped. Polydor was unable to market a folk icon as a soul crossover act. This did not stop the later rediscovery of "Hit or Miss," the funkiest three minutes of Odetta’s career. The opening drum break has been sampled more than thirty times.
+
+Odetta Gordon received the National Medal of Arts from President Clinton on September 29, 1999, and was named a Library of Congress "Living Legend" in 2003. She performed her final concert at San Francisco's Hardly Strictly Bluegrass Festival in October 2008, and died of heart disease a couple of months later.
 
 ---
 ## Research Notes
@@ -23,6 +30,10 @@ writing theme:
 **[AUDIT]** `2026-05-23 12:00` — `track length` changed from `(empty)` to `2m 52s` — Source: https://en.wikipedia.org/wiki/Odetta_Sings
 
 ### Open Research Questions
+
+2003, decisively — and you should change the entry from 2005 to 2003.
+The reason this one is clear-cut is that the Library of Congress's own records settle it. Their Information Bulletin reported that Librarian James Billington bestowed the Living Legend Award on Odetta on November 13, 2003, the night of her concert in the Library's Coolidge Auditorium, and the Library's press release announcing that concert and award is a 2003 item. There's even a Library of Congress video of an interview with Odetta about the award dated November 2003.
+The 2005 date only shows up in secondary sources like Folk Alley and IMDb, which appear to have it wrong. When the awarding institution and contemporaneous reporting both say 2003, that beats third-party recountings. So: "named a Library of Congress 'Living Legend' in 2003."
 
 No `open:` items were present in the entry at the time of research.
 

@@ -11,7 +11,7 @@ genre:
   - Latin Funk
 region:
   - US - California
-listening mission: Tjader doubles the length of yesterday's track and adds synthesizer and Latin percussion. Is there a point where it stops being a cover and become something new?
+listening mission: Tjader doubles the length of yesterday's track and adds synthesizer and Latin percussion. Is there a point where it stops being a cover and becomes something new?
 status: complete
 writing theme: The Swedish-American king of Latin funk
 song.now code: eppe

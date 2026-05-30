@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 06-07
 artist: Pearl Farano & the High Lites of Joy
 track: Who's Your Boss
 album:
@@ -10,10 +10,13 @@ track length: 2m 53s
 genre:
   - Gospel Funk
 region: US - Northeast
-listening mission:
-status: research-review
+listening mission: Listen to how the different vocalists interact. Gospel leans on call-and-response, but this track blends in plenty of R&B. When do the background vocals answer the lead's call, and when do they do their own thing?
+status: review
 writing theme:
 ---
+Pearl Farano was born Pearl Reaves on June 7, 1929, in Raleigh, North Carolina. She moved to New Jersey in 1949 and married drummer Paul Farano. After she won five straight weeks of amateur night, he hired her to sing at his Palace Blue Room club. The couple later moved to Dorchester, Massachusetts, where they were living in 1982 when today’s song, “Who’s Your Boss,” was recorded.
+
+“Who’s Your Boss” was Farano’s final commercial release before she left the stage to preach full-time at Mount Olive Temple of Christ in Dorchester. The single’s A-side is “Use Me Lord,” a straight gospel number. “Who’s Your Boss” is the funky B-side, the kind of cut gospel acts sometimes recorded as filler, a throwaway until crate-diggers rediscover it. The title plays like a workplace question, but the answer is that Jesus is your boss. It's a gospel sermon set to a funk groove.
 
 ---
 ## Research Notes

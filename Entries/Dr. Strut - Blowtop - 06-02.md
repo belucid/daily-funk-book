@@ -15,7 +15,7 @@ listening mission: Does this feel like a live band playing together in a room, o
 status: review
 writing theme:
 ---
-Most of Dr. Strut’s debut album, released June 2, 1979, was cut in just one or two takes with minimal overdubbing, rare for an LA jazz-fusion session in 1979. “Blowtop” captures what the band was chasing: quick punch out of the gate, then restless energy as the groove shifts around.
+Most of Dr. Strut’s debut album, released June 2, 1979, was cut in just one or two takes with minimal overdubbing, rare for an LA jazz-fusion session in 1979. “Blowtop” captures what the band was chasing: a quick punch out of the gate, then restless energy as the groove shifts around.
  
 Dr. Strut originally formed as the Legendary Dynamic Groovadelics, but thankfully Motown head Berry Gordy rechristened them Dr. Strut when he signed them to the label’s new jazz division. Gordy shut that division down two years later, leaving the band to find a Japanese label for their third record. They were big in Japan.
 

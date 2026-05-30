@@ -17,7 +17,7 @@ song.now code: hxvz
 ---
 OK, things are about to get a bit weird. Bear with me. The juice is worth the squeeze.
 
-At eighteen minutes, today's track "Blue (A Folk Tale)" takes up the entire first side of *Harlem Bush Music - Uru*. Not all of it is funky, and that is the point. If you keep an open mind and stay with it, you will hit a stretch that might be one of the best free funk passages ever put on tape. As a bonus, there is country blues, free jazz, and modern blues living inside the same long arc.
+At eighteen minutes, today's track "Blue (A Folk Tale)" takes up the entire first side of *Harlem Bush Music - Uhuru*. Not all of it is funky, and that is the point. If you keep an open mind and stay with it, you will hit a stretch that might be one of the best free funk passages ever put on tape. As a bonus, there is country blues, free jazz, and modern blues living inside the same long arc.
 
 Bartz dedicated the album to civil rights activist Malcolm X, assassinated on February 21, 1965. Bartz said he used to see Malcolm regularly in Harlem, especially at the Shabazz Restaurant, where Malcolm would stop after working at the *Muhammad Speaks* newspaper office. He also saw him at Louis Michaux's bookstore, where Malcolm would discuss Black history and politics.
 

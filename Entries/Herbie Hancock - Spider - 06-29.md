@@ -11,14 +11,14 @@ genre:
   - Jazz-Funk
 region: US - California
 listening mission: '"Spider" has the cinematic feel of mid-70s soundtrack funk. As you listen, picture the opening scene of a blaxploitation film. Who is your protagonist, and what are they up to?'
-status: review
+status: complete
 writing theme:
 ---
-"Spider" is the final track on side one of Herbie Hancock’s 1976 album *Secrets*. The next year, Columbia released it as a 7-inch single with "Maiden Voyage" on the B-side, but the single was not the album version. It used a 10-minute live take from *V.S.O.P. (Live)*, recorded at the Newport Jazz Festival in New York on June 29, 1976.
+"Spider" closes side one of Herbie Hancock’s 1976 album *Secrets*. The following year, Columbia released it as a 7-inch single with "Maiden Voyage" on the B-side, but this single was not the album version. Instead, it used a 10-minute live take from *V.S.O.P. (Live)*, recorded at the Newport Jazz Festival on June 29, 1976.
 
-The ever-changing Hancock created the V.S.O.P. concept in 1976 as a challenge to himself and his audience. V.S.O.P. stood for Very Special One-time Performance, and the idea was to put the major eras of Hancock's career on one bill.
+Hancock created V.S.O.P. in 1976 as a challenge to himself and his audience. V.S.O.P. stood for Very Special One-time Performance, and the concept was to feature the major eras of Hancock's career on one bill.
 
-In those concerts, Hancock played acoustic piano on Miles Davis material with the V.S.O.P. Quintet, essentially the mid-1960s Miles Davis Quintet with Freddie Hubbard standing in for Miles on trumpet. He played electric synths on avant-garde jazz with his Mwandishi sextet. Then he played jazz-funk tunes like "Spider" with the Headhunters.
+In these concerts, Hancock played acoustic piano on Miles Davis material with the V.S.O.P. Quintet, essentially the mid-1960s Miles Davis Quintet with Freddie Hubbard on trumpet. He played electric synths on avant-garde jazz with his Mwandishi sextet, and jazz-funk tunes like "Spider" with the Headhunters.
 
 For extra credit, also listen to the version of "Spider" on *V.S.O.P. (Live)*. What does Hancock do with the extra three minutes, and which version do you prefer?
 

@@ -11,17 +11,17 @@ genre:
   - Classic Funk
 region:
   - US - Southeast
-listening mission: Listen to the verbal interplay between Brown and the band. Jazz groups had been doing this for decades with nonverbal cues, but how much more fun is it to hear Brown MC the whole thing as he gets to know his new band?
-status: review
+listening mission: Listen to the verbal interplay between Brown and the band. Jazz groups had been doing this for decades with nonverbal cues, but notice how fun is it to hear Brown MC the whole thing as he gets to know his new band.
+status: complete
 writing theme: James Brown's relation to the band, and drugs
 ---
-You have a few options with today’s song, James Brown’s “Escape-ism.” You can start with the 3m 19s “(Pt. 1),” the A-side of the 1971 single. You can continue to “(Pt. 2)” for another 4m 10s. But to really hear how Brown drove his band through a one-chord vamp, go for the 19m 10s “complete take.”
+You have options for how to hear today’s song, James Brown’s “Escape-ism.” You can start with the 3m 19s “(Pt. 1),” the A-side of the 1971 single. You can continue to “(Pt. 2)” for another 4m 10s. But to really hear how Brown drove his band, go for the 19m 10s “complete take.”
 
-Just weeks before this April 8, 1971 session at King Studios in Cincinnati, brothers William “Bootsy” Collins on bass and Phelps “Catfish” Collins on guitar quit Brown’s band. They left for the more drug-friendly world of George Clinton’s Parliament-Funkadelic, and Bootsy later said Brown’s disapproval of their drug use was a major reason for the split.
+Just weeks before the April 8, 1971 session at King Studios in Cincinnati, brothers William “Bootsy” Collins on bass and Phelps “Catfish” Collins on guitar quit Brown’s band to join the more drug-friendly world of George Clinton’s Parliament-Funkadelic. Bootsy later said Brown’s disapproval of their drug use was a major reason for the split.
 
-Brown plugged the holes in his young band, and the next time they were in the studio, he used the downtime to lecture them through a one-chord vamp about “Escape-ism,” his code for drugs. Brown and the band were so talented that even a lecture while killing time became a top 10 R&B hit.
+Brown plugged the gaps in his young band, and used the next studio session to lecture them through a one-chord vamp about “Escape-ism,” his code for drugs. Brown and the band were so talented that the lecture became a top 10 R&B hit.
 
-The full 19-minute track is not just an outlier. You can learn a lot about Brown’s creative process by comparing it to the three-minute single. This is Brown at work: record the band live, call out what he wants as the groove extends, then carve the best single from the result. The next best bits? That’s probably the B-side.
+By comparing the 19-minute track to the three-minute single, you can learn a lot about Brown’s creative process: he would record the band live, call out what he wanted as the groove mached on, then carve the best single from the result. The next best bits landed as the B-side. Getting to hear the whole extended jam is a rare treat.
 
 ---
 ## Research Notes
