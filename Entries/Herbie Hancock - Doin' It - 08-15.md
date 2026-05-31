@@ -11,14 +11,14 @@ genre:
   - Jazz-Funk
 region: US - California
 listening mission: The “just keep on doin’ it” chant is the only vocal on the track. Notice how it works like another instrument folded into the groove.
-status: review
-writing theme: Wha Wha Watson role on the track
+status:
+writing theme: Wah Wah Watson role on the track
 ---
 *Secrets* was Herbie Hancock's sixth record for Columbia. Released on August 15, 1976, it topped *Billboard's* jazz album chart and was #8 on the R&B chart. It's a banger.
 
-Melvin Ragin, better known as Wah Wah Watson, is all over today’s song, "Doin' It." Watson made a literal name for himself by making a guitar talk through a wah-wah pedal. Here, he also handles the recurring vocal chant, reshaping his voice with a talk box. His contributions earned him co-writing and co-producing credits on the track.
+Melvin Ragin, better known as Wah Wah Watson, is all over today’s song, "Doin' It." Watson made a literal name for himself by making a guitar talk through a wah-wah pedal. Here, he also handles the recurring vocal chant, reshaping his voice with a talk box. His work earned him co-writing and co-producing credits on the track.
 
-Watson was a Funk Brother, playing in the house band on classic Motown sessions including "Papa Was a Rollin' Stone." From there he became one of Hancock’s key funk-era collaborators, playing and co-writing with him from 1974 to 1980.
+Watson was a Funk Brother, playing in Motown's house band on classic sessions like "Papa Was a Rollin' Stone." From there, he became one of Hancock’s key funk-era collaborators, co-writing and recording with him from 1974 to 1980.
 
 ---
 ## Research Notes

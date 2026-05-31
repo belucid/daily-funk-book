@@ -10,14 +10,15 @@ track length: 15m 41s
 genre: Jazz-Funk
 region: US - California
 listening mission: The iconic 12-note bassline that opens “Chameleon” was played on an ARP Odyssey synth, not a bass guitar. Listen to the texture of those low notes. Would anything be missing if it were played on electric bass?
-status: review
+status: complete
 writing theme: Pointer Sisters reaction
+song.now code: hknb
 ---
-Herbie Hancock’s Mwandishi band opened for the Pointer Sisters at the Troubadour in LA in the summer of 1973. It did not go well. By October 26 of the same year, he was releasing a new album with a new band.
+Herbie Hancock’s Mwandishi band opened for the Pointer Sisters at the Troubadour in LA in the summer of 1973. It did not go well. By October 26 of the same year, Hancock was releasing a new album with a new band.
 
-In his autobiography *Possibilities*, Hancock recalls watching the crowd go wild for the Pointer Sisters’ funky sound while barely tolerating his avant-garde jazz. The experience was humbling. Hancock’s response was to form a new band and head in a new direction.
+In his autobiography, *Possibilities*, Hancock recalls watching the crowd go wild for the Pointer Sisters’ funky sound while quietly tolerating his own avant-garde jazz. The experience was humbling. He formed a new band and headed in a new direction.
 
-The working title of today’s track was “Caesar Salad,” but the final title, “Chameleon,” became a metaphor for Hancock himself. He's an artist who never stopped changing colors. He was a classically trained pianist as a child but started his professional career in jazz. After his early records for Blue Note, Miles Davis brought him into his second great quintet. He later pushed into the avant-garde with Mwandishi, using analog synthesizers to expand the sounds of jazz. After the Troubadour wake-up call, he helped bring jazz-funk into the commercial mainstream with his new band, The Headhunters. A decade later, he changed colors again with the electronic smash hit “Rockit.”
+The working title of today’s track was “Caesar Salad,” but the final title, “Chameleon,” became a metaphor for Hancock himself. He's an artist who never stopped changing colors. He was classically trained in piano as a child, but started his career in jazz. After his early records for Blue Note, Miles Davis brought him into his second great quintet. Hancock then pushed into the avant-garde with Mwandishi, using analog synthesizers to expand the sounds of jazz. After the Troubadour wake-up call, he helped bring jazz-funk into the mainstream with his new band, The Headhunters. A decade later, he changed colors again with the electronic hit “Rockit.”
 
 ---
 ## Research Notes

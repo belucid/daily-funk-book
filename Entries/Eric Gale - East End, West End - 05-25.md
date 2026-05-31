@@ -11,16 +11,17 @@ genre:
   - Jazz-Funk
 region: US - New York
 listening mission: Listen to the interplay between bass and guitar during the solo. Notice how the bass fills the open spaces without stepping on the guitar. Does it sound like a guitar solo, a bass solo, or both?
-status: review
+status: complete
 writing theme:
+song.now code: z564
 ---
-You have been hearing Eric Gale your entire life, even if you did not know it. Gale was one of New York’s most recorded session guitarists of the 1970s and 1980s, credited on more than 500 albums, including records by Aretha Franklin, Paul Simon, and Bob Marley.
+You've been hearing Eric Gale your whole life, even if you didn't know it. He was New York’s most recorded session guitarists of the 1970s and 1980s, credited on more than 500 albums, including records by Aretha Franklin, Paul Simon, and Bob Marley.
 
-Gale almost passed up a career in music. He earned a master’s degree in chemistry and taught at Penn State before walking away from his Ph.D. program to play guitar full time. He was fluent in English, German, Spanish, chemistry, and guitar. 
+Gale almost passed up a career in music. He earned a master’s degree in chemistry and taught at Penn State before walking away from his Ph.D. program to play guitar full-time. He was fluent in English, German, Spanish, chemistry, and guitar. 
 
-*Ginseng Woman* is the work of his tight late-1970s New York session crew: Richard Tee, Gary King, Steve Gadd, Ralph MacDonald, Grover Washington Jr., and the Brecker Brothers. “East End, West End” is the closing track, composed by Gale himself, with Bob James arranging the horns and strings.
+*Ginseng Woman* was the work of his late-1970s New York session crew: Richard Tee, Gary King, Steve Gadd, Ralph MacDonald, Grover Washington Jr., and the Brecker Brothers. “East End, West End” is the closing track, composed by Gale himself, with Bob James arranging the horns and strings.
 
-Gale died of lung cancer on May 25, 1994, at age 55.
+Gale died of lung cancer on May 25, 1994, at the age of 55.
 
 ---
 ## Research Notes

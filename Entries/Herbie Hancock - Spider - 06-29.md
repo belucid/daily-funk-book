@@ -13,6 +13,7 @@ region: US - California
 listening mission: '"Spider" has the cinematic feel of mid-70s soundtrack funk. As you listen, picture the opening scene of a blaxploitation film. Who is your protagonist, and what are they up to?'
 status: complete
 writing theme:
+song.now code: 93zs
 ---
 "Spider" closes side one of Herbie Hancock’s 1976 album *Secrets*. The following year, Columbia released it as a 7-inch single with "Maiden Voyage" on the B-side, but this single was not the album version. Instead, it used a 10-minute live take from *V.S.O.P. (Live)*, recorded at the Newport Jazz Festival on June 29, 1976.
 
