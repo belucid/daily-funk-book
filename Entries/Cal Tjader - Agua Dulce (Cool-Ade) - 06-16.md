@@ -14,7 +14,7 @@ region:
 listening mission: Tjader doubles the length of yesterday's track and adds synthesizer and Latin percussion. Is there a point where it stops being a cover and becomes something new?
 status: complete
 writing theme: The Swedish-American king of Latin funk
-song.now code: eppe
+funk.day code: eppe
 ---
 Today’s track is a cover of Preston’s “Cool Ade” from yesterday, cut by vibraphonist and bandleader Callen Radcliffe Tjader Jr. He was born on July 16, 1925, in St. Louis to Swedish-American vaudevillians. His father tap-danced and his mother played the piano.
 

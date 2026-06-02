@@ -13,7 +13,7 @@ region: US - New York
 listening mission: Does knowing the lyrics mean absolutely nothing change the impact of the vocals?
 status: complete
 writing theme:
-song.now code: 5mwh
+funk.day code: 5mwh
 ---
 Today’s song, "I Zimbra," is a surprise. Talking Heads, the kings of art-punk new wave, find their way into a funk book.
 

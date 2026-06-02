@@ -14,7 +14,7 @@ region:
 listening mission: The day before this session, Prince fired his band. He plays every instrument except the horns. Listen for the call and response answered by Prince himself. Since it’s all Prince, who is he repeatedly telling to shut up?
 status: complete
 writing theme:
-song.now code: 6zsw
+funk.day code: 6zsw
 ---
 On  October 17, 1986 Prince announced he was parting ways with his long time band, The Revolution. The next day, he was back in the studio, making today's song, "Housequake." It was inspired by the the Southern California earthquakes Prince experienced in 1986. 
 

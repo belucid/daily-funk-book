@@ -12,7 +12,7 @@ region: US - Southeast
 listening mission: The Caldwells recorded this live in a one-room church with no rehearsal. Listen for the moments where the family locks in without cues. That is 50 years of familiarity.
 status: complete
 writing theme: When words become sounds
-song.now code: y3wc
+funk.day code: y3wc
 ---
 Annie Caldwell was a singer in the Staples Jr. Singers at the age of 11 in 1971. The band's name came from audiences who told them they sounded like the Staple Singers. Their privately pressed 1975 album *When Do We Get Paid* was sold from the family’s front lawn in Aberdeen, Mississippi, and later became a grail for gospel-soul collectors. The album received a proper reissue in 2022.
 

@@ -14,7 +14,7 @@ region:
 listening mission: "Listen to the first twenty seconds: drums alone, then drums and bass. That’s what DJs built tracks around, and that's a shame because so much of the vocal is funky too. If you were sampling vocals from this track, what would you grab?"
 status: complete
 writing theme:
-song.now code: i4si
+funk.day code: i4si
 ---
 Odetta is folk royalty. Martin Luther King Jr. referred to her as the "Queen of American Folk Music," and Bob Dylan said she "turned me on to folk singing." *Odetta Sings* is primarily covers of songs by McCartney, Jagger/Richards, Randy Newman, Elton John, and James Taylor. But the two strongest tracks are the two Odetta wrote herself. Today’s "Hit or Miss" and "Movin' It On" were recorded at Muscle Shoals Sound Studio in 1970.
 

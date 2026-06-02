@@ -13,7 +13,7 @@ region: US - Texas
 listening mission: One difference between jazz and jazz-funk is the shift from a walking bass that helps define the harmonic progression to a rhythmic bass that helps define the groove. Can you hear both styles of bass at different times in the track?
 status: complete
 writing theme: Dropping 'Jazz' was a statement.
-song.now code: tll4
+funk.day code: n4pu
 ---
 The founding members of the Swingsters met in 1954 at Phillis Wheatley High School in Houston's Fifth Ward. After a few name changes, they released 16 albums in eight years as the Jazz Crusaders on the Pacific Jazz label. Dropping "Jazz" from their name in 1972, they relaunched as the Crusaders with a funkier sound. *Crusaders 1* was actually their second album under the new name, but the first on Blue Thumb Records.
 

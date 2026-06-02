@@ -13,6 +13,7 @@ region: US - Michigan
 listening mission: The drums, bass, and intergalactic vocals dominate today’s track, but listen for the horns. These are Fred Wesley’s charts with Maceo Parker on sax. Do they still sound like James Brown’s horn section, or does it feel like their talent gets lost once they step aboard this UFO?
 status: review
 writing theme:
+funk.day code: d4sy
 ---
 Just like this book, Dr. Funkenstein’s only prescription is more funk. He's an intergalactic mad scientist, one of George Clinton’s recurring characters.
 

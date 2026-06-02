@@ -13,7 +13,7 @@ region: US - California
 listening mission: Focus on Charles Miller’s saxophone entering at 3m 40s. Notice how it comes in quietly and patiently, then builds into a plaintive wail before dropping out after 6m 30s.
 status: complete
 writing theme:
-song.now code: btsn
+funk.day code: btsn
 ---
 Per drummer Harold Brown, the idea for today’s song, “The World Is a Ghetto,” came when the band realized that poverty wasn't confined to literal ghettos. Wealthy enclaves, too, harbor their own kind of impoverished isolation. Percussionist Papa Dee Allen wrote the song as a call for unity, not a complaint from the underclass. The message was powerful in 1973, and it still resonates today.
 

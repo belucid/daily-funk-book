@@ -13,7 +13,7 @@ region: US - California
 listening mission: The famous break drops halfway through. Wait for it.
 status: complete
 writing theme: odd facts
-song.now code: tb6z
+funk.day code: tb6z
 ---
 There are plenty of strange stories in funk history, but the Incredible Bongo Band’s “Apache” is a contender for the wildest.
 

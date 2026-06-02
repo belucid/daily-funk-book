@@ -12,6 +12,7 @@ region: US - Illinois
 listening mission:
 status: research-review
 writing theme:
+funk.day code: dmt6
 ---
 
 ---

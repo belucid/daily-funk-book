@@ -14,7 +14,7 @@ region:
 listening mission: The album blends South African sounds with American soul and funk. On this track, what sounds distinctly African to you, and what feels borrowed from America?
 status: complete
 writing theme:
-song.now code: yq1a
+funk.day code: 8b3n
 ---
 “Soweto” is an acronym for South Western Townships, the cluster of segregated Black neighborhoods southwest of Johannesburg. In 1955, thousands gathered in the Kliptown area of Soweto to adopt the Freedom Charter, a founding document of the anti-apartheid movement. Police broke up the meeting, and 156 leaders were arrested and tried for treason.
 

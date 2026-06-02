@@ -14,7 +14,7 @@ region:
 listening mission: Prince shouts for horns, orchestra, and bass, and each time the song responds with something a bit forced and underwhelming. Is this just humor, or something else?
 status: complete
 writing theme:
-song.now code: p4vw
+funk.day code: p4vw
 ---
 Let's stick with Prince again today. He's always a funky choice.
 

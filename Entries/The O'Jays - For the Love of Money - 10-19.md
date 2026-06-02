@@ -13,7 +13,7 @@ region: US - Northeast
 listening mission: The iconic opening bass line is played with a pick and uses both phaser and echo effects. Can you hear the phaser and echo effects separately?
 status: complete
 writing theme: The bassist who wrote the opening
-song.now code: xpch
+funk.day code: xpch
 ---
 When you listen to today's track in its entirety, the lyrics offer a damning list of what people will do for money: lie, cheat, and steal from their own mothers. Yet the chorus is so infectious that it became the unironic opening theme for NBC's *The Apprentice*, a show celebrating wealth and greed.
 

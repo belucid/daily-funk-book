@@ -13,7 +13,7 @@ region: US - California
 listening mission: Listen to the flute answering Burdon’s vocal. Is it filling the space where background singers might have been in an earlier style?
 status: complete
 writing theme:
-song.now code: 0e20
+funk.day code: m68s
 ---
 This song exists because Lonnie Jordan literally spilled his wine on the mixing console. The spill forced the band to record in another studio, and the chaos provided content for the track’s loose, half-spoken vocal. If singer Eric Burdon sounds like he is talking his way through a dream, it may be because he was asleep on the studio floor and woke up, then sang on the take that made the record. The result was so improvised that the whole band received a writing credit.
 

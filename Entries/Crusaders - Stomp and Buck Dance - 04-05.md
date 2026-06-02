@@ -13,7 +13,7 @@ region: US - Texas
 listening mission: Listen for Henderson’s trombone in “Stomp and Buck Dance.” It can be harder to pick out than the guitar, bass, keys, and sax you’re now used to hearing.
 status: complete
 writing theme:
-song.now code: 6sld
+funk.day code: j4fj
 ---
 Today’s song, "Stomp and Buck Dance," was written by Crusaders trombonist and co-founder Wayne Henderson. Born in Houston’s Fifth Ward in 1939, he started playing trombone in middle school. In 1954, at age 15, he co-founded the group that would eventually become the Crusaders.
 

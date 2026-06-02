@@ -14,7 +14,7 @@ region:
 listening mission: Guitarist Ronnie Wood is playing bass here, not the usual Stones bassist Bill Wyman. Can you hear a guitarist’s touch in the bassline?
 status: complete
 writing theme:
-song.now code: y21v
+funk.day code: rnxp
 ---
 *Emotional Rescue* topped charts around the world and spent seven weeks at #1 in the US. The title track was its biggest hit, and yet the Rolling Stones did not play "Emotional Rescue" live until 2013. Perhaps the song never quite fit the band’s self-image.
 

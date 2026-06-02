@@ -13,7 +13,7 @@ region: US - California
 listening mission: Earth, Wind & Fire’s “September” is built around big horns and stacked vocal harmonies. Scary Pockets strips it down to a small ensemble with no horns and a single singer. Does it still work?
 status: complete
 writing theme:
-song.now code: d1sg
+funk.day code: 75py
 ---
 Most nu-funk is original material that sounds like it could have been released during the classic funk period of the early 1970s. Scary Pockets flips this formula by reworking pop songs listeners already know, placing them in a 1970s-sounding live band with a tight pocket and a rhythm-first arrangement.
 

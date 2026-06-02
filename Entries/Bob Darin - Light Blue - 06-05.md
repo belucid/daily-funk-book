@@ -13,7 +13,7 @@ region: US - California
 listening mission: Listen for any gap in feel between Darin’s sorrowful vocal and the funky rhythm section. Is it a flaw in the song, or part of the statement?
 status: complete
 writing theme:
-song.now code: fqt8
+funk.day code: fqt8
 ---
 Bobby Darin was known for hits like 1958’s “Splish Splash” and “Mack the Knife.” Ten years later, he was a Vegas act, singing standards and coasting on past notoriety. How did he get from there to a down-tempo song about depression?
 

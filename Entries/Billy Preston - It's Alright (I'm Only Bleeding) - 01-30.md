@@ -13,7 +13,7 @@ region: US - California
 listening mission: Dylan’s original is a seven-minute solo acoustic rant. Preston cuts it in half and adds drums, bass, horns, and strings. How much of Dylan’s anger survives the funky treatment?
 status: complete
 writing theme:
-song.now code: mxqk
+funk.day code: mxqk
 ---
 Billy Preston has one of the best claims to be the true fifth Beatle. He played with them at their last live performance together, the rooftop concert at Apple on January 30, 1969. He also played organ on late-era sessions for *Abbey Road* and *Let It Be*, and he's the only outside musician to be named on a Beatles single: “Get Back” and “Don’t Let Me Down” are by “The Beatles with Billy Preston.”
 

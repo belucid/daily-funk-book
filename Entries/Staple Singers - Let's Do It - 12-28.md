@@ -13,7 +13,7 @@ region: US - Illinois
 listening mission: "This was the last #1 single of 1975. Tempos were about to jump as the decade shifted into the disco era. Would this track work at a faster pace?"
 status: complete
 writing theme:
-song.now code: 6vm1
+funk.day code: annt
 ---
 How do you convince a deeply religious 60-year-old man to sing and play on a song about sex, alongside his own daughters? If you're Curtis Mayfield, you tell Pops Staples, "The Lord won't mind. It's just a love song."
 

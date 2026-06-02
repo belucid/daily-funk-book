@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 08-08
+day: 09-08
 artist: James Brown
 track: Funky President (People It's Bad)
 album: Reality
@@ -11,13 +11,31 @@ genre:
   - Classic Funk
 region:
   - US - Southeast
-listening mission:
-status: research-review
+listening mission: This is not Brown's usual backing band, the J.B.'s. It is New York jazz-funk session players. Can you hear the difference?
+status: review
 writing theme:
+funk.day code: xrqp
 ---
+Gerald Ford is the only person to serve as both vice president and president of the United States without receiving a single vote for either office. He became vice president in October 1973, when Nixon's original VP, Spiro Agnew, resigned amid bribery and tax-fraud charges. Ten months later, Richard Nixon resigned over the Watergate cover-up.
+
+On September 8, 1974, President Ford granted Nixon “a full, free, and absolute pardon,” and Ford’s approval rating promptly cratered. James Brown took special notice. Today’s “Funky President” is his response to the new president, who had never faced the voters, wiping the slate clean for Nixon.
+
+Brown had gone out on a limb for Nixon. He did not back him in 1968, but after Nixon won he played at his inauguration, then publicly supported Nixon’s 1972 reelection. Fans were not pleased, and the resulting boycott hit Brown’s record and ticket sales. “Funky President” feels like a reset with Brown reclaiming his voice as a critic of power. Fans responded. The song charted at #4 on the R&B chart and #44 on the Hot 100.
 
 ---
 ## Research Notes
+
+RESOLVED: Five interesting facts about the Nixon resignation and the transition to Ford (Brown ties noted where they exist):
+
+1. **The 08-08 hook is exact.** Nixon went on national TV at 9pm on August 8, 1974, to announce he would step down at noon the next day, making him the first U.S. president ever to resign. He left to almost certain impeachment after the "smoking gun" tape, released August 5, proved he knew of the White House role in the Watergate cover-up within days of the break-in. Source: https://www.history.com/this-day-in-history/august-8/nixon-resigns
+
+2. **Ford was elected by no one.** Gerald Ford remains the only person to serve as both Vice President and President without ever appearing on a national ballot. He had reached the vice presidency only in October 1973, appointed under the 25th Amendment after Spiro Agnew resigned amid bribery and tax-fraud charges. When Nixon quit, an unelected man took the Oval Office. Source: https://www.history.com/articles/nixon-resignation-unelected-president-vice-president
+
+3. **For a stretch, the top two offices were both unelected.** Ford then named former New York governor Nelson Rockefeller as Vice President under the 25th Amendment. Rockefeller was sworn in December 19, 1974, the same day Brown's "Reality" LP was released, so for several months the nation's two highest offices were held by men no voter had chosen. Source: https://constitutioncenter.org/blog/gerald-fords-unique-role-in-american-history
+
+4. **The pardon is what Brown is answering.** On September 8, 1974, Ford granted Nixon "a full, free, and absolute pardon." His approval fell from 71% to 50%, and press secretary Jerald terHorst resigned in protest. Brown cut and released "Funky President" the next month as his direct response to the new, unelected, pardon-issuing chief executive. Source: https://en.wikipedia.org/wiki/Pardon_of_Richard_Nixon
+
+5. **Ford did something no sitting president had done.** On October 17, 1974, Ford appeared before a House Judiciary subcommittee to explain the pardon, becoming the first sitting president to give sworn testimony to Congress. The arc bookends neatly: Ford had opened his term with "My fellow Americans, our long national nightmare is over," and within weeks was under oath defending its most controversial act. Source: https://www.history.com/this-day-in-history/october-17/ford-explains-his-pardon-of-nixon-to-congress
 
 **[AUDIT]** `2026-04-08 12:00` — `album` changed from `(empty)` to `Reality` — Source: https://en.wikipedia.org/wiki/Reality_(James_Brown_album)
 **[AUDIT]** `2026-04-08 12:00` — `label` changed from `(empty)` to `Polydor Records` — Source: https://en.wikipedia.org/wiki/Funky_President_(People_It%27s_Bad)

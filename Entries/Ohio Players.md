@@ -13,6 +13,7 @@ region: US - Ohio
 listening mission:
 status: stub
 writing theme:
+funk.day code: eqim
 ---
 
 ---

@@ -13,7 +13,7 @@ region: US - Texas
 listening mission: "Listen for how the song spotlights each player: drums, bass, keys, and horns. How does it fit so many moments into such a compact space without anyone stepping on anyone else?"
 status: complete
 writing theme:
-song.now code: 1rma
+funk.day code: mfmn
 ---
 Joe Sample, composer of today’s “Double Bubble,” was born February 1, 1939. Sample was the Crusaders’ keyboardist and primary writer, and this track is a compact example of his impeccable sense of groove.
 

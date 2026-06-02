@@ -13,7 +13,7 @@ region: US - Michigan
 listening mission: "Don’t get too distracted by Aretha’s vocals. Focus on the all-star rhythm section: Bernard Purdie on drums, Chuck Rainey on bass, Cornell Dupree on guitar, Donny Hathaway on organ, and Dr. John on percussion."
 status: complete
 writing theme:
-song.now code: k7ul
+funk.day code: h5ax
 ---
 Most listeners know Aretha Franklin as a master interpreter of other's songs. Today's "Rock Steady" is different. It's an Aretha original, written, arranged, and steered by Aretha herself. Bassist Chuck Rainey has said the released version is actually her demo, recorded on February 15, 1971, at Criteria Studios in Miami before producers Jerry Wexler and Tom Dowd arrived. 
 

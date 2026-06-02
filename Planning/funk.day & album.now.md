@@ -1,5 +1,5 @@
 album.now $130/y
-song.now $650/y
+funk.day $650/y
 
 Spotify
 YouTube Music

@@ -13,7 +13,7 @@ region: UK
 listening mission: "On the surface, this sounds like playground trash talk: “You’re just a loser, and hate that I’m a winner.” Listen past the taunt. Is the song really about ego, or is it about something else?"
 status: complete
 writing theme:
-song.now code: b73k
+funk.day code: b73k
 ---
 The album *Chapter 1* dropped without warning on January 9, 2026. Mystery is SAULT's hallmark. Despite the title, *Chapter 1* is not their debut. It's their thirteenth album in roughly seven years. Their first album in 2019 was actually called *5*. *7* followed *5*. *9* was their fifth album. *11* arrived in 2022, and *10* in 2025. Confused yet?
 

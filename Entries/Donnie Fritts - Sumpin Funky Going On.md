@@ -13,7 +13,7 @@ region: US - Southeast
 listening mission:
 status: research-review
 writing theme:
-song.now code:
+funk.day code: b36r
 ---
 
 ---

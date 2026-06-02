@@ -13,7 +13,7 @@ region: US - New York
 listening mission: Can the congas play a melody? A conga player has 3 to 5 pitches to work with, but do you hear them as melodic at any point?
 status: complete
 writing theme:
-song.now code: fz74
+funk.day code: fz74
 ---
 Long before TikTok, kids entertained themselves with tic-tac-toe. In 1963, the Stax house band of Booker T. Jones, Steve Cropper, Al Jackson Jr., and Donald “Duck” Dunn named a B-side instrumental “Tic Tac Toe.” Eight years later, Havana-born conga player Candido Camero Guerra recorded a funky Latin arrangement of the same tune for Blue Note in New York.
 

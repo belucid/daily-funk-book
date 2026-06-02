@@ -13,7 +13,7 @@ region: US - California
 listening mission: As you listen, count how many times “funky” shows up in the lyrics.
 status: complete
 writing theme:
-song.now code: e4al
+funk.day code: 98jw
 ---
 1972’s *The World Is a Ghetto* was the best-selling album of 1973 according to *Billboard*, making War one of the biggest acts in American music. Their follow-up, *Why Can’t We Be Friends?*, did not arrive until 1975 due to a dispute with the label. Even with the delay, it reached #8 on the *Billboard* 200 and #1 on the R&B chart.
 

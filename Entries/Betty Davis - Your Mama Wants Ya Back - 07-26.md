@@ -13,7 +13,7 @@ region: US - California
 listening mission: I usually ask you to focus on the music, but today listen to the lyrics. Who do you think Davis is singing to, and what is going on?
 status: complete
 writing theme:
-song.now code: p7ou
+funk.day code: yb2f
 ---
  Today’s song, “Your Mama Wants Ya Back,” is by Betty Davis, born Betty Mabry on July 26, 1944, in Durham, North Carolina. The Davis name came from her brief marriage to jazz great Miles Davis, but that connection often obscures the fact that Betty Davis was not just a funky singer. She was the writer, arranger, and producer of her own sound. 
  

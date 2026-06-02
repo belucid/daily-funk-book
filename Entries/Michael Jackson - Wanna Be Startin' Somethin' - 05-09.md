@@ -13,7 +13,7 @@ region: US - California
 listening mission: During the recording sessions, Jackson, Nelson Hayes, and Steven Ray stomped on a 4-by-3-foot sheet of plywood to add percussion. Can you hear it in the mix?
 status: complete
 writing theme: Why Michael never made any pure funk music
-song.now code: 5zmo
+funk.day code: 3rfr
 ---
 I really wanted at least one Michael Jackson entry in this book, but it was not as easy as it sounds. Throughout his career, Michael ruled the pop and dance genres, but he never released a pure funk track.
 

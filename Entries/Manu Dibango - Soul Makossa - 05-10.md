@@ -14,7 +14,7 @@ region:
 listening mission: How does the famous "ma-ma-say, ma-ma-sa" chant change for you when you hear it in its original context of the Duala lyrics of a Cameroonian makossa song?
 status: complete
 writing theme: relationship between makossa and funk
-song.now code: tlmp
+funk.day code: j6dp
 ---
 The famous "ma-ma-say, ma-ma-sa" chant from yesterday's "Wanna Be Startin' Somethin'" is borrowed from Manu Dibango's 1972 hit "Soul Makossa." The lyrical larceny led to a lawsuit by Dibango, which was settled for one million French francs. Another lawsuit followed in 2009 when Rihanna sampled Michael Jackson's song in "Don't Stop the Music."
 

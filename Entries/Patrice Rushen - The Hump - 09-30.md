@@ -13,7 +13,7 @@ region: US - California
 listening mission: “The Hump” is played by a jazz prodigy and LA session-player royalty. Nothing is perfect, but this comes close. Try to find one moment you would change.
 status: complete
 writing theme: sellout criticism to jazz artists
-song.now code: yn2k
+funk.day code: yn2k
 ---
 Patrice Rushen, the piano prodigy behind today's track, drew more than her share of sellout accusations when she transitioned from straight jazz into jazz-funk. Some of the criticism originated from the hopes jazz purists placed in her as a gifted young player who might rejuvenate the genre as the older generation faded. Some of it no doubt reflected a familiar double standard: as a woman, she was an easier target.
 

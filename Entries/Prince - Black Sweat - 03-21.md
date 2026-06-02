@@ -14,7 +14,7 @@ region:
 listening mission: That eerie synth line sounds like it crawled straight out of yesterday's "Funky Worm." Who did it better?
 status: complete
 writing theme:
-song.now code: c6du
+funk.day code: c6du
 ---
 The title of today’s song, “Black Sweat,” has two origin stories. One suggests it came from black hair dye running down Prince’s face onstage. Another ties it to Prince's spot-on impersonation of the perennially sweaty James Brown. Either way, the title captures the physical exertion required for extended funk jams.
 

@@ -12,6 +12,7 @@ region:
 listening mission:
 status: stub
 writing theme:
+funk.day code: 2rvr
 ---
 Once one is picked out from this album, also check *Gratitude*.
 

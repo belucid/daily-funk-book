@@ -13,7 +13,7 @@ region: US - California
 listening mission: Dylan’s original is a loose, shambolic brass-band march. Clayton’s version hits hard and fast. Does the subject matter lend itself to a tight funk groove?
 status: complete
 writing theme:
-song.now code: bni0
+funk.day code: uqk7
 ---
 What do you name your daughter when she’s born on Christmas Day? “Merry,” of course. Merry Clayton was born on Christmas in 1948 and became one of the great backing singers. You know her voice, even if you don't know her name.
 

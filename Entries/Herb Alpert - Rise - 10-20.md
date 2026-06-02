@@ -13,7 +13,7 @@ region: US - California
 listening mission: This was originally cut at a more disco 120 BPM before the drummer insisted they slow it to 100. Listen to how much space that slower tempo creates.
 status: complete
 writing theme: It pays to Own the Record Label
-song.now code: ghi3
+funk.day code: ghi3
 ---
 I can safely say that my introduction to funk was Prince, but it's also safe to say my gateway to jazz-funk was today's track, "Rise," by Herb Alpert. "Rise" reached No. 1 on the *Billboard* Hot 100 on this day in 1979, and it was my father’s favorite song. I must have heard it 500 times or more growing up. Though my siblings grew to hate the whole *Rise* album, I never tired of it. I've always understood my father's obsession, and apparently I'm in very good company. Notorious B.I.G. sampled "Rise" for his 1997 hit "Hypnotize" because he remembered hearing it everywhere in New York City as a ten-year-old.
 

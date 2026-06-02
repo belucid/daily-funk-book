@@ -13,7 +13,7 @@ region: US - Ohio
 listening mission: At under three minutes, does this feel like a throwaway novelty song? Does knowing it became one of the most sampled tracks ever, and that its synth line helped define West Coast G-funk, change your assessment?
 status: complete
 writing theme:
-song.now code: 9rul
+funk.day code: 4s6p
 ---
 In today’s song, Granny describes a “Funky Worm” who plays the guitar with no hands. The song hit #1 on the *Billboard* R&B chart and #15 on the Hot 100 in May 1973.
 

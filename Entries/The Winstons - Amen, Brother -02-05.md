@@ -13,7 +13,7 @@ region: US - DC
 listening mission: Focus on the four bars of the drum break at 1m 26s. The first two bars repeat, the third holds the snare back a beat, and the fourth adds a cymbal crash. Why did those small changes make this the loop every sampler wanted?
 status: complete
 writing theme:
-song.now code: 6zoi
+funk.day code: y578
 ---
 “Amen, Brother” is a funky instrumental built around the gospel song “Amen,” popularized by Jester Hairston’s arrangement for the 1963 Sidney Poitier film *Lilies of the Field*. The Winstons' song is also the most sampled recording in history, with over 7,500 verified samples, thanks to a seven-second drum break that became known as the Amen break.
 

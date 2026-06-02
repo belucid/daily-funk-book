@@ -13,6 +13,7 @@ region:
 listening mission:
 status: stub
 writing theme:
+funk.day code: 8wf2
 ---
 
 Related: JB Payback, Staples Singers

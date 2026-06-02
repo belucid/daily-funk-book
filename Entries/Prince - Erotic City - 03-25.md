@@ -13,7 +13,7 @@ region: US - Minnesota
 listening mission: Sheila E. insists she was singing “funk,” not the other F-word. That helped the track slip past censors, but which word do you hear?
 status: complete
 writing theme:
-song.now code: q9x2
+funk.day code: q9x2
 ---
 You’ll quickly notice that today’s song, "Erotic City," features multiple voices, and many of them are Prince. He layered at least three versions of himself on the track: a slowed-down baritone, his normal register, and a sped-up helium harmony, all created through tape manipulation.
 

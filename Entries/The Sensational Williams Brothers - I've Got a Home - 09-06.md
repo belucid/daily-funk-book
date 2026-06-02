@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-06
 artist: The Sensational Williams Brothers
 track: I've Got a Home
 album: I've Got a Home
@@ -10,10 +10,18 @@ track length: 3m 30s
 genre:
   - Gospel Funk
 region: US - Southeast
-listening mission:
-status: research-review
+listening mission: Try to imagine today’s song as an anti-war protest, or as a love song. Other than the lyrics, what gospel elements still give it away?
+status: review
 writing theme:
+funk.day code: hwiv
 ---
+The group behind today’s song formed in 1960 in Smithdale, Mississippi, when Leon “Pop” Williams heard his four sons and a cousin singing in the backyard. He liked what he heard and turned them into a group, first called the Little Williams Brothers.
+
+About twenty years later, most of that original lineup was still in the studio when today’s song, “I’ve Got a Home,” was recorded. Three brothers are here: Doug on lead vocals, Melvin on lead guitar, and Leonard on bass. Their cousin Henry Green also sings, with their childhood friend and founding member Maurice Surrell on drums.
+
+Many gospel-funk cuts are one-off detours, a straight gospel act getting funky on a B-side. *I’ve Got a Home* is different. This is a full-on funk LP with gospel themes.
+
+Pop Williams died on September 6, 1989, but the group carried on, releasing albums well into the 2010s. The missing brother, Frank Williams, left the group and became an influential gospel producer and label executive. Even after stepping away from the lineup, he continued to work with the band in production roles.
 
 ---
 ## Research Notes

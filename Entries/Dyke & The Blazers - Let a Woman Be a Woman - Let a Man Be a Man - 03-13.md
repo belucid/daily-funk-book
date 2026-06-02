@@ -14,7 +14,7 @@ region:
 listening mission: You could easily mistake this for a James Brown track. What gives it away that it isn’t?
 status: complete
 writing theme: Murder of Dyke
-song.now code: a7n5
+funk.day code: a7n5
 ---
 Arlester “Dyke” Christian was the singer, songwriter, and bassist who fronted Dyke & The Blazers. Formed in 1965, the band scored major hits with “Funky Broadway” and today’s track, “Let a Woman Be a Woman” The drum break from the latter, played by James Gadson, became a hip-hop staple and has been sampled more than 230 times. 
 

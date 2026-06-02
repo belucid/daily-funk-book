@@ -12,7 +12,7 @@ region: US - California
 listening mission: The iconic 12-note bassline that opens “Chameleon” was played on an ARP Odyssey synth, not a bass guitar. Listen to the texture of those low notes. Would anything be missing if it were played on electric bass?
 status: complete
 writing theme: Pointer Sisters reaction
-song.now code: hknb
+funk.day code: hknb
 ---
 Herbie Hancock’s Mwandishi band opened for the Pointer Sisters at the Troubadour in LA in the summer of 1973. It did not go well. By October 26 of the same year, Hancock was releasing a new album with a new band.
 

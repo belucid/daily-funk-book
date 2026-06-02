@@ -13,7 +13,7 @@ region: US - Minnesota
 listening mission: Prince keeps telling drummer Morris Day not to lose the pocket. Each time he says it, listen to Morris’ drums. Was Morris actually slipping, or was Prince just messing with him?
 status: complete
 writing theme: Humor in funk, too indulgent to release this given the length and the strip down nature of drums and bass and spoken word
-song.now code: 25u3
+funk.day code: 25u3
 ---
 At fifteen-plus minutes, today’s track is one of the longest official Prince releases, and also one of the leanest. It is just Prince on bass and Morris Day on drums. Prince does all the talking. Morris Day stays silent. 
 

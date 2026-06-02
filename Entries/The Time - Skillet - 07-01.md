@@ -14,7 +14,7 @@ region:
 listening mission: This is Jesse Johnson’s show. Listen to the rock soloing. Does it feel like funk with rock solos, or rock with a funky beat?
 status: complete
 writing theme: out of time, out of sound
-song.now code: 82un
+funk.day code: 82un
 ---
 As one of my favorite bands, The Time were always going to show up in this book. Today’s pick finds them in an unexpected decade and an unexpected genre: the funk-rock track “Skillet”, from their lesser-known 1990 album *Pandemonium*.
 

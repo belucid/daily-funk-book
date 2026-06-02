@@ -13,7 +13,7 @@ region: US - California
 listening mission: Use headphones and focus on the stereo field. Notice how the rhythm section sits in a different space from the rest of the band.
 status: complete
 writing theme: collaboration between 3 generations
-song.now code: yk9c
+funk.day code: yk9c
 ---
 Today’s song, “Cool Ade,” is a collaboration across generations. Jazz veterans Johnny Otis (producer, piano, vibes) and Preston Love (saxophone) bring the gravitas, while Otis’ teenage son Shuggie Otis makes his recorded debut on guitar and bass at just 14. Shuggie also earned writing credits on the album.
 

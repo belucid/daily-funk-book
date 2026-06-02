@@ -13,7 +13,7 @@ region: US - New York
 listening mission: This track is only 2m 12s long, but it feels like a glimpse of something longer. In the digital era, you don't get this kind of forced cutoff. Do you get the sense that the band simply ran out of room on the second side of the LP?
 status: complete
 writing theme:
-song.now code: 1pem
+funk.day code: 3ssw
 ---
 July 7 is B.T. Express Day. At least in Brooklyn, New York. At least in 1977.
 

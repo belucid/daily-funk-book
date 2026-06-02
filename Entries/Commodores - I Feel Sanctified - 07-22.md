@@ -13,7 +13,7 @@ region: US - Southeast
 listening mission: In this era, gospel groups were using funky sounds in praise of the Lord. Listen to how the Commodores borrow the words and sounds of gospel to make secular funk.
 status: complete
 writing theme:
-song.now code: 1wpg
+funk.day code: m8xj
 ---
  *Machine Gun*, the Commodores’ debut album, was released on July 22, 1974. Unlike the ballad-heavy LPs that would later make them famous, with songs like “Easy” and “Three Times a Lady,” it's a wall-to-wall funk record. Today’s song, “I Feel Sanctified,” captures the band at their funkiest, before Lionel Richie's ballads took over.
 

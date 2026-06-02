@@ -9,16 +9,17 @@ year: 1979
 track length: 7m 11s
 genre:
   - Jazz-Funk
-region: US - California
+region: Japan
 listening mission: "This is funk performed under tightrope conditions. Can you hear the focus? Ask yourself: where would they have made an edit if they could have?"
-status: review
+status: complete
 writing theme: recording technology
+funk.day code: 9hgz
 ---
-“Shiftless Shuffle” had been part of Hancock’s stage repertoire in the early 1970s, and his Head Hunters band recorded a version that went unreleased. This version was a brand-new Tokyo recording with a different lineup, different instrumentation, and an unusual recording process.
+“Shiftless Shuffle” had been part of Hancock’s stage repertoire in the early 1970s, and his Head Hunters band recorded a version that was not released. Today's take comes from a new Tokyo session with a different lineup, different instrumentation, and an unusual recording process.
 
-The *Directstep* album was a Japanese audiophile experiment released on January 21, 1979. It used direct-to-disc recording, a technique that predates the invention of audio tape. The band plays live, and the performance is cut directly to a master acetate in real time, with no edits or overdubs possible. This leaves the fewest possible steps between the sound captured in the room and the resulting vinyl record. Hancock and a six-piece electric band had to deliver “Shiftless Shuffle” in one continuous take.
+The *Directstep* album, released on January 21, 1979, was a Japanese audiophile experiment. It used direct-to-disc recording, a technique that predates magnetic audio tape. The band performed live, and the performance was cut directly to a master acetate in real time, with no edits or overdubs possible. This leaves the fewest possible steps between the sound captured in the room and the resulting vinyl record. Hancock and a six-piece electric band had to deliver “Shiftless Shuffle” in one continuous take.
 
-The album was reissued in 1983, when it became one of the earliest commercial compact discs. That makes today's track a bridge across recording history: a 1978 electric jazz-funk performance captured with an older pre-tape method, reintroduced through the new digital format of the 1980s, and now likely reaching you by internet streaming.
+Reissued in 1983 as one of the first commercial compact discs, the album serves as a bridge across the history of recording technology. This 1978 electric jazz-funk performance, captured with a pre-tape method, was reintroduced through the digital format of the 1980s and is likely reaching you today through streaming.
 
 ---
 ## Research Notes

@@ -11,8 +11,9 @@ genre:
   - Jazz-Funk
 region: US - California
 listening mission: The “just keep on doin’ it” chant is the only vocal on the track. Notice how it works like another instrument folded into the groove.
-status:
+status: complete
 writing theme: Wah Wah Watson role on the track
+funk.day code: 4vxd
 ---
 *Secrets* was Herbie Hancock's sixth record for Columbia. Released on August 15, 1976, it topped *Billboard's* jazz album chart and was #8 on the R&B chart. It's a banger.
 

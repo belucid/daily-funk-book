@@ -13,7 +13,7 @@ region: US - New York
 listening mission: Listen to the interplay between bass and guitar during the solo. Notice how the bass fills the open spaces without stepping on the guitar. Does it sound like a guitar solo, a bass solo, or both?
 status: complete
 writing theme:
-song.now code: z564
+funk.day code: z564
 ---
 You've been hearing Eric Gale your whole life, even if you didn't know it. He was New York’s most recorded session guitarists of the 1970s and 1980s, credited on more than 500 albums, including records by Aretha Franklin, Paul Simon, and Bob Marley.
 

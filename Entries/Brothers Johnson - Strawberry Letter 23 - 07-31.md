@@ -13,7 +13,7 @@ region: US - California
 listening mission: "Enjoy an old-school guitar battle: compare Lee Ritenour’s solo at 2m 25s with Shuggie Otis’s original solo at 2m 20s into his psychedelic 1971 version. Who did it better, Shuggie or Lee?"
 status: complete
 writing theme:
-song.now code: 4b2v
+funk.day code: 4b2v
 ---
 Guitar prodigy Shuggie Otis wrote today's song at the age of 17 and released it on his 1971 sophomore album, *Freedom Flight*. Guitarist George "Lightnin' Licks" Johnson discovered the song through Otis's cousin, whom he was dating.
  

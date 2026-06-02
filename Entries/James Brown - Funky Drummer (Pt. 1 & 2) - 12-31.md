@@ -14,7 +14,7 @@ region:
 listening mission: If you had to sum up funk with one drum pattern, it would be this one. Lock in on it and decide what makes it so funky.
 status: complete
 writing theme:
-song.now code: lvhj
+funk.day code: jdi2
 ---
 We end our journey where it began, with James Brown. About four and a half minutes into "Funky Drummer," Brown tells the band exactly what he wants, and just past the five-minute mark he barks: “1, 2, 3, 4, hit it!” The result is a twenty-second drum break that became a core rhythm of hip-hop.
 

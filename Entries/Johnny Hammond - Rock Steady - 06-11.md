@@ -13,6 +13,7 @@ region: US - New York
 listening mission: "Listen to each solo as it passes: Eric Gale on guitar, Grover Washington Jr. on sax, Bernard Purdie on drums, and Johnny Hammond on organ. When the track ends, which one stays with you? It's Hammond’s record and Purdie’s second run at the song, but to my ear, Gale’s guitar is the signature voice."
 status: review
 writing theme:
+funk.day code: qt9c
 ---
 “Rock Steady” is such a great song that you get to hear it twice in this book. We already heard Aretha Franklin’s original on February 15. Today’s track is a soul-jazz cover by Johnny “Hammond” Smith.
 

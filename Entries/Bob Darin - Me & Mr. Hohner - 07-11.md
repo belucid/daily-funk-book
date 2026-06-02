@@ -13,7 +13,7 @@ region: US - California
 listening mission: Keep in mind that Hohner is a harmonica brand. “Mr. Hohner” is not a literal companion, it's Darin naming his new musical direction, the one that is getting him in trouble with the powers that be.
 status: complete
 writing theme:
-song.now code: k5l7
+funk.day code: yika
 ---
 You've probably heard of Bobby Darin, but maybe not Bob Darin. Same person, different era. Before 1968, Darin was a tuxedo-wearing Vegas crooner with a clean-cut, all-American image. Then everything shattered. He was present at Robert F. Kennedy’s assassination in 1968. He learned that the woman he thought was his sister was actually his mother. And his long-running heart problems, rooted in childhood rheumatic fever, were now impossible to ignore.
 

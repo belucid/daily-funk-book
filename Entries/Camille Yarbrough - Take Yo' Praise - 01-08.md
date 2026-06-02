@@ -14,7 +14,7 @@ region:
 listening mission: You likely know the vocal from Fatboy Slim’s “Praise You.” How does hearing it in its original context change it?
 status: complete
 writing theme: Songs where the sample is better known than the sampled, seems like a cover at first, cause the sample has the words
-song.now code: 1ogi
+funk.day code: kdui
 ---
 Sometimes we hear the original version only after becoming familiar with a cover, so the original sounds like the cover. That happens with samples too. It might happen to you when you hear the opening of today’s song, "Take Yo’ Praise" by Camille Yarbrough. 
 

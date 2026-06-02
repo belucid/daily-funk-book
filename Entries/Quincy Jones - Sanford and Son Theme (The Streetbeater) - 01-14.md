@@ -13,7 +13,7 @@ region: US - California
 listening mission: You’ve probably never heard the full three-minute version. Does it work better at full length, or at the TV show’s quick 50 seconds?
 status: complete
 writing theme: Funk in TV
-song.now code: nu1l
+funk.day code: 8pja
 ---
 Friday, January 14, 1972, marked the premiere of *Sanford and Son*. Critics saw Redd Foxx’s Fred Sanford character as NBC’s answer to Archie Bunker from *All in the Family*, which aired directly before it. *Sanford and Son* finished the 1971-1972 season as sixth best in the ratings. It ran for six seasons, ending in 1977, and it's been in syndication ever since.
 

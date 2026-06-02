@@ -13,7 +13,7 @@ region: Kenya
 listening mission: Listen for the James Brown fingerprints, then for the African elements. Where does the track imitate Brown, and where does it sound  Kenyan?
 status: complete
 writing theme:
-song.now code: h52z
+funk.day code: h52z
 ---
 Kenya gained its independence from Britain on December 12, 1963, at Uhuru Gardens in Nairobi. “Uhuru” is Swahili for “freedom,” and it became a rallying cry of the independence movement. Keep an ear out for it in African funk of the late 1960s and 1970s. You will spot it everywhere: in lyrics, song titles, band names, and even musicians’ first names. Uhuru Kenyatta, born during the independence era, later became Kenya’s fourth president from 2013 to 2022.
 

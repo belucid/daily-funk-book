@@ -14,7 +14,7 @@ region:
 listening mission: I've labeled today's song as free funk. What sounds most free to you?
 status: complete
 writing theme:
-song.now code: pvip
+funk.day code: pvip
 ---
 “NTU” is a Bantu word for “unity in all things,” and the “Troop” in the band’s title included the audience. People were invited to bring their own percussion to concerts to participate in the music-making. The band was often deliberately free of chorded instruments (no keys, no guitar), giving Bartz maximum freedom to play any note on the sax at any time without clashing.
 

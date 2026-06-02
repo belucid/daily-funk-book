@@ -16,7 +16,7 @@ music.now $19.5k/y
 album.day $649/y (future book site)
 **album.now $130/y** (link site)
 
-**song.now $650/y** (link site)
+**funk.day $650/y** (link site)
 song.date $130
 song.fit $52
 song.you $325

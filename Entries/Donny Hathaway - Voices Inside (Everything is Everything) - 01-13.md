@@ -13,7 +13,7 @@ region: US - New York
 listening mission: Fourteen minutes later, as the song winds down and the crowd starts clapping, how do you feel? Are you sad the groove is ending, or relieved?
 status: complete
 writing theme:
-song.now code: zk89
+funk.day code: zk89
 ---
 The studio version of today’s “Voices Inside (Everything Is Everything)” appears on Donny Hathaway’s 1970 debut album *Everything Is Everything*, and it clocks in at a radio-friendly 3m 28s. In this live performance, Hathaway and the band stretch it to nearly fourteen minutes. That extra space is where the jazz in jazz-funk lives.
 

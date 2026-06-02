@@ -14,6 +14,7 @@ region:
 listening mission:
 status: stub
 writing theme:
+funk.day code: kj42
 ---
 Did you know there's only one thing in the world funkier than a funky bass? That's right, it's a funky tuba. There have been some funky tuba players over the years, mostly down in New Orleans, but the funkiest player is from the UK, and his name is Theon Cross. 
 

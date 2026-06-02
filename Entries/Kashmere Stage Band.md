@@ -12,6 +12,7 @@ region: US - Texas
 listening mission:
 status: stub
 writing theme:
+funk.day code: c6i3
 ---
 Track choices:
 Kash Register

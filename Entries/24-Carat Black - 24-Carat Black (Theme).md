@@ -14,7 +14,7 @@ region:
 listening mission: “24-Carat Black (Theme)” is the most commercial track on the record, but at seven minutes it was never going to get much radio play. Where would you cut it to make a four-minute single?
 status: complete
 writing theme:
-song.now code: 2sqe
+funk.day code: 2sqe
 ---
 Zach Schonfeld wrote a book about *Ghetto: Misfortune’s Wealth* and called it "an album that nobody has heard _of_, but everybody has heard." Released on Stax’s Enterprise subsidiary in late 1973, *Ghetto* arrived as Stax was sliding toward bankruptcy. The album sold poorly, and the band had little label support and worse finances. The final blow came when most of the group spent time in jail over an unpaid hotel bill.
 

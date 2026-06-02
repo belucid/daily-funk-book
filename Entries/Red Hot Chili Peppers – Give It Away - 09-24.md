@@ -13,7 +13,7 @@ region: US - California
 listening mission: The word 'give' occurs 75 times. When does the repetition stop being a lyric and start becoming a rhythm instrument?
 status: complete
 writing theme:
-song.now code: f51w
+funk.day code: e5mu
 ---
 *Blood Sugar Sex Magik* was released on September 24, 1991, the same day Nirvana released *Nevermind*. It is hard not to treat that date as a pivotal point, with a decade's defining sounds arriving all at once.
 

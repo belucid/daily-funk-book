@@ -12,7 +12,7 @@ region: US - New York
 listening mission:
 status: research-review
 writing theme:
-song.now code:
+funk.day code: gbtf
 ---
 
 ---

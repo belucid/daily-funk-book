@@ -13,7 +13,7 @@ region: US - Illinois
 listening mission: Why does the song dissolve into a spoken-word montage at the end? Can you imagine this ending without the influence of the Beatles?
 status: complete
 writing theme:
-song.now code: 6enm
+funk.day code: 6enm
 ---
 Lead singer Curtis Mayfield left the Impressions in 1970 to pursue a solo career, but he still wrote and produced today’s song, “Stop the War,” for his former group. *Times Have Changed* was the only Impressions album to feature Leroy Hutson as Mayfield’s replacement on lead vocals. Hutson stayed for just one album and tour before leaving to start his own solo career.
 

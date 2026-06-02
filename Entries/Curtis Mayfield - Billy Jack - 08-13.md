@@ -13,7 +13,7 @@ region: US - Illinois
 listening mission: Play “Pusherman” and “Billy Jack” back to back. In 1972, Mayfield puts you inside the dealer’s mind. By 1975, he is attending the dealer’s funeral.
 status: complete
 writing theme:
-song.now code: c4r7
+funk.day code: c4r7
 ---
 In the 1972 *Super Fly* soundtrack, Curtis Mayfield sang about dealers and addicts from inside their world. By 1975, on “Billy Jack,” he was telling the end of the story: the dealer lies dead in the street.
 

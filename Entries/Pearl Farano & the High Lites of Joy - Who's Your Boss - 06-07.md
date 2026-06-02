@@ -13,6 +13,7 @@ region: US - Northeast
 listening mission: Listen to how the different vocalists interact. Gospel leans on call-and-response, but this track blends in plenty of R&B. When do the background vocals answer the lead's call, and when do they do their own thing?
 status: review
 writing theme:
+funk.day code: gw6g
 ---
 Pearl Farano was born Pearl Reaves on June 7, 1929, in Raleigh, North Carolina. She moved to New Jersey in 1949 and married drummer Paul Farano. After she won five straight weeks of amateur night, he hired her to sing at his Palace Blue Room club. The couple later moved to Dorchester, Massachusetts, where they were living in 1982 when today’s song, “Who’s Your Boss,” was recorded.
 

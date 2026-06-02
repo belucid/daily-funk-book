@@ -14,7 +14,7 @@ region:
 listening mission: I trust you know Carly Simon’s soft-rock original. What changes here to make it funky?
 status: complete
 writing theme:
-song.now code: k9fq
+funk.day code: k9fq
 ---
 Producer David Axelrod was born on April 17, 1931, in Los Angeles. He never played an instrument or sang on his solo records. He arranged, conducted, and mixed them, but the sounds themselves all came from other players. He did not write today’s song either. "You’re So Vain" is a cover of Carly Simon’s #1 hit from November 1972.
 

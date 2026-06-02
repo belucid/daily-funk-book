@@ -13,7 +13,7 @@ region: US - New York
 listening mission: Listen to today’s song and think about context versus musical merit. If Donna Summer had recorded this for Atlantic, instead of Sandi Hewitt singing it on a pornographic soundtrack for Bryan Records, would it be so unknown?
 status: complete
 writing theme:
-song.now code: nsyq
+funk.day code: nsyq
 ---
 Bernard "Pretty" Purdie, the most-recorded drummer in America by 1974, had spent his career playing on other people's records. The soundtrack to the pornographic movie *Lialeh* was his first project as composer, producer, and bandleader.
 

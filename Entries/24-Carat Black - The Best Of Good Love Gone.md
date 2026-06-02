@@ -14,7 +14,7 @@ region:
 listening mission:
 status: research-review
 writing theme: Some deep funk wasn't even released until after the band was rediscovered
-song.now code:
+funk.day code: thjx
 ---
 
 ---

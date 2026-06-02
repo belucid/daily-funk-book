@@ -14,7 +14,7 @@ region:
 listening mission: Does this feel like a live band playing together in a room, or like a session built in pieces?
 status: complete
 writing theme:
-song.now code: 510z
+funk.day code: 34va
 ---
 The tracks on Dr. Strut’s debut album, released June 2, 1979, were cut in just one or two takes with minimal overdubbing, a rarity for an LA jazz-fusion session in 1979. "Blowtop" captures what the band was chasing: a quick punch out of the gate, then restless energy as the groove shifts.
  

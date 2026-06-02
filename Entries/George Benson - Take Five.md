@@ -13,7 +13,7 @@ region: US - New York
 listening mission: The title points to the song’s 5/4 time. Count to five with the beat (it’s quick). Once you lock in, stop counting and just try to feel the odd-meter groove.
 status: complete
 writing theme:
-song.now code: f7h0
+funk.day code: kfft
 ---
 “Take Five” was composed by Paul Desmond and recorded by the Dave Brubeck Quartet in 1959. It became a surprise hit when it was reissued in 1961, reaching #25 on the *Billboard* Hot 100 and becoming the first jazz single to sell over a million copies.
 

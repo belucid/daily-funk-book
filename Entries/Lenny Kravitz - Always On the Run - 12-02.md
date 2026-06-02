@@ -13,7 +13,7 @@ region: US - New York
 listening mission: You already know Slash can rock, and the opening and solo prove it again. How does his funk guitar playing land in the rest of the song?
 status: complete
 writing theme:
-song.now code: 6ktd
+funk.day code: 6ktd
 ---
 Lenny Kravitz and Saul Hudson, better known as Slash from Guns N' Roses, attended Beverly Hills High School together in the early 1980s. Friends in school, they built separate careers in the music industry and lost touch until a chance encounter at the 1990 American Music Awards. A couple months later, the old friends were on a train from New York to a studio in Hoboken, New Jersey. They brought two guitars, a gallon of vodka, and a plan to make a record together.
 

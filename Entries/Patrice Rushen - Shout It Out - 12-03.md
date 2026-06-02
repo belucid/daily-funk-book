@@ -13,6 +13,7 @@ region: US - California
 listening mission: The track opens with a call and response between Charles Meeks’s bass and James Gadson’s reverb-heavy drums. Notice how that primes your ear to follow the funky pocket they establish together after the intro.
 status: review
 writing theme: title track
+funk.day code: 7dhz
 ---
 Today’s song is Patrice Rushen’s “Shout It Out,” from the album *Shout It Out*. That makes it a title track, a song that shares its name with the album. So what makes a good title track?
 

@@ -13,7 +13,7 @@ region: US - New York
 listening mission: "This is the second track from this album in the book. You heard “Morning” on October 22, which was an instrumental. Here, the vocals take over. Which version of this band do you prefer: the one that plays, or the one that sings?"
 status: complete
 writing theme:
-song.now code: 7p86
+funk.day code: 7p86
 ---
 Donald Byrd was born on December 9, 1932, in Detroit, Michigan. His album *Donald Byrd and 125th Street, N.Y.C.* is a standout late-period jazz-funk album. Released in 1979, it includes some disco tracks, but overall it's a compelling listen. You heard a different side of this album on October 22 with “Morning.”
 
