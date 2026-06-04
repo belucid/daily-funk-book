@@ -11,9 +11,10 @@ genre:
   - Psychedelic Funk
 region: US - Ohio
 listening mission: At under three minutes, does this feel like a throwaway novelty song? Does knowing it became one of the most sampled tracks ever, and that its synth line helped define West Coast G-funk, change your assessment?
-status: complete
+status: verified
 writing theme:
 funk.day code: 4s6p
+cover: 4s6p.jpg
 ---
 In today’s song, Granny describes a “Funky Worm” who plays the guitar with no hands. The song hit #1 on the *Billboard* R&B chart and #15 on the Hot 100 in May 1973.
 
@@ -126,20 +127,97 @@ The entry currently has `day: 3-20`. Here are researched date options:
 
 ### Streaming & Purchase Links
 
-- **Spotify**: https://open.spotify.com/track/6j6zSLwHRvHpfGCnZ0z55v
-- **YouTube Music**: Could not locate a direct YouTube Music link; search inconclusive.
-- **Amazon Music**: https://music.amazon.com/artists/B000QKGO3G/ohio-players (artist page; track available on the *Pleasure* album)
-- **Apple Music**: https://music.apple.com/us/song/funky-worm/1246689223
-- **SoundCloud**: https://soundcloud.com/ohio-players/funky-worm-1 (2023 Remastered via official Ohio Players account)
-- **Tidal**: https://tidal.com/browse/track/205374043
-- **Qobuz**: https://www.qobuz.com/us-en/interpreter/ohio-players/35277 (artist page; track available)
-- **Audiomack**: https://audiomack.com/ohio-players/song/funky-worm-2023-remastered
-- **Deezer**: https://www.deezer.com/en/track/1554872092
-- **YouTube Video**: Could not locate a definitive official video link. The track appears on various compilation/fan uploads but no verified official upload was found.
-- **Buy Album on Discogs (Master Release)**: https://www.discogs.com/master/91535-Ohio-Players-Pleasure
-- **Buy Single on Discogs (Master Release)**: https://www.discogs.com/master/91530-Ohio-Players-Funky-Worm-Paint-Me (verified via Discogs API 2026-05-19)
-- **Buy Single on Discogs (1973 7" pressing)**: https://www.discogs.com/release/946303-Ohio-Players-Funky-Worm-Paint-Me
-- **Buy on Amazon**: https://www.amazon.com/Ohio-Players-Funky-Paint-Record/dp/B073HX48TQ (7" vinyl single)
+**Streaming:**
+- Spotify: https://open.spotify.com/track/6j6zSLwHRvHpfGCnZ0z55v
+- Apple Music: https://music.apple.com/us/album/funky-worm/1595684104?i=1595684144
+- YouTube Music: https://music.youtube.com/watch?v=wWiBJJ2dvBg
+- YouTube: https://www.youtube.com/watch?v=bSIb4T5vu9E
+- Amazon Music: https://music.amazon.com/tracks/B09LXCZTS6
+- Tidal: https://tidal.com/browse/track/205374043
+- Qobuz: https://www.qobuz.com/us-en/album/pleasure-ohio-players/jjg8dlokk7ehc
+- SoundCloud (2023 Remastered): https://soundcloud.com/ohio-players/funky-worm-1
+- Deezer: https://www.deezer.com/track/1554872092
+
+**Purchase:**
+- Buy on Discogs (Album): https://www.discogs.com/master/91535-Ohio-Players-Pleasure
+- Buy on Discogs (Single): https://www.discogs.com/master/91530-Ohio-Players-Funky-Worm-Paint-Me
+- Buy on Amazon (CD): https://www.amazon.com/dp/B000MMLMSU
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B0CFYYFL7J
+
+**Structured:**
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/6j6zSLwHRvHpfGCnZ0z55v" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/funky-worm/1595684104?i=1595684144" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=wWiBJJ2dvBg" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=bSIb4T5vu9E" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B09LXCZTS6" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/205374043" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/pleasure-ohio-players/jjg8dlokk7ehc" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/ohio-players/funky-worm-1" }
+    ],
+    "note": "Only official SoundCloud upload is the 2023 Remastered version on the Ohio Players account; no original 1972 master is present."
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/1554872092" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/91535-Ohio-Players-Pleasure" },
+      { "label": "Single", "url": "https://www.discogs.com/master/91530-Ohio-Players-Funky-Worm-Paint-Me" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/dp/B000MMLMSU" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B0CFYYFL7J" }
+    ]
+  }
+]
+```
 
 ### Sources
 

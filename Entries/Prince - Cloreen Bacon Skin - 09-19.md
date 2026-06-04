@@ -11,9 +11,10 @@ genre:
   - Minneapolis Sound
 region: US - Minnesota
 listening mission: Prince keeps telling drummer Morris Day not to lose the pocket. Each time he says it, listen to Morris’ drums. Was Morris actually slipping, or was Prince just messing with him?
-status: complete
+status: verified
 writing theme: Humor in funk, too indulgent to release this given the length and the strip down nature of drums and bass and spoken word
 funk.day code: 25u3
+cover: 25u3.jpg
 ---
 At fifteen-plus minutes, today’s track is one of the longest official Prince releases, and also one of the leanest. It is just Prince on bass and Morris Day on drums. Prince does all the talking. Morris Day stays silent. 
 
@@ -135,21 +136,90 @@ The current genre is **Minneapolis Sound**, which fits well. Here are the cases:
 
 **Streaming:**
 - Spotify: https://open.spotify.com/track/0P8ds4HzEdiU4HEANyr4NX
-- Apple Music: https://music.apple.com/us/album/crystal-ball/1421417148 (track 18 in the combined album listing)
-- Amazon Music: https://music.amazon.com/albums/B07G4NVM9Q
-- Tidal: Available via Prince's artist page (https://tidal.com/browse/artist/4847); Crystal Ball album confirmed available on Tidal since 2018 digital release
+- Apple Music: https://music.apple.com/us/album/cloreen-bacon-skin/1421417148?i=1421417824
+- YouTube Music: https://music.youtube.com/watch?v=z9xjVIA4cFU
+- YouTube: https://www.youtube.com/watch?v=eqKb5jZWAJw
+- Amazon Music: https://music.amazon.com/tracks/B07G4QZW5P
+- Tidal: https://tidal.com/browse/track/92983763
 - Qobuz: https://www.qobuz.com/us-en/album/crystal-ball-prince/kon4jh5baipac
-- Deezer: Available (album ID 69843042); search "Prince Crystal Ball" on Deezer
-- SoundCloud: Available via Prince's official SoundCloud (https://soundcloud.com/prince/crystal-ball/sets)
-- YouTube Music: Could not locate a direct album link; search inconclusive
-- Audiomack: Could not locate; likely not available on this platform
-- YouTube Video: No official video exists. Unofficial uploads may be found by searching "Prince Cloreen Bacon Skin" on YouTube.
+- SoundCloud: https://soundcloud.com/prince/cloreen-bacon-skin
+- Deezer: https://www.deezer.com/track/536623332
 
 **Purchase:**
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/355175-The-Artist-Formerly-Known-As-Prince-Crystal-Ball
-- Buy Single on Discogs: Not applicable (never released as a single)
-- Buy on Amazon (CD): https://www.amazon.com/Crystal-Ball-Prince/dp/B000006CHF
-- Buy on Amazon (Digital): https://www.amazon.com/Crystal-Ball-Prince/dp/B07G4NVM9Q
+- Buy on Discogs: https://www.discogs.com/master/355175-The-Artist-Formerly-Known-As-Prince-Crystal-Ball
+- Buy on Amazon: Verified absent (no suitable retail listing confirmed).
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0P8ds4HzEdiU4HEANyr4NX" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/cloreen-bacon-skin/1421417148?i=1421417824" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=z9xjVIA4cFU" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=eqKb5jZWAJw" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B07G4QZW5P" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/92983763" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/crystal-ball-prince/kon4jh5baipac" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/prince/cloreen-bacon-skin" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/536623332" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/355175-The-Artist-Formerly-Known-As-Prince-Crystal-Ball" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "Human confirmed no suitable retail Amazon listing to link."
+  }
+]
+```
 
 ### Sources
 

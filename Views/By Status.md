@@ -8,6 +8,7 @@ const researchReview  = pages.filter(p => p.status === "research-review");
 const draft           = pages.filter(p => p.status === "draft");
 const review          = pages.filter(p => p.status === "review");
 const complete        = pages.filter(p => p.status === "complete");
+const verified        = pages.filter(p => p.status === "verified");
 
 dv.header(2, `Stub — ${stub.length}`);
 dv.table(
@@ -43,5 +44,11 @@ dv.header(2, `Complete — ${complete.length} / 366`);
 dv.table(
   ["Entry", "Artist", "Track", "Day", "Genre"],
   complete.sort(p => p.day).map(p => [p.file.link, p.artist, p.track, p.day, p.genre])
+);
+
+dv.header(2, `Verified — ${verified.length} / 366`);
+dv.table(
+  ["Entry", "Artist", "Track", "Day", "Code", "Genre"],
+  verified.sort(p => p.day).map(p => [p.file.link, p.artist, p.track, p.day, p["funk.day code"], p.genre])
 );
 ```

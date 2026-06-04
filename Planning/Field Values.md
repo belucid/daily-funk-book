@@ -52,6 +52,7 @@ Free text — record label name (e.g. Aware Records, People Records, Blue Note)
 - Japan
 - Kenya
 - South Africa
+- Democratic Republic of the Congo
 
 ## status
 - stub
@@ -60,3 +61,4 @@ Free text — record label name (e.g. Aware Records, People Records, Blue Note)
 - draft
 - review
 - complete
+- verified

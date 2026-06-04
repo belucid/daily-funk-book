@@ -1,1 +1,3 @@
 Each daily entry includes a listening mission, should you choose to accept it. These prompts are intentionally open-ended and have no right answer. Treat them as small challenges to keep your ears awake, not as homework. The goal is to listen actively, notice what you notice, and carry at least one new question with you into your day.
+
+Each listening mission also comes with a simple funk.day link for that day’s track. Open it on your phone, tablet, or computer and you will see quick links to listen on the music streaming services and YouTube. If a song really grabs you, the page also includes options to buy the album on vinyl or CD.

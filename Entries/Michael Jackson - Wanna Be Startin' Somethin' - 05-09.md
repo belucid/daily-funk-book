@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: During the recording sessions, Jackson, Nelson Hayes, and Steven Ray stomped on a 4-by-3-foot sheet of plywood to add percussion. Can you hear it in the mix?
-status: complete
+status: verified
 writing theme: Why Michael never made any pure funk music
 funk.day code: 3rfr
+cover: 3rfr.jpg
 ---
 I really wanted at least one Michael Jackson entry in this book, but it was not as easy as it sounds. Throughout his career, Michael ruled the pop and dance genres, but he never released a pure funk track.
 
@@ -126,23 +127,96 @@ Key dates associated with this track and artist:
 ### Streaming & Purchase Links
 
 **Streaming:**
-- Spotify: https://open.spotify.com/track/4VpjW9LiXpwuPPVyfSbRtd
-- Apple Music: https://music.apple.com/us/song/wanna-be-startin-somethin/269572927
-- YouTube Music: Could not locate direct link (no dedicated YouTube Music URL found in search)
-- Amazon Music: https://www.amazon.com/Wanna-Be-Startin-Somethin/dp/B0013DC9TS
-- SoundCloud: https://soundcloud.com/michael-jackson-topic-920949448/michael-jackson-wanna-be?id=1107377548
-- Tidal: Not available as a direct track link (artist page found but no direct track URL confirmed)
-- Qobuz: Could not locate direct track link (available on compilation playlists but no single-track URL found)
-- Audiomack: https://audiomack.com/michael-jackson/song/wanna-be-startin-somethin
-- Deezer: https://www.deezer.com/us/track/831216
-
-**Video:**
-- YouTube (Official Lyric Video): https://www.youtube.com/watch?v=DsJlttdkybk
+- Spotify: https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3
+- Apple Music: https://music.apple.com/us/album/wanna-be-startin-somethin/269572838?i=269572927
+- YouTube Music: https://music.youtube.com/watch?v=8KWf_-ofYgI
+- YouTube: https://www.youtube.com/watch?v=1XMvPTFzgVU
+- Amazon Music: https://music.amazon.com/tracks/B0013DC9TS
+- Tidal: https://tidal.com/browse/track/1781828
+- Qobuz: https://www.qobuz.com/us-en/album/thriller-michael-jackson/0074643811224
+- SoundCloud: https://soundcloud.com/michael-jackson-topic-920949448/michael-jackson-wanna-be
+- Deezer: https://www.deezer.com/track/831216
 
 **Purchase:**
-- Buy Album on Discogs (Master): https://www.discogs.com/master/8883-Michael-Jackson-Thriller
-- Buy Single on Discogs (Master): https://www.discogs.com/master/35113-Michael-Jackson-Wanna-Be-Startin-Somethin
-- Buy on Amazon: https://www.amazon.com/MICHAEL-JACKSON-STARTIN-SOMETHIN-single/dp/B00Q525958
+- Buy on Discogs (Album): https://www.discogs.com/master/8883-Michael-Jackson-Thriller
+- Buy on Discogs (Single): https://www.discogs.com/master/35113-Michael-Jackson-Wanna-Be-Startin-Somethin
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B01B2M9H76
+- Buy on Amazon (CD): https://www.amazon.com/dp/B09ZCSVZH7
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/wanna-be-startin-somethin/269572838?i=269572927" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=8KWf_-ofYgI" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=1XMvPTFzgVU" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0013DC9TS" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/1781828" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/thriller-michael-jackson/0074643811224" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/michael-jackson-topic-920949448/michael-jackson-wanna-be" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/831216" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/8883-Michael-Jackson-Thriller" },
+      { "label": "Single", "url": "https://www.discogs.com/master/35113-Michael-Jackson-Wanna-Be-Startin-Somethin" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B01B2M9H76" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B09ZCSVZH7" }
+    ]
+  }
+]
+```
 
 ### Sources
 

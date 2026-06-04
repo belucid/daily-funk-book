@@ -12,9 +12,10 @@ genre:
 region:
   - Cameroon
 listening mission: How does the famous "ma-ma-say, ma-ma-sa" chant change for you when you hear it in its original context of the Duala lyrics of a Cameroonian makossa song?
-status: complete
+status: verified
 writing theme: relationship between makossa and funk
 funk.day code: j6dp
+cover: j6dp.jpg
 ---
 The famous "ma-ma-say, ma-ma-sa" chant from yesterday's "Wanna Be Startin' Somethin'" is borrowed from Manu Dibango's 1972 hit "Soul Makossa." The lyrical larceny led to a lawsuit by Dibango, which was settled for one million French francs. Another lawsuit followed in 2009 when Rihanna sampled Michael Jackson's song in "Don't Stop the Music."
 
@@ -137,20 +138,97 @@ The genre is currently set to **Afrobeat**.
 
 ### Streaming & Purchase Links
 
-**Spotify**: https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu
-**Apple Music**: https://music.apple.com/us/album/soul-makossa/1821046580
-**YouTube Music**: Could not locate a direct link; search "Manu Dibango Soul Makossa" on YouTube Music.
-**Amazon Music**: Available via Amazon Music (album page: https://www.amazon.com/Soul-Makossa-MANU-DIBANGO/dp/B000006CL7)
-**SoundCloud**: https://soundcloud.com/manudibango/soul-makossa-album-version (official Manu Dibango account)
-**Tidal**: https://tidal.com/browse/artist/11321 (artist page; search for track)
-**Qobuz**: Could not locate a direct link; search on platform.
-**Audiomack**: Could not locate.
-**Deezer**: Available via Songwhip aggregator (https://songwhip.com/manu-dibango/soul-makossa); could not confirm direct Deezer link.
-**YouTube Video**: Search "Manu Dibango Soul Makossa original" on YouTube. A commonly referenced video ID is o0CeFX6E2yI.
-**Buy Album on Discogs (Master Release)**: https://www.discogs.com/master/141437-Manu-Dibango-Soul-Makossa
-**Buy Single on Discogs (Master Release)**: https://www.discogs.com/master/141438-Manu-Dibango-Soul-Makossa-Lily ("Soul Makossa / Lily" 1973 7", verified via Discogs API 2026-05-19)
-**Buy on Amazon (CD)**: https://www.amazon.com/Soul-Makossa-MANU-DIBANGO/dp/B000006CL7
-**Buy on Amazon (Vinyl)**: https://www.amazon.com/Soul-Makossa-Vinyl-Manu-Dibango/dp/B00005NDOT
+**Streaming:**
+- Spotify: https://open.spotify.com/track/0jFG8x8cvjXxcnvtxb26MC
+- Apple Music: https://music.apple.com/us/album/soul-makossa/1821046580?i=1821046582
+- YouTube Music: https://music.youtube.com/watch?v=HqIGCdd8LhQ
+- YouTube: https://www.youtube.com/watch?v=o0CeFX6E2yI
+- Amazon Music: https://music.amazon.com/tracks/B0FDCH72BS
+- Tidal: https://tidal.com/browse/track/442490528
+- Qobuz: https://www.qobuz.com/us-en/album/soul-makossa-manu-dibango/q0uqotokwxb5a
+- SoundCloud: https://soundcloud.com/serium999/manu-dibango-soul-makossa
+- Deezer: https://www.deezer.com/track/3418091461
+
+**Purchase:**
+- Buy on Discogs (Album): https://www.discogs.com/master/141437-Manu-Dibango-Soul-Makossa
+- Buy on Discogs (Single): https://www.discogs.com/master/141438-Manu-Dibango-Soul-Makossa-Lily
+- Buy on Amazon (CD): https://www.amazon.com/dp/B000025AW0
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B000VMF35Y
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0jFG8x8cvjXxcnvtxb26MC" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/soul-makossa/1821046580?i=1821046582" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=HqIGCdd8LhQ" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=o0CeFX6E2yI" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0FDCH72BS" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/442490528" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/soul-makossa-manu-dibango/q0uqotokwxb5a" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/serium999/manu-dibango-soul-makossa" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/3418091461" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/141437-Manu-Dibango-Soul-Makossa" },
+      { "label": "Single", "url": "https://www.discogs.com/master/141438-Manu-Dibango-Soul-Makossa-Lily" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/dp/B000025AW0" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B000VMF35Y" }
+    ]
+  }
+]
+```
 
 ### Sources
 

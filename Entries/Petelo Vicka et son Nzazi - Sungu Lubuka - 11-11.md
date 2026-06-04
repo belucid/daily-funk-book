@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 11-11
 artist: Petelo Vicka et son Nzazi
 track: Sungu Lubuka
 album: Petelo Vicka Et Son "Nzazi"
@@ -9,15 +9,48 @@ year: 1982
 track length: 7m 49s
 genre:
   - Afrobeat
-region: 
-listening mission:
-status: research-review
+region:
+  - Democratic Republic of the Congo
+listening mission: There’s a lot of tasty ear candy here, but focus on the percussion, especially the cowbell. Without a straight 4/4 feel or funk’s hard “one,” what is carrying the groove?
+status: review
 writing theme:
-funk.day code: nsfw
+funk.day code: ns38
 ---
+Angola’s war for independence began in 1961 as a revolt against Portuguese colonial policies and grew into a full revolutionary insurgency that helped destabilize Portugal itself. When Angola finally gained independence on November 11, 1975, the violence did not end. Rival Angolan factions declared competing governments, and the country slid straight into civil war.
+
+Singer Petelo Vicka arrived in Kinshasa in the Democratic Republic of Congo as a refugee of that turmoil. There he built his band Nzazi, roughly “lightning,” out of session players from International Sim Sim, the in-house studio band at Simbard Studios. Together they cut a self-titled LP of “research music,” the local term the studio used for jazz-funk, reportedly recorded in a single one-night session. After a small local pressing, the album all but vanished.
+
+Decades later, the record resurfaced in 2024. Analog Africa opened its *Congo Funk!* crate-digger compilation with “Sungu Lubuka,” and the label NoForm reissued the original LP, bringing this lost Kinshasa jazz-funk artifact back from the dustbins of history and to your streaming service today.
+
 
 ---
 ## Research Notes
+
+### Resolved Research Questions
+
+#### Angolan Independence Day, November 11 1975 (five facts)
+
+1. **Two governments were declared in one weekend.** On November 11 1975 the MPLA's Agostinho Neto proclaimed the People's Republic of Angola in the capital, Luanda; the Portuguese colonial administration had quietly sailed out the day before, on November 10. Within the same window the rival FNLA and UNITA proclaimed their own competing state, the Democratic People's Republic of Angola, based in Huambo. Independence Day was therefore also day one of a civil war. Sources: https://en.wikipedia.org/wiki/Independence_Day_(Angola) ; https://en.wikipedia.org/wiki/Angolan_War_of_Independence
+
+2. **The first president was a published poet.** Agostinho Neto (1922-1979), who read out the independence proclamation and became Angola's first head of state, was a US- and Portugal-trained medical doctor and Angola's most celebrated poet. He published a volume of poems in Luanda in 1948 and the collection *Sacred Hope* in 1974; his work is usually classed as protest poetry against colonial rule. The country's flagship public university, Agostinho Neto University, carries his name. Sources: https://en.wikipedia.org/wiki/Agostinho_Neto ; https://www.britannica.com/biography/Agostinho-Neto
+
+3. **Independence arrived only because of a coup in Lisbon.** Portugal clung to Angola through 14 years of war; the breakthrough was Portugal's own Carnation Revolution of April 25 1974, a near-bloodless military coup that toppled the Estado Novo dictatorship. The new government immediately moved to give up the colonies, leading to the Alvor Agreement of January 15 1975 and the handover ten months later. Source: https://en.wikipedia.org/wiki/Angolan_War_of_Independence
+
+4. **It became a Cold War proxy almost instantly.** The MPLA held Luanda with Cuban troops and Soviet backing; UNITA and the FNLA were supported by the United States, Zaire, and apartheid South Africa, whose army had already crossed into southern Angola before the November date. The independence many Angolans celebrated was simultaneously the opening of a 27-year civil war that did not end until 2002. Sources: https://en.wikipedia.org/wiki/Angolan_Civil_War ; https://history.state.gov/milestones/1969-1976/angola
+
+5. **Music tie-in.** Angola's independence-era anthem, "Angola Avante," was adopted at independence in 1975, and modern November 11 celebrations are marked with parades, fireworks, and concerts. More to the point for this entry: independence and the war around it scattered Angolan musicians across the region, and Kinshasa (just across the border in Zaire) became a magnet for displaced players, which is exactly the current that carries Petelo Vicka into the city. Source: https://en.wikipedia.org/wiki/Independence_Day_(Angola)
+
+#### The Angolan war and its relation to Independence Day
+
+The Angolan War of Independence ran from February 4 1961 to 1974. It began as a revolt against Portuguese forced-labor and cash-crop policy and grew into a three-way nationalist insurgency (MPLA, FNLA, UNITA) against Portugal, part of the wider Portuguese Colonial War fought simultaneously in Mozambique and Guinea-Bissau. Portugal committed over a million troops across the colonies and the war drained roughly 40% of the national budget by 1973, fueling the war-fatigue that triggered the 1974 Carnation Revolution. That coup ended the fighting; the Alvor Agreement (January 1975) set a transition; and independence was proclaimed on November 11 1975. So Independence Day is the formal end-point of the war of independence and, in the same breath, the start of the Angolan Civil War, because the three movements never formed the unified government Alvor envisioned. Sources: https://en.wikipedia.org/wiki/Angolan_War_of_Independence ; https://en.wikipedia.org/wiki/Portuguese_Colonial_War
+
+#### Petelo Vicka's biography (Angolan war refugee) — corroboration
+
+The refugee biography now has multiple independent write-ups, not just KLOF Mag. Bandcamp Daily, Silent Radio, and the NoForm/Analog Africa reissue copy all state that Petelo (the vocalist) came to Kinshasa after fleeing Angola during its war of independence, then built Orchestre Nzazi largely from International Sim Sim, the studio's house band, alongside lead guitarist Eloys Simon Sungu. "Nzazi" means "lightning." Caveat for fact-checking: these accounts almost certainly trace back to the same Analog Africa / NoForm liner-note source, so the corroboration is breadth of repetition rather than truly independent confirmation. No birth date, hometown in Angola, or arrival year in Kinshasa is published. The biography is consistent and widely repeated but rests on a single primary research effort. Sources: https://daily.bandcamp.com/album-of-the-day/various-artists-congo-funk-analog-africa-review ; https://www.silentradio.co.uk/03/27/album-review-various-congo-funk-sound-madness-from-the-shores-of-the-mighty-congo-river-kinshasabrazzaville-1969-1982/ ; https://klofmag.com/2024/04/congo-funk-sound-madness-from-the-shores-of-the-mighty-congo-river/ ; https://noformprod.bandcamp.com/album/petelo-vicka-son-nzazi
+
+Bearing on the date: with the refugee biography corroborated (if single-sourced), the **November 11** placement is well-founded. Petelo's displacement into Kinshasa is a direct product of the Angolan war whose end Independence Day marks, which makes Nov 11 a thematically clean anchor for the entry even without a personal birthday or release date to peg to.
+
+
 
 **[AUDIT]** `2026-05-24 09:49` — `album` changed from `(empty)` to `Petelo Vicka Et Son "Nzazi"` — Source: https://www.discogs.com/master/3400123-Petelo-Vicka-Et-Son-Nzazi-Petelo-Vicka-Et-Son-Nzazi
 **[AUDIT]** `2026-05-24 09:49` — `label` changed from `(empty)` to `Minica` — Source: https://www.discogs.com/release/8823384-Petelo-Vicka-Et-Son-Nzazi-Petelo-Vicka-Et-Son-Nzazi

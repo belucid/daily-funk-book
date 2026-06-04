@@ -11,9 +11,10 @@ genre:
   - Deep Funk
 region: US - DC
 listening mission: Focus on the four bars of the drum break at 1m 26s. The first two bars repeat, the third holds the snare back a beat, and the fourth adds a cymbal crash. Why did those small changes make this the loop every sampler wanted?
-status: complete
+status: verified
 writing theme:
 funk.day code: y578
+cover: y578.jpg
 ---
 “Amen, Brother” is a funky instrumental built around the gospel song “Amen,” popularized by Jester Hairston’s arrangement for the 1963 Sidney Poitier film *Lilies of the Field*. The Winstons' song is also the most sampled recording in history, with over 7,500 verified samples, thanks to a seven-second drum break that became known as the Amen break.
 
@@ -128,20 +129,99 @@ Current `region` field was empty and has been populated as **US - DC**. Candidat
 
 ### Streaming & Purchase Links
 
+**Streaming:**
+
 - Spotify: https://open.spotify.com/track/32Rf95ZT8gxisQMK6xAhba
-- YouTube Music: https://music.youtube.com/watch?v=_2UltDBPW0w
-- Apple Music: https://music.apple.com/us/song/amen-brother/541340715
-- SoundCloud: https://soundcloud.com/thewinstonsofficial/amen-brother (official upload)
-- YouTube Video: https://www.youtube.com/watch?v=GxZuq57_bYM
-- Amazon Music: Could not locate a direct US track page; search at https://music.amazon.com returns the track on various *Ultimate Breaks & Beats*-style compilations. Confirmed available on the platform but not a clean per-track URL.
-- Tidal: Could not locate a clean per-track URL (Tidal is paywalled for external search verification).
-- Qobuz: Could not locate.
-- Audiomack: Could not locate.
-- Deezer: Could not locate a confirmed official upload.
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/150460-The-Winstons-Color-Him-Father
-- Buy Album on Discogs (1969 US LP, Metromedia MD 1010): https://www.discogs.com/release/1073161-The-Winstons-Color-Him-Father
-- Buy Single on Discogs (Master Release): https://www.discogs.com/master/150461-The-Winstons-Color-Him-Father-Amen-Brother
-- Buy on Amazon: Search at https://www.amazon.com/s?k=the+winstons+color+him+father for original pressings and a 2019 Sounds of the Universe / Soul Jazz Records reissue of *Color Him Father*.
+- Apple Music: https://music.apple.com/us/album/color-him-father/1229202977?i=1229204820
+- YouTube Music: https://music.youtube.com/watch?v=HrrWhCbZAyY
+- YouTube: https://www.youtube.com/watch?v=GxZuq57_bYM
+- Amazon Music: https://music.amazon.com/tracks/B072HBR5C4
+- Tidal: https://tidal.com/browse/track/73133861
+- Qobuz: https://www.qobuz.com/us-en/album/color-him-father-the-winstons/vre4uy4g2xfxa
+- SoundCloud: https://soundcloud.com/thewinstonsofficial/amen-brother
+- Deezer: https://www.deezer.com/track/353470861
+
+**Purchase:**
+
+- Buy on Discogs (Album): https://www.discogs.com/master/150460-The-Winstons-Color-Him-Father
+- Buy on Discogs (Single): https://www.discogs.com/master/150461-The-Winstons-Color-Him-Father-Amen-Brother
+- Buy on Amazon (Vinyl): https://www.amazon.com/Color-Him-Father-Winstons/dp/B09Q1Z5NQ3
+- Buy on Amazon (CD): https://www.amazon.com/Color-Him-Father-Winstons/dp/B09Q1YXGTD
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/32Rf95ZT8gxisQMK6xAhba" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/color-him-father/1229202977?i=1229204820" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=HrrWhCbZAyY" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=GxZuq57_bYM" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B072HBR5C4" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/73133861" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/color-him-father-the-winstons/vre4uy4g2xfxa" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/thewinstonsofficial/amen-brother" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/353470861" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/150460-The-Winstons-Color-Him-Father" },
+      { "label": "Single", "url": "https://www.discogs.com/master/150461-The-Winstons-Color-Him-Father-Amen-Brother" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/Color-Him-Father-Winstons/dp/B09Q1Z5NQ3" },
+      { "label": "CD", "url": "https://www.amazon.com/Color-Him-Father-Winstons/dp/B09Q1YXGTD" }
+    ]
+  }
+]
+```
 
 ### Sources
 

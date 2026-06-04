@@ -7,6 +7,7 @@ status:
   - draft
   - review
   - complete
+  - verified
 genre:
   - Acid Jazz
   - Afrobeat
@@ -53,4 +54,5 @@ region:
   - US - West
   - Japan
   - South Africa
+  - Democratic Republic of the Congo
 ---

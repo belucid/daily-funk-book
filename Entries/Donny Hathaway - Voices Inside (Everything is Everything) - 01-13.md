@@ -11,9 +11,10 @@ genre:
   - Jazz-Funk
 region: US - New York
 listening mission: Fourteen minutes later, as the song winds down and the crowd starts clapping, how do you feel? Are you sad the groove is ending, or relieved?
-status: complete
+status: verified
 writing theme:
 funk.day code: zk89
+cover: zk89.jpg
 ---
 The studio version of today’s “Voices Inside (Everything Is Everything)” appears on Donny Hathaway’s 1970 debut album *Everything Is Everything*, and it clocks in at a radio-friendly 3m 28s. In this live performance, Hathaway and the band stretch it to nearly fourteen minutes. That extra space is where the jazz in jazz-funk lives.
 
@@ -178,22 +179,113 @@ The `listening mission` field is currently empty.
 
 **Streaming:**
 - Spotify (Live version): https://open.spotify.com/track/1cQT5czRr73b52Y7AxZt3p
-- Spotify (Studio version): https://open.spotify.com/track/7fLbUdinXGkwjeH8j40seK
-- Apple Music (*Live* album): https://music.apple.com/us/album/live/537033638
-- Tidal (*Live* album): https://tidal.com/browse/album/68712499
-- Deezer (*Live* album): https://www.deezer.com/en/album/3801131
-- Qobuz (*Live* album): https://www.qobuz.com/gb-en/album/live-donny-hathaway/0603497931194
-- SoundCloud (Live at Bitter End version): https://soundcloud.com/donnyhathaway/voices-inside-everything-is-3
-- SoundCloud (Alternate Bitter End performance): https://soundcloud.com/donnyhathaway/voices-inside-everything-is-6
-- YouTube Music: Could not locate a direct link; search "Donny Hathaway Voices Inside Live" on the platform
-- Amazon Music: Available via Amazon listing — https://www.amazon.com/Donny-Hathaway-Live-DONNY-HATHAWAY/dp/B000005S6W
-- Audiomack: Could not locate (search inconclusive)
+- Spotify (Studio version): https://open.spotify.com/track/0X4dm6ZioTcqYDUuhTSoqj
+- Apple Music (Live version): https://music.apple.com/us/album/voice-inside-everything-is-everything-live/537033638?i=537033681
+- Apple Music (Studio version): https://music.apple.com/us/album/voice-inside-everything-is-everything/1018383581?i=1018383889
+- YouTube Music (Live version): https://music.youtube.com/watch?v=3gpN-SJD-VY
+- YouTube Music (Studio version): https://music.youtube.com/watch?v=iX3l21eEpW0
+- YouTube (Live version, best available upload — no official video): https://www.youtube.com/watch?v=lSdglxtW8Lg
+- YouTube (Studio version, best available upload — no official video): https://www.youtube.com/watch?v=Ozi7gA9j5nY
+- Amazon Music (Live version): https://music.amazon.com/tracks/B008CAB4AA
+- Amazon Music (Studio version): https://music.amazon.com/tracks/B0045X6K5C
+- Tidal (Live version): https://tidal.com/browse/track/16214014
+- Tidal (Studio version): https://tidal.com/browse/track/4616714
+- Qobuz (Live version): https://www.qobuz.com/us-en/album/live-donny-hathaway/0603497931194
+- Qobuz (Studio version): https://www.qobuz.com/us-en/album/everything-is-everything-donny-hathaway/0081227221669
+- SoundCloud (Live version): https://soundcloud.com/donnyhathaway/voices-inside-everything-is-4
+- SoundCloud (Studio version): https://soundcloud.com/donnyhathaway/voices-inside-everything-is-1
+- Deezer (Live version): https://www.deezer.com/track/39057231
+- Deezer (Studio version): https://www.deezer.com/track/7358658
 
 **Purchase:**
-- Buy Album on Discogs (Master release): https://www.discogs.com/master/119696-Donny-Hathaway-Live
-- Buy Single on Discogs (Master release, studio version single): https://www.discogs.com/master/983465-Donny-Hathaway-Voices-Inside-Everything-Is-Everything-Tryin-Times
-- Buy on Amazon (CD): https://www.amazon.com/Live-Donny-Hathaway/dp/B009PTXW16
-- Buy on Amazon (Vinyl): https://www.amazon.com/Live-Vinyl-Donny-Hathaway/dp/B0021BSOO0
+- Discogs (Album): https://www.discogs.com/master/119696-Donny-Hathaway-Live
+- Discogs (Single): https://www.discogs.com/master/983465-Donny-Hathaway-Voices-Inside-Everything-Is-Everything-Tryin-Times
+- Amazon (CD): https://www.amazon.com/Live-DONNY-HATHAWAY-1998-12-15/dp/B01JT1DJSK
+- Amazon (Vinyl): https://www.amazon.com/Live-Donny-Hathaway/dp/B0GBYGYSMW
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "label": "Live version", "url": "https://open.spotify.com/track/1cQT5czRr73b52Y7AxZt3p" },
+      { "label": "Studio version", "url": "https://open.spotify.com/track/0X4dm6ZioTcqYDUuhTSoqj" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "label": "Live version", "url": "https://music.apple.com/us/album/voice-inside-everything-is-everything-live/537033638?i=537033681" },
+      { "label": "Studio version", "url": "https://music.apple.com/us/album/voice-inside-everything-is-everything/1018383581?i=1018383889" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "label": "Live version", "url": "https://music.youtube.com/watch?v=3gpN-SJD-VY" },
+      { "label": "Studio version", "url": "https://music.youtube.com/watch?v=iX3l21eEpW0" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "label": "Live version", "url": "https://www.youtube.com/watch?v=lSdglxtW8Lg" },
+      { "label": "Studio version", "url": "https://www.youtube.com/watch?v=Ozi7gA9j5nY" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "label": "Live version", "url": "https://music.amazon.com/tracks/B008CAB4AA" },
+      { "label": "Studio version", "url": "https://music.amazon.com/tracks/B0045X6K5C" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "label": "Live version", "url": "https://tidal.com/browse/track/16214014" },
+      { "label": "Studio version", "url": "https://tidal.com/browse/track/4616714" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "label": "Live version", "url": "https://www.qobuz.com/us-en/album/live-donny-hathaway/0603497931194" },
+      { "label": "Studio version", "url": "https://www.qobuz.com/us-en/album/everything-is-everything-donny-hathaway/0081227221669" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "label": "Live version", "url": "https://soundcloud.com/donnyhathaway/voices-inside-everything-is-4" },
+      { "label": "Studio version", "url": "https://soundcloud.com/donnyhathaway/voices-inside-everything-is-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "label": "Live version", "url": "https://www.deezer.com/track/39057231" },
+      { "label": "Studio version", "url": "https://www.deezer.com/track/7358658" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/119696-Donny-Hathaway-Live" },
+      { "label": "Single", "url": "https://www.discogs.com/master/983465-Donny-Hathaway-Voices-Inside-Everything-Is-Everything-Tryin-Times" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/Live-DONNY-HATHAWAY-1998-12-15/dp/B01JT1DJSK" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/Live-Donny-Hathaway/dp/B0GBYGYSMW" }
+    ]
+  }
+]
+```
 
 ### Sources
 
