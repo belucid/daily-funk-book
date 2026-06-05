@@ -11,9 +11,10 @@ genre:
   - Deep Funk
 region: US - California
 listening mission: Lock in on Larry Graham’s bass. His slap-and-pop style became a defining sound of the funk era. Does something in Davis’ vocal attack evoke a slap bass too?
-status: complete
+status: verified
 writing theme:
 funk.day code: 5sgp
+cover: 5sgp.jpg
 ---
 Today’s song, "Anti Love Song," is from Betty Davis’ self-titled debut album, released on April 2, 1973, by Just Sunshine Records. Many listeners knew her as Miles Davis’ ex-wife, and the woman who named his *Bitches Brew* album. Her own debut was a funky declaration of independence.
 
@@ -103,23 +104,95 @@ Strongest suggestion: **Classic Funk**.
 
 Strongest suggestion: **US - California**, which is what was set.
 
-### Streaming & Purchase Links
+Streaming:
 
-- Spotify: https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y
-- Apple Music: https://music.apple.com/ca/song/anti-love-song/1790500052
-- YouTube Music: could not locate a direct YouTube Music URL; the track is available via the YouTube Video link below and on YouTube Music searches under "Betty Davis - Anti Love Song"
-- Amazon Music: https://www.amazon.com/Anti-Love-Song/dp/B000QPTRPS
-- Tidal: https://listen.tidal.com/track/411609262
-- Deezer: https://www.deezer.com/en/track/14013325
-- SoundCloud: could not locate an official upload (a fan "regroove" exists at https://soundcloud.com/natimse/betty-davis-anti-love-song-nati-regroove)
-- Qobuz: could not locate a direct track URL
-- Audiomack: could not locate
-- Bandcamp (artist page): https://bettydavis.bandcamp.com/track/anti-love-song
-- YouTube Video: https://www.youtube.com/watch?v=fxKBnR_8LIM
-- Buy Album on Discogs (master release): https://www.discogs.com/master/133642-Betty-Davis-Betty-Davis
-- Buy Single on Discogs: not applicable; "Anti Love Song" was an album track, not issued as a standalone 7"
-- Buy on Amazon (album): https://www.amazon.com/Betty-Davis/dp/B000NQR7HA
-- Buy on Light in the Attic (current reissue): https://lightintheattic.net/products/betty-davis
+- **Spotify:** https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y
+- **Apple Music:** https://music.apple.com/us/album/anti-love-song/1790499728?i=1790500052
+- **YouTube Music:** https://music.youtube.com/watch?v=mhG9ZZcV8SM
+- **YouTube:** https://www.youtube.com/watch?v=fxKBnR_8LIM
+- **Amazon Music:** https://music.amazon.com/tracks/B0DT22PDZK
+- **Tidal:** https://tidal.com/browse/track/411609262
+- **Qobuz:** https://www.qobuz.com/us-en/album/betty-davis-betty-davis/r1cdzfgs0vs0b
+- **SoundCloud:** https://soundcloud.com/mmbubu/betty-davis-anti-love-song
+- **Deezer:** https://www.deezer.com/track/3184919581
+
+Purchase:
+
+- **Buy on Discogs:** https://www.discogs.com/master/133642-Betty-Davis-Betty-Davis
+- **Buy on Amazon:** https://www.amazon.com/Betty-Davis-180-Gram-Vinyl/dp/B000VXLBN6
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/anti-love-song/1790499728?i=1790500052" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=mhG9ZZcV8SM" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=fxKBnR_8LIM" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0DT22PDZK" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/411609262" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/betty-davis-betty-davis/r1cdzfgs0vs0b" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/mmbubu/betty-davis-anti-love-song" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/3184919581" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/133642-Betty-Davis-Betty-Davis" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "url": "https://www.amazon.com/Betty-Davis-180-Gram-Vinyl/dp/B000VXLBN6" }
+    ]
+  }
+]
+```
 
 ### Sources
 

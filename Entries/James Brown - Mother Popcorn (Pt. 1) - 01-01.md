@@ -12,9 +12,10 @@ genre:
 region:
   - US - Southeast
 listening mission: Wait for the moment Brown calls out, “Maceo, blow your horn.” Part 1 cuts right as the solo is about to start. Why do you think Brown chose that cliffhanger?
-status: complete
+status: verified
 writing theme:
 funk.day code: jxqk
+cover: jxqk.jpg
 ---
 There was never any question in my mind that this journey would begin with James Brown. Spoiler alert: it will end with him too, on New Year’s Eve. Everything in the year between is the branching funk tree that sprouted at the feet of the Godfather.
 
@@ -123,19 +124,98 @@ Note: The `12-31` date is currently assigned to "Funky Drummer (Pt. 1 & 2)" by J
 
 ### Streaming & Purchase Links
 
-- **Spotify:** https://open.spotify.com/track/6mRWYqhRPJVyYpLOLvbtRg (Pt. 1)
-- **YouTube Music:** Could not locate a direct link. Search "James Brown Mother Popcorn" on YouTube Music.
-- **Amazon Music:** https://www.amazon.com/Mother-Popcorn-Part-Album-Version/dp/B008722JNO (streaming via It's a Mother album)
-- **Apple Music:** https://music.apple.com/us/song/mother-popcorn-pt-1/1443913716
+Streaming:
+
+- **Spotify:** https://open.spotify.com/album/6lN8o7zj38h5pUZ7fAtfdL
+- **Apple Music:** https://music.apple.com/us/album/mother-popcorn-pt-1/1443913714?i=1443913716
+- **YouTube Music:** https://music.youtube.com/watch?v=w_W-I2jdFG0
+- **YouTube:** Pt. 1 https://www.youtube.com/watch?v=w_W-I2jdFG0 · Pts. 1 & 2 https://www.youtube.com/watch?v=SLJLvPYxwlk
+- **Amazon Music:** Pt. 1 https://music.amazon.com/tracks/B008722JKC · Pts. 1 & 2 https://music.amazon.com/tracks/B0DTM9SPHT
+- **Tidal:** https://tidal.com/browse/track/14492495
+- **Qobuz:** https://www.qobuz.com/us-en/album/its-a-mother-james-brown/0060252799295
 - **SoundCloud:** https://soundcloud.com/james-brown-music/mother-popcorn-part-1
-- **Tidal:** https://tidal.com/track/99999038 (Single Version)
-- **Qobuz:** Available on the *20 All-Time Greatest Hits!* collection. Direct track link not confirmed.
-- **Audiomack:** https://audiomack.com/james-brown/song/mother-popcorn-pt-1-1
-- **Deezer:** https://www.deezer.com/us/track/541624832
-- **YouTube Video:** Could not locate an official video link. Search "James Brown Mother Popcorn 1969" on YouTube for uploaded versions.
-- **Buy Album on Discogs (Master):** https://www.discogs.com/master/52539-James-Brown-Its-A-Mother
-- **Buy Single on Discogs (Master):** https://www.discogs.com/master/167583-James-Brown-Mother-Popcorn-You-Got-To-Have-A-Mother-For-Me
-- **Buy on Amazon:** https://www.amazon.com/James-Brown-Mother-Popcorn-Vinyl/dp/B07BH219JH (vinyl single)
+- **Deezer:** https://www.deezer.com/track/17826772
+
+Purchase:
+
+- **Buy on Discogs:** Album https://www.discogs.com/master/52539-James-Brown-Its-A-Mother · Single https://www.discogs.com/master/167583-James-Brown-Mother-Popcorn-You-Got-To-Have-A-Mother-For-Me
+- **Buy on Amazon:** https://www.amazon.com/Its-Mother-James-Brown/dp/B0F79N5ZQB
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/album/6lN8o7zj38h5pUZ7fAtfdL" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/mother-popcorn-pt-1/1443913714?i=1443913716" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=w_W-I2jdFG0" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "label": "Pt. 1", "url": "https://www.youtube.com/watch?v=w_W-I2jdFG0" },
+      { "label": "Pts. 1 & 2", "url": "https://www.youtube.com/watch?v=SLJLvPYxwlk" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "label": "Pt. 1", "url": "https://music.amazon.com/tracks/B008722JKC" },
+      { "label": "Pts. 1 & 2", "url": "https://music.amazon.com/tracks/B0DTM9SPHT" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/14492495" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/its-a-mother-james-brown/0060252799295" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/james-brown-music/mother-popcorn-part-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/17826772" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/52539-James-Brown-Its-A-Mother" },
+      { "label": "Single", "url": "https://www.discogs.com/master/167583-James-Brown-Mother-Popcorn-You-Got-To-Have-A-Mother-For-Me" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "url": "https://www.amazon.com/Its-Mother-James-Brown/dp/B0F79N5ZQB" }
+    ]
+  }
+]
+```
 
 ### Sources
 

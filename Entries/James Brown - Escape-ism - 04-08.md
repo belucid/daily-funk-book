@@ -22,7 +22,7 @@ Just weeks before the April 8, 1971 session at King Studios in Cincinnati, broth
 
 Brown plugged the gaps in his young band, and used the next studio session to lecture them through a one-chord vamp about “Escape-ism,” his code for drugs. Brown and the band were so talented that the lecture became a top 10 R&B hit.
 
-By comparing the 19-minute track to the three-minute single, you can learn a lot about Brown’s creative process: he would record the band live, call out what he wanted as the groove mached on, then carve the best single from the result. The next best bits landed as the B-side. Getting to hear the whole extended jam is a rare treat.
+By comparing the 19-minute track to the three-minute single, you can learn a lot about Brown’s creative process: he would record the band live, call out what he wanted as the groove marched on, then carve the best single from the result. The next best bits landed as the B-side. Getting to hear the whole extended jam is a rare treat.
 
 ---
 ## Research Notes
