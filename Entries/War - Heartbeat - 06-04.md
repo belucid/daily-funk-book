@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: As you listen, count how many times “funky” shows up in the lyrics.
-status: complete
+status: verified
 writing theme:
 funk.day code: 98jw
+cover: 98jw.jpg
 ---
 1972’s *The World Is a Ghetto* was the best-selling album of 1973 according to *Billboard*, making War one of the biggest acts in American music. Their follow-up, *Why Can’t We Be Friends?*, did not arrive until 1975 due to a dispute with the label. Even with the delay, it reached #8 on the *Billboard* 200 and #1 on the R&B chart.
 
@@ -116,23 +117,93 @@ Worth noting for accuracy: the album only spent two weeks at #1 on the weekly Bi
 
 **Streaming:**
 - Spotify: https://open.spotify.com/track/2dil1DpY1ZHveOQu0ewKoX
-- Apple Music: https://music.apple.com/bz/song/heartbeat/1577590552
-- Tidal: https://tidal.com/browse/album/70046402 (album page; track available)
-- Qobuz: https://www.qobuz.com/us-en/album/why-cant-we-be-friends-war/0602527594880 (album page; track available)
-- Deezer: https://www.deezer.com/us/album/15484194 (album page; track available)
-- YouTube Music: Could not locate a direct link. The track is likely available via the album on YouTube Music, but search was inconclusive.
-- SoundCloud: Not available as an official upload. Only a fan remix was found.
-- Audiomack: Could not locate.
-- Amazon Music: https://www.amazon.com/Why-Cant-We-Be-Friends/dp/B0000032V8 (album page; track available)
-
-**YouTube Video:**
-- Could not locate an official video or verified upload via search. The track likely exists on YouTube but a reliable URL was not confirmed.
+- Apple Music: https://music.apple.com/us/album/heartbeat/1202370682?i=1202370725
+- YouTube Music: https://music.youtube.com/watch?v=_gO4HnfFkuE
+- YouTube: https://www.youtube.com/watch?v=_gO4HnfFkuE
+- Amazon Music: https://music.amazon.com/tracks/B073T29NQZ
+- Tidal: https://tidal.com/browse/track/70046405
+- Qobuz: https://www.qobuz.com/us-en/album/why-cant-we-be-friends-war/0602527594880
+- SoundCloud: https://soundcloud.com/war-official/heartbeat-1
+- Deezer: https://www.deezer.com/track/143043344
 
 **Purchase:**
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/116935-War-Why-Cant-We-Be-Friends
-- Buy Single on Discogs: "Heartbeat" was not released as a standalone commercial single. The promo 12" pairing with "Low Rider" is at: https://www.discogs.com/release/2026507-War-Low-Rider-Heartbeat
-- Buy on Amazon (CD): https://www.amazon.com/Why-Cant-We-Be-Friends/dp/B0000032V8
-- Buy on Amazon (Vinyl): https://www.amazon.com/Why-Cant-We-Be-Friends/dp/B004DXOK0Q
+- Buy on Discogs: https://www.discogs.com/master/116935-War-Why-Cant-We-Be-Friends
+- Buy on Amazon (CD): https://www.amazon.com/dp/B0000032V8
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B0B5LX4TQQ
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/2dil1DpY1ZHveOQu0ewKoX" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/heartbeat/1202370682?i=1202370725" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=_gO4HnfFkuE" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=_gO4HnfFkuE" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B073T29NQZ" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/70046405" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/why-cant-we-be-friends-war/0602527594880" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/war-official/heartbeat-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/143043344" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/116935-War-Why-Cant-We-Be-Friends" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/dp/B0000032V8" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B0B5LX4TQQ" }
+    ]
+  }
+]
+```
 
 ### Sources
 

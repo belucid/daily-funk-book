@@ -11,9 +11,10 @@ genre:
   - Country Funk
 region: US - California
 listening mission: Keep in mind that Hohner is a harmonica brand. “Mr. Hohner” is not a literal companion, it's Darin naming his new musical direction, the one that is getting him in trouble with the powers that be.
-status: complete
+status: verified
 writing theme:
 funk.day code: yika
+cover: yika.jpg
 ---
 You've probably heard of Bobby Darin, but maybe not Bob Darin. Same person, different era. Before 1968, Darin was a tuxedo-wearing Vegas crooner with a clean-cut, all-American image. Then everything shattered. He was present at Robert F. Kennedy’s assassination in 1968. He learned that the woman he thought was his sister was actually his mother. And his long-running heart problems, rooted in childhood rheumatic fever, were now impossible to ignore.
 
@@ -114,21 +115,97 @@ The author left no `open:` items in the entry. Two ambiguities surfaced in this 
 1. **US - California** (currently set — retained) — Strongest case. The album was conceived and written during Darin's Big Sur retreat (Pfeiffer Beach trailer); Direction Records operated out of Los Angeles; Darin returned to LA for the *Commitment* period proper. Sources: https://en.wikipedia.org/wiki/Bobby_Darin, https://www.avclub.com/on-commitment-bobby-darin-became-a-folkie-radical-1798287583
 2. **US - Northeast** — Defensible because Darin was an East Harlem native and the song's setting is explicitly South Philadelphia. The lyrical content is Northeast through and through; the production is California. Source: https://en.wikipedia.org/wiki/Bobby_Darin
 
-### Streaming & Purchase Links
+Streaming:
 
-- Spotify: https://open.spotify.com/track/15LKxVEmtTpDVha2igYouG
-- YouTube Music: Available — the *Commitment* album is on YouTube Music; could not confirm a clean track-level URL. The YouTube link below works as a fallback.
-- Amazon Music: https://www.amazon.com/Me-Mr-Hohner/dp/B00Y1UJVNC
-- Apple Music: https://music.apple.com/us/song/me-mr-hohner/1699277229
-- SoundCloud: Could not locate an official upload (a remix exists at https://soundcloud.com/daniel-hegarty/me-and-mr-hohner-synthetic-sub-mix-bobby-darin)
-- Tidal: Could not locate via search (likely available as *Commitment* has been digitally reissued; recommend confirming directly)
-- Qobuz: Could not locate via search
-- Audiomack: Could not locate
-- Deezer: Could not locate via search (likely available)
-- YouTube Video: https://www.youtube.com/watch?v=vLEAuhmgCZU (studio); live 1969 Troubadour: https://www.youtube.com/watch?v=DtDgO3l_7DU
-- Buy Album on Discogs (Master): https://www.discogs.com/master/671982-Bob-Darin-Commitment
-- Buy Single on Discogs (Master): https://www.discogs.com/master/592404-Bobby-Darin-Me-Mr-Hohner
-- Buy on Amazon: https://www.amazon.com/Commitment-Rare-Darin-Bobby/dp/B000UTOL38
+- **Spotify:** https://open.spotify.com/track/4D0LXtczJrdEdrRwCfFS1S
+- **Apple Music:** https://music.apple.com/us/album/me-mr-hohner/1716060546?i=1716060548
+- **YouTube Music:** https://music.youtube.com/watch?v=eX8xV0SYgrA
+- **YouTube:** https://www.youtube.com/watch?v=vLEAuhmgCZU
+- **Amazon Music:** https://music.amazon.com/tracks/B0CN3NWS7X
+- **Tidal:** https://tidal.com/browse/track/328190617
+- **Qobuz:** https://www.qobuz.com/us-en/album/commitment-bobby-darin/gfm35pj7sinib
+- **SoundCloud:** https://soundcloud.com/bobby-darin-3/me-mr-hohner-1
+- **Deezer:** https://www.deezer.com/track/2537608231
+
+Purchase:
+
+- **Buy on Discogs:** Album https://www.discogs.com/master/671982-Bob-Darin-Commitment · Single https://www.discogs.com/master/592404-Bobby-Darin-Me-Mr-Hohner
+- **Buy on Amazon:** CD https://www.amazon.com/Commitment-Bobby-Darin/dp/B0CJMYVLFW · Vinyl https://www.amazon.com/Commitment-Blue-Bobby-Darin/dp/B0CJMY8WGQ
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/4D0LXtczJrdEdrRwCfFS1S" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/me-mr-hohner/1716060546?i=1716060548" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=eX8xV0SYgrA" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=vLEAuhmgCZU" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0CN3NWS7X" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/328190617" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/commitment-bobby-darin/gfm35pj7sinib" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/bobby-darin-3/me-mr-hohner-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/2537608231" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/671982-Bob-Darin-Commitment" },
+      { "label": "Single", "url": "https://www.discogs.com/master/592404-Bobby-Darin-Me-Mr-Hohner" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/Commitment-Bobby-Darin/dp/B0CJMYVLFW" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/Commitment-Blue-Bobby-Darin/dp/B0CJMY8WGQ" }
+    ]
+  }
+]
+```
 
 ### Sources
 

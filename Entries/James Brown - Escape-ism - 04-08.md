@@ -12,7 +12,7 @@ genre:
 region:
   - US - Southeast
 listening mission: Listen to the verbal interplay between Brown and the band. Jazz groups had been doing this for decades with nonverbal cues, but notice how fun is it to hear Brown MC the whole thing as he gets to know his new band.
-status: complete
+status: verified
 writing theme: James Brown's relation to the band, and drugs
 funk.day code: 32jz
 ---
@@ -121,29 +121,108 @@ The current value is **US - Southeast**. Defensible but not the only option.
 
 Recommendation: keep `US - Southeast`. It tracks Brown's identity rather than the studio.
 
-### Streaming & Purchase Links
+Streaming:
 
-- **Spotify (Pt. 1):** https://open.spotify.com/track/3fApk35KXgvVTSJ4kT9bYQ
-- **Spotify (Pt. 1 & 2 combined):** https://open.spotify.com/track/0oHYy89gIgYzTXK0KnKeA5
-- **Spotify (Complete Take, 19:10):** https://open.spotify.com/track/7MkrfH0e1pccQqZA8WTQZX
-- **Spotify (Hot Pants album):** https://open.spotify.com/album/4AgfsROf0lt2oQ1GUPlg1n
-- **Apple Music (Pt. 1 & 2):** https://music.apple.com/cr/song/escape-ism-pt-1-2/1434927278
-- **Apple Music (Complete Take):** https://music.apple.com/us/song/escape-ism-complete-take-complete-take/1443274187
-- **YouTube (Pt. 1):** https://www.youtube.com/watch?v=mt-33jFWdU0
-- **YouTube (Pt. 1 & 2):** https://www.youtube.com/watch?v=Pf0TcECTHcc
-- **YouTube (Complete Take, 19:10):** https://www.youtube.com/watch?v=4A430qOnzyg
-- **YouTube (Rare Extended Edit):** https://www.youtube.com/watch?v=wnUM34orQ0M
-- **SoundCloud (Pt. 1):** https://soundcloud.com/james-brown-music/escape-ism
-- **Tidal:** Could not locate a direct track URL; track confirmed as available on Tidal via the "Sampling: James Brown" playlist (https://tidal.com/browse/playlist/370b884e-2b08-477d-9be7-4ad4b7514898).
-- **Qobuz:** Could not locate a direct track URL; James Brown's catalog (including Hot Pants and Revolution of the Mind, which contains a live "Escape-ism") is on Qobuz: https://www.qobuz.com/us-en/interpreter/james-brown/25049
-- **Deezer:** Could not locate a direct track URL; James Brown artist page: https://www.deezer.com/en/artist/1622
-- **Amazon Music / Amazon CD:** https://www.amazon.com/Hot-Pants-James-Brown/dp/B00004WQ33
-- **Amazon (Escape-Ism Pts. 1 & 2 single reissue):** https://www.amazon.com/Escape-Ism-PTS-1-James-Brown/dp/B010TT5QA0
-- **YouTube Music / Audiomack:** Could not locate dedicated platform pages for this specific track.
-- **Buy Single on Discogs (master):** https://www.discogs.com/master/187398-James-Brown-Escape-ism
-- **Buy Album on Discogs (master):** https://www.discogs.com/master/78372-James-Brown-Hot-Pants
-- **Discogs (1971 US People 45, original):** https://www.discogs.com/release/3256532-James-Brown-Escape-ism
-- **Discogs (Hot Pants 1971 US LP):** https://www.discogs.com/release/317002-James-Brown-Hot-Pants
+- **Spotify:** Pt. 1 https://open.spotify.com/track/3fApk35KXgvVTSJ4kT9bYQ · Pts. 1 & 2 https://open.spotify.com/track/0oHYy89gIgYzTXK0KnKeA5 · Complete take https://open.spotify.com/track/7MkrfH0e1pccQqZA8WTQZX
+- **Apple Music:** Pt. 1 https://music.apple.com/us/album/escape-ism-pt-1-pt-1/1443273600?i=1443273955 · Pt. 2 https://music.apple.com/us/album/escape-ism-pt-2-pt-2/1443273600?i=1443273961 · Complete take https://music.apple.com/us/album/escape-ism-complete-take-complete-take/1443273600?i=1443274187
+- **YouTube Music:** Pt. 1 https://music.youtube.com/watch?v=mt-33jFWdU0 · Pts. 1 & 2 https://music.youtube.com/watch?v=Pf0TcECTHcc · Complete take https://music.youtube.com/watch?v=xGv_iY8JSqg
+- **YouTube:** Pt. 1 https://www.youtube.com/watch?v=Z6bIwjwUaHA · Pt. 2 https://www.youtube.com/watch?v=B3Lg9eO7iHE · Complete take https://www.youtube.com/watch?v=xGv_iY8JSqg
+- **Amazon Music:** Pt. 1 https://music.amazon.com/tracks/B06XTCYYMJ · Pt. 2 https://music.amazon.com/tracks/B07H16ZB33 · Complete take https://music.amazon.com/tracks/B06XTDH52F
+- **Tidal:** https://tidal.com/browse/track/71937201
+- **Qobuz:** https://www.qobuz.com/us-en/album/hot-pants-james-brown/0060255757098
+- **SoundCloud:** Pt. 1 https://soundcloud.com/james-brown-music/escape-ism · Pt. 2 https://soundcloud.com/james-brown-music/escape-ism-1 · Complete take https://soundcloud.com/james-brown-music/escape-ism-2
+- **Deezer:** Pt. 1 https://www.deezer.com/track/115026524 · Pts. 1 & 2 https://www.deezer.com/track/548876942 · Complete take https://www.deezer.com/track/145423950
+
+Purchase:
+
+- **Buy on Discogs:** https://www.discogs.com/master/187398-James-Brown-Escape-ism
+- **Buy on Amazon:** verified-absent
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "label": "Pt. 1", "url": "https://open.spotify.com/track/3fApk35KXgvVTSJ4kT9bYQ" },
+      { "label": "Pts. 1 & 2", "url": "https://open.spotify.com/track/0oHYy89gIgYzTXK0KnKeA5" },
+      { "label": "Complete take", "url": "https://open.spotify.com/track/7MkrfH0e1pccQqZA8WTQZX" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "label": "Pt. 1", "url": "https://music.apple.com/us/album/escape-ism-pt-1-pt-1/1443273600?i=1443273955" },
+      { "label": "Pt. 2", "url": "https://music.apple.com/us/album/escape-ism-pt-2-pt-2/1443273600?i=1443273961" },
+      { "label": "Complete take", "url": "https://music.apple.com/us/album/escape-ism-complete-take-complete-take/1443273600?i=1443274187" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "label": "Pt. 1", "url": "https://music.youtube.com/watch?v=mt-33jFWdU0" },
+      { "label": "Pts. 1 & 2", "url": "https://music.youtube.com/watch?v=Pf0TcECTHcc" },
+      { "label": "Complete take", "url": "https://music.youtube.com/watch?v=xGv_iY8JSqg" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "label": "Pt. 1", "url": "https://www.youtube.com/watch?v=Z6bIwjwUaHA" },
+      { "label": "Pt. 2", "url": "https://www.youtube.com/watch?v=B3Lg9eO7iHE" },
+      { "label": "Complete take", "url": "https://www.youtube.com/watch?v=xGv_iY8JSqg" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "label": "Pt. 1", "url": "https://music.amazon.com/tracks/B06XTCYYMJ" },
+      { "label": "Pt. 2", "url": "https://music.amazon.com/tracks/B07H16ZB33" },
+      { "label": "Complete take", "url": "https://music.amazon.com/tracks/B06XTDH52F" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/71937201" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/hot-pants-james-brown/0060255757098" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "label": "Pt. 1", "url": "https://soundcloud.com/james-brown-music/escape-ism" },
+      { "label": "Pt. 2", "url": "https://soundcloud.com/james-brown-music/escape-ism-1" },
+      { "label": "Complete take", "url": "https://soundcloud.com/james-brown-music/escape-ism-2" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "label": "Pt. 1", "url": "https://www.deezer.com/track/115026524" },
+      { "label": "Pts. 1 & 2", "url": "https://www.deezer.com/track/548876942" },
+      { "label": "Complete take", "url": "https://www.deezer.com/track/145423950" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/187398-James-Brown-Escape-ism" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "Verified absent: no suitable retail product page selected for this entry."
+  }
+]
+```
 
 ### Sources
 

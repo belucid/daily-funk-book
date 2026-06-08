@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: Focus on Charles Miller’s saxophone entering at 3m 40s. Notice how it comes in quietly and patiently, then builds into a plaintive wail before dropping out after 6m 30s.
-status: complete
+status: verified
 writing theme:
 funk.day code: btsn
+cover: btsn.jpg
 ---
 Per drummer Harold Brown, the idea for today’s song, “The World Is a Ghetto,” came when the band realized that poverty wasn't confined to literal ghettos. Wealthy enclaves, too, harbor their own kind of impoverished isolation. Percussionist Papa Dee Allen wrote the song as a call for unity, not a complaint from the underclass. The message was powerful in 1973, and it still resonates today.
 
@@ -128,30 +129,97 @@ The current list has no missing region needed here. US - California is the right
 
 ### Streaming & Purchase Links
 
-**Streaming (album version, 10:10):**
-- Spotify (album): https://open.spotify.com/album/4UZmpGH8kpAgyZ2yqQ8sP9
-- Spotify (track, likely the 10:10 album cut): https://open.spotify.com/track/65y5IbEf4P2qEmFawdmnbH
-- Apple Music (original 1972 album): https://music.apple.com/us/album/the-world-is-a-ghetto/1202363758
-- Apple Music (40th Anniversary Expanded): https://music.apple.com/us/album/the-world-is-a-ghetto-40th-anniversary-expanded-edition/1440812791
-- Apple Music (50th Anniversary Collector's): https://music.apple.com/us/album/the-world-is-a-ghetto-50th-anniversary-collectors-edition/1756154777
-- Tidal (album): https://tidal.com/browse/album/70046659
-- Deezer (album): https://www.deezer.com/en/album/15484166
-- Amazon Music: Could not locate a direct track URL; the album is available on Amazon Music via the same listings as the CD/vinyl below.
-- YouTube Music: Could not locate a direct URL; the track is available via the album.
-- Qobuz: Could not locate a direct URL.
-- SoundCloud: Not available as an official upload.
-- Audiomack: Could not locate.
-
-**YouTube Video:**
-- Official Lyric Video (50th Anniversary): https://www.youtube.com/watch?v=pCvH7Uf-7kw
-- Album audio upload: https://www.youtube.com/watch?v=ptIcert_Ra8
-- Full 40th Anniversary Expanded Edition playlist: https://www.youtube.com/playlist?list=PL4-oCE2y-CrH61_NEUFfCCDd8Q3jFXZwJ
+**Streaming:**
+- Spotify: https://open.spotify.com/album/4UZmpGH8kpAgyZ2yqQ8sP9
+- Apple Music: https://music.apple.com/us/album/the-world-is-a-ghetto/1202363758?i=1202363824
+- YouTube Music: https://music.youtube.com/watch?v=VIIbT89V7EI
+- YouTube: https://www.youtube.com/watch?v=ptIcert_Ra8
+- Amazon Music: https://music.amazon.com/tracks/B073T4WFG1
+- Tidal: https://tidal.com/browse/track/70046664
+- Qobuz: https://www.qobuz.com/us-en/album/the-world-is-a-ghetto-war/0602527595092
+- SoundCloud: https://soundcloud.com/war-official/the-world-is-a-ghetto-10
+- Deezer: https://www.deezer.com/track/143042900
 
 **Purchase:**
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/116938-War-The-World-Is-A-Ghetto
-- Buy Single on Discogs (Master Release): https://www.discogs.com/master/153080-War-The-World-Is-A-Ghetto-Four-Cornered-Room
-- Buy Single on Discogs (1972 7", b/w "Four Cornered Room", UA 50975): https://www.discogs.com/release/1316962-War-The-World-Is-A-Ghetto-Four-Cornered-Room
-- Buy 50th Anniversary Collector's Edition box set: https://war.com/the-world-is-a-ghetto-50th-anniversary-collectors-edition/
+- Buy on Discogs (Album): https://www.discogs.com/master/116938-War-The-World-Is-A-Ghetto
+- Buy on Discogs (Single): https://www.discogs.com/master/153080-War-The-World-Is-A-Ghetto-Four-Cornered-Room
+- Buy on Amazon (CD): https://www.amazon.com/dp/B0000032UW
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B0B5M2MML1
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/album/4UZmpGH8kpAgyZ2yqQ8sP9" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/the-world-is-a-ghetto/1202363758?i=1202363824" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=VIIbT89V7EI" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=ptIcert_Ra8" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B073T4WFG1" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/70046664" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/the-world-is-a-ghetto-war/0602527595092" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/war-official/the-world-is-a-ghetto-10" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/143042900" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/116938-War-The-World-Is-A-Ghetto" },
+      { "label": "Single", "url": "https://www.discogs.com/master/153080-War-The-World-Is-A-Ghetto-Four-Cornered-Room" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/dp/B0000032UW" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B0B5M2MML1" }
+    ]
+  }
+]
+```
 
 ### Sources
 

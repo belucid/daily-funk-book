@@ -503,17 +503,23 @@ record verified-absent.
 
 ## 4. YouTube (`youtube`, stream)
 
-**Different intent from YouTube Music.** This is the video site: real video
-uploads — official music videos, official live-performance footage, or (fallback)
-the best canonical upload. **Do NOT use "- Topic" art tracks here** — those are
-auto-generated catalog *audio* and belong to YouTube Music (#3).
+**Closely related to YouTube Music.** YouTube and YouTube Music share video ids;
+the practical difference between the two services is mainly the **shape of the
+URL** (`www.youtube.com/watch?v={id}` vs `music.youtube.com/watch?v={id}`). This
+is the video site, so prefer a real video upload (official music video,
+performance footage, or a canonical upload) when one exists — but **"- Topic" art
+tracks are perfectly acceptable here too.** There is nothing wrong with using a
+Topic track for the YouTube slot where that is the best (or only) good option;
+the **same id can legitimately fill both the YouTube and YouTube Music slots**,
+each with its own URL form.
 
-**Policy (decided): official preferred, best upload as fallback.** Prefer an
-official music video / performance video / official-artist-or-label channel
-upload. If none exists (common for vintage funk), accept the **single best,
-most-canonical fan upload** per version. The "best" judgment — views, audio
-quality, full length vs clip — is the **human's**, made in YouTube; the agent
-surfaces verified candidates and `open`s the top ones to choose among.
+**Policy (decided): official preferred, best available upload as fallback.**
+Prefer an official music video / performance video / official-artist-or-label
+channel upload. If none exists (common for vintage funk), accept the **single
+best, most-canonical upload** per version — a fan upload or the "- Topic" art
+track, whichever is best. The "best" judgment — views, audio quality, full length
+vs clip — is the **human's**, made in YouTube; the agent surfaces verified
+candidates and `open`s the top ones to choose among.
 
 **Finding:** plain `WebSearch` works for YouTube (unlike YT Music). Gather
 `youtube.com/watch?v={id}` candidates.
@@ -524,7 +530,7 @@ surfaces verified candidates and `open`s the top ones to choose among.
 - **404 from oEmbed = a dead/removed video.** Cheap link-rot check — drop it.
 - **`author_name` reveals provenance:** a real personal/curator name (e.g. "Alf",
   "BLUES AND SOUL") = unofficial fan upload; "… - Topic" = catalog art track
-  (wrong service, skip here); an official artist/label channel = canonical.
+  (acceptable here too — see above); an official artist/label channel = canonical.
 - Remember **titles do not prove version** (see link-selection rules) — confirm
   live vs studio by the human's listen / duration, not the title.
 

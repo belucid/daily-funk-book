@@ -12,9 +12,10 @@ genre:
 region:
   - US - Minnesota
 listening mission: Prince being Prince, he does not do retro like everyone else. What do you hear that roots this in 2004, not 1974?
-status: complete
+status: verified
 writing theme:
 funk.day code: mrzz
+cover: mrzz.jpg
 ---
 It’s time to warn you about a peculiar side effect of funk exposure. It’s called “stank face.” It’s an involuntary reaction to the groove, when your mouth and nose scrunch up like you just smelled something truly nasty. If you're unsure what I mean, stand in front of a mirror and play today’s track, Prince’s Grammy-winning “Musicology” from his 2004 album of the same name. As the strings and congas fade and Prince’s squeal ushers in the drums and bass, notice what your face does. That’s stank face. Don’t worry, it’s not permanent.
 
@@ -120,26 +121,97 @@ Note: June 7 (birthday) and March 27 (tour start) are strong Prince dates but ma
 
 **Recommendation**: Minneapolis Sound is the strongest choice given Prince's centrality to that genre and the book's framing, even if the track itself leans classic funk in its sound.
 
-### Streaming & Purchase Links
+Streaming:
 
-**Streaming:**
-- Spotify: https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU
-- Apple Music: https://music.apple.com/us/song/1421413801
-- YouTube Music: https://music.youtube.com/watch?v=zILabWVdIMs (could not confirm dedicated YouTube Music link; YouTube video available)
-- Amazon Music: Available on album — https://www.amazon.com/Musicology-Prince/dp/B0001XTRCI
-- SoundCloud: https://soundcloud.com/prince/musicology
-- Tidal: https://tidal.com/album/92986817 (album; track 1)
-- Qobuz: https://www.qobuz.com/us-en/album/musicology-prince/b4jdln244tlda (album; track 1)
-- Audiomack: Could not locate
-- Deezer: https://www.deezer.com/en/album/69842532 (album; track 1)
+- **Spotify:** https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU
+- **Apple Music:** https://music.apple.com/us/album/musicology/1421413593?i=1421413801
+- **YouTube Music:** https://music.youtube.com/watch?v=qdmWbJ8ISP4
+- **YouTube:** https://www.youtube.com/watch?v=zILabWVdIMs
+- **Amazon Music:** https://music.amazon.com/tracks/B07G4LQ96G
+- **Tidal:** https://tidal.com/browse/track/92986818
+- **Qobuz:** https://www.qobuz.com/us-en/album/musicology-prince/b4jdln244tlda
+- **SoundCloud:** https://soundcloud.com/prince/musicology
+- **Deezer:** https://www.deezer.com/track/536617672
 
-**Video:**
-- YouTube Video: https://www.youtube.com/watch?v=zILabWVdIMs
+Purchase:
 
-**Purchase:**
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/109262-Prince-Musicology
-- Buy Single on Discogs: https://www.discogs.com/release/256101-Prince-Musicology (CD single, 2004)
-- Buy on Amazon: https://www.amazon.com/Musicology-Prince/dp/B0001XTRCI
+- **Buy on Discogs:** Album https://www.discogs.com/master/109262-Prince-Musicology · Single https://www.discogs.com/master/197466-Prince-Musicology
+- **Buy on Amazon:** CD https://www.amazon.com/Musicology-Prince/dp/B07KLCVWGS · Vinyl https://www.amazon.com/Musicology-Prince/dp/B07K138YRW
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/musicology/1421413593?i=1421413801" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=qdmWbJ8ISP4" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=zILabWVdIMs" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B07G4LQ96G" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/92986818" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/musicology-prince/b4jdln244tlda" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/prince/musicology" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/536617672" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/109262-Prince-Musicology" },
+      { "label": "Single", "url": "https://www.discogs.com/master/197466-Prince-Musicology" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/Musicology-Prince/dp/B07KLCVWGS" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/Musicology-Prince/dp/B07K138YRW" }
+    ]
+  }
+]
+```
 
 ### Sources
 
