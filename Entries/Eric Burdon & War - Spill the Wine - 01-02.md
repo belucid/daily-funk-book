@@ -11,9 +11,10 @@ genre:
   - Psychedelic Funk
 region: US - California
 listening mission: Listen to the flute answering Burdon’s vocal. Is it filling the space where background singers might have been in an earlier style?
-status: complete
+status: verified
 writing theme:
 funk.day code: m68s
+cover: m68s.jpg
 ---
 This song exists because Lonnie Jordan literally spilled his wine on the mixing console. The spill forced the band to record in another studio, and the chaos provided content for the track’s loose, half-spoken vocal. If singer Eric Burdon sounds like he is talking his way through a dream, it may be because he was asleep on the studio floor and woke up, then sang on the take that made the record. The result was so improvised that the whole band received a writing credit.
 
@@ -155,22 +156,92 @@ Not exactly wrong but slightly misleading. The musicians had been playing togeth
 
 **Streaming:**
 - Spotify: https://open.spotify.com/track/0xt7wDpsnwlv4OicsEQi7N
-- Apple Music: https://music.apple.com/us/song/spill-the-wine/1202361025
-- Amazon Music: https://www.amazon.com/Spill-The-Wine/dp/B004EF0K4I
-- Tidal: https://tidal.com/track/473571635
-- Qobuz: https://www.qobuz.com/be-nl/album/spill-the-wine-eric-burdon-war/o77y1lg0ais6b
-- Deezer: https://www.deezer.com/us/track/4760899
-- SoundCloud: https://soundcloud.com/eric-burdon-war/spill-the-wine
-- Audiomack: https://audiomack.com/war-rock/song/spill-the-wine-2589703
-- YouTube Music: Could not locate a direct link. Search "Eric Burdon War Spill the Wine" on YouTube Music.
-
-**YouTube Video:**
-- No official video found via search. A 1970 live performance exists but no confirmed stable URL.
+- Apple Music: https://music.apple.com/us/album/spill-the-wine/1202360724?i=1202361025
+- YouTube Music: https://music.youtube.com/watch?v=uE1NSGUkhQI
+- YouTube: https://www.youtube.com/watch?v=MYCRIykylOc
+- Amazon Music: https://music.amazon.com/tracks/B073T3ZK18
+- Tidal: https://tidal.com/browse/track/70045920
+- Qobuz: https://www.qobuz.com/us-en/album/eric-burdon-declares-war-eric-burdon-war/0602527597003
+- SoundCloud: https://soundcloud.com/eric-burdon-official/spill-the-wine-1
+- Deezer: https://www.deezer.com/track/143047952
 
 **Purchase:**
-- Buy Album on Discogs (Master): https://www.discogs.com/master/116928-Eric-Burdon-War-Eric-Burdon-Declares-War
-- Buy Single on Discogs (Master): https://www.discogs.com/master/116932-Eric-Burdon-And-War-Spill-The-Wine
-- Buy on Amazon (CD): https://www.amazon.com/Eric-Burdon-Declares-War/dp/B0000032V6
+- Buy on Discogs (Album): https://www.discogs.com/master/116928-Eric-Burdon-War-Eric-Burdon-Declares-War
+- Buy on Discogs (Single): https://www.discogs.com/master/116932-Eric-Burdon-And-War-Spill-The-Wine
+- Buy on Amazon: verified absent (no retail CD/Vinyl listing confirmed)
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0xt7wDpsnwlv4OicsEQi7N" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/spill-the-wine/1202360724?i=1202361025" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=uE1NSGUkhQI" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=MYCRIykylOc" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B073T3ZK18" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/70045920" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/eric-burdon-declares-war-eric-burdon-war/0602527597003" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/eric-burdon-official/spill-the-wine-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/143047952" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/116928-Eric-Burdon-War-Eric-Burdon-Declares-War" },
+      { "label": "Single", "url": "https://www.discogs.com/master/116932-Eric-Burdon-And-War-Spill-The-Wine" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "No retail CD/Vinyl product page confirmed; human-verified absent."
+  }
+]
+```
 
 ### Sources
 

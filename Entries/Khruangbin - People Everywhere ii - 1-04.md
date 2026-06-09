@@ -12,9 +12,10 @@ genre:
 region:
   - US - Texas
 listening mission: Khruangbin first cut this in 2015 as “People Everywhere (Still Alive)” at 2m 39s. Listen to the short version first, then notice what the 8m version adds. Does the extra time deepen the impact, or dilute it?
-status: complete
+status: verified
 writing theme:
 funk.day code: aud2
+cover: aud2.jpg
 ---
 *The Universe Smiles Upon You ii* is a deliberate echo of Khruangbin's 2015 debut album, *The Universe Smiles Upon You*. The band returned a decade later to record it from January 4 to 6, 2025, in the same Central Texas barn where they have made most of their music. As a jam band, these tracks are never played the same way twice, but re-recording them was a way to celebrate the band’s evolution and to hear how a decade of playing together affects the same set of songs. The release landed exactly ten years after the original, and the recording sessions were staged across the same dates ten years apart.
 
@@ -126,27 +127,93 @@ The current genre is **Psychedelic Funk**. Here are considerations:
 
 **Streaming:**
 - Spotify: https://open.spotify.com/track/0zJigFPQL9x6i5meeJh801
-- Apple Music: https://music.apple.com/us/album/the-universe-smiles-upon-you-ii/1845322228 (album; track 5)
-- Amazon Music: https://music.amazon.com/albums/B0FVNXXTH5
-- YouTube Music: Could not locate a direct track link for "People Everywhere ii" specifically.
-- SoundCloud: https://soundcloud.com/khruangbin/people-everywhere-ii
-- Tidal: Not confirmed via search, but the album is distributed to all major platforms. Likely available.
+- Apple Music: https://music.apple.com/us/album/people-everywhere-ii/1845322228?i=1845322400
+- YouTube Music: https://music.youtube.com/watch?v=PqDHs9PsYj0
+- YouTube: https://www.youtube.com/watch?v=PqDHs9PsYj0
+- Amazon Music: https://music.amazon.com/tracks/B0FVNMGWFN
+- Tidal: https://tidal.com/browse/track/466088001
 - Qobuz: https://www.qobuz.com/us-en/album/the-universe-smiles-upon-you-ii-khruangbin/czfmwefm3r4ub
-- Audiomack: Could not locate.
-- Deezer: https://www.deezer.com/us/album/835659212 (album)
-- Bandcamp: https://khruangbin.bandcamp.com/track/people-everywhere-ii
-
-**YouTube Video:**
-- Could not locate a dedicated music video or official audio upload for "People Everywhere ii" on YouTube.
-- The original "People Everywhere (Still Alive)" Austin City Limits performance is widely available.
+- SoundCloud: https://soundcloud.com/khruangbin/people-everywhere-ii
+- Deezer: https://www.deezer.com/track/3595955312
 
 **Purchase:**
-- Buy Album on Discogs (Master): https://www.discogs.com/master/4028926-Khruangbin-The-Universe-Smiles-Upon-You-II
-- Buy Original Album on Discogs (Master): https://www.discogs.com/master/910371-Khruangbin-The-Universe-Smiles-Upon-You
-- Buy on Bandcamp: https://khruangbin.bandcamp.com/album/the-universe-smiles-upon-you-ii
-- Buy on Amazon: https://music.amazon.com/albums/B0FVNXXTH5
-- Buy from Khruangbin Store: https://shop.khruangbin.com/products/the-universe-smiles-upon-you-ii
-- No standalone single release for "People Everywhere ii" on Discogs.
+- Buy on Discogs: https://www.discogs.com/master/4028926-Khruangbin-The-Universe-Smiles-Upon-You-II
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B0G1CJQVR8
+- Buy on Amazon (CD): https://www.amazon.com/dp/B0G15G9HWJ
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0zJigFPQL9x6i5meeJh801" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/people-everywhere-ii/1845322228?i=1845322400" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=PqDHs9PsYj0" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=PqDHs9PsYj0" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0FVNMGWFN" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/466088001" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/the-universe-smiles-upon-you-ii-khruangbin/czfmwefm3r4ub" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/khruangbin/people-everywhere-ii" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/3595955312" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/4028926-Khruangbin-The-Universe-Smiles-Upon-You-II" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B0G1CJQVR8" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B0G15G9HWJ" }
+    ]
+  }
+]
+```
 
 ### Sources
 

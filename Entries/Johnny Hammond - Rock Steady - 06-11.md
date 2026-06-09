@@ -11,11 +11,11 @@ genre:
   - Soul Jazz
 region: US - New York
 listening mission: "Listen to each solo as it passes: Eric Gale on guitar, Grover Washington Jr. on sax, Bernard Purdie on drums, and Johnny Hammond on organ. When the track ends, which one stays with you? It's Hammond’s record and Purdie’s second run at the song, but to my ear, Gale’s guitar is the signature voice."
-status: review
+status: complete
 writing theme:
 funk.day code: qt9c
 ---
-“Rock Steady” is such a great song that you get to hear it twice in this book. We already heard Aretha Franklin’s original on February 15. Today’s track is a soul-jazz cover by Johnny “Hammond” Smith.
+“Rock Steady” is such a great song it appears twice in this book. We already heard Aretha Franklin’s original on February 15. Today’s track is a soul-jazz cover by Johnny “Hammond” Smith.
 
 As is typical of soul jazz, “Rock Steady” is an instrumental cover of a popular song, stretched out to make room for improvisation. Aretha’s version runs about three minutes. Here, it pushes past six, making space for solos by Smith on Hammond B-3 organ, Eric Gale on guitar, Grover Washington Jr. on saxophone, and Bernard “Pretty” Purdie on drums.
 

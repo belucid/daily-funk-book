@@ -12,9 +12,10 @@ genre:
 region:
   - US - DC
 listening mission: The defining characteristic of go-go is that it feeds on live crowd participation, but this was cut in a studio. Listen for the locations in the song where the crowd would be expected to jump in. Can you spot the moments designed for call-and-response interaction?
-status: complete
+status: verified
 writing theme:
 funk.day code: n867
+cover: n867.jpg
 ---
 It is not often you can point to the exact recorded track that helped birth a genre. With go-go, you can come pretty close with “E Flat Boogie,” which was released as a single in 1980. Trouble Funk did not invent go-go on its own. The group began as Trouble Band and Show, a Top 40 cover band, and learned the sound opening for go-go pioneer Chuck Brown at Club LeBaron in Palmer Park, Maryland. When “E Flat Boogie” came out, the band’s name was still settling. The label credited the record simply to "Trouble".
 
@@ -101,23 +102,92 @@ The author included no `open:` items in this entry.
 
 ### Streaming & Purchase Links
 
-- **Spotify**: https://open.spotify.com/track/1wVvRPg3JtYmu60l7maxtk (vocal, from Tuff City/Funky Delicacies reissue era)
-- **Apple Music**: https://music.apple.com/us/album/e-flat-boogie/1641995133 (2016 reissue album)
-- **Tidal**: https://tidal.com/album/242108988
-- **Deezer**: https://www.deezer.com/us/album/344574147
-- **Amazon Music**: https://www.amazon.com/Pump-Me-Up/dp/B078HTXRQJ
-- **YouTube Video**: https://www.youtube.com/watch?v=W1Clq6mwgCE (original 1980 Hollyrock pressing audio)
-- **YouTube Music**: Could not locate a dedicated YouTube Music album link; the track is searchable through the Trouble Funk artist channel at https://music.youtube.com/channel/UCWwad50mnmS-Cjna_CUpsYQ
-- **SoundCloud**: https://m.soundcloud.com/troublefunkmusic/popular-tracks (band's official SoundCloud, includes E-Flat Boogie among popular tracks)
-- **Bandcamp**: https://tuffcityrecords.bandcamp.com/album/e-flat-boogie (2016 reissue, redirects to https://tuffcity.com/album/e-flat-boogie)
-- **Qobuz**: Could not locate.
-- **Audiomack**: Could not locate.
-- **Buy Album on Discogs (master)**: https://www.discogs.com/master/774699-Trouble-Funk-E-Flat-Boogie
-- **Buy Single on Discogs (1980 7")**: https://www.discogs.com/release/7187546-Trouble-E-Flat-Boogie
-- **Buy Single on Discogs (1980 12" original)**: https://www.discogs.com/release/374533-Trouble-E-Flat-Boogie
-- **Buy Single on Discogs (1980 12" alt pressing)**: https://www.discogs.com/release/1460977-Trouble-Funk-E-Flat-Boogie
-- **Buy on Amazon (LP reissue)**: https://www.amazon.com/Flat-Boogie-Trouble-Funk/dp/B00064X638
-- **Buy on Bandcamp**: https://tuffcity.com/album/e-flat-boogie
+**Streaming:**
+- Spotify: https://open.spotify.com/track/13mpXo5QTvBVGLS5GleUVv
+- Apple Music: https://music.apple.com/us/album/e-flat-boogie/1641995133?i=1641995134
+- YouTube Music: https://music.youtube.com/watch?v=UA0yaGMOtxo
+- YouTube: https://www.youtube.com/watch?v=UA0yaGMOtxo
+- Amazon Music: https://music.amazon.com/tracks/B0B924F35R
+- Tidal: https://tidal.com/browse/track/242108990
+- Qobuz: https://www.qobuz.com/us-en/album/e-flat-boogie-trouble-funk/hwrlcmb8n0knb
+- SoundCloud: https://soundcloud.com/troublefunkmusic/e-flat-boogie
+- Deezer: https://www.deezer.com/track/1858875957
+
+**Purchase:**
+- Buy on Discogs: https://www.discogs.com/master/774699-Trouble-Funk-E-Flat-Boogie
+- Buy on Amazon: verified absent (no retail CD/Vinyl listing confirmed)
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/13mpXo5QTvBVGLS5GleUVv" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/e-flat-boogie/1641995133?i=1641995134" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=UA0yaGMOtxo" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=UA0yaGMOtxo" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0B924F35R" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/242108990" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/e-flat-boogie-trouble-funk/hwrlcmb8n0knb" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/troublefunkmusic/e-flat-boogie" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/1858875957" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/774699-Trouble-Funk-E-Flat-Boogie" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "No retail CD/Vinyl product page confirmed; human-verified absent."
+  }
+]
+```
 
 ### Sources
 

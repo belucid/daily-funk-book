@@ -12,15 +12,15 @@ genre:
 region:
   - US - Southeast
 listening mission: This is not Brown's usual backing band, the J.B.'s. It is New York jazz-funk session players. Can you hear the difference?
-status: review
+status: complete
 writing theme:
 funk.day code: xrqp
 ---
-Gerald Ford is the only person to serve as both vice president and president of the United States without receiving a single vote for either office. He became vice president in October 1973, when Nixon's original VP, Spiro Agnew, resigned amid bribery and tax-fraud charges. Ten months later, Richard Nixon resigned over the Watergate cover-up.
+Gerald Ford is the only person to serve as both vice president and president of the United States without receiving a single vote for either office. He became vice president in December 1973, after Spiro Agnew resigned amid bribery and tax-fraud charges. Eight months later, Richard Nixon resigned over the Watergate scandal.
 
-On September 8, 1974, President Ford granted Nixon “a full, free, and absolute pardon,” and Ford’s approval rating promptly cratered. James Brown took special notice. Today’s “Funky President” is his response to the new president, who had never faced the voters, wiping the slate clean for Nixon.
+On September 8, 1974, President Ford granted Nixon “a full, free, and absolute pardon,” and Ford’s approval rating plummeted. James Brown took special notice. Today’s “Funky President” is his response to the new president, who had never faced the voters, wiping the slate clean for Nixon.
 
-Brown had gone out on a limb for Nixon. He did not back him in 1968, but after Nixon won he played at his inauguration, then publicly supported Nixon’s 1972 reelection. Fans were not pleased, and the resulting boycott hit Brown’s record and ticket sales. “Funky President” feels like a reset with Brown reclaiming his voice as a critic of power. Fans responded. The song charted at #4 on the R&B chart and #44 on the Hot 100.
+Brown had gone out on a limb for Nixon. He did not back him in 1968, but after Nixon won he played at his inauguration and publicly supported his 1972 reelection. Fans were not pleased, and the resulting boycott hit Brown’s record and ticket sales. “Funky President” feels like a reset, with Brown reclaiming his voice as a critic of power. Fans responded. The song charted at #4 on the R&B chart and #44 on the Hot 100.
 
 ---
 ## Research Notes

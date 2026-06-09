@@ -11,17 +11,17 @@ genre:
   - Classic Funk
 region: US - Southeast
 listening mission: Listen for the line “I don’t need nobody tell me how to blow my horn.” Is Fred Wesley paying tribute to James Brown’s “I Don’t Want Nobody to Give Me Nothing,” or taking a jab at the boss?
-status: review
+status: complete
 writing theme:
 funk.day code: 6kt7
 ---
-James Brown was a larger-than-life figure who cast a long shadow. Some artists, like Bootsy Collins, had to break away from Brown rather than try to share his spotlight. Others, including saxophonist Maceo Parker and trombonist, bandleader, and musical director Fred Wesley, found ways to step forward from inside the machine. One of those ways was through the James Brown-produced JB’s albums, which featured the band without the frontman.
+James Brown was a larger-than-life figure who cast a long shadow. Some artists, like Bootsy Collins, had to break away from Brown rather than try to share his spotlight. Others, including saxophonist Maceo Parker and trombonist, bandleader, and musical director Fred Wesley, found ways to step forward from within the machine. One way was through the James Brown-produced JB’s albums, which featured the band without the frontman.
 
-“Little Boy Black” comes from the JB’s 1974 album *Breakin’ Bread*. Fred Wesley opens the track by thanking listeners for buying their records, then follows with a proto-rap that, to my ear, sets the template for Morris Day and Jerome’s comic interplay in The Time a decade later.
+“Little Boy Black” comes from the JB’s 1974 album *Breakin’ Bread*. Fred Wesley thanks listeners for buying their records, then follows with a proto-rap that, to my ear, sets the template for Morris Day and Jerome’s comic dialog in The Time a decade later.
 
-James Brown is credited only as producer, but his voice is clearly audible in the second half of the song. Even with Brown’s stamp all over it, and even with the album on his own label, it is hard to imagine him putting this much focus on multiple trombone solos on one of his own records.
+James Brown is only credited as producer, but his voice is unmistakable in the second half of the song. It's hard to imagine him putting this much focus on multiple trombone solos on one of his own records.
 
-The album marked the end of the Fred Wesley era of the JB’s. He left soon after to join George Clinton and Parliament-Funkadelic.
+The album marked the end of the Fred Wesley era with the JB’s. He left soon after to join George Clinton and Parliament-Funkadelic.
 
 ---
 ## Research Notes
