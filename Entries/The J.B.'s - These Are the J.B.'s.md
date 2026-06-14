@@ -1,8 +1,8 @@
 ---
 fileClass: funk-entry
 day:
-artist: JB's
-track: These Are the JB's
+artist: The J.B.'s
+track: These Are the J.B.'s
 album: Food For Thought
 label: People
 year: 1972

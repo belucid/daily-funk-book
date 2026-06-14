@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-15
 artist: The O'Jays
 track: Survival
 album: Survival
@@ -11,14 +11,28 @@ genre:
   - Classic Funk
 region:
   - US - Northeast
-listening mission:
-status: research-review
+listening mission: Listen to Gamble and Huff’s signature lush Philly Sound arrangement. Do the strings and cascading horns distract from the bleak message, or do they work as a kind of ironic frame?
+status: complete
 writing theme:
 funk.day code: 38bk
 ---
+Modern State of the Union addresses usually include a version of the declaration, “The state of our union is strong.” On January 15, 1975, President Gerald Ford took the podium and said the opposite: “The state of the Union is not good.” Millions of Americans were out of work while high inflation ate into household budgets. The country was experiencing stagflation, the dreaded trio of stagnant growth, high inflation, and high unemployment.
+
+Never a band to shy away from social commentary, the O'Jays responded to the economic crisis hitting Black communities especially hard with their eighth studio album, *Survival*. Eddie Levert sang lead on today’s song, “Survival,” while two other album tracks, “Rich Get Richer” and “Give the People What They Want,” also targeted the troubled economy.
+
+*Survival* produced two charting singles: “Give the People What They Want” and “Let Me Make Love to You.” “Survival” was the B-side to “Let Me Make Love to You.” The album topped the *Billboard* R&B Albums chart and reached #11 on the *Billboard* 200.
 
 ---
 ## Research Notes
+
+RESOLVED: 1975 stagflation dates that align with the April 1 release.
+
+- **March 29, 1975** — President Ford signs the Tax Reduction Act of 1975 into law (P.L. 94-12): a 10% tax rebate on 1974 liability (capped at $200) meant to jolt the economy out of recession, and the bill that created the Earned Income Tax Credit. This is just three days before Survival's April 1 release. Source: https://en.wikipedia.org/wiki/Tax_Reduction_Act_of_1975
+- **March 1975** — NBER trough date; the 16-month 1973-75 recession officially ends the same month the album is hitting shelves. Source: https://en.wikipedia.org/wiki/1973%E2%80%931975_recession
+- **May 1975** — Unemployment peaks at 9.0%, a postwar record at the time and not seen below 6% again until June 1978. No single clean calendar date (it is a monthly figure that lands a month after release), but the strongest one-line stat for the "funk as recession field report" angle. Source: https://en.wikipedia.org/wiki/1973%E2%80%931975_recession
+- **January 15, 1975** — Ford's State of the Union: "the state of the Union is not good: Millions of Americans are out of work," the speech that named stagflation from the rostrum. Thematically ideal but the calendar slot is taken (Crusaders - Georgia Cottonfield, 01-15). Source: https://millercenter.org/the-presidency/presidential-speeches/january-15-1975-state-union-address
+
+Recommendation for a stagflation anchor: **March 29 (03-29)** is open and sits three days before the album release, making it a tighter thematic fit than the generic 04-01 album-release slot for writing theme #1 ("Survival of the fittest, Philly style"). See added Date Suggestion #6 below.
 
 **[AUDIT]** `2026-05-07 14:00` — `album` changed from `(empty)` to `Survival` — Source: https://en.wikipedia.org/wiki/Survival_(The_O'Jays_album)
 **[AUDIT]** `2026-05-07 14:00` — `label` changed from `(empty)` to `Philadelphia International Records` — Source: https://en.wikipedia.org/wiki/Survival_(The_O'Jays_album)
@@ -87,6 +101,8 @@ The `listening mission` field is currently empty.
 4. **May 26 (05-26)** — William Powell's death (May 26, 1977). The most emotionally charged anchor: the title track of his last full album with the group, two years before his death. **No existing entry on this date.** Source: https://en.wikipedia.org/wiki/The_O%27Jays
 
 5. **June 16 (06-16)** — Eddie Levert's birthday (June 16, 1942), the lead vocalist on the track. **CONFLICT: Cal Tjader - Agua Dulce (Cool-Ade) is already assigned to 06-16.** Source: https://www.alamhof.org/eddielevert
+
+6. **March 29 (03-29)** — Stagflation anchor. Ford signs the Tax Reduction Act of 1975 (the $200 recession tax rebate, and the law that created the EITC) three days before Survival's April 1 release. **No existing entry on this date.** Pairs the song's "busted, walkin' around broke" thesis with the federal government's emergency cash-back response to the same recession. Best fit for writing theme #1. Source: https://en.wikipedia.org/wiki/Tax_Reduction_Act_of_1975
 
 ### Field Verification
 

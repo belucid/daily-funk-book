@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 05-12
 artist: Billy Swan
 track: Don't Be Cruel
 album: I Can Help
@@ -9,12 +9,23 @@ year: 1974
 track length: 4m 15s
 genre:
   - Country Funk
-region: US - Tennessee
-listening mission:
-status: research-review
-writing theme:
+region:
+  - US - Southeast
+listening mission: Compare Swan’s four-minute version with Presley’s two-minute 1956 original. At half the tempo, and without the background vocal “bop-bops,” how does Swan fill all that extra space?
+status: complete
+writing theme: A case for slow funk
 funk.day code: 8agr
 ---
+Here’s a hot take: the slower the funk, the funkier it gets.
+
+Today’s song is Billy Swan’s four-minute country-funk crawl through Elvis Presley’s 85 bpm “Don’t Be Cruel.” Any bar band can cover a tune, but it took real imagination to rework Presley’s pop shuffle at half the tempo and ten times the funk.
+
+Born on May 12, 1942, Swan was seven years younger than Elvis. He went to Memphis in 1963 to pursue songwriting and made a pilgrimage to Graceland. There, he struck up a conversation with the gate guard, Elvis's uncle, who offered him a room at his house. Swan lived with the family for a while, running around Memphis with Elvis's younger cousins.
+
+In 1974, Swan included "Don't Be Cruel" on his debut album, *I Can Help*. It's easy to hear the track as a love letter to Elvis and his music. Elvis repaid the compliment by cutting Swan’s “I Can Help” for his *Today* album in 1975.
+
+Let today’s listen slow your heart rate while it puts a smile on your face.
+
 
 ---
 ## Research Notes

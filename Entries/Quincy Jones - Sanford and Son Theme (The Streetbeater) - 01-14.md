@@ -11,9 +11,10 @@ genre:
   - Jazz-Funk
 region: US - California
 listening mission: You’ve probably never heard the full three-minute version. Does it work better at full length, or at the TV show’s quick 50 seconds?
-status: complete
+status: verified
 writing theme: Funk in TV
 funk.day code: 8pja
+cover: 8pja.jpg
 ---
 Friday, January 14, 1972, marked the premiere of *Sanford and Son*. Critics saw Redd Foxx’s Fred Sanford character as NBC’s answer to Archie Bunker from *All in the Family*, which aired directly before it. *Sanford and Son* finished the 1971-1972 season as sixth best in the ratings. It ran for six seasons, ending in 1977, and it's been in syndication ever since.
 
@@ -112,19 +113,99 @@ Current writing theme: "Funk in TV (mention Seinfeld)"
 
 ### Streaming & Purchase Links
 
-- **Spotify:** https://open.spotify.com/track/6kcQuzHHNU0voleA9Jw0Zf
-- **Apple Music:** https://music.apple.com/us/song/sanford-and-son-theme-the-streetbeater/1443078955
-- **YouTube Music:** Could not locate a direct YouTube Music link; search inconclusive.
-- **Amazon Music:** Available — search "Quincy Jones Sanford and Son Theme" on Amazon Music. Direct link not confirmed.
-- **SoundCloud:** https://soundcloud.com/quincy-jones-official/sanford-son-theme-nbc-tv-the
-- **Tidal:** Available on Tidal (confirmed via search), but direct track link not located.
-- **Qobuz:** Available on Quincy Jones Greatest Hits — https://www.qobuz.com/us-en/album/greatest-hits-quincy-jones-quincy-jones/0073145405562
-- **Audiomack:** Could not locate.
-- **Deezer:** Search inconclusive; not confirmed.
-- **YouTube Video:** Search "Quincy Jones The Streetbeater Sanford and Son" on YouTube; multiple versions available but no single canonical link confirmed.
-- **Buy Album on Discogs (Master):** https://www.discogs.com/master/156483-Quincy-Jones-Youve-Got-It-Bad-Girl
-- **Buy Single on Discogs (Master):** https://www.discogs.com/master/1171757-Quincy-Jones-Sanford-Son-Theme-NBC-TV-The-Streetbeater
-- **Buy on Amazon:** https://www.amazon.com/Sanford-Son-Streetbeater-Theme-Quincy/dp/B008MZSY5S
+**Streaming:**
+
+- Spotify: https://open.spotify.com/track/6kcQuzHHNU0voleA9Jw0Zf
+- Apple Music: https://music.apple.com/us/album/sanford-and-son-theme-the-streetbeater/1443997207?i=1443997887
+- YouTube Music: https://music.youtube.com/watch?v=_QGYIsFWvTw
+- YouTube: https://www.youtube.com/watch?v=O20Sljxmy9M
+- Amazon Music: https://music.amazon.com/tracks/B001PQPZWQ
+- Tidal: https://tidal.com/browse/track/2207750
+- Qobuz: https://www.qobuz.com/us-en/album/youve-got-it-bad-girl-quincy-jones/0060251791041
+- SoundCloud: https://soundcloud.com/quincy-jones-official/sanford-son-theme-nbc-tv-the
+- Deezer: https://www.deezer.com/track/3051185
+
+**Purchase:**
+
+- Buy on Discogs (Album): https://www.discogs.com/master/156483-Quincy-Jones-Youve-Got-It-Bad-Girl
+- Buy on Discogs (Single): https://www.discogs.com/master/1171757-Quincy-Jones-Sanford-Son-Theme-NBC-TV-The-Streetbeater
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B0F3PJ243T
+- Buy on Amazon (CD): https://www.amazon.com/dp/B001NHZ2PC
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/6kcQuzHHNU0voleA9Jw0Zf" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/sanford-and-son-theme-the-streetbeater/1443997207?i=1443997887" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=_QGYIsFWvTw" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=O20Sljxmy9M" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B001PQPZWQ" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/2207750" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/youve-got-it-bad-girl-quincy-jones/0060251791041" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/quincy-jones-official/sanford-son-theme-nbc-tv-the" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/3051185" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/156483-Quincy-Jones-Youve-Got-It-Bad-Girl" },
+      { "label": "Single", "url": "https://www.discogs.com/master/1171757-Quincy-Jones-Sanford-Son-Theme-NBC-TV-The-Streetbeater" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B0F3PJ243T" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B001NHZ2PC" }
+    ]
+  }
+]
+```
 
 ### Sources
 

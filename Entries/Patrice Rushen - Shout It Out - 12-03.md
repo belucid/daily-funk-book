@@ -11,17 +11,17 @@ genre:
   - Jazz-Funk
 region: US - California
 listening mission: The track opens with a call and response between Charles Meeks’s bass and James Gadson’s reverb-heavy drums. Notice how that primes your ear to follow the funky pocket they establish together after the intro.
-status: review
+status: complete
 writing theme: title track
 funk.day code: 7dhz
 ---
-Today’s song is Patrice Rushen’s “Shout It Out,” from the album *Shout It Out*. That makes it a title track, a song that shares its name with the album. So what makes a good title track?
+Today’s song is Patrice Rushen’s “Shout It Out,” from the album *Shout It Out*. That makes it a title track, a song that shares its name with the album. So, what makes a good title track?
 
-In the early LP era, albums often gathered an artist’s recent singles, and the album title usually pointed buyers toward a big hit single they already knew. As the industry became more album-oriented, the title track took on a different role. When an album includes one, it often acts as a mission statement.
+In the early LP era, albums collected an artist’s recent singles, and the album title pointed buyers toward a big hit single they already knew. As the record industry became more album-oriented, the title track took on a different role. It often acts as a mission statement.
 
-We have seen examples of title tracks laying out the album’s mission: Prince’s “Musicology” (April 20), the O’Jays’ “Ship Ahoy” (November 10), and Herb Alpert’s “Rise” (October 20). Yesterday's song offered a different case. Lenny Kravitz’s *Mama Said* takes its title from the chorus of “Always on the Run,” but the song and album do not share a name.
+We've seen examples of title tracks laying out the album’s mission: Prince’s “Musicology” (April 20), the O’Jays’ "Survival" (January 15), and Herb Alpert’s “Rise” (October 20). Yesterday's song offered a different case. Lenny Kravitz’s *Mama Said* takes its title from the chorus of “Always on the Run,” but the song and album don't share a name.
 
-“Shout It Out” does not open Rushen’s album. That job goes to “The Hump” (September 30). But “Shout It Out” is sequenced second, and it still feels like the mission statement. Rushen had already proved herself as a pianist, composer, and arranger. Here, she steps out from behind the keys and up to the mic, starting to claim her voice as a singer too.
+“Shout It Out” doesn't open Rushen’s album. That job goes to “The Hump” (September 30). But “Shout It Out” is sequenced second, and it still feels like the mission statement. Rushen had already established herself as a pianist, composer, and arranger. Here, she steps out from behind the keys and up to the mic, claiming her voice as a singer.
 
 ---
 ## Research Notes

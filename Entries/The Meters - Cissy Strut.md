@@ -8,6 +8,7 @@ label: Josie Records
 year: 1969
 track length: 2m 59s
 genre:
+  - Classic Funk
 region:
   - US - Louisiana
 listening mission:

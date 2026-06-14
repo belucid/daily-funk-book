@@ -8,7 +8,7 @@ label:
 year:
 track length:
 genre:
-  - Jazz-Funk
+  - Psychedelic Funk
 region:
 listening mission:
 status: stub

@@ -11,9 +11,10 @@ genre:
   - Jazz-Funk
 region: Japan
 listening mission: "This is funk performed under tightrope conditions. Can you hear the focus? Ask yourself: where would they have made an edit if they could have?"
-status: complete
+status: verified
 writing theme: recording technology
 funk.day code: 9hgz
+cover: 9hgz.jpg
 ---
 “Shiftless Shuffle” had been part of Hancock’s stage repertoire in the early 1970s, and his Head Hunters band recorded a version that was not released. Today's take comes from a new Tokyo session with a different lineup, different instrumentation, and an unusual recording process.
 
@@ -106,21 +107,94 @@ I would recommend US - California.
 
 ### Streaming & Purchase Links
 
-- Spotify: https://open.spotify.com/track/1QbKLvzfuylxjyByo136fJ (Directstep version, confirmed via the Directstep album page on Spotify: https://open.spotify.com/album/5DzQ9ZchMr6hZsyN0jn4iK)
-- YouTube Music: https://music.youtube.com/watch?v=8vUW5V__5zA — Could not confirm whether this is the Directstep or Mr. Hands version; please verify.
-- Apple Music (Direct Step / Directstep album): https://music.apple.com/us/album/direct-step/290230659 — Album page confirmed; track-level Apple Music URL for the Directstep cut not located, but the track is on the album. The 290229987 track ID appears to be the Mr. Hands version (https://music.apple.com/us/song/shiftless-shuffle/290229987).
-- Tidal (track): https://tidal.com/track/23822804 — Could not confirm version (Directstep vs Mr. Hands); please verify.
-- Deezer (Directstep album): https://www.deezer.com/us/album/224164
-- Qobuz (Directstep album, hi-res): https://www.qobuz.com/us-en/album/directstep-herbie-hancock/0888880573162
-- Amazon Music (Directstep album): https://www.amazon.com/Directstep-HERBIE-HANCOCK/dp/B07Z2ZVZB5
-- SoundCloud: Could not locate an official upload of either version.
-- Audiomack: Could not locate.
-- YouTube Video (Directstep version): https://www.youtube.com/watch?v=BVGZNTJlh9I (titled "Shiftless Shuffle - Herbie Hancock 1979"); also https://www.youtube.com/watch?v=f6ETLVgePPk
-- YouTube Video (Mr. Hands version, for comparison): https://www.youtube.com/watch?v=ycPwPDY2iYU (titled "Herbie Hancock - Shiftless Shuffle (1980)")
-- Buy Album on Discogs (Master release): https://www.discogs.com/master/261248-Herbie-Hancock-Directstep
-- Buy Single on Discogs: Not applicable; "Shiftless Shuffle" was not issued as a single.
-- Buy on Amazon (2019 RSD vinyl reissue): https://www.amazon.com/Directstep-HERBIE-HANCOCK/dp/B07Z2ZVZB5
-- Get On Down (2019 RSD reissue): https://getondown.com/products/directstep-lp
+**Streaming:**
+
+- Spotify: https://open.spotify.com/track/1QbKLvzfuylxjyByo136fJ
+- Apple Music: https://music.apple.com/us/album/direct-step/290230659?i=290230662
+- YouTube Music: https://music.youtube.com/watch?v=BVdHLr4jQI0
+- YouTube: https://www.youtube.com/watch?v=BVdHLr4jQI0
+- Amazon Music: https://music.amazon.com/tracks/B001FL4AO0
+- Tidal: https://tidal.com/browse/album/2097762
+- Qobuz: https://www.qobuz.com/us-en/album/directstep-herbie-hancock/0888880573162
+- SoundCloud: https://soundcloud.com/herbiehancockmusic/shiftless-shuffle-1
+- Deezer: https://www.deezer.com/track/2242633
+
+**Purchase:**
+
+- Buy on Discogs: https://www.discogs.com/master/261248-Herbie-Hancock-Directstep
+- Buy on Amazon: intentionally left blank by the author
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/1QbKLvzfuylxjyByo136fJ" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/direct-step/290230659?i=290230662" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=BVdHLr4jQI0" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=BVdHLr4jQI0" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B001FL4AO0" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/album/2097762" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/directstep-herbie-hancock/0888880573162" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/herbiehancockmusic/shiftless-shuffle-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/2242633" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/261248-Herbie-Hancock-Directstep" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "Intentionally left blank by the author."
+  }
+]
+```
 
 ### Sources
 

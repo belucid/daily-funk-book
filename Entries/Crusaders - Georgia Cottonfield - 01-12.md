@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 01-15
+day: 01-12
 artist: Crusaders
 track: Georgia Cottonfield
 album: Crusaders 1
@@ -11,9 +11,10 @@ genre:
   - Jazz-Funk
 region: US - Texas
 listening mission: One difference between jazz and jazz-funk is the shift from a walking bass that helps define the harmonic progression to a rhythmic bass that helps define the groove. Can you hear both styles of bass at different times in the track?
-status: complete
+status: verified
 writing theme: Dropping 'Jazz' was a statement.
 funk.day code: n4pu
+cover: n4pu.jpg
 ---
 The founding members of the Swingsters met in 1954 at Phillis Wheatley High School in Houston's Fifth Ward. After a few name changes, they released 16 albums in eight years as the Jazz Crusaders on the Pacific Jazz label. Dropping "Jazz" from their name in 1972, they relaunched as the Crusaders with a funkier sound. *Crusaders 1* was actually their second album under the new name, but the first on Blue Thumb Records.
 
@@ -134,19 +135,94 @@ Went with California for consistency with the sibling "Lilies of the Nile" entry
 
 ### Streaming & Purchase Links
 
+**Streaming:**
+
 - Spotify: https://open.spotify.com/track/3cTOME6eMD6z6lQqxpgxdy
-- YouTube Music: could not locate a dedicated track link (available via the Crusaders 1 album)
-- Amazon Music: https://www.amazon.com/Georgia-Cottonfield/dp/B000WH6BSG
-- Apple Music: could not locate direct track link
-- SoundCloud: could not locate
-- Tidal: could not locate
-- Qobuz: could not locate
-- Audiomack: could not locate
-- Deezer: https://www.deezer.com/en/track/2247995
-- YouTube Video: could not locate an authoritative official link (user uploads of the full album exist, e.g. http://projazz.net/the-crusaders-crusaders-1-full-album/)
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/47654-The-Crusaders-Crusaders-1
-- Buy Single on Discogs: not applicable — "Georgia Cottonfield" was not released as a single
-- Buy on Amazon: https://www.amazon.com/Crusaders-Blue-Thumb-Records-630/dp/B07FC5NKHF
+- Apple Music: https://music.apple.com/us/album/georgia-cottonfield/1442939153?i=1442939290
+- YouTube Music: https://music.youtube.com/watch?v=KsTSoS8z2EA
+- YouTube: https://www.youtube.com/watch?v=bnuzprgvq8A
+- Amazon Music: https://music.amazon.com/tracks/B000WH6BSG
+- Tidal: https://tidal.com/browse/track/4853121
+- Qobuz: https://www.qobuz.com/us-en/album/crusaders-1-the-crusaders/0060251704066
+- SoundCloud: https://soundcloud.com/the-crusaders-official/georgia-cottonfield
+- Deezer: https://www.deezer.com/track/2247995
+
+**Purchase:**
+
+- Buy on Discogs: https://www.discogs.com/master/47654-The-Crusaders-Crusaders-1
+- Buy on Amazon: skipped at author's direction
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/3cTOME6eMD6z6lQqxpgxdy" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/georgia-cottonfield/1442939153?i=1442939290" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=KsTSoS8z2EA" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=bnuzprgvq8A" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B000WH6BSG" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/4853121" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/crusaders-1-the-crusaders/0060251704066" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/the-crusaders-official/georgia-cottonfield" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/2247995" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/47654-The-Crusaders-Crusaders-1" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "Skipped at author's direction."
+  }
+]
+```
 
 ### Sources
 

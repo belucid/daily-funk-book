@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - Illinois
 listening mission: Why does the song dissolve into a spoken-word montage at the end? Can you imagine this ending without the influence of the Beatles?
-status: complete
+status: verified
 writing theme:
 funk.day code: 6enm
+cover: 6enm.jpg
 ---
 Lead singer Curtis Mayfield left the Impressions in 1970 to pursue a solo career, but he still wrote and produced today’s song, “Stop the War,” for his former group. *Times Have Changed* was the only Impressions album to feature Leroy Hutson as Mayfield’s replacement on lead vocals. Hutson stayed for just one album and tour before leaving to start his own solo career.
 
@@ -142,21 +143,94 @@ A weaker but arguable option. The Impressions' roots are in gospel-influenced Ch
 
 ### Streaming & Purchase Links
 
-**Spotify:** https://open.spotify.com/track/0RSDYhgy2za1maSveUwaZL
-**Apple Music:** https://music.apple.com/us/album/times-have-changed/111235456 (Track 1)
-**SoundCloud:** https://soundcloud.com/theimpressions/stop-the-war
-**Deezer:** https://www.deezer.com/us/album/89283
-**Qobuz:** https://www.qobuz.com/us-en/album/times-have-changed-the-impressions/0603497167265
-**YouTube Music:** Could not locate a direct link. Search inconclusive.
-**Amazon Music:** https://www.amazon.com/Times-Have-Changed-Impressions/dp/B077C18S6R (album page with streaming)
-**Tidal:** Could not locate a direct link. Search inconclusive, but album likely available given presence on other major platforms.
-**Audiomack:** Could not locate. Search inconclusive.
-**YouTube Video:** Could not locate a dedicated video. Search inconclusive.
+**Streaming:**
 
-**Buy Album on Discogs (Master Release):** https://www.discogs.com/master/330681-The-Impressions-Times-Have-Changed
-**Buy Single on Discogs:** No evidence found that "Stop the War" was released as a standalone single.
-**Buy on Amazon (Vinyl):** https://www.amazon.com/Times-Have-Changed-Vinyl-Impressions/dp/B00007FCZH
-**Buy on Amazon (CD):** https://www.amazon.com/Times-Have-Changed-IMPRESSIONS/dp/B00K0PDPL6
+- Spotify: https://open.spotify.com/track/2YcdKWUKVna1Led2QU4jWR
+- Apple Music: https://music.apple.com/us/album/stop-the-war/111235456?i=111234820
+- YouTube Music: https://music.youtube.com/watch?v=oDZayBBKZdM
+- YouTube: https://www.youtube.com/watch?v=oDZayBBKZdM
+- Amazon Music: https://music.amazon.com/tracks/B00122S2P0
+- Tidal: https://tidal.com/browse/track/2118657
+- Qobuz: https://www.qobuz.com/us-en/album/times-have-changed-the-impressions/0603497167265
+- SoundCloud: https://soundcloud.com/theimpressions/stop-the-war
+- Deezer: https://www.deezer.com/track/755668
+
+**Purchase:**
+
+- Buy on Discogs: https://www.discogs.com/master/330681-The-Impressions-Times-Have-Changed
+- Buy on Amazon: intentionally left blank by the author
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/2YcdKWUKVna1Led2QU4jWR" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/stop-the-war/111235456?i=111234820" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=oDZayBBKZdM" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=oDZayBBKZdM" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B00122S2P0" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/2118657" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/times-have-changed-the-impressions/0603497167265" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/theimpressions/stop-the-war" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/755668" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/330681-The-Impressions-Times-Have-Changed" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "Intentionally left blank by the author."
+  }
+]
+```
 
 ### Sources
 

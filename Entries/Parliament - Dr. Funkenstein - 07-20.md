@@ -11,15 +11,15 @@ genre:
   - Psychedelic Funk
 region: US - Michigan
 listening mission: The drums, bass, and intergalactic vocals dominate today’s track, but listen for the horns. These are Fred Wesley’s charts with Maceo Parker on sax. Do they still sound like James Brown’s horn section, or does it feel like their talent gets lost once they step aboard this UFO?
-status: review
+status: complete
 writing theme:
 funk.day code: d4sy
 ---
-Just like this book, Dr. Funkenstein’s only prescription is more funk. He's an intergalactic mad scientist, one of George Clinton’s recurring characters.
+Just like this book, Dr. Funkenstein’s only prescription is more funk. The good doctor is an intergalactic mad scientist, one of George Clinton’s recurring characters in the Parliament universe.
 
 In the late 1970s, Clinton pushed concept albums into new territory with an evolving sci-fi scripture and a cast of returning characters across Parliament records. The conceit of *The Clones of Dr. Funkenstein* is that Starchild, from 1975’s *Mothership Connection*, is working for Dr. Funkenstein, cloning funkateers to seed the Earth.
 
-To modern ears, today’s “Dr. Funkenstein” can sound like a novelty track. But in 1976, there was a huge audience for Parliament’s antics. *The Clones of Dr. Funkenstein*, released on July 20, 1976, was their fifth studio album and their second gold record. It reached #3 on the *Billboard* R&B Albums chart and #20 on the pop chart.
+To modern ears, today’s song, “Dr. Funkenstein,” can sound like a novelty track. But in 1976, there was a huge audience for Parliament’s antics. *The Clones of Dr. Funkenstein*, released on July 20, 1976, was their fifth studio album and their second gold record. It reached #3 on the *Billboard* R&B Album chart and #20 on the pop chart.
 
 ---
 ## Research Notes

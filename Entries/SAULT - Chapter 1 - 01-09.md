@@ -11,9 +11,10 @@ genre:
   - Nu-Funk
 region: UK
 listening mission: "On the surface, this sounds like playground trash talk: “You’re just a loser, and hate that I’m a winner.” Listen past the taunt. Is the song really about ego, or is it about something else?"
-status: complete
+status: verified
 writing theme:
 funk.day code: b73k
+cover: b73k.jpg
 ---
 The album *Chapter 1* dropped without warning on January 9, 2026. Mystery is SAULT's hallmark. Despite the title, *Chapter 1* is not their debut. It's their thirteenth album in roughly seven years. Their first album in 2019 was actually called *5*. *7* followed *5*. *9* was their fifth album. *11* arrived in 2022, and *10* in 2025. Confused yet?
 
@@ -111,23 +112,97 @@ My strongest single recommendation is **Nu-Funk**, with **Psychedelic Funk** as 
 
 ### Streaming & Purchase Links
 
-- Spotify (track): https://open.spotify.com/track/6ohSXVLFYTqb4SVMD6quyb
-- Spotify (album): https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe
-- Apple Music (album): https://music.apple.com/us/album/chapter-1/1867311494
-- YouTube Music: Could not locate a direct YouTube Music album page; the SAULT artist channel exists at https://music.youtube.com/channel/UCZVcwpGNuGE3NqTjQsoAdGw
-- YouTube Video (full album): https://www.youtube.com/watch?v=eDbX1UFFs10
-- Amazon Music (album): https://music.amazon.com.mx/albums/B0GFFRTCS5
-- SoundCloud (track): https://soundcloud.com/saultglobal/chapter-1-2?in=saultglobal/sets/chapter-1
-- Tidal (album): https://tidal.com/album/487911000
-- Deezer (album): https://www.deezer.com/en/album/892837412
-- Audiomack: Individual *Chapter 1* tracks are present on the SAULT Audiomack profile (https://audiomack.com/saultglobal), but the title track was not located in search; could not locate a direct page for the song.
-- Qobuz: Could not locate a Qobuz listing.
-- Buy Album on Bandcamp: https://saultglobal.bandcamp.com/album/chapter-1
-- Buy Track on Bandcamp: https://saultglobal.bandcamp.com/track/chapter-1
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/4177902-Sault-Chapter-1
-- Buy Album on Discogs (2026 digital release): https://www.discogs.com/release/36200308-Sault-Chapter-1
-- Buy on Amazon: see Amazon Music link above for streaming/purchase
-- Buy Single on Discogs: not available; "Chapter 1" was not issued as a stand-alone single.
+**Streaming:**
+
+- Spotify: https://open.spotify.com/track/6ohSXVLFYTqb4SVMD6quyb
+- Apple Music: https://music.apple.com/us/album/chapter-1/1867311494?i=1867311508
+- YouTube Music: https://music.youtube.com/watch?v=WkV6RYIloWQ
+- YouTube: https://www.youtube.com/watch?v=WkV6RYIloWQ
+- Amazon Music: https://music.amazon.com/tracks/B0GFGFWFND
+- Tidal: https://tidal.com/browse/track/487911002
+- Qobuz: https://www.qobuz.com/us-en/album/chapter-1-sault/q4zvh3hiwuxr5
+- SoundCloud: https://soundcloud.com/saultglobal/chapter-1-2
+- Deezer: https://www.deezer.com/track/3761236152
+
+**Purchase:**
+
+- Buy on Discogs: https://www.discogs.com/master/4177902-Sault-Chapter-1
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B0GGTXZ4KS
+- Buy on Amazon (CD): https://www.amazon.com/dp/B0GGTWTXJ4
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/6ohSXVLFYTqb4SVMD6quyb" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/chapter-1/1867311494?i=1867311508" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=WkV6RYIloWQ" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=WkV6RYIloWQ" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0GFGFWFND" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/487911002" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/chapter-1-sault/q4zvh3hiwuxr5" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/saultglobal/chapter-1-2" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/3761236152" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/4177902-Sault-Chapter-1" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B0GGTXZ4KS" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B0GGTWTXJ4" }
+    ]
+  }
+]
+```
 
 ### Sources
 

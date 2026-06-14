@@ -1,13 +1,14 @@
 ---
 fileClass: funk-entry
 day:
-artist: JB's
+artist: The J.B.'s
 track: Damn Right I Am Somebody
 album: Damn Right I Am Somebody
 label: People Records
 year: 1974
 track length: 6m 0s
 genre:
+  - Classic Funk
 region: US - Southeast
 listening mission:
 status: research-review

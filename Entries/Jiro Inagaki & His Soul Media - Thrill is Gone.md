@@ -8,6 +8,7 @@ label: Columbia
 year: 1973
 track length: 4m 03s
 genre:
+  - Jazz-Funk
 region:
   - Japan
 listening mission:

@@ -8,6 +8,7 @@ label: Columbia
 year: 1973
 track length: 3m 35s
 genre:
+  - Jazz-Funk
 region:
   - Japan
 listening mission: Notice how the bass carries the groove alone rather than locking in with the drums to create it. The drums remain free to add highlights and solos, more like a horn.

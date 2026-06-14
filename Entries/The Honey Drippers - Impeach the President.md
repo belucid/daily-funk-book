@@ -8,6 +8,7 @@ label: Alaga Records
 year: 1973
 track length: 3m 17s
 genre:
+  - Deep Funk
 region: US - New York
 listening mission:
 status: research-review

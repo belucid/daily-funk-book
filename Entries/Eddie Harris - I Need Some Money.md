@@ -8,6 +8,7 @@ label: Atlantic
 year: 1975
 track length: 3m 10s
 genre:
+  - Jazz-Funk
 region: US - Illinois
 listening mission:
 status: research-review

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 12-17
 artist: The Meters
 track: Hand Clapping Song
 album: Struttin'
@@ -8,13 +8,19 @@ label: Josie Records
 year: 1970
 track length: 2m 56s
 genre:
+  - Classic Funk
 region:
   - US - Louisiana
-listening mission:
-status: research-review
+listening mission: "The handclaps do two jobs at once: they are a percussion layer and an instruction to the audience. Pay attention to how the claps lock in with Zigaboo’s drums and Porter’s bass. When you clap along, do you get a sense of what it’s like to participate in a funk pocket?"
+status: review
 writing theme:
 funk.day code: cd6x
 ---
+Art Neville was born on December 17, 1937, in New Orleans. He learned piano early, played in a series of local bands, served a short stint in the Navy, and in 1965 founded the Meters. Joined by Leo Nocentelli on guitar, George Porter Jr. on bass, and Joseph “Zigaboo” Modeliste on drums, the Meters became the house rhythm section for Allen Toussaint and Marshall Sehorn’s Sansu Enterprises, backing artists like Lee Dorsey, Dr. John, and later Paul McCartney.
+
+A session band by day, the Meters also made their own records for the soul and funk label Josie by night. Their third studio album, *Struttin'*, was released in 1970 and marked a shift toward including more vocals. The earlier Meters records were mostly instrumental, built from clipped funk guitar, Art's organ, bass, drums, and a New Orleans rhythmic feel. On *Struttin’*, they kept the groove but experimented with a few vocal tracks, including today's, "Hand Clapping Song". The single was a modest commercial success, charting at #89 on the *Billboard* Hot 100 and #26 on the R&B chart.
+
+To build on the band's new vocal-infused sound, The Meters added Art's brother, Cyril Neville on vocals and percussion. They opened for the Rolling Stones on the Stones' 1975 Tour of the Americas and 1976 Tour of Europe, which dramatically widened the audience for their 1975 funk masterpiece,  *Fire On The Bayou*. The band broke up in 1977 when Art and Cyril left to join their brothers Charles and Aaron to form The Neville Brothers.
 
 ---
 ## Research Notes

@@ -8,6 +8,7 @@ label: Milestone Records
 year: 1975
 track length: 5m 17s
 genre:
+  - Jazz-Funk
 region: US - California
 listening mission:
 status: research-review

@@ -12,9 +12,10 @@ genre:
 region:
   - US - New York
 listening mission: You likely know the vocal from Fatboy Slim’s “Praise You.” How does hearing it in its original context change it?
-status: complete
+status: verified
 writing theme: Songs where the sample is better known than the sampled, seems like a cover at first, cause the sample has the words
 funk.day code: kdui
+cover: kdui.jpg
 ---
 Sometimes we hear the original version only after becoming familiar with a cover, so the original sounds like the cover. That happens with samples too. It might happen to you when you hear the opening of today’s song, "Take Yo’ Praise" by Camille Yarbrough. 
 
@@ -116,21 +117,95 @@ The current genre is **Soul Jazz**. This is reasonable but here are consideratio
 
 **Streaming:**
 - Spotify: [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk)
-- Apple Music: [Take Yo' Praise](https://music.apple.com/us/song/take-yo-praise/712065965)
-- YouTube Music: Could not locate a direct YouTube Music link; search "Camille Yarbrough Take Yo' Praise" on the platform.
-- Amazon Music: [The Iron Pot Cooker (Digital)](https://www.amazon.com/Iron-Pot-Cooker-Camille-Yarbrough/dp/B0876MG9BD)
-- SoundCloud: [Take Yo' Praise](https://soundcloud.com/camille-yarbrough/take-yo-praise-1)
-- Tidal: [Camille Yarbrough on Tidal](https://tidal.com/browse/artist/3661209) — track available, direct link to artist page.
-- Qobuz: [The Iron Pot Cooker on Qobuz](https://www.qobuz.com/us-en/interpreter/camille-yarbrough/111442)
-- Deezer: [Take Yo' Praise](https://www.deezer.com/en/track/3128628)
-- Audiomack: Could not locate.
+- Apple Music: [Take Yo' Praise](https://music.apple.com/us/album/take-yo-praise/1508047360?i=1508047374)
+- YouTube Music: [Take Yo' Praise](https://music.youtube.com/watch?v=WVDURaXG6wk)
+- YouTube: [Take Yo' Praise (Official Audio)](https://www.youtube.com/watch?v=iYa8F0827_g)
+- Amazon Music: [Take Yo' Praise](https://music.amazon.com/tracks/B0876L957G)
+- Tidal: [Take Yo' Praise](https://tidal.com/browse/track/137827828)
+- Qobuz: [The Iron Pot Cooker](https://www.qobuz.com/us-en/album/the-iron-pot-cooker-camille-yarbrough/kpjb15536o1bb)
+- SoundCloud: [Take Yo' Praise](https://soundcloud.com/camille-yarbrough/take-yo-praise-2)
+- Deezer: [Take Yo' Praise](https://www.deezer.com/track/935302372)
 
 **Purchase:**
-- Buy Album on Discogs (Master Release): [The Iron Pot Cooker](https://www.discogs.com/master/436250-Camille-Yarbrough-The-Iron-Pot-Cooker)
-- Buy Single on Discogs (Master Release): [Yo' Praise](https://www.discogs.com/master/2893066-Camille-Yarbrough-Yo-Praise)
-- Buy on Amazon (CD): [The Iron Pot Cooker](https://www.amazon.com/Iron-Pot-Cooker-Camille-Yarbrough/dp/B00002069L)
-- Buy on Amazon (Vinyl): [The Iron Pot Cooker 180g LP](https://www.amazon.com/Iron-Pot-Cooker-CAMILLE-YARBROUGH/dp/B0007LZKHK)
-- Buy on Craft Recordings (Vinyl): [The Iron Pot Cooker 180g LP](https://craftrecordings.com/products/camille-yarbrough-the-iron-pot-cooker-180g-lp)
+- Buy on Discogs (Album): [The Iron Pot Cooker](https://www.discogs.com/master/436250-Camille-Yarbrough-The-Iron-Pot-Cooker)
+- Buy on Discogs (Single): [Yo' Praise](https://www.discogs.com/master/2893066-Camille-Yarbrough-Yo-Praise)
+- Buy on Amazon (Vinyl): [The Iron Pot Cooker](https://www.amazon.com/dp/B084DH65Y3)
+- Buy on Amazon (CD): [The Iron Pot Cooker](https://www.amazon.com/dp/B0007LZKHK)
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/take-yo-praise/1508047360?i=1508047374" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=WVDURaXG6wk" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=iYa8F0827_g" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0876L957G" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/137827828" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/the-iron-pot-cooker-camille-yarbrough/kpjb15536o1bb" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/camille-yarbrough/take-yo-praise-2" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/935302372" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/436250-Camille-Yarbrough-The-Iron-Pot-Cooker" },
+      { "label": "Single", "url": "https://www.discogs.com/master/2893066-Camille-Yarbrough-Yo-Praise" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B084DH65Y3" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B0007LZKHK" }
+    ]
+  }
+]
+```
 
 ### Sources
 

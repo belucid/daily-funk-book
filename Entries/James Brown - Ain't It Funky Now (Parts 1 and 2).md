@@ -8,6 +8,7 @@ label: King Records
 year: 1969
 track length: 9m 26s
 genre:
+  - Classic Funk
 region: US - Ohio
 listening mission:
 status: research-review
