@@ -11,13 +11,13 @@ genre:
   - Gospel Funk
 region: US - Northeast
 listening mission: Listen to how the different vocalists interact. Gospel leans on call-and-response, but this track blends in plenty of R&B. When do the background vocals answer the lead's call, and when do they do their own thing?
-status: review
+status: complete
 writing theme:
 funk.day code: gw6g
 ---
-Pearl Farano was born Pearl Reaves on June 7, 1929, in Raleigh, North Carolina. She moved to New Jersey in 1949 and married drummer Paul Farano. After she won five straight weeks of amateur night, he hired her to sing at his Palace Blue Room club. The couple later moved to Dorchester, Massachusetts, where they were living in 1982 when today’s song, “Who’s Your Boss,” was recorded.
+Pearl Farano was born Pearl Reaves on June 7, 1929, in Raleigh, North Carolina. She moved to Rahway, New Jersey, in 1949 and married drummer Paul Farano. After she won five consecutive weeks of amateur night, she earned a permanent spot singing at his Palace Blue Room club. The couple later moved to Boston, where they were living in 1982 when today’s song, “Who’s Your Boss,” was recorded.
 
-“Who’s Your Boss” was Farano’s final commercial release before she left the stage to preach full-time at Mount Olive Temple of Christ in Dorchester. The single’s A-side is “Use Me Lord,” a straight gospel number. “Who’s Your Boss” is the funky B-side, the kind of cut gospel acts sometimes recorded as filler, a throwaway until crate-diggers rediscovered it. The title plays like a workplace question, but the answer is that Jesus is your boss. It's a gospel sermon set to a funk groove.
+“Who’s Your Boss” was Farano’s final commercial release before she left the stage to preach full-time at Mount Olive Temple of Christ in Dorchester. The single’s A-side, “Use Me Lord,” is a straight gospel number. “Who’s Your Boss” is the funky B-side, the kind of track gospel acts often recorded as filler, a throwaway until crate-diggers rediscover it. The title poses a workplace question, but the answer is clear: Jesus is your boss. It's a gospel sermon from a soon-to-be preacher set to a funk groove.
 
 ---
 ## Research Notes

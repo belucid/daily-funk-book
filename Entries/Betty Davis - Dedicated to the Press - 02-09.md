@@ -11,9 +11,10 @@ genre:
   - Deep Funk
 region: US - New York
 listening mission: Listen to Betty Davis’ mix of funk, rock, humor, and confrontation. Can you hear echoes of Davis in the Red Hot Chili Peppers?
-status: complete
+status: verified
 writing theme:
 funk.day code: 9dwb
+cover: 9dwb.jpg
 ---
 Today’s song, "Dedicated to the Press," finds Betty Davis taunting a system that never understood her. After two albums on a smaller label, *Nasty Gal* was supposed to be her breakthrough: a chance to bring her brand of raw funk to a major label. Island Records’ Chris Blackwell bought out her earlier contract on Robert Palmer’s recommendation, but the new album underperformed commercially, and Island shelved her follow-up. Davis’ commercial recording career was effectively over.
 
@@ -118,22 +119,93 @@ Recommendation: **Classic Funk** as a confident default; **Funk Rock** if the au
 
 Recommendation: leave as **US - New York** unless the writer's theme leans on Betty's Southern roots, in which case switch to **US - Southeast** with an audit line.
 
-### Streaming & Purchase Links
+Streaming:
 
 - Spotify: https://open.spotify.com/track/0KPmnnY7ctOP9vs9SLjU2M
-- YouTube Music: Could not locate a direct YouTube Music link in search; track is on YouTube and the album is on YouTube Music, treat as available via YouTube/Spotify mirroring.
-- Amazon Music: https://www.amazon.com/Dedicated-To-The-Press/dp/B01F8OEYH2
-- Apple Music: https://www.shazam.com/song/1440846950/dedicated-to-the-press (Shazam page links to Apple Music; direct Apple URL not surfaced cleanly in search)
-- SoundCloud: https://soundcloud.com/user4297012/betty-davis-dedicated-to-the (user upload, not an official artist page)
-- Tidal: Could not locate a direct link in available searches.
-- Qobuz: Could not locate a direct link in available searches.
-- Audiomack: Could not locate a direct link in available searches.
-- Deezer: Could not locate a direct link in available searches.
-- YouTube Video (full song): https://www.youtube.com/watch?v=d4-TmJ4bWi4
-- YouTube Video (vinyl rip from Nasty Gal LP, side A track 3): https://www.youtube.com/watch?v=GF_jJ4SO_3g
-- Buy Album on Discogs (Master release): https://www.discogs.com/master/133644-Betty-Davis-Nasty-Gal
-- Buy Single on Discogs (1975 7", "Dedicated to the Press" b/w "The Lone Ranger"): https://www.discogs.com/release/527457-Betty-Davis-Dedicated-To-The-Press
-- Buy on Amazon (Nasty Gal album, Light in the Attic reissue): https://www.amazon.com/Dedicated-To-The-Press/dp/B01F8OEYH2
+- Apple Music: https://music.apple.com/us/album/dedicated-to-the-press/1440846491?i=1440846950
+- YouTube Music: https://music.youtube.com/watch?v=LPYYTsw4lWQ
+- YouTube: https://www.youtube.com/watch?v=LPYYTsw4lWQ
+- Amazon Music: https://music.amazon.com/tracks/B01F8OEYH2
+- Tidal: https://tidal.com/browse/track/60141171
+- Qobuz: https://www.qobuz.com/us-en/album/nasty-gal-betty-davis/0060254794033
+- SoundCloud: https://soundcloud.com/betty-davis-official/dedicated-to-the-press
+- Deezer: https://www.deezer.com/track/124619498
+
+Purchase:
+
+- Buy on Discogs: https://www.discogs.com/master/133644-Betty-Davis-Nasty-Gal
+- Buy on Amazon: verified absent (no retail product confirmed).
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0KPmnnY7ctOP9vs9SLjU2M" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/dedicated-to-the-press/1440846491?i=1440846950" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=LPYYTsw4lWQ" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=LPYYTsw4lWQ" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B01F8OEYH2" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/60141171" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/nasty-gal-betty-davis/0060254794033" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/betty-davis-official/dedicated-to-the-press" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/124619498" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/133644-Betty-Davis-Nasty-Gal" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": []
+  }
+]
+```
 
 ### Sources
 

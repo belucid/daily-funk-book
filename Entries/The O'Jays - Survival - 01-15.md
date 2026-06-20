@@ -12,9 +12,10 @@ genre:
 region:
   - US - Northeast
 listening mission: Listen to Gamble and Huff’s signature lush Philly Sound arrangement. Do the strings and cascading horns distract from the bleak message, or do they work as a kind of ironic frame?
-status: complete
+status: verified
 writing theme:
 funk.day code: 38bk
+cover: 38bk.jpg
 ---
 Modern State of the Union addresses usually include a version of the declaration, “The state of our union is strong.” On January 15, 1975, President Gerald Ford took the podium and said the opposite: “The state of the Union is not good.” Millions of Americans were out of work while high inflation ate into household budgets. The country was experiencing stagflation, the dreaded trio of stagnant growth, high inflation, and high unemployment.
 
@@ -135,28 +136,94 @@ The `listening mission` field is currently empty.
 
 **Streaming:**
 
-- Spotify (track): https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X
-- Spotify (album): https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb
-- Apple Music (album): https://music.apple.com/us/album/survival/158513207
-- Deezer (album): https://www.deezer.com/us/album/97515
-- Amazon Music (album): https://www.amazon.com/Survival-OJays/dp/B00160ANKU
-- YouTube Music: could not locate a stable, definitive URL; available via the Spotify/Apple Music album above
-- SoundCloud: could not locate
-- Tidal: could not locate a confirmed direct URL
-- Qobuz: could not locate a direct album URL
-- Audiomack: could not locate
-
-**Video:**
-
-- YouTube (Soul Train video): https://www.youtube.com/watch?v=rL-IxI54N2k
-- YouTube (official audio): https://www.youtube.com/watch?v=qBQj1CfEV9U
-- YouTube (album playlist): https://www.youtube.com/playlist?list=PLmvQzGNjflbT7l_t0v3yHZbVtBpwwZk-E
+- Spotify: https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X
+- Apple Music: https://music.apple.com/us/album/survival/158513207?i=158513455
+- YouTube Music: https://music.youtube.com/watch?v=bu2Urm3XGlk
+- YouTube: https://www.youtube.com/watch?v=qBQj1CfEV9U
+- Amazon Music: https://music.amazon.com/tracks/B00138G2SM
+- Tidal: https://tidal.com/browse/track/1313221
+- Qobuz: https://www.qobuz.com/us-en/album/survival-the-ojays/0074646524824
+- SoundCloud: https://soundcloud.com/theojays/survival
+- Deezer: https://www.deezer.com/track/852413
 
 **Purchase:**
 
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/158692-The-OJays-Survival
-- Buy Single on Discogs (Master Release for "Let Me Make Love To You" / "Survival"): https://www.discogs.com/master/229216-The-OJays-Let-Me-Make-Love-To-You
-- Buy on Amazon (CD): https://www.amazon.com/Survival-OJays/dp/B00160ANKU
+- Buy on Discogs (Album): https://www.discogs.com/master/158692-The-OJays-Survival
+- Buy on Discogs (Single): https://www.discogs.com/master/229216-The-OJays-Let-Me-Make-Love-To-You
+- Buy on Amazon: none found (verified absent)
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/survival/158513207?i=158513455" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=bu2Urm3XGlk" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=qBQj1CfEV9U" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B00138G2SM" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/1313221" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/survival-the-ojays/0074646524824" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/theojays/survival" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/852413" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/158692-The-OJays-Survival" },
+      { "label": "Single", "url": "https://www.discogs.com/master/229216-The-OJays-Let-Me-Make-Love-To-You" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "No physical/retail product page confirmed; recorded as verified-absent per human review."
+  }
+]
+```
 
 ### Sources
 

@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: Dylan’s original is a seven-minute solo acoustic rant. Preston cuts it in half and adds drums, bass, horns, and strings. How much of Dylan’s anger survives the funky treatment?
-status: complete
+status: verified
 writing theme:
 funk.day code: mxqk
+cover: mxqk.jpg
 ---
 Billy Preston has one of the best claims to be the true fifth Beatle. He played with them at their last live performance together, the rooftop concert at Apple on January 30, 1969. He also played organ on late-era sessions for *Abbey Road* and *Let It Be*, and he's the only outside musician to be named on a Beatles single: “Get Back” and “Don’t Let Me Down” are by “The Beatles with Billy Preston.”
 
@@ -110,24 +111,91 @@ No open research questions were found in the entry.
 ### Streaming & Purchase Links
 
 **Streaming:**
-- Spotify: https://open.spotify.com/track/5o2FgPMTQ9mZnTrDpQZfC8
-- Apple Music: https://music.apple.com/us/song/its-alright-ma-im-only-bleeding/1582669232
-- Audiomack: https://audiomack.com/billypreston/song/its-alright-ma-im-only-bleeding
-- Deezer: https://www.deezer.com/us/album/254627522 (album page; track 12)
-- Qobuz: https://www.qobuz.com/us-en/interpreter/billy-preston-5/389327 (artist page; album available)
-- Amazon Music: https://www.amazon.com/Everybody-Likes-Some-Kind-Music/dp/B09DS89S26 (digital album)
-- YouTube Music: Could not locate a direct track link; search inconclusive
-- Tidal: Could not locate a direct link; search inconclusive
-- SoundCloud: Not available on this platform (confirmed absence of official upload)
+- Spotify: https://open.spotify.com/track/5ADPPlLXhyr0BaUkuGn8RQ
+- Apple Music: https://music.apple.com/us/album/its-alright-ma-im-only-bleeding/1582667787?i=1582669232
+- YouTube Music: https://music.youtube.com/watch?v=2-U9Uk24BcU
+- YouTube: https://www.youtube.com/watch?v=9Qpv_EwqGZg
+- Amazon Music: https://music.amazon.com/tracks/B09DS1V77H
+- Tidal: https://tidal.com/browse/track/195408930
+- Qobuz: https://www.qobuz.com/us-en/album/everybody-likes-some-kind-of-music-billy-preston/slru4rml3chxc
+- SoundCloud: https://soundcloud.com/billy-preston-official/its-alright-ma-im-only
+- Deezer: https://www.deezer.com/track/1476768352
 
 **Purchase:**
-- Buy Album on Discogs (Master): https://www.discogs.com/master/106226-Billy-Preston-Everybody-Likes-Some-Kind-Of-Music
-- Buy on Amazon (CD): https://www.amazon.com/Everybody-Likes-Some-Kind-Music/dp/B000J0OKUW
-- Buy on Amazon (Vinyl): https://www.amazon.com/Everybody-Likes-Some-Kind-Music/dp/B0050AVBUS
-- Buy Single on Discogs: Not applicable (track was not released as a single)
+- Buy on Discogs: https://www.discogs.com/master/106226-Billy-Preston-Everybody-Likes-Some-Kind-Of-Music
+- Buy on Amazon: none confirmed (verified absent)
 
-**YouTube Video:**
-- Could not locate a specific video of this track; search inconclusive
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/5ADPPlLXhyr0BaUkuGn8RQ" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/its-alright-ma-im-only-bleeding/1582667787?i=1582669232" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=2-U9Uk24BcU" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=9Qpv_EwqGZg" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B09DS1V77H" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/195408930" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/everybody-likes-some-kind-of-music-billy-preston/slru4rml3chxc" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/billy-preston-official/its-alright-ma-im-only" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/1476768352" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/106226-Billy-Preston-Everybody-Likes-Some-Kind-Of-Music" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "Left blank per human review; no retail product page confirmed."
+  }
+]
+```
 
 ### Sources
 

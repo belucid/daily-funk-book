@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: Latimore
 track: It Ain't Where You Been
-album: It Ain't Where You Been... It's Where You're Goin'
+album: It Ain't Where You Been...
 label: Glades
 year: 1976
 track length: 4m 24s

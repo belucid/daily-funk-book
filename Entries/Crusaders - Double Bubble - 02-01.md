@@ -11,9 +11,10 @@ genre:
   - Jazz-Funk
 region: US - Texas
 listening mission: "Listen for how the song spotlights each player: drums, bass, keys, and horns. How does it fit so many moments into such a compact space without anyone stepping on anyone else?"
-status: complete
+status: verified
 writing theme:
 funk.day code: mfmn
+cover: mfmn.jpg
 ---
 Joe Sample, composer of today’s “Double Bubble,” was born February 1, 1939. Sample was the Crusaders’ keyboardist and primary writer, and this track is a compact example of his impeccable sense of groove.
 
@@ -99,20 +100,99 @@ I've set the field to **US - Texas** as the stronger historical/identity answer.
 
 ### Streaming & Purchase Links
 
-- Spotify: https://open.spotify.com/track/7I1HikqVVObhaGaIoXfoYp
-- YouTube Music: Could not locate a direct track URL via search.
-- Amazon Music: Could not locate a direct track URL via search; album available — see Amazon purchase below.
-- Apple Music: Could not locate a direct track URL via search.
-- SoundCloud: Could not locate.
-- Tidal: Could not locate.
-- Qobuz: Could not locate.
-- Audiomack: Could not locate.
-- Deezer: Could not locate.
-- YouTube Video: Could not locate a confirmed official upload via search.
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort
-- Buy Album on Discogs (1974 US original pressing, ABCD-847): https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
-- Buy Single on Discogs: "Double Bubble" was not issued as a single — album-only track (verified via Discogs API search 2026-05-16, no 7" master returned).
-- Buy on Amazon: Search the album title "Southern Comfort" + "The Crusaders" on Amazon; the eBay listings confirm multiple CD/LP editions circulate. https://www.ebay.com/itm/203446945003
+Streaming:
+
+- Spotify: https://open.spotify.com/track/0RWx7gun99P3AC44kySLUQ
+- Apple Music: https://music.apple.com/us/album/double-bubble/1443155364?i=1443155378
+- YouTube Music: https://music.youtube.com/watch?v=nd9uTmYIJ6I
+- YouTube: https://www.youtube.com/watch?v=uMz5bR5Y0B4
+- Amazon Music: https://music.amazon.com/tracks/B000WGSVQ2
+- Tidal: https://tidal.com/browse/track/35688056
+- Qobuz: https://www.qobuz.com/us-en/album/southern-comfort-the-crusaders/0007673260162
+- SoundCloud: https://soundcloud.com/the-crusaders-official/double-bubble-album-version
+- Deezer: https://www.deezer.com/track/2491679
+
+Purchase:
+
+- Buy on Discogs: https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort
+- Buy on Amazon (CD): https://www.amazon.com/Southern-Comfort-Crusaders/dp/B0000001PE
+- Buy on Amazon (Vinyl): https://www.amazon.com/Southern-Comfort-Crusaders/dp/B000RDHXQY
+
+Note: "Double Bubble" was never issued as a single — album-only track (verified via Discogs API, no 7" master returned).
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0RWx7gun99P3AC44kySLUQ" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/double-bubble/1443155364?i=1443155378" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=nd9uTmYIJ6I" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=uMz5bR5Y0B4" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B000WGSVQ2" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/35688056" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/southern-comfort-the-crusaders/0007673260162" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/the-crusaders-official/double-bubble-album-version" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/2491679" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/Southern-Comfort-Crusaders/dp/B0000001PE" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/Southern-Comfort-Crusaders/dp/B000RDHXQY" }
+    ]
+  }
+]
+```
 
 ### Sources
 
