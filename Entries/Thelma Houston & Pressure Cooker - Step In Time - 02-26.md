@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 02-26
 artist: Thelma Houston & Pressure Cooker
 track: Step In Time
 album: I've Got the Music in Me
@@ -10,12 +10,17 @@ track length: 3m 12s
 genre:
   - Jazz-Funk
 region: US - California
-listening mission:
-status: research-review
-writing theme:
+listening mission: Two drummers, Jim Gordon and Jim Keltner, are credited on the live recording of “Step in Time.” Can you pick out each drummer at work?
+status: review
+writing theme: live recording
 funk.day code:
 cover:
 ---
+Sheffield Lab recorded Thelma Houston and Pressure Cooker’s *I’ve Got the Music in Me* live to lacquer at Producer’s Workshop in Hollywood. There was no tape, no overdubbing, and no remixing. They were chasing the purest possible reproduction of the band playing in the room.
+
+The sessions ran from February 24 through 26, 1975. Because each track was cut directly to the master disc, a single flubbed note could ruin not just the song, but the entire side of the record up to that point. The musicians had to perform with the precision of a studio session and the no-going-back commitment of a live concert.
+
+The job fell to a group of musicians with exactly the right name: Pressure Cooker, a formidable collection of Los Angeles session players. Today’s instrumental, “Step in Time,” features Jim Gordon and Jim Keltner on drums, Larry Knechtel and Michael Omartian on keyboards, Larry Carlton and Dean Parks on guitar, and Reinie Press on bass. With Thelma Houston taking a break from the microphone, the band got to show off directly for the recording needle.
 
 ---
 ## Research Notes
@@ -27,7 +32,7 @@ cover:
 
 ### Open Research Questions
 
-No `open:` items were present in the entry. One question surfaced during research and is resolved below:
+- **What was the name of the studio?** **Resolved: Producer's Workshop**, a small Hollywood recording studio. Engineer/producer Bill Schnee cut the album direct-to-disc there in February 1975. It is the same room where Schnee later tracked Steely Dan's *Aja*: "The studio I did Thelma's d-to-d in was Producer's Workshop, the same studio where I tracked *Aja*." Discogs notes only credit "Hollywood, California" without naming the room. Sources: https://www.psaudio.com/blogs/copper/producer-engineer-bill-schnee-talking-with-the-chairman-at-the-board and https://en.wikipedia.org/wiki/Bill_Schnee
 
 - Is this "Step In Time" the song from Disney's *Mary Poppins* (Sherman Brothers)? **No.** This is an original instrumental written by Mark Tulin and Michael Omartian, unrelated to the Sherman Brothers chimney-sweep number. Confirmed by the Discogs master/release writer credits and corroborated by Mark Tulin's Wikipedia page, which lists his 1975 co-write of "Step in Time" for this album. Source: https://en.wikipedia.org/wiki/Mark_Tulin and https://www.discogs.com/release/1229176-Thelma-Houston-Pressure-Cooker-Ive-Got-The-Music-In-Me
 
@@ -50,6 +55,7 @@ No `open:` items were present in the entry. One question surfaced during researc
 - Co-writer Mark Tulin was the bassist and a founding member of 1960s psychedelic rock band the Electric Prunes; this funk instrumental is a rare crossover credit for him. Source: https://en.wikipedia.org/wiki/Mark_Tulin
 - Co-writer Michael Omartian arranged and conducted the track and went on to become a major pop producer (Christopher Cross, Donna Summer, Rod Stewart). Source: https://www.discogs.com/release/1229176-Thelma-Houston-Pressure-Cooker-Ive-Got-The-Music-In-Me
 - The track was recorded with no tape and no overdubs, performed straight to the master lacquer, so the version you hear is a single unedited live take. Source: https://en.wikipedia.org/wiki/I've_Got_the_Music_in_Me_(album)
+- The sessions were cut at Producer's Workshop in Hollywood, the same small room where engineer Bill Schnee would later track Steely Dan's *Aja*. Source: https://www.psaudio.com/blogs/copper/producer-engineer-bill-schnee-talking-with-the-chairman-at-the-board
 
 #### Album
 - In April 2025 the album was inducted into the Library of Congress National Recording Registry, recognized largely for its pioneering direct-to-disc fidelity. Source: https://newsroom.loc.gov/news/national-recording-registry-inducts-sounds-of-elton-john--chicago--broadway-s--hamilton---mary-j.-bl/s/986b2312-27dd-4b66-bd41-3113e0cb2e57
@@ -117,5 +123,7 @@ No change to the enumeration is needed; `US - California` fits cleanly.
 - Library of Congress, 2025 National Recording Registry announcement: https://newsroom.loc.gov/news/national-recording-registry-inducts-sounds-of-elton-john--chicago--broadway-s--hamilton---mary-j.-bl/s/986b2312-27dd-4b66-bd41-3113e0cb2e57
 - Library of Congress blog, 2025 Registry / Thelma Houston interview: https://blogs.loc.gov/now-see-hear/2026/03/ive-got-the-music-in-me-an-interview-with-thelma-houston/
 - From Vinyl To Plastic, Sheffield Lab 2 review (audiophile reputation): https://fromvinyltoplastic.com/vinyl-and-cd-review-ive-got-the-music-in-me-sheffield-lab-2/
+- PS Audio / Copper, Bill Schnee interview (studio = Producer's Workshop, same room as *Aja*): https://www.psaudio.com/blogs/copper/producer-engineer-bill-schnee-talking-with-the-chairman-at-the-board
+- Wikipedia, Bill Schnee: https://en.wikipedia.org/wiki/Bill_Schnee
 - Amazon Music (album): https://www.amazon.com/Music-Thelma-Houston-Pressure-Cooker/dp/B000EJVCDG
 

@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - Michigan
 listening mission: "Don’t get too distracted by Aretha’s vocals. Focus on the all-star rhythm section: Bernard Purdie on drums, Chuck Rainey on bass, Cornell Dupree on guitar, Donny Hathaway on organ, and Dr. John on percussion."
-status: complete
+status: verified
 writing theme:
 funk.day code: h5ax
+cover: h5ax.jpg
 ---
 Most listeners know Aretha Franklin as a master interpreter of other's songs. Today's "Rock Steady" is different. It's an Aretha original, written, arranged, and steered by Aretha herself. Bassist Chuck Rainey has said the released version is actually her demo, recorded on February 15, 1971, at Criteria Studios in Miami before producers Jerry Wexler and Tom Dowd arrived. 
 
@@ -119,22 +120,99 @@ I populated the field as **US - Michigan**. Flip to Florida if the writing theme
 
 ### Streaming & Purchase Links
 
-- **Spotify:** https://open.spotify.com/track/3x9Zg4LTaiTpdy8yepYeHF (Young, Gifted and Black, track 3) — could not directly verify track ID; search "Aretha Franklin Rock Steady" on Spotify.
-- **YouTube Music:** https://music.youtube.com/search?q=Aretha+Franklin+Rock+Steady — track available; direct watch ID not verified.
-- **Apple Music:** https://music.apple.com/us/album/young-gifted-and-black/934216863 (album page confirmed) — Source: Apple Music search result above.
-- **Amazon Music:** https://www.amazon.com/music/player/albums/B00LVQBBSQ — could not locate a verified direct track URL; search works.
-- **SoundCloud:** Could not locate an official upload.
-- **Tidal:** https://tidal.com/search?q=Aretha%20Franklin%20Rock%20Steady — available on Tidal; direct track ID not verified.
-- **Qobuz:** Track available on Young, Gifted and Black reissues; direct URL not verified.
-- **Deezer:** https://www.deezer.com/search/Aretha%20Franklin%20Rock%20Steady — available.
-- **Audiomack:** Could not locate.
-- **YouTube Video:** Multiple official uploads exist; e.g. search https://www.youtube.com/results?search_query=Aretha+Franklin+Rock+Steady+official.
-- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/72885-Aretha-Franklin-Young-Gifted-And-Black
-- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/302858-Aretha-Franklin-Rock-Steady-Dont-Play-That-Song
-- **Buy Single on Discogs (1971 US 7"):** https://www.discogs.com/release/9781013-Aretha-Franklin-Rock-Steady
-- **Buy on Amazon:** https://www.amazon.com/s?k=Aretha+Franklin+Young+Gifted+and+Black+vinyl
+Streaming:
 
-Note: Several direct streaming track URLs could not be verified without live platform access; author should confirm the canonical track links before publication.
+- **Spotify:** https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6
+- **Apple Music:** https://music.apple.com/us/album/rock-steady/934216863?i=934216885
+- **YouTube Music:** https://music.youtube.com/watch?v=Qj4DSLv_z_I
+- **YouTube:** https://www.youtube.com/watch?v=fGavl_m41LE
+- **Amazon Music:** https://music.amazon.com/tracks/B001BZJCQ6
+- **Tidal:** https://tidal.com/browse/track/1844983
+- **Qobuz:** https://www.qobuz.com/us-en/album/young-gifted-and-black-aretha-franklin/0603497932320
+- **SoundCloud:** https://soundcloud.com/arethafranklin/rock-steady-1
+- **Deezer:** https://www.deezer.com/track/904816
+
+Purchase:
+
+- **Buy on Discogs (Album):** https://www.discogs.com/master/72885-Aretha-Franklin-Young-Gifted-And-Black
+- **Buy on Discogs (Single):** https://www.discogs.com/master/302858-Aretha-Franklin-Rock-Steady-Dont-Play-That-Song
+- **Buy on Amazon (CD):** https://www.amazon.com/dp/B00000335M
+- **Buy on Amazon (Vinyl):** https://www.amazon.com/dp/B08QLMT89Q
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/rock-steady/934216863?i=934216885" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=Qj4DSLv_z_I" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=fGavl_m41LE" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B001BZJCQ6" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/1844983" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/young-gifted-and-black-aretha-franklin/0603497932320" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/arethafranklin/rock-steady-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/904816" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/72885-Aretha-Franklin-Young-Gifted-And-Black" },
+      { "label": "Single", "url": "https://www.discogs.com/master/302858-Aretha-Franklin-Rock-Steady-Dont-Play-That-Song" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/dp/B00000335M" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B08QLMT89Q" }
+    ]
+  }
+]
+```
 
 ### Sources
 
