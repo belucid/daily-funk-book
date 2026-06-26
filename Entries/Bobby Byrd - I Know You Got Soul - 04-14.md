@@ -1,21 +1,30 @@
 ---
 fileClass: funk-entry
-day:
+day: 04-14
 artist: Bobby Byrd
 track: I Know You Got Soul
 album:
 label: King
 year: 1971
-track length: 3m 00s
+track length: 4m 42s
 genre:
 region:
   - US - Southeast
-listening mission:
-status: research-review
+listening mission: James Brown wrote, produced, and arranged this Bobby Byrd record, and he sings the answer vocals. Listen for the moments when Brown injects himself into the proceedings.
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+Bobby Byrd founded the group that became the Famous Flames in Toccoa, Georgia, in 1953. If the name means anything to you, it is probably because of its association with the early recordings of James Brown. Brown’s first released single, “Please, Please, Please,” appeared in 1956 under the credit James Brown with the Famous Flames.
+
+Brown had been sent to juvenile detention for armed robbery in 1949, when he was sixteen. Three years later, his reform-school baseball team played against Byrd’s team, and the two young men formed an immediate bond. Byrd’s family sponsored the nineteen-year-old Brown for early release and welcomed him into their home.
+
+Brown did not immediately join Byrd’s group. After a few unsuccessful attempts with other bands, he asked Byrd for a place and came aboard as a drummer. When singer Troy Collins died in a car accident in 1954, Byrd made the career-defining decision to move Brown to the front of the group.
+
+Brown quickly became the star, and the billing shifted from the Famous Flames to James Brown and the Famous Flames. The original group eventually broke apart, and Brown formed other backing bands, but Byrd remained one of Brown’s closest musical partners. On April 14, 2012, the Rock and Roll Hall of Fame inducted the Famous Flames, helping correct its earlier decision to honor Brown without the group that helped launch him.
+
+Today’s song, “I Know You Got Soul,” was released as a Bobby Byrd single in 1971 on King Records. Byrd, Brown, and Charles Bobbit wrote it, Brown arranged and produced it, and the J.B.’s supplied the groove. Brown may have become the star, but here Byrd steps up to the microphone and reminds you where the story began.
 
 ---
 ## Research Notes

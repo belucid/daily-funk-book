@@ -11,9 +11,10 @@ genre:
   - Avant-Funk
 region: US - New York
 listening mission: Does knowing the lyrics mean absolutely nothing change the impact of the vocals?
-status: complete
+status: verified
 writing theme:
 funk.day code: 5mwh
+cover: 5mwh.jpg
 ---
 yi2uToday’s song, "I Zimbra," is a surprise. Talking Heads, the kings of art-punk new wave, find their way into a funk book.
 
@@ -124,22 +125,94 @@ The `genre` field is currently set to `Avant-Funk`.
 
 **Streaming:**
 - Spotify: https://open.spotify.com/track/6WXWvuIVR2g3MklmHXXZp8
-- Apple Music: https://music.apple.com/us/song/i-zimbra/300965526
-- YouTube Music: Could not locate a direct link; search "Talking Heads I Zimbra" on YouTube Music
+- Apple Music: https://music.apple.com/us/album/i-zimbra/300965520?i=300965526
+- YouTube Music: https://music.youtube.com/watch?v=qKFn66dzdz0
+- YouTube: https://www.youtube.com/watch?v=qKFn66dzdz0
 - Amazon Music: https://music.amazon.com/tracks/B001OGTN98
+- Tidal: https://tidal.com/browse/track/4083555
+- Qobuz: https://www.qobuz.com/us-en/album/fear-of-music-talking-heads/0603497146567
 - SoundCloud: https://soundcloud.com/talkingheads/i-zimbra
-- Tidal: https://tidal.com/browse/album/4083554 (Fear of Music Deluxe, track 1)
-- Qobuz: https://www.qobuz.com/us-en/album/fear-of-music-talking-heads/0603497146567 (Fear of Music Deluxe, track 1)
-- Audiomack: https://audiomack.com/talkingheadsofficial/song/i-zimbra-0043574
-- Deezer: https://www.deezer.com/us/album/340251/ (Fear of Music album)
-
-**Video:**
-- YouTube Video: Search "Talking Heads I Zimbra" on YouTube; no confirmed official video URL found, but the track appears in numerous uploads including Stop Making Sense footage
+- Deezer: https://www.deezer.com/track/3605724
 
 **Purchase:**
-- Buy Album on Discogs (Master Release): https://www.discogs.com/master/39260-Talking-Heads-Fear-Of-Music
-- Buy Single on Discogs (Master Release): https://www.discogs.com/master/39292-Talking-Heads-I-Zimbra
-- Buy on Amazon (CD): https://www.amazon.com/Fear-Music-TALKING-HEADS/dp/B000002KNY
+- Buy on Discogs (Album): https://www.discogs.com/master/39260-Talking-Heads-Fear-Of-Music
+- Buy on Discogs (Single): https://www.discogs.com/master/39292-Talking-Heads-I-Zimbra
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B00000EVV1
+- Buy on Amazon (CD): https://www.amazon.com/dp/B000002KNY
+
+**Structured:**
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/6WXWvuIVR2g3MklmHXXZp8" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/i-zimbra/300965520?i=300965526" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=qKFn66dzdz0" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=qKFn66dzdz0" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B001OGTN98" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/4083555" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/fear-of-music-talking-heads/0603497146567" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/talkingheads/i-zimbra" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/3605724" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/39260-Talking-Heads-Fear-Of-Music" },
+      { "label": "Single", "url": "https://www.discogs.com/master/39292-Talking-Heads-I-Zimbra" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B00000EVV1" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B000002KNY" }
+    ]
+  }
+]
+```
 
 ### Sources
 
