@@ -11,9 +11,10 @@ genre:
   - Free Funk
 region: US - New York
 listening mission: "There are at least four songs in here: a country piano blues, a free alto sax solo, a nasty funk groove, and a sax-led urban blues. Why did Gary Bartz stitch them together, and what makes it feel like one piece?"
-status: complete
+status: verified
 writing theme:
 funk.day code: hxvz
+cover: hxvz.jpg
 ---
 OK, things are about to get a bit weird. Bear with me. The juice is worth the squeeze.
 
@@ -138,20 +139,94 @@ The current genre is **Free Funk**. Here are suggestions with rationale:
 
 ### Streaming & Purchase Links
 
-- **Spotify**: https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D
-- **YouTube Music**: Could not locate a direct link for this specific track.
-- **Amazon Music**: https://www.amazon.com/Blue-A-Folk-Tale/dp/B0743LRPLL
-- **Apple Music**: https://music.apple.com/us/album/harlem-bush-music-uhuru/1442971084
-- **SoundCloud**: https://soundcloud.com/garybartzntutroop/sets/harlem-bush-music-uhuru-1
-- **Tidal**: https://tidal.com/browse/album/77700698
-- **Qobuz**: https://www.qobuz.com/gb-en/interpreter/gary-bartz/35195 (artist page; album confirmed available)
-- **Audiomack**: Could not locate.
-- **Deezer**: Could not locate (search inconclusive).
-- **YouTube Video**: Could not locate a direct link for this specific track.
-- **Bandcamp**: https://garybartzntutroop.bandcamp.com/album/harlem-bush-music-uhuru
-- **Buy Album on Discogs (Master)**: https://www.discogs.com/master/94954-Gary-Bartz-NTU-Troop-Harlem-Bush-Music-Uhuru
-- **Buy Single on Discogs**: Not applicable (not released as a single).
-- **Buy on Amazon (CD)**: https://www.amazon.com/Harlem-Bush-Music-Taifa-Uhuru/dp/B000003L99
+**Streaming:**
+
+- Spotify: https://open.spotify.com/track/0B1qp673d0uekNpxsrlUBM
+- Apple Music: https://music.apple.com/us/album/blue-a-folk-tale/1442971084?i=1442971085
+- YouTube Music: https://music.youtube.com/watch?v=g19HemLHt8Q
+- YouTube: https://www.youtube.com/watch?v=pGBaJenwrKo
+- Amazon Music: https://music.amazon.com/tracks/B0743LRPLL
+- Tidal: https://tidal.com/browse/track/77691596
+- Qobuz: https://www.qobuz.com/us-en/album/harlem-bush-music-uhuru-gary-bartz-ntu-troop/0088807202537
+- SoundCloud: https://soundcloud.com/garybartzntutroop/blue-a-folk-tale-1
+- Deezer: https://www.deezer.com/track/386165591
+
+**Purchase:**
+
+- Buy on Discogs: https://www.discogs.com/master/94954-Gary-Bartz-NTU-Troop-Harlem-Bush-Music-Uhuru
+- Buy on Amazon: verified absent (no retail product page selected)
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0B1qp673d0uekNpxsrlUBM" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/blue-a-folk-tale/1442971084?i=1442971085" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=g19HemLHt8Q" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=pGBaJenwrKo" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0743LRPLL" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/77691596" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/harlem-bush-music-uhuru-gary-bartz-ntu-troop/0088807202537" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/garybartzntutroop/blue-a-folk-tale-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/386165591" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/94954-Gary-Bartz-NTU-Troop-Harlem-Bush-Music-Uhuru" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "Left blank per author; no retail product page selected."
+  }
+]
+```
 
 ### Sources
 

@@ -318,9 +318,15 @@ than a separate hunt.
 2. **Stage, don't commit.** Download a candidate to a temp staging path (e.g.
    `/tmp/funk-covers/<code>-<service>.<ext>`). Determine the real format with
    `file` — the URL usually has no extension; the bytes decide whether it is
-   `.jpg`, `.png`, or `.webp`.
+   `.jpg`, `.png`, or `.webp`. **Never stage the file with a `.img` (or other
+   non-image) extension, even as a placeholder** — on macOS `open` hands `.img`
+   to DiskImageMounter instead of the image viewer, so the human sees nothing.
+   Give the staged file its **real image extension** (`.jpg`/`.png`/`.webp`, per
+   `file`) before you `open` it. If you must download first and check the bytes
+   after, `mv` it to the correct extension *before* opening.
 3. **Human verifies the image.** `open <staged-image>` so the human sees it in
-   their default viewer, exactly as with links. The human confirms it is the right
+   their default viewer, exactly as with links (the staged file must already carry
+   its real image extension — see above). The human confirms it is the right
    artwork (and picks among candidates if there is more than one).
 4. **Make it canonical only on approval.** Move the approved file to the funk.day
    site's covers directory — an **absolute path in the separate `funk-a-day`

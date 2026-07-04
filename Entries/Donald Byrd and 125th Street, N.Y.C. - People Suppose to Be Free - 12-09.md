@@ -17,7 +17,7 @@ funk.day code: 7p86
 ---
 Donald Byrd was born on December 9, 1932, in Detroit, Michigan. His album *Donald Byrd and 125th Street, N.Y.C.* is a standout late-period jazz-funk album. Released in 1979, it includes some disco tracks, but overall it's a compelling listen. You heard a different side of this album on October 22 with “Morning.”
 
-The album cover is a painting by former NFL player turned artist Ernie Barnes. He also painted covers for Curtis Mayfield and The Crusaders, and one of his “The Sugar Shack” hangs on the apartment wall in the TV show *Good Times*. 
+The album cover is a painting by former NFL player turned artist Ernie Barnes. He also painted covers for Curtis Mayfield and The Crusaders, and one of his paintings, “The Sugar Shack” hangs on the apartment wall in the TV show *Good Times*. 
 
 The singer you hear on today’s track, “People Suppose to Be Free,” is not Byrd, but Jim Gilstrap, who handles the album’s vocals. If he sounds familiar, it may be because he also sang the theme to *Good Times*.
 

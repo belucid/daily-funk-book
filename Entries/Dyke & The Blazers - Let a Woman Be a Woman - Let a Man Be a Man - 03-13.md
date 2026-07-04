@@ -12,9 +12,10 @@ genre:
 region:
   - US - West
 listening mission: You could easily mistake this for a James Brown track. What gives it away that it isn’t?
-status: complete
+status: verified
 writing theme: Murder of Dyke
 funk.day code: a7n5
+cover: a7n5.jpg
 ---
 Arlester “Dyke” Christian was the singer, songwriter, and bassist who fronted Dyke & The Blazers. Formed in 1965, the band scored major hits with “Funky Broadway” and today’s track, “Let a Woman Be a Woman” The drum break from the latter, played by James Gadson, became a hip-hop staple and has been sampled more than 230 times. 
 
@@ -40,3 +41,94 @@ Source for 230 sample claim: https://www.whosampled.com/Dyke-%2526-the-Blazers/L
 Buy Single on Discogs (Master Release): https://www.discogs.com/master/341177-Dyke-The-Blazers-Let-A-Woman-Be-A-Woman-Let-A-Man-Be-A-Man
 Buy Album/Comp on Discogs (I Got A Message: Hollywood 1968-1970 compilation): https://www.discogs.com/release/19289839-Dyke-The-Blazers-I-Got-A-Message-Hollywood-1968-1970
 Buy on Amazon: https://www.amazon.com/Got-Message-Hollywood-1968-1970-LP/dp/B092426HMG
+
+### Streaming & Purchase Links
+
+Streaming:
+- Spotify: https://open.spotify.com/track/5e5fCktvUSCzxCddQA3Ijk
+- Apple Music: https://music.apple.com/us/song/let-a-woman-be-a-woman-let-a-man-be-a-man/1562926757
+- YouTube Music: https://music.youtube.com/watch?v=E9DTQn6sxGA
+- YouTube: https://www.youtube.com/watch?v=E9DTQn6sxGA
+- Amazon Music: https://music.amazon.com/tracks/B092HRX2N6
+- Tidal: https://tidal.com/browse/track/188220293
+- Qobuz: https://www.qobuz.com/us-en/album/i-got-a-message-hollywood-1968-1970-dyke-the-blazers/lsaj4zmfx8adc
+- SoundCloud: https://soundcloud.com/dyke-the-blazers/let-a-woman-be-a-woman-let-a-1
+- Deezer: https://www.deezer.com/track/1408753262
+
+Purchase:
+- Buy on Discogs (Single): https://www.discogs.com/master/341177-Dyke-The-Blazers-Let-A-Woman-Be-A-Woman-Let-A-Man-Be-A-Man
+- Buy on Discogs (Album): https://www.discogs.com/release/19289839-Dyke-The-Blazers-I-Got-A-Message-Hollywood-1968-1970
+- Buy on Amazon: https://www.amazon.com/dp/B092426HMG
+
+Structured:
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/5e5fCktvUSCzxCddQA3Ijk" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/song/let-a-woman-be-a-woman-let-a-man-be-a-man/1562926757" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=E9DTQn6sxGA" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=E9DTQn6sxGA" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B092HRX2N6" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/188220293" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/i-got-a-message-hollywood-1968-1970-dyke-the-blazers/lsaj4zmfx8adc" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/dyke-the-blazers/let-a-woman-be-a-woman-let-a-1" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/1408753262" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Single", "url": "https://www.discogs.com/master/341177-Dyke-The-Blazers-Let-A-Woman-Be-A-Woman-Let-A-Man-Be-A-Man" },
+      { "label": "Album", "url": "https://www.discogs.com/release/19289839-Dyke-The-Blazers-I-Got-A-Message-Hollywood-1968-1970" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "url": "https://www.amazon.com/dp/B092426HMG" }
+    ]
+  }
+]
+```

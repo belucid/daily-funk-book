@@ -16,7 +16,7 @@ writing theme:
 funk.day code: 5mwh
 cover: 5mwh.jpg
 ---
-yi2uToday’s song, "I Zimbra," is a surprise. Talking Heads, the kings of art-punk new wave, find their way into a funk book.
+Today’s song, "I Zimbra," is a surprise. Talking Heads, the kings of art-punk new wave, find their way into a funk book.
 
 The track doesn't fit into the usual funk mold, and it’s not just the band. There’s a disco feel from the four-on-the-floor kick drum. However, drummer Chris Frantz limits himself to bass drum and hi-hat, while congas, djembe, and talking drum fill in the space with dense, African-influenced polyrhythms. It's funk, just filtered through an avant-garde lens.
 

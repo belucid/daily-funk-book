@@ -42,7 +42,9 @@ If you "know" something from your background training as an LLM, but don't know 
 
 ## Your Task: Entry Research
 
-Use the Grep tool to search for `status: research` across all `.md` files in `./Entries/` — this is more efficient than reading every file individually.
+Use the Grep tool to find entries whose status is exactly `research` across all `.md` files in `./Entries/` — this is more efficient than reading every file individually.
+
+**Use this exact regex:** `^status: research\s*$` — do NOT search for the bare string `status: research`. The bare string is a substring of `status: research-review`, so it will wrongly match entries that are already in review. The `^` anchors to the start of the line and the `\s*$` anchors to the end (allowing only trailing whitespace), so `research-review` and any other `research-*` status is excluded. If you ever find yourself "fixing" the regex mid-run because it caught `research-review`, it means you ignored this instruction — use the anchored pattern from the start.
 
 List every matching entry by filename, artist, and track. Then ask the user which entries to research. Accept any of:
 

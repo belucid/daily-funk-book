@@ -11,9 +11,10 @@ genre:
   - Afrobeat
 region: Senegal
 listening mission: Touré Kunda sang in six languages across their career, often inside a single song. Presumably you can’t understand a word of the lyrics, so try listening for meaning without translation. What do you imagine the song is about?
-status: complete
+status: verified
 writing theme:
 funk.day code: pdz2
+cover: pdz2.jpg
 ---
 Touré Kunda’s "Manso" does not fit the Fela Kuti, Nigerian template for Afrobeat. It's mbalax, which is Senegalese popular music, but hooked to a disco bassline pitted against some aggressive polyrhythms. To make the genre classification problem even worse, the whole thing was recorded in Paris.
 
@@ -130,23 +131,96 @@ Note: France is currently absent from the region enumeration in `Planning/Field 
 
 ### Streaming & Purchase Links
 
-- **Spotify**: https://open.spotify.com/track/4btl0SSWU6bGDJ9uPoeukG (also referenced as https://open.spotify.com/track/6PK03tmSsqBcByMwUc5cQI from the album page — verify which is the canonical original)
-- **Spotify (Special Disco / Atangana 2022 remix)**: https://open.spotify.com/track/4Wer20yap3UxGBbRffKGSk
-- **YouTube Music**: https://music.youtube.com/channel/UCV7dlMVsxUZGHChoMf0_0PA (artist channel; the album "Emma Africa" is available there but no direct single-track YouTube Music URL surfaced)
-- **Apple Music**: https://music.apple.com/us/album/emma-africa/1566692061 (album; the track is track 8)
-- **Amazon Music**: https://www.amazon.com/Emma-Africa-Toure-Kunda/dp/B094F68W69 (Emma Africa album page)
-- **SoundCloud**: Could not locate a verified canonical upload of the 1980 original — searches returned reissue and remix variants only.
-- **Tidal**: Could not locate a verified track URL via web search.
-- **Qobuz**: https://www.qobuz.com/us-en/album/emma-africa-toure-kunda/zibtq4gmkp4da (album)
-- **Audiomack**: Could not locate.
-- **Deezer**: https://www.deezer.com/en/artist/3569 (artist page; album available, no clean single-track deep link surfaced)
-- **YouTube Video**: https://www.youtube.com/watch?v=iJAKauQzo1Q (uploaded by Universal Music Group's Touré Kunda channel, audio of the original track)
-- **YouTube Video (Special Disco / 2022 remix, for compare-and-contrast)**: https://www.youtube.com/watch?v=6WFU_d7hGac
-- **Buy Album on Discogs (Master release)**: https://www.discogs.com/master/258359-Tour%C3%A9-Kunda-%C3%89mma-Africa
-- **Buy Album on Discogs (1980 France original)**: https://www.discogs.com/release/1016356-Tour%C3%A9-Kunda-%C3%89mma-Africa
-- **Buy Single on Discogs (2022 Atangana 12" reissue of "Manso")**: https://atanganarecords.bandcamp.com/album/toure-kunda-manso
-- **Buy Single on Discogs (1980 7" lifted from album: "É'mma / Africa", not "Manso")**: https://www.discogs.com/release/3601822-Tour%C3%A9-Kunda-Emma-Africa
-- **Buy on Amazon**: https://www.amazon.com/Emma-Africa-Toure-Kunda/dp/B094F68W69 (digital album); CD on Amazon France: https://www.amazon.fr/Emma-Africa-Toure-Kunda/dp/B01K8NSRJY
+**Streaming:**
+
+- Spotify: https://open.spotify.com/track/6PK03tmSsqBcByMwUc5cQI
+- Apple Music: https://music.apple.com/us/album/manso/1566692061?i=1566692219
+- YouTube Music: https://music.youtube.com/watch?v=iJAKauQzo1Q
+- YouTube: https://www.youtube.com/watch?v=iJAKauQzo1Q
+- Amazon Music: https://amazon.com/music/player/albums/B094F68W69
+- Tidal: https://tidal.com/browse/track/183458310
+- Qobuz: https://www.qobuz.com/us-en/album/emma-africa-toure-kunda/zibtq4gmkp4da
+- SoundCloud: https://soundcloud.com/tourekundaofficial/manso
+- Deezer: https://www.deezer.com/track/1367073432
+
+**Purchase:**
+
+- Buy on Discogs (Album): https://www.discogs.com/master/258359-Tour%C3%A9-Kunda-%C3%89mma-Africa
+- Buy on Discogs (Single): https://www.discogs.com/release/23356619-Tour%C3%A9-Kunda-Manso-Touty-Yolle
+- Buy on Amazon: not available (verified absent; the only candidate, a retail dp/B07L9D5S62 page sharing the Amazon Music trackAsin, was rejected on review)
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/6PK03tmSsqBcByMwUc5cQI" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/manso/1566692061?i=1566692219" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=iJAKauQzo1Q" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=iJAKauQzo1Q" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://amazon.com/music/player/albums/B094F68W69" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/183458310" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/emma-africa-toure-kunda/zibtq4gmkp4da" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/tourekundaofficial/manso" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/1367073432" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/258359-Tour%C3%A9-Kunda-%C3%89mma-Africa" },
+      { "label": "Single", "url": "https://www.discogs.com/release/23356619-Tour%C3%A9-Kunda-Manso-Touty-Yolle" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "No verified buy page found; the retail dp/B07L9D5S62 candidate (an ASIN identical to the Amazon Music trackAsin) was rejected on human review."
+  }
+]
+```
 
 ### Sources
 
