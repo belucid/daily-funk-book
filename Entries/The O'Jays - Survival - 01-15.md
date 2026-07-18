@@ -19,7 +19,7 @@ cover: 38bk.jpg
 ---
 Modern State of the Union addresses usually include a version of the declaration, “The state of our union is strong.” On January 15, 1975, President Gerald Ford took the podium and said the opposite: “The state of the Union is not good.” Millions of Americans were out of work while high inflation ate into household budgets. The country was experiencing stagflation, the dreaded trio of stagnant growth, high inflation, and high unemployment.
 
-Never a band to shy away from social commentary, the O'Jays responded to the economic crisis hitting Black communities especially hard with their eighth studio album, *Survival*. Eddie Levert sang lead on today’s song, “Survival,” while two other album tracks, “Rich Get Richer” and “Give the People What They Want,” also targeted the troubled economy.
+The economic crisis hit Black communities especially hard. Never a band to shy away from social commentary, the O'Jays responded with their eighth studio album, *Survival*. Eddie Levert sang lead on today’s song, “Survival,” while two other album tracks, “Rich Get Richer” and “Give the People What They Want,” also targeted the troubled economy.
 
 *Survival* produced two charting singles: “Give the People What They Want” and “Let Me Make Love to You.” “Survival” was the B-side to “Let Me Make Love to You.” The album topped the *Billboard* R&B Albums chart and reached #11 on the *Billboard* 200.
 

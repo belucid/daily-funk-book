@@ -1,0 +1,1 @@
+In case syncopation is a new term for you, it's worth a moment of brief explanation since it's fundamental to what makes a rhythmic groove feel funky. 

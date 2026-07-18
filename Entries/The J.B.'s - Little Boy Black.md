@@ -15,11 +15,11 @@ status: complete
 writing theme:
 funk.day code: 6kt7
 ---
-James Brown was a larger-than-life figure who cast a long shadow. Some artists, like Bootsy Collins, had to break away from Brown rather than try to share his spotlight. Others, including saxophonist Maceo Parker and trombonist, bandleader, and musical director Fred Wesley, found ways to step forward from within the machine. One way was through the James Brown-produced J.B.’s albums, which featured the band without the frontman.
+James Brown was a larger-than-life figure who cast a long shadow. Some artists, like Bootsy Collins, quickly chose to break away from Brown rather than attempt to share in his spotlight. Others, including saxophonist Maceo Parker and trombonist, bandleader, and musical director Fred Wesley, found ways to step forward from within the machine. One way was through the James Brown-produced J.B.’s albums, which featured the band without the frontman.
 
 “Little Boy Black” comes from the J.B.’s 1974 album *Breakin’ Bread*. Fred Wesley thanks listeners for buying their records, then follows with a proto-rap that, to my ear, sets the template for Morris Day and Jerome’s comic dialog in The Time a decade later.
 
-James Brown is only credited as producer, but his voice is unmistakable in the second half of the song. It's hard to imagine him putting this much focus on multiple trombone solos on one of his own records.
+James Brown is only credited as producer, but he is present and his voice is unmistakable in the second half of the song. Wesley's influence is clear though, it's hard to imagine Brown putting this much focus on multiple trombone solos on one of his own records.
 
 The album marked the end of the Fred Wesley era with the J.B.’s. He left soon after to join George Clinton and Parliament-Funkadelic.
 

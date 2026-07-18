@@ -4,7 +4,7 @@ The best definition of funk I've come across is from Rickey Vincent’s well-res
 
 Vincent’s point is that funk is easier to recognize than to reduce to a strict formula, and I agree with this. Funk has a strong "you’ll know it when you hear it" quality, and any strict definition will fall short. Still, I owe you an attempt to describe what you are listening for.
 
-At its core, funk makes rhythm the main event. The groove is not just accompaniment for a singer or soloist. It *is* the song. Funk shifts the musical emphasis away from melodies and chord changes and toward tightly interlocking rhythmic parts. Drums, bass, guitar, keys, horns, and vocals behave like gears in one machine.
+At its core, funk makes rhythm the main event. The groove is not just accompaniment for a singer or soloist. It *is* the song. Funk shifts the musical emphasis away from lyrics, melodies and chord changes and toward tightly interlocking rhythmic parts. Drums, bass, guitar, keys, horns, and vocals behave like gears in one machine.
 
 With funk, the bass becomes more syncopated and moves forward in the mix. The drums likewise become more complex, built around syncopated patterns, short phrases, and sharp accents. The guitar moves away from chordal strumming and searing rock solos, and becomes a more percussive instrument. The whole band is often arranged around “the One,” the hard landing on the first beat of each measure. Even when funk gets psychedelic, jazzy, or abstract, it tends to keep its core commitment to the rhythmic pocket first and everything else second.
 
