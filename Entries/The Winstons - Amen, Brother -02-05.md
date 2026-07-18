@@ -20,7 +20,7 @@ cover: y578.jpg
 
 The Winstons were a multiracial sextet from Washington, D.C. that formed from the core of Otis Redding's and Curtis Mayfield's touring bands. Their A-side, “Color Him Father,” was a hit, reaching #7 on the Hot 100, winning the Grammy for Best R&B Song, and going gold. The unheralded B-side, “Amen, Brother,” was reportedly knocked out in 20 minutes, yet contained seven seconds that rewired hip-hop.
 
-In the 1980s, breakbeat records circulated to feed DJs and early hip-hop producers. The track’s second life began when Breakbeat Lou Flores and Lenny Roberts included “Amen, Brother” on Volume 1 of _Ultimate Breaks and Beats_ in 1986.
+In the 1980s, breakbeat records were created to feed ready made samples to DJs and early hip-hop producers. The track’s second life began when Breakbeat Lou Flores and Lenny Roberts included “Amen, Brother” on Volume 1 of _Ultimate Breaks and Beats_ in 1986.
 
 Bandleader and songwriter Richard Spencer only learned in 1996 that “Amen, Brother” had been sampled thousands of times. By then, it was too late to sue for copyright infringement, so he received no royalties. The Winstons' drummer, Gregory Coleman, died homeless and penniless in Atlanta on February 5, 2006, likely unaware of the revolution his seven seconds sparked.
 

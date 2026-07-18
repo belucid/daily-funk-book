@@ -11,11 +11,12 @@ genre:
   - Minneapolis Sound
 region: US - Minnesota
 listening mission: Sheila E. insists she was singing “funk,” not the other F-word. That helped the track slip past censors, but which word do you hear?
-status: complete
+status: verified
 writing theme:
 funk.day code: q9x2
+cover: q9x2.jpg
 ---
-You’ll quickly notice that today’s song, "Erotic City," features multiple voices, and many of them are Prince. He layered at least three versions of himself on the track: a slowed-down baritone, his normal register, and a sped-up helium harmony, all created through tape manipulation.
+You’ll quickly notice that today’s song, "Erotic City," features multiple voices, and many of them are Prince. He layered at least three versions of himself on the track: his normal register, a slowed-down baritone, and a sped-up helium harmony. The latter two were created through tape manipulation.
 
 Not everyone you hear in "Erotic City" is Prince. It's also a duet with percussionist Sheila Escovedo. Her debut as a pop vocalist was a surprise. When she arrived at Sunset Sound on March 25, 1984, expecting to play percussion, she learned that Prince had other plans. The session went well and Prince later produced her solo debut, *The Glamorous Life*, under the shortened stage name Sheila E. She became a long-term collaborator and Prince's drummer and percussionist across multiple tours. 
 
@@ -105,25 +106,99 @@ Primary recommendation: **keep US - Minnesota.** No change warranted.
 
 ### Streaming & Purchase Links
 
-- **Spotify (extended 12" version, 2017 Remaster):** https://open.spotify.com/track/14TRnDQpggU8mpAzQ4Y3GL
-- **Spotify (7" B-Side Edit, 2017 Remaster):** https://open.spotify.com/track/4pkEET0wXNNY5o61lVK5FF
-- **Apple Music (extended version, 2017 Remaster):** https://music.apple.com/us/song/erotic-city-make-love-not-war-erotic-city-come-alive/1229320889
-- **Tidal (extended version, 2017 Remaster):** https://tidal.com/browse/track/75206930
-- **Tidal (12" version):** https://tidal.com/browse/track/50431627
-- **Deezer (12" version):** https://www.deezer.com/us/track/732399
-- **YouTube Music:** Could not locate an official stand-alone stream; the track is available via YouTube Music through the *The Hits/The B-Sides* and *Purple Rain Deluxe* album pages.
-- **Amazon Music:** Could not locate a direct track URL; track is available via *The Hits/The B-Sides* — https://www.amazon.com/Hits-B-Sides-Prince/dp/B000002MNF
-- **SoundCloud:** Not available on this platform (consistent with the Prince estate's platform strategy).
-- **Qobuz:** Available via the *Purple Rain Deluxe (Expanded Edition)* album — https://www.qobuz.com/us-en/album/purple-rain-deluxe-prince-the-revolution/0093624912002
-- **Audiomack:** Could not locate.
-- **YouTube Video:** Could not locate an authoritative official music video (the song had no commissioned promo video in 1984).
-- **Buy Single on Discogs (Master Release — Let's Go Crazy / Erotic City, 1984):** https://www.discogs.com/master/16212-Prince-And-The-Revolution-Lets-Go-Crazy
-- **Buy Single on Discogs (Master Release — Erotic City / I Would Die 4 U 1989 dance-mix CD single):** https://www.discogs.com/master/16218-Prince-Erotic-City-I-Would-Die-4-U
-- **Buy Single on Discogs (1984 7" Let's Go Crazy / Erotic City, US SRC pressing):** https://www.discogs.com/release/577951-Prince-And-The-Revolution-Lets-Go-Crazy-Erotic-City
-- **Buy Single on Discogs (1985 12" Let's Go Crazy / Take Me With U / Erotic City):** https://www.discogs.com/release/133246-Prince-And-The-Revolution-Lets-Go-Crazy-Take-Me-With-U-Erotic-City
-- **Buy Album on Discogs:** Not applicable — "Erotic City" was a 1984 B-side. It was never on a Prince studio album; it first appeared on a studio LP via the 1993 compilation *The Hits/The B-Sides*.
-- **Buy Album on Amazon (*The Hits/The B-Sides*):** https://www.amazon.com/Hits-B-Sides-Prince/dp/B000002MNF
-- **Buy Single on Amazon (*Erotic City / I Would Die For U* CD single):** https://www.amazon.com/Erotic-City-Would-Die-Prince/dp/B000005S5D
+Verified 2026-07-17. Version scope: the **7" B-Side Edit** (~3:55), matching the entry's `track length`. All streaming links are single, unlabeled cards (one recording per service).
+
+**Streaming:**
+
+- **Spotify:** https://open.spotify.com/track/4pkEET0wXNNY5o61lVK5FF
+- **Apple Music:** https://music.apple.com/us/album/erotic-city-lets-go-crazy-7-b-side-edit-2017-remaster/1229320468?i=1229320888
+- **YouTube Music:** https://music.youtube.com/watch?v=vnrCK85qTLk
+- **YouTube:** https://www.youtube.com/watch?v=vnrCK85qTLk
+- **Amazon Music:** https://music.amazon.com/tracks/B071KQLP9V
+- **Tidal:** https://tidal.com/browse/track/75206929
+- **Qobuz:** https://www.qobuz.com/us-en/album/purple-rain-deluxe-prince-the-revolution/0093624912002 (album-level; 7" B-Side Edit is track 25, 3:56)
+- **SoundCloud:** https://soundcloud.com/prince/erotic-city-make-love-not-war (official account carries only the extended 12" version; the 7" edit is not on SoundCloud)
+- **Deezer:** https://www.deezer.com/track/374283221
+
+**Purchase:**
+
+- **Buy on Discogs:** https://www.discogs.com/master/16212-Prince-And-The-Revolution-Lets-Go-Crazy (Let's Go Crazy 7" single, 1984, b/w Erotic City)
+- **Buy on Amazon:** https://www.amazon.com/dp/B0718ZCS6B (Purple Rain Deluxe Expanded Edition, which carries the 7" B-Side Edit)
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/4pkEET0wXNNY5o61lVK5FF" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/erotic-city-lets-go-crazy-7-b-side-edit-2017-remaster/1229320468?i=1229320888" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=vnrCK85qTLk" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=vnrCK85qTLk" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B071KQLP9V" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/75206929" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/purple-rain-deluxe-prince-the-revolution/0093624912002" }
+    ],
+    "note": "Album-level link (Purple Rain Deluxe Expanded Edition); Qobuz exposes no per-track URL. The 7\" B-Side Edit is track 25 (3:56)."
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/prince/erotic-city-make-love-not-war" }
+    ],
+    "note": "The official Prince account carries only the extended 12\" version; the 7\" B-Side Edit is not on SoundCloud. Link points to the 12\" Version as the closest official upload."
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/374283221" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/16212-Prince-And-The-Revolution-Lets-Go-Crazy" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "url": "https://www.amazon.com/dp/B0718ZCS6B" }
+    ]
+  }
+]
+```
 
 ### Sources
 

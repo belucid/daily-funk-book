@@ -39,20 +39,21 @@ Free text — record label name (e.g. Aware Records, People Records, Blue Note)
 - US - West
 
 ### International
-- Brazil
-- Nigeria
-- UK
-- Ghana
-- Cameroon
 - Benin
-- Senegal
+- Brazil
+- Cameroon
 - Cuba
+- Democratic Republic of the Congo
 - France
+- Ghana
 - Jamaica
 - Japan
 - Kenya
+- Nigeria
+- Philippines
+- Senegal
 - South Africa
-- Democratic Republic of the Congo
+- UK
 
 ## status
 - stub

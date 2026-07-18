@@ -1,20 +1,28 @@
 ---
 fileClass: funk-entry
-day:
-artist: Bad Medecine
+day: 08-05
+artist: Bad Medicine
 track: Trespasser
 album:
 label: Enyx
 year: 1974
 track length: 6m 6s
 genre:
+  - Deep Funk
 region: US - New York
-listening mission:
-status: research-review
+listening mission: This was a local record by a local band on a label with limited distribution. Which major-label act we’ve heard so far could have turned the same song into a hit?
+status: complete
 writing theme:
-funk.day code:
+funk.day code: afje
 cover:
 ---
+Fans of deep funk no longer need to take cross-country road trips to find lost 45s and master tapes. Thankfully, some people still love the thrill of the hunt, so the rest of us can get our funk fix from the compilations curated by the labels that specialize in locating, licensing, and reviving forgotten gems.
+
+Ask any deep funk aficionado when the genre took off, and they'll likely point to one record: the August 5, 2001 release of Stones Throw Records' double LP and CD, *The Funky 16 Corners*. Today’s song, “Trespasser,” was included on that record. It's a forgotten 1974 instrumental by Bad Medicine, the house band of Enyx, a short-lived Syracuse label created by the owners of Record Kingdom to release records by local bands.
+
+*The Funky 16 Corners* was born from a ten-day collecting and licensing road trip from Indiana to California by deep-funk legend Eothen Alapatt, better known as Egon. At the time, he was the general manager of Stones Throw Records, and the following year he founded the reissue specialist Now-Again Records.
+
+After appearing on the compilation, the original 7-inch "Trespasser" received its own reissue in 2012, complete with a reproduction of the original label. So, if you decide you have to own the single, you can skip the road trip and the expense. Just remember to thank Egon.
 
 ---
 ## Research Notes
@@ -23,8 +31,6 @@ cover:
 **[AUDIT]** `2026-07-01 10:57` — `year` changed from `(empty)` to `1974` — Source: https://www.discogs.com/master/328667-Bad-Medicine-Trespasser-
 **[AUDIT]** `2026-07-01 10:57` — `track length` changed from `(empty)` to `6m 6s` (Pt.1 2:39 + Pt.2 3:27 from the Discogs single tracklist; see discrepancy note in Field Verification) — Source: https://www.discogs.com/release/1024070-Bad-Medicine-Trespasser-
 **[AUDIT]** `2026-07-01 10:57` — `region` changed from `(empty)` to `US - New York` (band formed and recorded in Syracuse, NY) — Source: http://funkatropolis.blogspot.com/2017/06/old-school-gold-trespasser-by-bad.html
-
-Note on artist spelling: the entry's `artist` field is `Bad Medecine`, but every source (Discogs, RateYourMusic, AllMusic, Stones Throw, the original Enyx 45) credits the band as **Bad Medicine**. Per instructions the `artist` field was left unchanged; the correct spelling is "Bad Medicine." — Source: https://www.discogs.com/master/328667-Bad-Medicine-Trespasser-
 
 ### Open Research Questions
 

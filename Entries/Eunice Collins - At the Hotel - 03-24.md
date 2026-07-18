@@ -10,9 +10,10 @@ track length: 3m 33s
 genre: Deep Funk
 region: US - Illinois
 listening mission: What might a Eunice Collins album have sounded like?
-status: complete
+status: verified
 writing theme: Tale of unusual recording and Deep funk rediscovery.
 funk.day code: zdrh
+cover: zdrh.jpg
 ---
 Eunice Collins walked into a small Chicago studio on a whim and recorded this track in a single take. She never signed a contract, never got paid, and then disappeared from the recording world.
 
@@ -124,26 +125,93 @@ The lo-fi intimacy and blues-rooted vocal delivery have a kinship with the small
 
 ### Streaming & Purchase Links
 
-**Streaming:**
-- **Spotify:** [At the Hotel, Pt. 1](https://open.spotify.com/track/28YVC2dkYrbxXlq37H4eju) | [At the Hotel (compilation version)](https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj) | [Single](https://open.spotify.com/album/40J1cy280Iv5zgyNwkeuxo)
-- **Apple Music:** [Eunice Collins](https://music.apple.com/us/artist/eunice-collins/424093481) | [At the Hotel](https://music.apple.com/us/song/at-the-hotel/1680811507)
-- **Amazon Music:** [At the Hotel, Pt. 1](https://www.amazon.com/At-the-Hotel-Pt-1/dp/B0BBY8HXKG)
-- **Deezer:** [At the Hotel](https://www.deezer.com/us/track/2167049387)
-- **SoundCloud:** [At the Hotel (user upload)](https://soundcloud.com/duendiness/eunice-collins-at-the-hotel)
-- **Bandcamp (Now-Again Records):** [At the Hotel](https://nowagainrecords.bandcamp.com/track/at-the-hotel)
-- **YouTube Video:** [At the Hotel](https://www.youtube.com/watch?v=5ojgK8PT3SA) (unverified link from blog reference)
-- **YouTube Music:** Could not locate a direct YouTube Music link; likely available via the YouTube video.
-- **Tidal:** Could not locate. Search inconclusive.
-- **Qobuz:** Could not locate original track. Only the Franky Rizardo remix featuring Collins is on Qobuz.
-- **Audiomack:** Could not locate. Search inconclusive.
+Streaming:
 
-**Purchase:**
-- **Buy Single on Discogs (Master):** [At the Hotel - Master Release](https://www.discogs.com/master/2605580-Eunice-Collins-At-The-Hotel)
-- **Buy Original 1974 on Discogs:** [At the Hotel - 1974 Release](https://www.discogs.com/release/2734689-Eunice-Collins-At-The-Hotel)
-- **Buy RSD 2022 Reissue on Discogs:** [At the Hotel - 2022 Reissue](https://www.discogs.com/release/22982120-Eunice-Collins-At-The-Hotel)
-- **Buy on Amazon:** [Loving On The Flipside (compilation including track)](https://www.amazon.com/At-the-Hotel/dp/B01MXF9IBA)
-- **Buy on Jazzman Records:** [At the Hotel 7"](https://jazzmanrecords.co.uk/eunice-collins-at-the-hotel)
-- **Buy on Sounds of the Universe:** [At the Hotel 7"](https://soundsoftheuniverse.com/product/-at-the-hotel-/) (out of stock at time of research)
+- **Spotify:** https://open.spotify.com/track/28YVC2dkYrbxXlq37H4eju
+- **Apple Music:** https://music.apple.com/us/album/at-the-hotel-pt-1/1641990480?i=1641990483
+- **YouTube Music:** https://music.youtube.com/watch?v=99k-FuIpP7A
+- **YouTube:** https://www.youtube.com/watch?v=5ojgK8PT3SA
+- **Amazon Music:** https://music.amazon.com/tracks/B0BBY8HXKG
+- **Tidal:** https://tidal.com/browse/track/245015616
+- **Qobuz:** Verified absent. Only the Franky Rizardo remix featuring Collins is on Qobuz, not the original recording.
+- **SoundCloud:** https://soundcloud.com/duendiness/eunice-collins-at-the-hotel
+- **Deezer:** https://www.deezer.com/track/1883304367
+
+Purchase:
+
+- **Buy on Discogs:** https://www.discogs.com/master/2605580-Eunice-Collins-At-The-Hotel
+- **Buy on Amazon:** Verified absent. No physical product page confirmed.
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/28YVC2dkYrbxXlq37H4eju" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/at-the-hotel-pt-1/1641990480?i=1641990483" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=99k-FuIpP7A" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=5ojgK8PT3SA" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0BBY8HXKG" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/245015616" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [],
+    "note": "Only the Franky Rizardo remix (feat. Collins) is on Qobuz, not the original recording."
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/duendiness/eunice-collins-at-the-hotel" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/1883304367" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/2605580-Eunice-Collins-At-The-Hotel" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "No physical product page confirmed."
+  }
+]
+```
 
 ### Sources
 

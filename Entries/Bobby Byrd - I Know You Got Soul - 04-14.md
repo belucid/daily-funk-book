@@ -10,21 +10,21 @@ track length: 4m 42s
 genre:
 region:
   - US - Southeast
-listening mission: James Brown wrote, produced, and arranged this Bobby Byrd record, and he sings the answer vocals. Listen for the moments when Brown injects himself into the proceedings.
-status: review
+listening mission: James Brown wrote, produced, and arranged this Bobby Byrd record, and he sings the answering vocals. Listen for the moments when Brown injects himself into the proceedings.
+status: complete
 writing theme:
-funk.day code:
+funk.day code: 5fhc
 cover:
 ---
-Bobby Byrd founded the group that became the Famous Flames in Toccoa, Georgia, in 1953. If the name means anything to you, it is probably because of its association with the early recordings of James Brown. Brown’s first released single, “Please, Please, Please,” appeared in 1956 under the credit James Brown with the Famous Flames.
+Bobby Byrd founded the Famous Flames in Toccoa, Georgia, in 1953. If the name is familiar, it's thanks to the association with James Brown's early recordings. Brown’s first single, “Please, Please, Please,” was released in 1956 under the credit James Brown with the Famous Flames.
 
-Brown had been sent to juvenile detention for armed robbery in 1949, when he was sixteen. Three years later, his reform-school baseball team played against Byrd’s team, and the two young men formed an immediate bond. Byrd’s family sponsored the nineteen-year-old Brown for early release and welcomed him into their home.
+Brown was sent to juvenile detention for armed robbery in 1949, at sixteen. Three years later, his reform-school baseball team played Byrd’s team, and the two formed a bond. Byrd’s family sponsored Brown's early prison release, and welcomed him into their home.
 
-Brown did not immediately join Byrd’s group. After a few unsuccessful attempts with other bands, he asked Byrd for a place and came aboard as a drummer. When singer Troy Collins died in a car accident in 1954, Byrd made the career-defining decision to move Brown to the front of the group.
+After several failed attempts with other bands, Brown asked Byrd for a place in the Famous Flames and came aboard as a drummer. When singer Troy Collins died in a car accident in 1954, Byrd made the career-defining decision to move Brown to the front of the group.
 
-Brown quickly became the star, and the billing shifted from the Famous Flames to James Brown and the Famous Flames. The original group eventually broke apart, and Brown formed other backing bands, but Byrd remained one of Brown’s closest musical partners. On April 14, 2012, the Rock and Roll Hall of Fame inducted the Famous Flames, helping correct its earlier decision to honor Brown without the group that helped launch him.
+Brown quickly became the star, and the billing shifted from the Famous Flames to James Brown and the Famous Flames. The group eventually broke apart, but Byrd remained one of Brown’s closest musical partners. On April 14, 2012, the Rock and Roll Hall of Fame inducted the Famous Flames, correcting its earlier decision to honor Brown without the group that launched him.
 
-Today’s song, “I Know You Got Soul,” was released as a Bobby Byrd single in 1971 on King Records. Byrd, Brown, and Charles Bobbit wrote it, Brown arranged and produced it, and the J.B.’s supplied the groove. Brown may have become the star, but here Byrd steps up to the microphone and reminds you where the story began.
+Today’s song, “I Know You Got Soul,” was released as a Bobby Byrd single in 1971 on King Records. Byrd, Brown, and Charles Bobbit wrote it, Brown arranged and produced it, and the J.B.’s supplied the groove. Brown was the star, but here Byrd takes center stage reminding you where the story began.
 
 ---
 ## Research Notes

@@ -20,7 +20,7 @@ They say imitation is the sincerest form of flattery. They also say good artists
 
 Today’s song is “Forever More” from Browne’s 1980 album *Love Approach*, and you will quickly hear more than an echo of yesterday’s “Rise.” Both tracks place a languid, deeply melodic trumpet line over insistent handclaps and a groove balanced on the edge of disco.
 
-But “Forever More” arrived a year later, after the disco backlash had hit with full force. Just before the 1m 30s mark, the arrangement breaks down to drums alone, then adds back in the bass, reminding listeners how funky the underlying groove is and how little the track depends on disco’s trademark strings.
+But “Forever More” arrived a year later, after the disco backlash had hit with full force. Just before the 1m 30s mark, the arrangement breaks down to drums alone, then adds back in the bass, reminding listeners how funky the underlying groove is and how little the track depends on disco’s trademark strings and four on the floor beat.
 
 We hear what you did there, Mr. Browne.
 

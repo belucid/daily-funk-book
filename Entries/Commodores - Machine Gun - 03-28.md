@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - Southeast
 listening mission: It was originally called “The Ram.” Motown founder Berry Gordy said it sounded like machine guns, and the new title stuck. What would you name this instrumental?
-status: complete
+status: verified
 writing theme: instrumental track from a band that became know for its vocalists
 funk.day code: fjpx
+cover: fjpx.jpg
 ---
 Milan Williams was born on March 28, 1948, in Okolona, Mississippi. He wrote “Machine Gun” and played the clavinet, synth bass, and lead synth on the song. Williams built the track’s signature low end on keys, providing an early example of a funk hit where the bassline comes from a keyboard part rather than a bass guitar. It foreshadows the synth-bass era years before electro funk made it a defining sound.
 
@@ -142,19 +143,102 @@ The current `genre` value is: Classic Funk.
 
 ### Streaming & Purchase Links
 
-- **Spotify**: [Machine Gun (track)](https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff) | [Machine Gun (album)](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC)
-- **YouTube Music**: Could not locate a direct YouTube Music link. The track is likely available via YouTube Music search.
-- **Amazon Music**: [Machine Gun (album, streaming/digital)](https://www.amazon.com/Machine-Gun-COMMODORES/dp/B0000243X7)
-- **Apple Music**: [Machine Gun (album)](https://music.apple.com/us/album/machine-gun/1443131945)
-- **SoundCloud**: [Machine Gun](https://soundcloud.com/commodores-music/machine-gun)
-- **Tidal**: Available on multiple Tidal compilations. Direct album link not confirmed; search "Commodores Machine Gun" on Tidal.
-- **Qobuz**: [Machine Gun (album)](https://www.qobuz.com/us-en/album/machine-gun-commodores/0060254730896)
-- **Audiomack**: Could not locate. Search inconclusive.
-- **Deezer**: [Machine Gun (album)](https://www.deezer.com/en/album/9438118) | [Machine Gun (track)](https://www.deezer.com/en/track/92962972)
-- **YouTube Video**: Soul Train performance available via Classic Motown: https://classic.motown.com/video/commodores-machine-gun-live/
-- **Buy Album on Discogs**: [Machine Gun (Master Release)](https://www.discogs.com/master/84581-Commodores-Machine-Gun)
-- **Buy Single on Discogs**: [Machine Gun (Master Release, Single)](https://www.discogs.com/master/84583-The-Commodores-Machine-Gun)
-- **Buy on Amazon**: [Machine Gun (CD)](https://www.amazon.com/Machine-Gun-COMMODORES/dp/B07MBHQZ7C) | [Machine Gun (Vinyl)](https://www.amazon.com/MACHINE-GUN-LP-VINYL-Commodores/dp/B000MYOGOU)
+Verified 2026-07-17. Single studio recording (the 1974 debut-album title track, ~2:40); one link per streaming service.
+
+**Streaming:**
+
+- **Spotify:** https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff
+- **Apple Music:** https://music.apple.com/us/album/machine-gun/1443131945?i=1443132101
+- **YouTube Music:** https://music.youtube.com/watch?v=iKvK5CasiZ0
+- **YouTube:** https://www.youtube.com/watch?v=iKvK5CasiZ0
+- **Amazon Music:** https://music.amazon.com/tracks/B07618HRKF
+- **Tidal:** https://tidal.com/browse/track/77636245
+- **Qobuz:** https://www.qobuz.com/us-en/album/machine-gun-commodores/0060254730896 (album-level; Machine Gun is track 1, 2:40)
+- **SoundCloud:** https://soundcloud.com/commodores-official/machine-gun
+- **Deezer:** https://www.deezer.com/track/92962972
+
+**Purchase:**
+
+- **Buy on Discogs — LP:** https://www.discogs.com/master/84581-Commodores-Machine-Gun
+- **Buy on Discogs — Single:** https://www.discogs.com/master/84583-The-Commodores-Machine-Gun
+- **Buy on Amazon — CD:** https://www.amazon.com/Machine-Gun-COMMODORES/dp/B07MBHQZ7C
+- **Buy on Amazon — Vinyl:** https://www.amazon.com/MACHINE-GUN-LP-VINYL-Commodores/dp/B000MYOGOU
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/machine-gun/1443131945?i=1443132101" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=iKvK5CasiZ0" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=iKvK5CasiZ0" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B07618HRKF" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/77636245" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/machine-gun-commodores/0060254730896" }
+    ],
+    "note": "Album-level link (Qobuz exposes no per-track URL); Machine Gun is track 1 (2:40)."
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/commodores-official/machine-gun" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/92962972" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "LP", "url": "https://www.discogs.com/master/84581-Commodores-Machine-Gun" },
+      { "label": "Single", "url": "https://www.discogs.com/master/84583-The-Commodores-Machine-Gun" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/Machine-Gun-COMMODORES/dp/B07MBHQZ7C" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/MACHINE-GUN-LP-VINYL-Commodores/dp/B000MYOGOU" }
+    ]
+  }
+]
+```
 
 ### Sources
 

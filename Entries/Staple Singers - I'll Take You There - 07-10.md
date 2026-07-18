@@ -10,7 +10,7 @@ track length: 4m 43s
 genre:
   - Gospel Funk
 region: US - Illinois
-listening mission: The bassline arrives before anyone sings a word, and it carries the entire track. Listen for when Mavis Staples stops singing words and starts echoing the bassline.
+listening mission: Listen for the moment when Mavis Staples stops singing words and starts echoing the bassline. Magic.
 status: complete
 writing theme:
 funk.day code: czqt

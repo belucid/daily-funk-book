@@ -11,18 +11,18 @@ genre:
   - Latin Funk
 region: Brazil
 listening mission: “Late Night” was released while this book was being written, proof that funk is alive and well. Listen for what sounds modern and what reaches back to the jazz-funk of fifty years ago.
-status: review
+status: complete
 writing theme: modern jazz-funk
-funk.day code:
+funk.day code: d7i3
 cover:
 ---
-Moyses Dos Santos grew up in  São Paulo, Brazil, where he started playing bass as a teenager. He learned his craft playing in church, then relocated to London in the early 2000s. His bass playing made him an in-demand session musician, and he shared stages and studios with funk greats such as Nile Rodgers, Gregory Porter, and Brazilian jazz-funk legends Azymuth.
+Moyses Dos Santos grew up in  São Paulo, Brazil, where he began playing bass as a teenager. He honed his craft playing in church before relocating to London in the early 2000s. There, his bass playing made him an in-demand session musician, sharing stages and studios with funk greats such as Nile Rodgers, Gregory Porter, and Brazilian jazz-funk legends Azymuth.
 
-Today’s song, “Late Night,” is a short jazz-funk number from London’s thriving contemporary jazz scene. Dos Santos leads from the bass with a relaxed, melodic line, while Josh Short provides punchy answers on trumpet. Together they give the track a modern polish without losing touch with the jazz-funk of the 1970s.
+Today’s song, “Late Night,” is a short jazz-funk number from London’s thriving contemporary jazz scene. Dos Santos leads from the bass with a relaxed, melodic line, while Josh Short provides punchy answers on trumpet. Together, they give the track a modern polish without losing touch with the jazz-funk of the 1970s.
 
-*Maria* was released on June 12, 2026, and named for Dos Santos’s mother. It is his first album as a bandleader. After spending roughly two decades in London, Dos Santos began to feel that he had left parts of his Brazilian identity behind. Touring with Azymuth in 2022 encouraged him to reconnect with the sounds of his youth.
+*Maria* was released on June 12, 2026, and named for Dos Santos’s mother. It's his first album as a bandleader. After two decades in London, Dos Santos felt he'd left parts of his Brazilian identity behind. Touring with Azymuth in 2022 encouraged him to reconnect with the sounds of his youth.
 
-The album draws on the electric bass lineage of Marcus Miller, Jaco Pastorius, and Stanley Clarke, then runs it through modern London jazz, Brazilian rhythms, and the gospel traditions Dos Santos absorbed in church. On *Maria*, a longtime supporting player steps forward and introduces himself as a writer and leader.
+The album draws on the electric bass lineage of Marcus Miller, Jaco Pastorius, and Stanley Clarke, then blends it with modern London jazz, Brazilian rhythms, and the gospel traditions Dos Santos absorbed in church. On *Maria*, a longtime supporting player steps forward and introduces himself as a writer and leader.
 
 ---
 ## Research Notes

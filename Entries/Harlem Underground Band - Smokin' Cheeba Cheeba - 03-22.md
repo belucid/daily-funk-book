@@ -11,16 +11,16 @@ genre:
   - Deep Funk
 region: US - New York
 listening mission: A standout sound on today’s track is Buddy Lucas’s harmonica. After the opening solo at 20 seconds, each return gets a little spacier as more effects reshape its sound. Is the harmonica sonically conveying the effects of the cheeba cheeba?
-status: review
+status: verified
 writing theme:
-funk.day code:
-cover:
+funk.day code: tn7c
+cover: shvo.jpg
 ---
-Video gamers may already know today's song, “Smokin’ Cheeba Cheeba.” It plays on the rare-groove station Master Sounds 98.3 in *Grand Theft Auto: San Andreas*. It comes from an obscure album on Paul Winley’s small Harlem label. The Harlem Underground Band was Winley’s in-house studio group, with George Benson on guitar, Dave “Baby” Cortez on organ, Willis Jackson on saxophone, Sterling Magee on bass and guitar, and Earl Williams on drums. Of those names, Benson is the one readers are most likely to recognize.
+Video gamers may already know today's song, “Smokin’ Cheeba Cheeba,” which plays on Master Sounds 98.3 in *Grand Theft Auto: San Andreas*. The song comes from an obscure album on Paul Winley’s small Harlem label. The Harlem Underground Band was Winley’s in-house studio group, which consisted of George Benson on guitar, Dave “Baby” Cortez on organ, Willis Jackson on saxophone, Sterling Magee on bass and guitar, and Earl Williams on drums. Of those names, Benson is the one readers are most likely to recognize.
 
-Born on March 22, 1943, in Pittsburgh, Benson was a child prodigy who became a professional jazz guitarist while still young. He built a strong reputation through soul-jazz session work and a successful run of albums for CTI in the early 1970s.
+Born on March 22, 1943, in Pittsburgh, Benson was a child prodigy who became a professional jazz guitarist at a young age. He built a strong reputation through soul-jazz session work and a successful run of albums for CTI in the early 1970s.
 
-Then came 1976. Benson left CTI for Warner Bros. and released *Breezin’*, the album that transformed him from a respected jazz guitarist into a crossover pop star. It reached #1 on the *Billboard* 200 and introduced a much larger audience to his guitar playing and his voice. Benson's popularity continued to grow through the 1980s, and he went on to record a string of pop hits and win ten Grammy Awards.
+Then came 1976. Benson left CTI for Warner Bros. and released *Breezin’*, the album that catapulted him from a respected jazz guitarist to a crossover pop star. It reached #1 on the *Billboard* 200, introducing his guitar playing and voice to a much larger audience. Benson's popularity continued to grow through the 1980s, with a string of pop hits and ten Grammy Awards.
 
 That makes “Smokin’ Cheeba Cheeba” a fascinating snapshot. In the same year Benson broke into the mainstream, he was also tearing through a low-budget Harlem funk session on an obscure independent label.
 
@@ -109,19 +109,99 @@ Reference genre list could not be located on disk (the `On Genres & Regions.md` 
 
 ### Streaming & Purchase Links
 
-- Spotify: Multiple listings exist (original 1976 and reissues). Primary candidate: https://open.spotify.com/track/3ZhVqCQDqx6LfmXoPZKCpX (labeled 1976). Other versions: https://open.spotify.com/track/55nGwyXfewlrGPpQ1oT5Vn , https://open.spotify.com/track/59Jz4sjDMPSS0Ym0ClAPWW
-- YouTube Music: Could not locate a confirmed YouTube Music URL via search (track is on YouTube; a YT Music entry likely exists but was not verified).
-- Amazon Music: Could not locate a confirmed direct link.
-- Apple Music: Album available — https://music.apple.com/us/album/harlem-underground-band/897563781 (track listed under artist https://music.apple.com/us/artist/harlem-underground-band/271947023; direct per-track URL not exposed).
-- SoundCloud: Only edits/remixes located (e.g. https://soundcloud.com/rushless/cheeba-cheeba-rushless ); original studio version not confirmed on SoundCloud.
-- Tidal: Could not locate (search inconclusive).
-- Qobuz: Could not locate (search inconclusive).
-- Audiomack: Could not locate (search inconclusive).
-- Deezer: Could not locate a confirmed direct link (search inconclusive).
-- YouTube Video: https://www.youtube.com/watch?v=bRyyoQo0qj4 ("Harlem Underground Band - Smokin Cheeba Cheeba (1976)")
-- Buy Album on Discogs (master): https://www.discogs.com/master/139515-Harlem-Underground-Band-Harlem-Underground
-- Buy Single on Discogs (master): https://www.discogs.com/master/925359-Harlem-Underground-Band-Smokin-Cheeba-Cheeba-Aint-No-Sunshine (12" Smokin Cheeba-Cheeba / Ain't No Sunshine; no contemporaneous 7" 45 located)
-- Buy on Amazon: Could not locate a confirmed direct Amazon product link.
+**Streaming:**
+
+- Spotify: https://open.spotify.com/track/3ZhVqCQDqx6LfmXoPZKCpX
+- Apple Music: https://music.apple.com/us/album/smokin-cheeba-cheeba/897563781?i=897563799
+- YouTube Music: https://music.youtube.com/playlist?list=OLAK5uy_l8DSdGkZXGSnNvg_qaqJym9TerB2jw7D0
+- YouTube: https://www.youtube.com/watch?v=bRyyoQo0qj4
+- Amazon Music: https://music.amazon.com/tracks/B07B4Q8Z24
+- Tidal: https://tidal.com/browse/track/29539858
+- Qobuz: https://www.qobuz.com/us-en/album/harlem-underground-band-harlem-underground-band/dh713znl4naub
+- SoundCloud: https://soundcloud.com/nola-darling/george-benson-the-harlem-underground-smoking-cheeba-cheeba
+- Deezer: https://www.deezer.com/track/78296689
+
+**Purchase:**
+
+- Buy on Discogs (Album): https://www.discogs.com/master/139515-Harlem-Underground-Band-Harlem-Underground
+- Buy on Discogs (Single): https://www.discogs.com/master/925359-Harlem-Underground-Band-Smokin-Cheeba-Cheeba-Aint-No-Sunshine
+- Buy on Amazon (CD): https://www.amazon.com/dp/B002JTHWX8
+- Buy on Amazon (Vinyl): https://www.amazon.com/dp/B08H69CPJ2
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/3ZhVqCQDqx6LfmXoPZKCpX" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/smokin-cheeba-cheeba/897563781?i=897563799" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8DSdGkZXGSnNvg_qaqJym9TerB2jw7D0" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=bRyyoQo0qj4" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B07B4Q8Z24" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/29539858" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/harlem-underground-band-harlem-underground-band/dh713znl4naub" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/nola-darling/george-benson-the-harlem-underground-smoking-cheeba-cheeba" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/78296689" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/139515-Harlem-Underground-Band-Harlem-Underground" },
+      { "label": "Single", "url": "https://www.discogs.com/master/925359-Harlem-Underground-Band-Smokin-Cheeba-Cheeba-Aint-No-Sunshine" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/dp/B002JTHWX8" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B08H69CPJ2" }
+    ]
+  }
+]
+```
 
 ### Sources
 

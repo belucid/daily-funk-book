@@ -11,12 +11,19 @@ genre:
   - Deep Funk
 region:
   - US - Southeast
-listening mission:
-status: research-review
-writing theme:
+listening mission: There is little in this instrumental to ground it in 1974. What makes it sound more like the funky instrumentals of the late 1960s?
+status: review
+writing theme: local funk scenes
 funk.day code:
 cover:
 ---
+Ask most people to name the cities associated with funk, and they are likely to mention Detroit, Minneapolis, Dayton, New Orleans, Memphis, or even Los Angeles and London long before Durham, North Carolina. But during funk’s heyday, most mid-sized Southern cities had a scene of their own, often centered on a few clubs, bars, and tiny record labels.
+
+The Black Experience Band formed in Durham in 1970 to back the Communicators, a five-man vocal group. They later split from the Communicators to work with another vocal act, the Modulations, then spent a short period as a self-contained band before breaking up. Their final single appeared in 1976 on Microtronics Records.
+
+Today’s song, “The Road,” is about as deep as deep funk gets. It is Mariana Trench deep. The instrumental B-side was written by the band’s trombonist, James “Butch” Barton. The A-side was the politically charged “Has Time Really Changed.” The single was on Tri Oak Records, a short-lived label that released only two singles, both in 1974.
+
+“The Road” was rescued from obscurity by the British label Jazzman, which included it on the 2007 anthology *Carolina Funk: Funk 45s from the Atlantic Coast*. The collection brought together twenty-two rare regional funk singles selected by Jazzman Gerald and North Carolina record collector Jason Perlmutter.
 
 ---
 ## Research Notes

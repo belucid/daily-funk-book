@@ -12,9 +12,10 @@ genre:
 region:
   - US - Minnesota
 listening mission: That eerie synth line sounds like it crawled straight out of yesterday's "Funky Worm." Who did it better?
-status: complete
+status: verified
 writing theme:
 funk.day code: c6du
+cover: c6du.jpg
 ---
 The title of today’s song, “Black Sweat,” has two origin stories. One suggests it came from black hair dye running down Prince’s face onstage. Another ties it to Prince's spot-on impersonation of the perennially sweaty James Brown. Either way, the title captures the physical exertion required for extended funk jams.
 
@@ -133,19 +134,99 @@ The `listening mission` field is currently empty.
 
 ### Streaming & Purchase Links
 
+Streaming:
+
 - **Spotify:** https://open.spotify.com/track/39RdlHe8QCccYnqDFAANWw
-- **YouTube Music:** Could not locate a direct YouTube Music link. Search inconclusive.
-- **Amazon Music:** https://www.amazon.com/Black-Sweat-Prince/dp/B000EQ44S4
-- **Apple Music:** https://music.apple.com/us/music-video/black-sweat/1426731816 (music video)
+- **Apple Music:** https://music.apple.com/us/album/black-sweat/1421415958?i=1421416325
+- **YouTube Music:** https://music.youtube.com/watch?v=ql2trX6Wq3c
+- **YouTube:** https://www.youtube.com/watch?v=vG-e00c6uT0
+- **Amazon Music:** https://music.amazon.com/tracks/B07G4RF5M6
+- **Tidal:** https://tidal.com/browse/track/92985243
+- **Qobuz:** https://www.qobuz.com/us-en/album/3121-prince/qt2kg6fjfsrpb
 - **SoundCloud:** https://soundcloud.com/prince/black-sweat
-- **Tidal:** https://tidal.com/browse/album/59527152 (live version confirmed; studio version available via Prince's artist page at https://tidal.com/browse/artist/4847)
-- **Qobuz:** Available via Prince's discography at https://www.qobuz.com/us-en/interpreter/prince/42267 — specific track link not confirmed.
-- **Audiomack:** Could not locate. Search inconclusive.
-- **Deezer:** Available via Prince's catalog. Specific track link not confirmed.
-- **YouTube Video:** Official music video available via Prince's Facebook page (https://www.facebook.com/prince/videos/389667138719776/). Direct YouTube link could not be confirmed; Prince's estate has historically restricted YouTube availability.
-- **Buy Album on Discogs (Master):** https://www.discogs.com/master/22438-Prince-3121
-- **Buy Single on Discogs (Master):** https://www.discogs.com/master/109227-Prince-Black-Sweat
-- **Buy on Amazon:** https://www.amazon.com/3121-Prince/dp/B000E97HIA (album)
+- **Deezer:** https://www.deezer.com/track/536621122
+
+Purchase:
+
+- **Buy on Discogs (Album):** https://www.discogs.com/master/22438-Prince-3121
+- **Buy on Discogs (Single):** https://www.discogs.com/master/109227-Prince-Black-Sweat
+- **Buy on Amazon (CD):** https://www.amazon.com/3121-Prince/dp/B07KLCRTZJ
+- **Buy on Amazon (Vinyl):** https://www.amazon.com/3121-Prince/dp/B07JZB8FWH
+
+Structured:
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/39RdlHe8QCccYnqDFAANWw" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/black-sweat/1421415958?i=1421416325" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=ql2trX6Wq3c" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=vG-e00c6uT0" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B07G4RF5M6" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/92985243" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/3121-prince/qt2kg6fjfsrpb" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/prince/black-sweat" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/536621122" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/22438-Prince-3121" },
+      { "label": "Single", "url": "https://www.discogs.com/master/109227-Prince-Black-Sweat" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/3121-Prince/dp/B07KLCRTZJ" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/3121-Prince/dp/B07JZB8FWH" }
+    ]
+  }
+]
+```
 
 ### Sources
 

@@ -19,7 +19,7 @@ Grammy-winning jazz musician, composer, and arranger Clare Fischer was born Octo
 
 Today’s track, “Morning,” is a Fischer composition that started life as a cha-cha on his 1965 Afro-Cuban album *Manteca!* This version strips away the Latin percussion and drops his Fender Rhodes into a jazz-funk groove. Fischer has a lighter touch than many on the instrument, and he shows his range across the rest of the album too, including synths, acoustic piano, and even some alto saxophone.
 
-Fischer first worked with Donald Byrd as an arranger in the late 1950s. Twenty years later they reunited for *Donald Byrd and 125th Street, N.Y.C.*, which, despite the title, was recorded at The Sound Factory in Hollywood, CA. Fischer later did most of Prince’s arranging from 1985 until Prince’s death in 2016.
+Fischer first worked with Donald Byrd as an arranger in the late 1950s. Twenty years later they reunited for *Donald Byrd and 125th Street, N.Y.C.*, which, despite the title, was recorded at The Sound Factory in Hollywood. Fischer later did most of Prince’s arranging from 1985 until Prince’s death in 2016.
 
 
 ---

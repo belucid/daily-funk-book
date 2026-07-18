@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 06-28
 artist: Boulevards
 track: Honey
 album: "Carolina Funk: Barn Burner on Tobacco Road"
@@ -11,12 +11,21 @@ genre:
   - Nu-Funk
 region:
   - US - Southeast
-listening mission:
-status: research-review
+listening mission: Nothing here was recorded before 2024, yet the track is rooted firmly in 1972. Can you identify a production choice that gives away its modern origin?
+status: review
 writing theme: tobacco road, barn burner
 funk.day code:
 cover:
 ---
+Boulevards’ fifth album, *Carolina Funk: Barn Burner on Tobacco Road*, was released on June 28, 2024. Boulevards is the nu-funk project of Jamil Rashad, built around a rotating cast of players from the retro-funk scene. 
+
+The title deserves a moment. "Carolina Funk" is a straightforward shout-out to Rashad's hometown of Raleigh, North Carolina.  "Barn burner" is a trickier term to unpack. You're most likely to hear it today to describe a thrilling outcome, especially in sports. The term began in nineteenth-century politics to describe radical and destructive solutions, inspired by a story about a farmer willing to burn down his barn to get rid of the rats inside.
+
+"Tobacco Road" comes from a 1932 Erskine Caldwell novel about rural poverty. The phrase later became associated with North Carolina’s tobacco country and its cluster of college basketball rivals, where Duke, UNC, NC State, and Wake Forest compete for local supremacy on the courts.
+
+Today's song, "Honey," reminds us that humor was a staple element of many classic funk acts, from Parliament-Funkadelic to Rick James. Prince and the Time carried that comic thread into the 1980s and 1990s, and Rashad keeps it alive here.
+
+
 
 ---
 ## Research Notes

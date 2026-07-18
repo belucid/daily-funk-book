@@ -55,4 +55,5 @@ region:
   - Japan
   - South Africa
   - Democratic Republic of the Congo
+  - Philippines
 ---

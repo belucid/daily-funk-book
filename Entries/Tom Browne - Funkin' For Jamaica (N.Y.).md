@@ -10,7 +10,7 @@ track length: 4m 40s
 genre:
   - Jazz-Funk
 region: US - New York
-listening mission: Marcus Miller was still a teenager when he laid down this epic bassline. It is incredibly funky, but focus on how melodic it is. He avoids the popping and slapping that became so closely associated with funk. Is it any surprise that Miller later made the bass a lead melodic instrument in his solo career?
+listening mission: Marcus Miller was still a teenager when he laid down this epic bassline. It's incredibly funky, but focus on how melodic it is too. He avoids the popping and slapping that became so closely associated with funk. Is it any surprise that Miller later made the bass a lead melodic instrument in his solo career?
 status: review
 writing theme: Musician / pilot
 funk.day code:

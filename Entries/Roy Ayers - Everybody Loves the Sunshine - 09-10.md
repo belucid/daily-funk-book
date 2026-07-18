@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-10
 artist: Roy Ayers
 track:
 album: Everybody Loves the Sunshine
