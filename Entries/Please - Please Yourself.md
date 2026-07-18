@@ -1,7 +1,7 @@
 ---
 fileClass: funk-entry
 day:
-artist: Manila Thriller
+artist: Please
 track: Please Yourself
 album: Manila Thriller
 label: London Records

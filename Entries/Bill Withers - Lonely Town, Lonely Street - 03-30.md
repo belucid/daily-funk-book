@@ -11,9 +11,10 @@ genre:
   - Classic Funk
 region: US - California
 listening mission: This opens the album that gave us “Lean on Me.” Listen to how the rhythm section pushes Withers into a different feel here.
-status: complete
+status: verified
 writing theme:
 funk.day code: twsi
+cover: twsi.jpg
 ---
 Bill Withers' soul standard "Lean on Me" is so well known that, like Otis Redding with "(Sittin' On) The Dock of the Bay," he has become synonymous with his biggest hit. But even at his most soulful, Withers was not shy about dropping a few funky burners onto his 1970s records.
 
@@ -122,20 +123,95 @@ The `genre` field is currently set to `Classic Funk`.
 
 **Streaming:**
 - **Spotify:** https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp
-- **Apple Music:** https://music.apple.com/us/song/lonely-town-lonely-street/685716378
-- **YouTube Music:** Could not locate a direct YouTube Music link for the studio version.
-- **Amazon Music:** https://www.amazon.com/Lonely-Town-Street/dp/B00WNLMANY
-- **SoundCloud:** https://soundcloud.com/bill-withers-official/lonely-town-lonely-street
-- **Tidal:** Available on Tidal (BBC In Concert video version confirmed: https://tidal.com/browse/video/256971260); studio version available via artist page: https://tidal.com/browse/artist/73
+- **Apple Music:** https://music.apple.com/us/album/lonely-town-lonely-street/989376986?i=989376987
+- **YouTube Music:** https://music.youtube.com/watch?v=h-UT7nnX4c4
+- **YouTube:** https://www.youtube.com/watch?v=h-UT7nnX4c4
+- **Amazon Music:** https://music.amazon.com/tracks/B00WNLOI2A
+- **Tidal:** https://tidal.com/browse/track/45105661
 - **Qobuz:** https://www.qobuz.com/us-en/album/still-bill-bill-withers/0886445193213
-- **Deezer:** https://www.deezer.com/en/track/70016817
-- **Audiomack:** Could not locate.
-- **YouTube Video:** Could not locate an official video. Multiple unofficial uploads and live recordings exist but no confirmed official link found.
+- **SoundCloud:** https://soundcloud.com/bill-withers-official/lonely-town-lonely-street
+- **Deezer:** https://www.deezer.com/track/99199084
 
 **Purchase:**
-- **Buy Album on Discogs (Master):** https://www.discogs.com/master/92896-Bill-Withers-Still-Bill
-- **Buy Single on Discogs (Master):** https://www.discogs.com/Bill-Withers-Friend-Of-Mine-Lonely-Town-Lonely-Street/master/414251 (1973 "Friend of Mine" / "Lonely Town, Lonely Street" 7" single, Sussex SUX 257)
-- **Buy on Amazon:** https://www.amazon.com/Still-Withers-Sussex-Records-SXBS-7014/dp/B08G8HHFFB
+- **Buy on Discogs (Album):** https://www.discogs.com/master/92896-Bill-Withers-Still-Bill
+- **Buy on Discogs (Single):** https://www.discogs.com/master/414251-Bill-Withers-Friend-Of-Mine (1973 "Friend of Mine" / "Lonely Town, Lonely Street" 7" single, Sussex SUX 257)
+- **Buy on Amazon (Vinyl):** https://www.amazon.com/dp/B006R7DW8C
+- **Buy on Amazon (CD):** https://www.amazon.com/dp/B002YUR8A4
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/lonely-town-lonely-street/989376986?i=989376987" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=h-UT7nnX4c4" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=h-UT7nnX4c4" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B00WNLOI2A" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/45105661" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/still-bill-bill-withers/0886445193213" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/bill-withers-official/lonely-town-lonely-street" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/99199084" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/92896-Bill-Withers-Still-Bill" },
+      { "label": "Single", "url": "https://www.discogs.com/master/414251-Bill-Withers-Friend-Of-Mine" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B006R7DW8C" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B002YUR8A4" }
+    ]
+  }
+]
+```
 
 ### Sources
 

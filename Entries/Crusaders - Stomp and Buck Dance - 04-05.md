@@ -11,9 +11,10 @@ genre:
   - Jazz-Funk
 region: US - Texas
 listening mission: Listen for Henderson’s trombone in “Stomp and Buck Dance.” It can be harder to pick out than the guitar, bass, keys, and sax you’re now used to hearing.
-status: complete
+status: verified
 writing theme:
 funk.day code: j4fj
+cover: j4fj.jpg
 ---
 Today’s song, "Stomp and Buck Dance," was written by Crusaders trombonist and co-founder Wayne Henderson. Born in Houston’s Fifth Ward in 1939, he started playing trombone in middle school. In 1954, at age 15, he co-founded the group that would eventually become the Crusaders.
 
@@ -150,19 +151,97 @@ OPEN: This entry is going to focus on Wayne Henderson, so need details on his bi
 
 ### Streaming & Purchase Links
 
+**Streaming:**
 - **Spotify:** https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp
-- **Apple Music:** https://music.apple.com/us/album/southern-comfort/1443155364 (album, track listing available there)
-- **YouTube Music / YouTube Video:** search "The Crusaders Stomp and Buck Dance" — readily available; could not locate a confirmed canonical official URL to post
-- **Amazon Music:** could not locate a confirmed direct link
-- **SoundCloud:** could not locate
-- **Tidal:** could not locate a confirmed direct link (album is on Tidal, search by title)
-- **Qobuz:** could not locate a confirmed direct link
-- **Audiomack:** could not locate
-- **Deezer:** could not locate a confirmed direct link
-- **Buy Album on Discogs (Master Release):** https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort
-- **Buy Album on Discogs (1974 US LP, ABCD-847):** https://www.discogs.com/release/1328379-The-Crusaders-Southern-Comfort
-- **Buy Single on Discogs (Master Release):** https://www.discogs.com/master/383001-The-Crusaders-Stomp-And-Buck-Dance-A-Ballad-For-Joe-Louis
-- **Buy on Amazon:** search "Crusaders Southern Comfort" — vinyl and CD reissues available; could not confirm a stable direct link
+- **Apple Music:** https://music.apple.com/us/album/stomp-and-buck-dance/1443155364?i=1443155368
+- **YouTube Music:** https://music.youtube.com/watch?v=NIk6WI07868
+- **YouTube:** https://www.youtube.com/watch?v=NIk6WI07868
+- **Amazon Music:** https://music.amazon.com/tracks/B000WGSVOY
+- **Tidal:** https://tidal.com/browse/album/35688051
+- **Qobuz:** https://www.qobuz.com/us-en/album/southern-comfort-the-crusaders/0007673260162
+- **SoundCloud:** https://soundcloud.com/the-crusaders-official/stomp-and-buck-dance-album
+- **Deezer:** https://www.deezer.com/track/2491675
+
+**Purchase:**
+- **Buy on Discogs (Album):** https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort
+- **Buy on Discogs (Single):** https://www.discogs.com/master/383001-The-Crusaders-Stomp-And-Buck-Dance-A-Ballad-For-Joe-Louis
+- **Buy on Amazon (Vinyl):** https://www.amazon.com/dp/B001OCNETW
+- **Buy on Amazon (CD):** https://www.amazon.com/dp/B0000001PE
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/stomp-and-buck-dance/1443155364?i=1443155368" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=NIk6WI07868" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=NIk6WI07868" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B000WGSVOY" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/album/35688051" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/southern-comfort-the-crusaders/0007673260162" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/the-crusaders-official/stomp-and-buck-dance-album" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/2491675" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "label": "Album", "url": "https://www.discogs.com/master/47516-The-Crusaders-Southern-Comfort" },
+      { "label": "Single", "url": "https://www.discogs.com/master/383001-The-Crusaders-Stomp-And-Buck-Dance-A-Ballad-For-Joe-Louis" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "Vinyl", "url": "https://www.amazon.com/dp/B001OCNETW" },
+      { "label": "CD", "url": "https://www.amazon.com/dp/B0000001PE" }
+    ]
+  }
+]
+```
 
 ### Sources
 

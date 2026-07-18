@@ -16,15 +16,15 @@ writing theme:
 funk.day code: 5fhc
 cover:
 ---
-Bobby Byrd founded the Famous Flames in Toccoa, Georgia, in 1953. If the name is familiar, it's thanks to the association with James Brown's early recordings. Brown’s first single, “Please, Please, Please,” was released in 1956 under the credit James Brown with the Famous Flames.
+Bobby Byrd founded the Famous Flames in Toccoa, Georgia, in 1953. The name is familiar from James Brown's early recordings. Brown’s first single, “Please, Please, Please,” was released in 1956 as James Brown with the Famous Flames.
 
 Brown was sent to juvenile detention for armed robbery in 1949, at sixteen. Three years later, his reform-school baseball team played Byrd’s team, and the two formed a bond. Byrd’s family sponsored Brown's early prison release, and welcomed him into their home.
 
-After several failed attempts with other bands, Brown asked Byrd for a place in the Famous Flames and came aboard as a drummer. When singer Troy Collins died in a car accident in 1954, Byrd made the career-defining decision to move Brown to the front of the group.
+Brown asked Byrd for a place in the Famous Flames and came aboard as a drummer. When singer Troy Collins died in a car accident in 1954, Byrd made the career-defining decision to move Brown to the front of the group.
 
-Brown quickly became the star, and the billing shifted from the Famous Flames to James Brown and the Famous Flames. The group eventually broke apart, but Byrd remained one of Brown’s closest musical partners. On April 14, 2012, the Rock and Roll Hall of Fame inducted the Famous Flames, correcting its earlier decision to honor Brown without the group that launched him.
+Brown quickly became the star, and the billing shifted from the Famous Flames to James Brown and the Famous Flames. The group broke apart, but Byrd remained one of Brown’s closest musical partners.
 
-Today’s song, “I Know You Got Soul,” was released as a Bobby Byrd single in 1971 on King Records. Byrd, Brown, and Charles Bobbit wrote it, Brown arranged and produced it, and the J.B.’s supplied the groove. Brown was the star, but here Byrd takes center stage reminding you where the story began.
+Today’s song, “I Know You Got Soul,” was released as a Bobby Byrd single in 1971 on King Records. Byrd, Brown, and Charles Bobbit wrote it, Brown arranged and produced it, and the J.B.’s supplied the groove. Brown was the big star, but here Byrd takes center stage reminding us where the story began.
 
 ---
 ## Research Notes
