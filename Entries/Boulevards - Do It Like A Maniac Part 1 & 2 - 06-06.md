@@ -11,21 +11,21 @@ genre:
   - Nu-Funk
 region:
   - US - Southeast
-listening mission: By this point in our journey, you have heard quite a lot of James Brown and his imitators. Spot as many overt nods to Brown as you can, then assess how convincing Boulevards’ recreation is. What is the point of retro funk this faithful to the original?
-status: review
+listening mission: Spot as many overt nods to Brown as you can, then assess how convincing Boulevards’ recreation is. What is the point of retro funk this faithful to the original?
+status: complete
 writing theme: Retro funk winks and nods
-funk.day code:
+funk.day code: thrn
 cover:
 ---
-It is hard to imagine a retro-funk song packed with more nods and winks to James Brown than today’s “Do It Like a Maniac Part 1&2” by Boulevards. The homage begins with the title. “Part 1&2” recalls classic funk singles that split a long groove across both sides of a 7-inch record, then reunited the two halves on the LP.
+It's hard to imagine a retro-funk song with more nods to James Brown than today’s “Do It Like a Maniac Part 1&2” by Boulevards. The homage begins with the title. “Part 1&2” recalls classic funk singles that split a long groove across both sides of a 7-inch record, then reunited the two halves on the LP.
 
-Of course, no splitting was required here. The song was released as a digital single on June 6, 2024, and no streaming service had trouble accommodating its six-minute running time. The title is only a wink to the knowing listener.
+But no splitting was needed here. Released as a digital single on June 6, 2024, the six-minute song fits easily on any streaming service. The title is only a wink to the knowing listener.
 
-Boulevards is the nu-funk project of Jamil Rashad, who grew up surrounded by classic 1970s funk. His father was a radio DJ, and the family home held an extensive record collection. Like many teenagers, Rashad rejected his parents’ music and first developed his chops in Raleigh’s rap, punk, and metal scenes.
+Boulevards is the nu-funk project of Jamil Rashad, who grew up surrounded by classic 1970s funk. His father was a radio DJ with an extensive record collection. Rashad rejected his parents’ music as a teenager, instead developing his chops in Raleigh’s rap, punk, and metal scenes.
 
-After college, the sounds of his childhood began pulling him back. The earliest Boulevards records leaned toward the house rhythms and synthesizer funk of the 1980s. With each subsequent release, Rashad moved a little further backward through disco and Parliament-Funkadelic until arriving at *Carolina Funk*, an album rooted firmly in the early-1970s sound of James Brown and the J.B.’s.
+Rashad's childhood sounds began pulling him back. His earliest records leaned toward the 1980s house rhythms and synthesizer funk. With each release, Rashad moved further backward through disco and Parliament-Funkadelic until arriving at *Carolina Funk*, an album rooted in the early-1970s sound of James Brown and the J.B.’s.
 
-To capture the high-energy feel of his concerts, Rashad recorded the full band live to tape with an all-star cast of retro-funk players. The method is pure old school: put great musicians in a room, start the tape, and let the groove run. Then remind the band who is in charge by shouting instructions as they play. Brown would be proud.
+The recording method is pure old school: put great musicians in a room, start the tape, let the groove run, then remind the band who is in charge by shouting instructions as they play. Brown would be proud.
 
 ---
 ## Research Notes

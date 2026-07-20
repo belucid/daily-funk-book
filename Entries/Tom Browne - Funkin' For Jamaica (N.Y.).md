@@ -11,18 +11,18 @@ genre:
   - Jazz-Funk
 region: US - New York
 listening mission: Marcus Miller was still a teenager when he laid down this epic bassline. It's incredibly funky, but focus on how melodic it is too. He avoids the popping and slapping that became so closely associated with funk. Is it any surprise that Miller later made the bass a lead melodic instrument in his solo career?
-status: review
+status: complete
 writing theme: Musician / pilot
 funk.day code:
 cover:
 ---
-The cover of Tom Browne’s *Love Approach* shows him in the pilot’s seat of a small airplane, trumpet in hand. “Approach” is aviation language for the process of preparing to land. Lest listeners think Browne was merely extending the title’s metaphor, the gatefold explained that he was a licensed commercial pilot who flew the Piper Seneca pictured on the cover.
+The cover of Tom Browne’s *Love Approach* shows him in the pilot’s seat of a small plane, trumpet in hand. “Approach” is aviation jargon for preparing to land. Lest listeners think Browne was merely extending the title’s metaphor, the gatefold explained that he was a licensed commercial pilot who flew the Piper Seneca on the cover.
 
-Browne began piano lessons at eleven, then switched to trumpet before attending the High School of Music and Art in Manhattan. He initially viewed music as a hobby and planned to become a professional pilot. While studying physics at Kingsborough Community College and earning his pilot’s license, he also became involved in New York’s jazz scene, finding work as a sideman with Weldon Irvine, Woody Shaw, Freddie Hubbard, and the Fatback Band. Guitarist Earl Klugh introduced him to GRP Records, which signed him in 1979.
+Browne started piano lessons at eleven, then switched to trumpet before attending Manhattan's High School of Music and Art. He saw music as a hobby, planning to become a professional pilot. While studying physics at Kingsborough Community College, he earned his pilot’s license and became involved in New York’s jazz scene, finding work as a sideman with Weldon Irvine, Woody Shaw, Freddie Hubbard, and the Fatback Band. Guitarist Earl Klugh introduced him to GRP Records, which signed him in 1979.
 
-Today’s song, “Funkin’ for Jamaica (N.Y.),” comes from Browne’s second GRP album. The title refers not to the Caribbean nation, but to Jamaica, Queens, where Browne grew up. The song reached #1 on the US R&B singles chart but never crossed over to the *Billboard* Hot 100.
+Today’s song, “Funkin’ for Jamaica (N.Y.),” comes from Browne’s second GRP album. The title refers not to the Caribbean nation, but to Jamaica, Queens, where Browne grew up. The song topped the US R&B singles chart but never crossed over to the *Billboard* Hot 100.
 
-Browne continued recording into the 1980s, but eventually stepped away from music to fly cargo planes for FedEx contractors. He returned to recording in the mid-1990s and has described needing both pursuits in his life: the creative freedom of music and the structure and discipline of aviation.
+Browne continued recording into the 1980s, then stepped away from music to fly cargo planes for FedEx contractors. He returned to recording in the mid-1990s and has described needing both pursuits: the creative freedom of music and the structure and discipline of aviation.
 
 ---
 ## Research Notes
