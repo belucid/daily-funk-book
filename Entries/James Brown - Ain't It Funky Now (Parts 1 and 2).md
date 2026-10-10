@@ -9,7 +9,8 @@ year: 1969
 track length: 9m 26s
 genre:
   - Classic Funk
-region: US - Ohio
+region:
+  - US - Southeast
 listening mission:
 status: research-review
 writing theme:
@@ -22,6 +23,7 @@ funk.day code: aaxh
 **[AUDIT]** `2026-05-23 12:00` — `album` changed from `(empty)` to `Ain't It Funky` — Source: https://en.wikipedia.org/wiki/Ain%27t_It_Funky
 **[AUDIT]** `2026-05-23 12:00` — `track length` changed from `(empty)` to `9m 26s` — Source: https://en.wikipedia.org/wiki/Ain%27t_It_Funky (album tracklist lists "Ain't It Funky Now, Pts. 1-2" at 9:26)
 **[AUDIT]** `2026-05-23 12:00` — `region` changed from `(empty)` to `US - Ohio` — Source: https://en.wikipedia.org/wiki/Ain%27t_It_Funky (recorded at King Studios, Cincinnati, Ohio; King Records was a Cincinnati label)
+**[AUDIT]** `2026-10-10 15:30` — `region` changed from `US - Ohio` to `US - Southeast` — Source: author decision to place all James Brown entries in US - Southeast; Brown was raised in Augusta, Georgia, https://en.wikipedia.org/wiki/James_Brown. Recording location (King Studios, Cincinnati) is unchanged and noted in the audit line above.
 
 > **Note:** The `DISCOGS_TOKEN` is `UNSET`, so the Discogs JSON API was not queried. Discogs human-facing release pages were referenced indirectly via search results and used only for streaming/purchase URLs. All facts below are sourced from non-Discogs references where possible.
 

@@ -9,7 +9,8 @@ year: 1979
 track length: 6m 8s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission:
 status: research-review
 writing theme:

@@ -9,7 +9,8 @@ year: 1969
 track length: 3m 10s
 genre:
   - Country Funk
-region: US - California
+region:
+  - US - California
 listening mission: Keep in mind that Hohner is a harmonica brand. “Mr. Hohner” is not a literal companion, it's Darin naming his new musical direction, the one that is getting him in trouble with the powers that be.
 status: verified
 writing theme:

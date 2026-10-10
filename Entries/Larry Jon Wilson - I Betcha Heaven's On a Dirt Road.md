@@ -9,7 +9,8 @@ year: 1977
 track length: 2m 42s
 genre:
   - Country Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission:
 status: research-review
 writing theme:

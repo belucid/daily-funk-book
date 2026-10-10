@@ -9,7 +9,8 @@ year: 1984
 track length: 3m 55s
 genre:
   - Minneapolis Sound
-region: US - Minnesota
+region:
+  - US - Minnesota
 listening mission: Sheila E. insists she was singing “funk,” not the other F-word. That helped the track slip past censors, but which word do you hear?
 status: verified
 writing theme:

@@ -9,7 +9,8 @@ year: 1974
 track length: 9m 35s
 genre:
   - Jazz-Funk
-region: US - Texas
+region:
+  - US - Texas
 listening mission: This is jazz-funk in a slower, sultry vein. Can you imagine Barry White vocals in place of the tenor sax melody?
 status: complete
 writing theme:

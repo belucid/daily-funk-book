@@ -9,7 +9,8 @@ year: 1975
 track length: 5m 46s
 genre:
   - Psychedelic Funk
-region: US - Michigan
+region:
+  - US - Michigan
 listening mission:
 status: research-review
 writing theme:

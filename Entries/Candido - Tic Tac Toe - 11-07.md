@@ -9,7 +9,8 @@ year: 1971
 track length: 4m 03s
 genre:
   - Latin Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Can the congas play a melody? A conga player has 3 to 5 pitches to work with, but do you hear them as melodic at any point?
 status: complete
 writing theme:

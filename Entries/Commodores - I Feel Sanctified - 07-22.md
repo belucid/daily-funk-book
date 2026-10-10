@@ -9,7 +9,8 @@ year: 1974
 track length: 3m 44s
 genre:
   - Classic Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission: In this era, gospel groups were using funky sounds in praise of the Lord. Listen to how the Commodores borrow the words and sounds of gospel to make secular funk.
 status: complete
 writing theme:

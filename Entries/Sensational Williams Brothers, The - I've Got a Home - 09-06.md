@@ -9,7 +9,8 @@ year: 1979
 track length: 3m 30s
 genre:
   - Gospel Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission: Try to imagine today’s song as an anti-war protest, or as a love song. Other than the lyrics, what gospel elements still give it away?
 status: review
 writing theme:

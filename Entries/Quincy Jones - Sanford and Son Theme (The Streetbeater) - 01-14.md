@@ -9,7 +9,8 @@ year: 1973
 track length: 3m 06s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: You’ve probably never heard the full three-minute version. Does it work better at full length, or at the TV show’s quick 50 seconds?
 status: verified
 writing theme: Funk in TV

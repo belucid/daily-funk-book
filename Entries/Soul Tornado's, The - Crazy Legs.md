@@ -8,7 +8,8 @@ label: Westwood Record Co.
 year: 1970
 track length: 2m 56s
 genre:
-region: US - Ohio
+region:
+  - US - Ohio
 listening mission:
 status: research-review
 writing theme:

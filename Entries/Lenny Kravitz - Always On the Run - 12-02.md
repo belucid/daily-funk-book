@@ -9,7 +9,8 @@ year: 1991
 track length: 3m 53s
 genre:
   - Funk Rock
-region: US - New York
+region:
+  - US - New York
 listening mission: You already know Slash can rock, and the opening and solo prove it again. How does his funk guitar playing land in the rest of the song?
 status: complete
 writing theme:

@@ -9,7 +9,8 @@ year: 1974
 track length: 4m 32s
 genre:
   - Classic Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission: Listen for the line “I don’t need nobody tell me how to blow my horn.” Is Fred Wesley paying tribute to James Brown’s “I Don’t Want Nobody to Give Me Nothing,” or taking a jab at the boss?
 status: complete
 writing theme:

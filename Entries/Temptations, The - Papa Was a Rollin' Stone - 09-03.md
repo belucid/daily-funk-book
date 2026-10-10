@@ -9,7 +9,8 @@ year: 1972
 track length: 12m 5s
 genre:
   - Classic Funk
-region: US - Michigan
+region:
+  - US - Michigan
 listening mission: The Temptations take turns, each asking different questions about the absent father, but getting the same answer. Listen to how each voice expresses a different emotion.
 status: complete
 writing theme:

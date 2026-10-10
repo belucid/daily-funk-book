@@ -9,7 +9,8 @@ year: 1974
 track length: 3m 27s
 genre:
   - Deep Funk
-region: US - California
+region:
+  - US - California
 listening mission: I usually ask you to focus on the music, but today listen to the lyrics. Who do you think Davis is singing to, and what is going on?
 status: complete
 writing theme:

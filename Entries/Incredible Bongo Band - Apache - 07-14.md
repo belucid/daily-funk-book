@@ -9,7 +9,8 @@ year: "1973"
 track length: 4m 53s
 genre:
   - Deep Funk
-region: US - California
+region:
+  - US - California
 listening mission: The famous break drops halfway through. Wait for it.
 status: complete
 writing theme: odd facts

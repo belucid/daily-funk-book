@@ -9,7 +9,8 @@ year:
 track length:
 genre:
   - Classic Funk
-region: US - Ohio
+region:
+  - US - Ohio
 listening mission:
 status: stub
 writing theme:

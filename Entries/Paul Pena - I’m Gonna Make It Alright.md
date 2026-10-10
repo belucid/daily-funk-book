@@ -8,7 +8,8 @@ label: Capitol Records
 year: 1972
 track length: 4m 7s
 genre:
-region: US - Northeast
+region:
+  - US - Northeast
 listening mission:
 status: research-review
 writing theme:

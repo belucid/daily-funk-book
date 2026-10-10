@@ -9,7 +9,8 @@ year: 1971
 track length: 4m 21s
 genre:
   - Country Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission:
 status: research-review
 writing theme:

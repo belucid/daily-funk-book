@@ -9,7 +9,8 @@ year: "1973"
 track length: 7m 14s
 genre:
   - Classic Funk
-region: US - Northeast
+region:
+  - US - Northeast
 listening mission: The iconic opening bass line is played with a pick and uses both phaser and echo effects. Can you hear the phaser and echo effects separately?
 status: complete
 writing theme: The bassist who wrote the opening

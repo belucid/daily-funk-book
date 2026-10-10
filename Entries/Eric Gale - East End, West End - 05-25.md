@@ -9,7 +9,8 @@ year: 1977
 track length: 6m 08s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Listen to the interplay between bass and guitar during the solo. Notice how the bass fills the open spaces without stepping on the guitar. Does it sound like a guitar solo, a bass solo, or both?
 status: complete
 writing theme:

@@ -14,7 +14,7 @@ region:
 listening mission: Nothing here was recorded before 2024, yet the track is rooted firmly in 1972. Can you identify a production choice that gives away its modern origin?
 status: complete
 writing theme: tobacco road, barn burner
-funk.day code:
+funk.day code: 9pi4
 cover:
 ---
 Boulevards’ fifth album, *Carolina Funk: Barn Burner on Tobacco Road*, was released on June 28, 2024. Boulevards is the nu-funk project of Jamil Rashad and a rotating cast of players from the retro-funk scene. 

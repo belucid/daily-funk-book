@@ -9,7 +9,8 @@ year: 1974
 track length: 4m 25s
 genre:
   - Deep Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Listen to today’s song and think about context versus musical merit. If Donna Summer had recorded this for Atlantic, instead of Sandi Hewitt singing it on a pornographic soundtrack for Bryan Records, would it be so unknown?
 status: complete
 writing theme:

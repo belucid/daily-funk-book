@@ -9,7 +9,8 @@ year: 1970
 track length: 2m 02s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: Use headphones and focus on the stereo field. Notice how the rhythm section sits in a different space from the rest of the band.
 status: complete
 writing theme: collaboration between 3 generations

@@ -9,7 +9,8 @@ year: 1974
 track length: 3m 45s
 genre:
   - Deep Funk
-region: US - Florida
+region:
+  - US - Florida
 listening mission:
 status: research-review
 writing theme:

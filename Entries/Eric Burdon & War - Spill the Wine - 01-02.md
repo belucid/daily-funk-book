@@ -9,7 +9,8 @@ year: 1970
 track length: 4m 51s
 genre:
   - Psychedelic Funk
-region: US - California
+region:
+  - US - California
 listening mission: Listen to the flute answering Burdon’s vocal. Is it filling the space where background singers might have been in an earlier style?
 status: verified
 writing theme:

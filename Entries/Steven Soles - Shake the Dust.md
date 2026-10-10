@@ -9,7 +9,8 @@ year: 1980
 track length: 3m 6s
 genre:
   - Country Funk
-region: US - West
+region:
+  - US - West
 listening mission:
 status: research-review
 writing theme:

@@ -9,7 +9,8 @@ year: 1976
 track length: 7m 21s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: '"Spider" has the cinematic feel of mid-70s soundtrack funk. As you listen, picture the opening scene of a blaxploitation film. Who is your protagonist, and what are they up to?'
 status: complete
 writing theme:

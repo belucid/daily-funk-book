@@ -9,7 +9,8 @@ year: "1979"
 track length: 4m 06s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Donald Byrd is the bandleader and virtuoso trumpeter, but he stays out of the way and lets the rhythm section lead. Listen to how Clare Fischer takes the spotlight on keys.
 status: complete
 writing theme:

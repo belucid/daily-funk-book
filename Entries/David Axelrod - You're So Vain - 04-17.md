@@ -12,9 +12,10 @@ genre:
 region:
   - US - California
 listening mission: I trust you know Carly Simon’s soft-rock original. What changes here to make it funky?
-status: complete
+status: verified
 writing theme:
 funk.day code: k9fq
+cover: k9fq.jpg
 ---
 Producer David Axelrod was born on April 17, 1931, in Los Angeles. He never played an instrument or sang on his solo records. He arranged, conducted, and mixed them, but the sounds themselves all came from other players. He did not write today’s song either. "You’re So Vain" is a cover of Carly Simon’s #1 hit from November 1972.
 
@@ -135,21 +136,96 @@ Source: https://www.allmusic.com/album/heavy-axe-mw0000421998
 
 ### Streaming & Purchase Links
 
+**Streaming:**
+
 - **Spotify**: https://open.spotify.com/track/0n36FPVTq8WqHQ181Y7WkL
-- **Apple Music**: https://music.apple.com/us/song/youre-so-vain/1531407592
-- **Amazon Music**: https://www.amazon.com/Heavy-Axe-David-Axelrod/dp/B08JGPKFY7
-- **Tidal**: https://tidal.com/browse/album/155744558
+- **Apple Music**: https://music.apple.com/us/album/youre-so-vain/1531407228?i=1531407592
+- **YouTube Music**: https://music.youtube.com/watch?v=YPr-XjRy6Qo
+- **YouTube**: https://www.youtube.com/watch?v=YPr-XjRy6Qo
+- **Amazon Music**: https://music.amazon.com/tracks/B0F79Y67LB
+- **Tidal**: https://tidal.com/browse/track/155744563
 - **Qobuz**: https://www.qobuz.com/us-en/album/heavy-axe-david-axelrod/o16qbuuqa2uuc
-- **Deezer**: https://www.deezer.com/us/album/174177442
-- **Bandcamp**: https://jazzdispensary.bandcamp.com/album/heavy-axe
-- **YouTube Music**: Could not locate a direct link. Search inconclusive.
-- **SoundCloud**: Could not locate. Search inconclusive.
-- **Audiomack**: Could not locate. Search inconclusive.
-- **YouTube Video**: Could not locate a specific video for this track. Search inconclusive.
-- **Buy Album on Discogs (Master)**: https://www.discogs.com/master/206514-David-Axelrod-Heavy-Axe
-- **Buy Single on Discogs**: Not applicable (track was not released as a single).
+- **SoundCloud**: Verified absent. Only unrelated covers by other artists surface; no Axelrod version on the platform, and Odesli returned none.
+- **Deezer**: https://www.deezer.com/track/1084210442
+
+**Purchase:**
+
+- **Buy on Discogs**: https://www.discogs.com/master/206514-David-Axelrod-Heavy-Axe
 - **Buy on Amazon (CD)**: https://www.amazon.com/Heavy-Axe-DAVID-AXELROD/dp/B000026F4E
 - **Buy on Amazon (Vinyl)**: https://www.amazon.com/Heavy-Axe-LP-David-Axelrod/dp/B0BT6RD3TL
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/0n36FPVTq8WqHQ181Y7WkL" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/youre-so-vain/1531407228?i=1531407592" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=YPr-XjRy6Qo" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=YPr-XjRy6Qo" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B0F79Y67LB" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/155744563" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/heavy-axe-david-axelrod/o16qbuuqa2uuc" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [],
+    "note": "Verified absent: only unrelated covers by other artists on SoundCloud; no Axelrod recording. Odesli returned no SoundCloud match."
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/1084210442" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/206514-David-Axelrod-Heavy-Axe" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [
+      { "label": "CD", "url": "https://www.amazon.com/Heavy-Axe-DAVID-AXELROD/dp/B000026F4E" },
+      { "label": "Vinyl", "url": "https://www.amazon.com/Heavy-Axe-LP-David-Axelrod/dp/B0BT6RD3TL" }
+    ]
+  }
+]
+```
 
 ### Sources
 

@@ -9,7 +9,8 @@ year: 1975
 track length: 3m 40s
 genre:
   - Deep Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Listen to Betty Davis’ mix of funk, rock, humor, and confrontation. Can you hear echoes of Davis in the Red Hot Chili Peppers?
 status: verified
 writing theme:

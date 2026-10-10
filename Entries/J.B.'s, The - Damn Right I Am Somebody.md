@@ -9,7 +9,8 @@ year: 1974
 track length: 6m 0s
 genre:
   - Classic Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission:
 status: research-review
 writing theme:

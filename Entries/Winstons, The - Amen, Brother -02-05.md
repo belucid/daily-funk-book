@@ -9,7 +9,8 @@ year: 1969
 track length: 2m 37s
 genre:
   - Deep Funk
-region: US - DC
+region:
+  - US - DC
 listening mission: Focus on the four bars of the drum break at 1m 26s. The first two bars repeat, the third holds the snare back a beat, and the fourth adds a cymbal crash. Why did those small changes make this the loop every sampler wanted?
 status: verified
 writing theme:

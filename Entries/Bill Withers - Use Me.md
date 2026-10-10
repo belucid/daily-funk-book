@@ -9,7 +9,8 @@ year: "1972"
 track length: 3m 45s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: The song has only two chords. What's doing the work that harmonic progression usually does?
 status: complete
 writing theme:

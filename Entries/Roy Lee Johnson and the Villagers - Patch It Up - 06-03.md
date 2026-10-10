@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 06-03
 artist: Roy Lee Johnson and the Villagers
 track: Patch It Up
 album: Roy Lee Johnson And The Villagers
@@ -8,13 +8,22 @@ label: Stax
 year: 1973
 track length: 2m 30s
 genre:
-region: US - Southeast
-listening mission:
-status: research-review
+  - Classic Funk
+region:
+  - US - Southeast
+listening mission: This is the soulful Muscle Shoals Rhythm Section playing funk. Listen to the pocket. How does a band famous for backing Aretha Franklin and Wilson Pickett change its feel when asked to sound like James Brown?
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+Born in 1938 in Centralhatchee, Georgia, Roy Lee Johnson learned the guitar and joined his first band while still in high school. He immediately peaked when he wrote his most famous song "Mr. Moonlight." Originally recorded by blues musician Piano Red, it reached millions of listeners when the Beatles covered the song on *Beatles for Sale* and *Beatles '65* in 1964.
+
+Johnson worked at his musical career throughout the 1960's, moving between Ohio and Atlanta, joining different bands and releasing a series of unsuccessful singles and solo records on the back of his minor Beatles fame. 
+
+In 1973 Johnson formed Roy Lee Johnson and The Villagers to pursue a James Brown-inspired brand of funk. The band’s lone album was recorded at Muscle Shoals with members of the legendary Muscle Shoals Rhythm Section, backed by both the Memphis Horns and the Muscle Shoals Horns. Today’s track, “Patch It Up,” opens the record and captures the tight, JB-inspired sound Johnson was chasing.
+
+Most songwriters would be satisfied having the Beatles record one of their songs. For Roy Lee Johnson, that career-defining moment came before he was twenty. He continued to write, perform, record, and produce into the 1990s, but never again reached such a wide audience. Johnson died on June 3, 2024.
 
 ---
 ## Research Notes

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 04-06
 artist: Prince
 track: The Work Pt. 1
 album: The Rainbow Children
@@ -11,11 +11,16 @@ genre:
   - Minneapolis Sound
 region:
   - US - Minnesota
-listening mission:
-status: research-review
+listening mission: Listen to the heavily tape-manipulated vocal coda beginning just before the four-minute mark. How does it change your understanding of the song?
+status: review
 writing theme:
 funk.day code: xnhm
 ---
+James Brown was known as “the Hardest Working Man in Show Business.” Prince earned a similar reputation. Both demanded perfection from themselves and their bands, rehearsing relentlessly until every note landed exactly where they wanted it. Today’s song, “The Work Pt. 1,” is a tribute to Prince’s musical hero. Its stabbing horns, multipart title, and repeated question, “Are you willing to do the work?” all nod to Brown. 
+
+At age ten, Prince danced briefly onstage with James Brown, and he never forgot the experience. But “The Work Pt. 1” isn’t just an homage to Brown. It's also part of *The Rainbow Children*, Prince’s deeply spiritual Jehovah’s Witness album. Brown brought the cadence and authority of the Black church into secular funk. Prince turned that journey around, using funk to explore questions of faith.
+
+*The Rainbow Children* was Prince's first album after his acrimonious split with Warner Bros., who claimed ownership not only of his recordings but also of his birth name. Rather than sign with another major label, Prince released the album through his own NPG Records, sacrificing commercial reach for independence. Instead of promoting the record with a conventional lead single, he offered “The Work Pt. 1” as a free download on Napster on April 6, 2001, a bold move when most recording artists viewed the file sharing service as a significant threat. The song became one of Napster’s most downloaded tracks, but it wasn’t enough to turn *The Rainbow Children* into a commercial success.
 
 ---
 ## Research Notes

@@ -9,7 +9,8 @@ year: 1975
 track length: 6m 10s
 genre:
   - Classic Funk
-region: US - Illinois
+region:
+  - US - Illinois
 listening mission: Play “Pusherman” and “Billy Jack” back to back. In 1972, Mayfield puts you inside the dealer’s mind. By 1975, he is attending the dealer’s funeral.
 status: complete
 writing theme:

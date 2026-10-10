@@ -9,7 +9,8 @@ year: 1971
 track length: 3m 15s
 genre:
   - Classic Funk
-region: US - Michigan
+region:
+  - US - Michigan
 listening mission: "Don’t get too distracted by Aretha’s vocals. Focus on the all-star rhythm section: Bernard Purdie on drums, Chuck Rainey on bass, Cornell Dupree on guitar, Donny Hathaway on organ, and Dr. John on percussion."
 status: verified
 writing theme:

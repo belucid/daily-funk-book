@@ -9,7 +9,8 @@ year: 2026
 track length: 3m 28s
 genre:
   - Latin Funk
-region: Brazil
+region:
+  - Brazil
 listening mission: “Late Night” was released while this book was being written, proof that funk is alive and well. Listen for what sounds modern and what reaches back to the jazz-funk of fifty years ago.
 status: complete
 writing theme: modern jazz-funk

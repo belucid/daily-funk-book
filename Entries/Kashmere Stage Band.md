@@ -8,7 +8,8 @@ label:
 year:
 track length:
 genre:
-region: US - Texas
+region:
+  - US - Texas
 listening mission:
 status: stub
 writing theme:

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-07
 artist: Sonny Rollins
 track: Newkleus
 album: Nucleus
@@ -9,12 +9,18 @@ year: 1975
 track length: 5m 17s
 genre:
   - Jazz-Funk
-region: US - California
-listening mission:
-status: research-review
+region:
+  - US - California
+listening mission: Most of this track rides on a single insistent groove from the guitars, bass, and drums. When Rollins steps out front on tenor sax, does he play with the groove or against it?
+status: review
 writing theme:
 funk.day code: 9hme
 ---
+Each instrument in jazz has its own Mt. Rushmore of legendary players, and when it comes to the saxophone, Sonny Rollins is carved into the mountain. Rollins was born in New York City on September 7, 1930, and lived to the age of 96, long enough to receive a Lifetime Grammy Award and record more than 60 albums as a bandleader.
+
+Rollins helped define bebop, hard bop, and post-bop, yet he never treated jazz as a museum piece. He believed it had to keep evolving to reach new audiences. He’s best known for bringing calypso into jazz, but in the mid-1970s he also recorded several outstanding jazz-funk albums. *Nucleus* is the funkiest of the bunch.
+
+The title of today’s track, "Newkleus," is an inside joke. Rollins’ nickname was "Newk," after Brooklyn Dodgers pitcher Don Newcombe, whom he was said to resemble. Percussionist James Mtume wrote the tune, named it after his bandleader, and brought it to the four-day recording session at Fantasy Studios in Berkeley, California. It’s one of the few tracks on *Nucleus* not written by Rollins himself.
 
 ---
 ## Research Notes

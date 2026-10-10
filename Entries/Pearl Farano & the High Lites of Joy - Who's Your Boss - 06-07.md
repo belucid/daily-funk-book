@@ -9,7 +9,8 @@ year: 1982
 track length: 2m 53s
 genre:
   - Gospel Funk
-region: US - Northeast
+region:
+  - US - Northeast
 listening mission: Listen to how the different vocalists interact. Gospel leans on call-and-response, but this track blends in plenty of R&B. When do the background vocals answer the lead's call, and when do they do their own thing?
 status: complete
 writing theme:

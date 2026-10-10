@@ -9,7 +9,8 @@ year: 1977
 track length: 6m 11s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: “The Hump” is played by a jazz prodigy and LA session-player royalty. Nothing is perfect, but this comes close. Try to find one moment you would change.
 status: complete
 writing theme: sellout criticism to jazz artists

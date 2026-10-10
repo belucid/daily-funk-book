@@ -9,7 +9,8 @@ year: 1976
 track length: 7m 44s
 genre:
   - Deep Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: A standout sound on today’s track is Buddy Lucas’s harmonica. After the opening solo at 20 seconds, each return gets a little spacier as more effects reshape its sound. Is the harmonica sonically conveying the effects of the cheeba cheeba?
 status: verified
 writing theme:

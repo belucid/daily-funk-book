@@ -9,7 +9,8 @@ year: "1974"
 track length: 7m 08s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: The title points to the song’s 5/4 time. Count to five with the beat (it’s quick). Once you lock in, stop counting and just try to feel the odd-meter groove.
 status: complete
 writing theme:

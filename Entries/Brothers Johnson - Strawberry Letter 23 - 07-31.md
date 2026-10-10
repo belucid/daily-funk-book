@@ -9,7 +9,8 @@ year: 1977
 track length: 4m 58s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: "Enjoy an old-school guitar battle: compare Lee Ritenour’s solo at 2m 25s with Shuggie Otis’s original solo at 2m 20s into his psychedelic 1971 version. Who did it better, Shuggie or Lee?"
 status: complete
 writing theme:

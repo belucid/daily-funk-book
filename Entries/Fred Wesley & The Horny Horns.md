@@ -9,7 +9,8 @@ year: 1977
 track length:
 genre:
   - Classic Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission:
 status: stub
 writing theme:

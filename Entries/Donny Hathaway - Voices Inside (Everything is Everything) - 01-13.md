@@ -9,7 +9,8 @@ year: 1972
 track length: 13m 47s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Fourteen minutes later, as the song winds down and the crowd starts clapping, how do you feel? Are you sad the groove is ending, or relieved?
 status: verified
 writing theme:

@@ -8,13 +8,14 @@ label: King
 year: 1971
 track length: 4m 42s
 genre:
+  - Classic Funk
 region:
   - US - Southeast
 listening mission: James Brown wrote, produced, and arranged this Bobby Byrd record, and he sings the answering vocals. Listen for the moments when Brown injects himself into the proceedings.
-status: complete
+status: verified
 writing theme:
 funk.day code: 5fhc
-cover:
+cover: 5fhc.jpg
 ---
 Bobby Byrd founded the Famous Flames in Toccoa, Georgia, in 1953. The name is familiar from James Brown's early recordings. Brown’s first single, “Please, Please, Please,” was released in 1956 as James Brown with the Famous Flames.
 
@@ -125,20 +126,94 @@ The field was empty; set to `US - Southeast`.
 
 ### Streaming & Purchase Links
 
-- **Spotify (track):** https://open.spotify.com/track/2kNG9FJB7FVN7BffCY56sh
-- **Apple Music (track):** https://music.apple.com/us/song/i-know-you-got-soul/1423320475
-- **YouTube Video (single version, 1971):** https://www.youtube.com/watch?v=jos-2dWwy-Y
-- **YouTube Video (alt upload):** https://www.youtube.com/watch?v=LACshMapSKo
-- **YouTube Music:** Could not locate a direct track link; a "Best of Bobby Byrd" auto-generated playlist exists at https://www.youtube.com/playlist?list=OLAK5uy_mgDlywTaoWLSFM5LcdjPmVNqL0q2XH16c and a search deep link at https://music.youtube.com/search?q=Bobby+Byrd+-+I+Know+You+Got+Soul&c=music
-- **Amazon Music / Amazon MP3 (track, extended version):** https://www.amazon.com/Know-You-Soul-Extended-Version/dp/B07M8R61RJ
-- **SoundCloud (official artist upload):** https://soundcloud.com/bobby-byrd-official/i-know-you-got-soul-1
-- **Deezer (track, extended version):** https://www.deezer.com/en/track/788653882
-- **Tidal:** Could not locate a direct track link via web search (only a Bobby Byrd songwriter mix page surfaced: https://tidal.com/browse/mix/0054ea59dd2bdf8f868590390cd69b). Search inconclusive, not confirmed absent.
-- **Qobuz:** Could not locate a direct track link; artist page exists at https://www.qobuz.com/us-en/interpreter/bobby-byrd/49734. Search inconclusive.
-- **Audiomack:** Could not locate. Search inconclusive.
-- **Buy Single on Discogs (master):** https://www.discogs.com/master/456602-Bobby-Byrd-I-Know-You-Got-Soul-Its-I-Who-Love-You-Not-Him-Anymore
-- **Buy Album on Discogs:** No original album exists. Nearest substitute is the best-of compilation master: https://www.discogs.com/master/52842-Bobby-Byrd-Bobby-Byrd-Got-Soul-The-Best-Of-Bobby-Byrd
-- **Buy on Amazon (CD, Bobby Byrd Got Soul: The Best of Bobby Byrd):** https://www.amazon.com/Best-Bobby-Byrd-Got-Soul/dp/B000001EFC
+**Streaming:**
+
+- **Spotify:** https://open.spotify.com/track/2Wv0Tblv8PjQWMyaDdZAkE
+- **Apple Music:** https://music.apple.com/us/album/i-know-you-got-soul/1423320465?i=1423320475
+- **YouTube Music:** https://music.youtube.com/watch?v=FjredhbTnng
+- **YouTube:** https://www.youtube.com/watch?v=FjredhbTnng
+- **Amazon Music:** https://music.amazon.com/tracks/B07M8R61RJ
+- **Tidal:** https://tidal.com/browse/track/93241581
+- **Qobuz:** https://www.qobuz.com/us-en/album/bobby-byrd-got-soul-the-best-of-bobby-byrd-bobby-byrd/qqciuabizifgc
+- **SoundCloud:** https://soundcloud.com/bobby-byrd-official/i-know-you-got-soul-extended
+- **Deezer:** https://www.deezer.com/track/788653882
+
+**Purchase:**
+
+- **Buy on Discogs:** https://www.discogs.com/master/456602-Bobby-Byrd-I-Know-You-Got-Soul-Its-I-Who-Love-You-Not-Him-Anymore
+- **Buy on Amazon:** Verified absent. No Amazon retail listing for the original 1971 7"; LP/CD compilations excluded per editorial choice.
+
+**Structured:**
+
+```json
+[
+  {
+    "service": "spotify",
+    "links": [
+      { "url": "https://open.spotify.com/track/2Wv0Tblv8PjQWMyaDdZAkE" }
+    ]
+  },
+  {
+    "service": "appleMusic",
+    "links": [
+      { "url": "https://music.apple.com/us/album/i-know-you-got-soul/1423320465?i=1423320475" }
+    ]
+  },
+  {
+    "service": "youtubeMusic",
+    "links": [
+      { "url": "https://music.youtube.com/watch?v=FjredhbTnng" }
+    ]
+  },
+  {
+    "service": "youtube",
+    "links": [
+      { "url": "https://www.youtube.com/watch?v=FjredhbTnng" }
+    ]
+  },
+  {
+    "service": "amazonMusic",
+    "links": [
+      { "url": "https://music.amazon.com/tracks/B07M8R61RJ" }
+    ]
+  },
+  {
+    "service": "tidal",
+    "links": [
+      { "url": "https://tidal.com/browse/track/93241581" }
+    ]
+  },
+  {
+    "service": "qobuz",
+    "links": [
+      { "url": "https://www.qobuz.com/us-en/album/bobby-byrd-got-soul-the-best-of-bobby-byrd-bobby-byrd/qqciuabizifgc" }
+    ]
+  },
+  {
+    "service": "soundcloud",
+    "links": [
+      { "url": "https://soundcloud.com/bobby-byrd-official/i-know-you-got-soul-extended" }
+    ]
+  },
+  {
+    "service": "deezer",
+    "links": [
+      { "url": "https://www.deezer.com/track/788653882" }
+    ]
+  },
+  {
+    "service": "discogs",
+    "links": [
+      { "url": "https://www.discogs.com/master/456602-Bobby-Byrd-I-Know-You-Got-Soul-Its-I-Who-Love-You-Not-Him-Anymore" }
+    ]
+  },
+  {
+    "service": "amazonBuy",
+    "links": [],
+    "note": "No Amazon retail listing for the original 1971 7\" single; LP/CD compilations excluded per editorial choice."
+  }
+]
+```
 
 ### Sources
 

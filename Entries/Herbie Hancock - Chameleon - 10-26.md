@@ -8,7 +8,8 @@ label: Columbia Records
 year: "1973"
 track length: 15m 41s
 genre: Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: The iconic 12-note bassline that opens “Chameleon” was played on an ARP Odyssey synth, not a bass guitar. Listen to the texture of those low notes. Would anything be missing if it were played on electric bass?
 status: complete
 writing theme: Pointer Sisters reaction

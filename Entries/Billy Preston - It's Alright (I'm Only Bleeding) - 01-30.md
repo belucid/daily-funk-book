@@ -9,7 +9,8 @@ year: 1973
 track length: 3m 51s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: Dylan’s original is a seven-minute solo acoustic rant. Preston cuts it in half and adds drums, bass, horns, and strings. How much of Dylan’s anger survives the funky treatment?
 status: verified
 writing theme:

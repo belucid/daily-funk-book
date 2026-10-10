@@ -9,7 +9,8 @@ year: "1972"
 track length: 3m 42s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: This opens the album that gave us “Lean on Me.” Listen to how the rhythm section pushes Withers into a different feel here.
 status: verified
 writing theme:

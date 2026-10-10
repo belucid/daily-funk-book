@@ -9,7 +9,8 @@ year: 1976
 track length: 4m 1s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission:
 status: research-review
 writing theme:

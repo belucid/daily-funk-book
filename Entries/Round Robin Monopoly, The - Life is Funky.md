@@ -8,7 +8,8 @@ label: Truth Records
 year: 1974
 track length: 3m 46s
 genre:
-region: US - California
+region:
+  - US - California
 listening mission:
 status: research-review
 writing theme:

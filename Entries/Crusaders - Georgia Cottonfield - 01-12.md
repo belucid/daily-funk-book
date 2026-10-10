@@ -9,7 +9,8 @@ year: 1972
 track length: 7m 02s
 genre:
   - Jazz-Funk
-region: US - Texas
+region:
+  - US - Texas
 listening mission: One difference between jazz and jazz-funk is the shift from a walking bass that helps define the harmonic progression to a rhythmic bass that helps define the groove. Can you hear both styles of bass at different times in the track?
 status: verified
 writing theme: Dropping 'Jazz' was a statement.

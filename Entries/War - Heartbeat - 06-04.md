@@ -9,7 +9,8 @@ year: 1975
 track length: 7m 25s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: As you listen, count how many times “funky” shows up in the lyrics.
 status: verified
 writing theme:

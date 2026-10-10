@@ -9,7 +9,8 @@ year: 1978
 track length: 7m 33s
 genre:
   - Psychedelic Funk
-region: US - Michigan
+region:
+  - US - Michigan
 listening mission:
 status: research-review
 writing theme:

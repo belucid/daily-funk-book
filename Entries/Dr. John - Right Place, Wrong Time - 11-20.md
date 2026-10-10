@@ -9,7 +9,8 @@ year: 1973
 track length: 2m 50s
 genre:
   - Classic Funk
-region: US - Louisiana
+region:
+  - US - Louisiana
 listening mission: The Meters are the band here, but the guitar solo isn't Leo Nocentelli. It's session player David Spinozza, called in from the hallway to improvise it. Does his solo sound out of place, or does it fit the New Orleans funk vibe?
 status: complete
 writing theme:

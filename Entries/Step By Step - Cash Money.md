@@ -9,7 +9,8 @@ year: "1977"
 track length: 5m 50s
 genre:
   - Deep Funk
-region: US - Midwest
+region:
+  - US - Midwest
 listening mission:
 status: research-review
 writing theme:

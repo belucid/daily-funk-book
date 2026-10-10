@@ -9,7 +9,8 @@ year: 1991
 track length: 4m 43s
 genre:
   - Funk Rock
-region: US - California
+region:
+  - US - California
 listening mission: The word 'give' occurs 75 times. When does the repetition stop being a lyric and start becoming a rhythm instrument?
 status: complete
 writing theme:

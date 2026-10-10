@@ -3,7 +3,7 @@ fileClass: funk-entry
 day:
 artist: Latimore
 track: It Ain't Where You Been
-album: It Ain't Where You Been...
+album: It Ain't Where You Been... It's Where You're Goin'
 label: Glades
 year: 1976
 track length: 4m 24s
@@ -11,11 +11,16 @@ genre:
   - Classic Funk
 region:
   - US - Florida
-listening mission:
-status: research-review
+listening mission: Latimore wrote the song himself. Listen to the lyrics and ask whether it sounds like someone moving on or someone still working something out.
+status: complete
 writing theme:
 funk.day code: qzuz
 ---
+Benjamin Latimore was born in 1939 in Charleston, Tennessee. Raised on country radio, Baptist church music, and the blues, Latimore got his start in Miami as a pianist in a hotel bar. He caught the ear of Henry Stone, the founder of the Glades and TK labels, and was recruited into Stone’s in-house session band.
+ 
+Latimore released his first records on Glades in 1973, using his last name as his stage name. *It Ain’t Where You Been… It’s Where You’re Goin’* was his fourth album for the label. He was joined by his usual session crew: George “Chocolate” Perry on bass, Ron “Tubby” Ziegler on drums, Ron Peterson on guitar, and Richie Puente on percussion, with horn and string arrangements by Mike Lewis.
+
+The album made a minor mark on Black radio in 1976, peaking at #181 on the *Billboard* album chart, despite arriving at the height of TK Records’ success. That year, labelmates KC and the Sunshine Band dominated the charts with their disco sound. Luckily for us, even amid the insatiable demand for Miami’s up-tempo, four-on-the-floor beat, Henry Stone was still willing to release blues and soul-grounded funk.
 
 ---
 ## Research Notes

@@ -9,7 +9,8 @@ year: 1976
 track length: 8m 03s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: The “just keep on doin’ it” chant is the only vocal on the track. Notice how it works like another instrument folded into the groove.
 status: complete
 writing theme: Wah Wah Watson role on the track

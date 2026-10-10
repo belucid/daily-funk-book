@@ -9,7 +9,8 @@ year: "1969"
 track length: 6m 13s
 genre:
   - Deep Funk
-region: US - West
+region:
+  - US - West
 listening mission: Dyke’s hit singles were tight and radio-ready. This one runs over six minutes and was never released. Why did Dyke need this expanse of time, and what did he do with it?
 status: complete
 writing theme: Black America's perception of the moon landing

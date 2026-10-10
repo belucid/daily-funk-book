@@ -9,7 +9,8 @@ year: 1980
 track length: 3m 22s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: You’ll easily hear the similarities to yesterday’s “Rise.” Instead, listen for the production and musical choices Browne makes that turn the two songs into close siblings rather than identical twins.
 status: review
 writing theme: Similarity to yesterday's Rise by Alpert

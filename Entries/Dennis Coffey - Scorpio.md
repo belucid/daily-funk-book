@@ -9,7 +9,8 @@ year: 1971
 track length: 3m 59s
 genre:
   - Funk Rock
-region: US - Michigan
+region:
+  - US - Michigan
 listening mission:
 status: research-review
 writing theme:

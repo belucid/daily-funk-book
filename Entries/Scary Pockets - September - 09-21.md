@@ -9,7 +9,8 @@ year: 2022
 track length: 3m 13s
 genre:
   - Nu-Funk
-region: US - California
+region:
+  - US - California
 listening mission: Earth, Wind & Fire’s “September” is built around big horns and stacked vocal harmonies. Scary Pockets strips it down to a small ensemble with no horns and a single singer. Does it still work?
 status: complete
 writing theme:

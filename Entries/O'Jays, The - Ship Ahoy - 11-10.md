@@ -9,7 +9,8 @@ year: "1973"
 track length: 9m 41s
 genre:
   - Psychedelic Funk
-region: US - Northeast
+region:
+  - US - Northeast
 listening mission: The song starts slowly, with sound effects and two bass notes that could be from a country song. By 2m 30s, it is full-on funk. When does the switch happen?
 status: complete
 writing theme:

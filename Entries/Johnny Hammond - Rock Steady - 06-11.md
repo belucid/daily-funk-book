@@ -9,7 +9,8 @@ year: 1972
 track length: 6m 48s
 genre:
   - Soul Jazz
-region: US - New York
+region:
+  - US - New York
 listening mission: "Listen to each solo as it passes: Eric Gale on guitar, Grover Washington Jr. on sax, Bernard Purdie on drums, and Johnny Hammond on organ. When the track ends, which one stays with you? It's Hammond’s record and Purdie’s second run at the song, but to my ear, Gale’s guitar is the signature voice."
 status: complete
 writing theme:

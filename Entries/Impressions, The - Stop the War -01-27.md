@@ -9,7 +9,8 @@ year: 1972
 track length: 6m 25s
 genre:
   - Classic Funk
-region: US - Illinois
+region:
+  - US - Illinois
 listening mission: Why does the song dissolve into a spoken-word montage at the end? Can you imagine this ending without the influence of the Beatles?
 status: verified
 writing theme:

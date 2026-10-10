@@ -9,7 +9,8 @@ year: 1974
 track length: 3m 30s
 genre:
   - Afrobeat
-region: Kenya
+region:
+  - Kenya
 listening mission: Listen for the James Brown fingerprints, then for the African elements. Where does the track imitate Brown, and where does it sound  Kenyan?
 status: complete
 writing theme:

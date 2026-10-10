@@ -8,7 +8,8 @@ label:
 year:
 track length:
 genre:
-region: US - Louisiana
+region:
+  - US - Louisiana
 listening mission:
 status: stub
 writing theme:

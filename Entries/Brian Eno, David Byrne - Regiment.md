@@ -9,7 +9,8 @@ year: 1981
 track length: 3m 56s
 genre:
   - Avant-Funk
-region: UK
+region:
+  - UK
 listening mission:
 status: research-review
 writing theme:

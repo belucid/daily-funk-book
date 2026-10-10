@@ -1,20 +1,19 @@
 ---
 fileClass: funk-entry
 day:
-artist: Chuck Brown and the Soul Searchers
+artist: Bobbi Humphrey
 track:
 album:
 label:
 year:
 track length:
 genre:
-  - Go-Go
 region:
-  - US - DC
 listening mission:
 status: stub
 writing theme:
-funk.day code: zkii
+funk.day code:
+cover:
 ---
 
 ---

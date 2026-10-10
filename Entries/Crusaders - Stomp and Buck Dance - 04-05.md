@@ -9,7 +9,8 @@ year: 1974
 track length: 5m 51s
 genre:
   - Jazz-Funk
-region: US - Texas
+region:
+  - US - Texas
 listening mission: Listen for Henderson’s trombone in “Stomp and Buck Dance.” It can be harder to pick out than the guitar, bass, keys, and sax you’re now used to hearing.
 status: verified
 writing theme:

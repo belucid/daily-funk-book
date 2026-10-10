@@ -8,6 +8,7 @@ label: ABC Impulse!
 year: 1976
 track length: 6m 56s
 genre:
+  - Jazz-Funk
 region:
   - US - California
 listening mission: This was released as a pop single in the disco summer of 1976. Imagine you're a radio programmer hearing it for the first time. What would make you take a chance on a 43-year-old jazz saxophonist?

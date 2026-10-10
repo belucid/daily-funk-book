@@ -9,7 +9,8 @@ year: 1969
 track length: 3m 39s
 genre:
   - Country Funk
-region: US - California
+region:
+  - US - California
 listening mission: Listen for any gap in feel between Darin’s sorrowful vocal and the funky rhythm section. Is it a flaw in the song, or part of the statement?
 status: complete
 writing theme:

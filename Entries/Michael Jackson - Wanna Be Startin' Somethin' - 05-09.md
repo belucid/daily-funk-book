@@ -9,7 +9,8 @@ year: 1982
 track length: 6m 03s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: During the recording sessions, Jackson, Nelson Hayes, and Steven Ray stomped on a 4-by-3-foot sheet of plywood to add percussion. Can you hear it in the mix?
 status: verified
 writing theme: Why Michael never made any pure funk music

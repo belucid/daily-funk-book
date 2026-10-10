@@ -9,7 +9,8 @@ year: 1974
 track length: 6m 6s
 genre:
   - Deep Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: This was a local record by a local band on a label with limited distribution. Which major-label act we’ve heard so far could have turned the same song into a hit?
 status: complete
 writing theme:

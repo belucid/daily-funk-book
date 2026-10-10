@@ -9,7 +9,8 @@ year: "1979"
 track length: 3m 9s
 genre:
   - Avant-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Does knowing the lyrics mean absolutely nothing change the impact of the vocals?
 status: verified
 writing theme:

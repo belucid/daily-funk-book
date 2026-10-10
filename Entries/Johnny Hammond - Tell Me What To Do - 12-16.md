@@ -9,7 +9,8 @@ year: 1975
 track length: 5m 16s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: "The lean opening guitar riff has been sampled and looped in dozens of tracks, but focus on the drums. Notice how many distinct grooves they play across the song’s sections. What holds the track together: the often-quoted guitar or the overlooked drums?"
 status: complete
 writing theme:

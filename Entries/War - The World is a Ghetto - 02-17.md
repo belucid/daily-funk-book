@@ -9,7 +9,8 @@ year: 1972
 track length: 10m 10s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: Focus on Charles Miller’s saxophone entering at 3m 40s. Notice how it comes in quietly and patiently, then builds into a plaintive wail before dropping out after 6m 30s.
 status: verified
 writing theme:

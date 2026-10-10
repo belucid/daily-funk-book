@@ -9,7 +9,8 @@ year: 1974
 track length: 2m 47s
 genre:
   - Country Funk
-region: US - Texas
+region:
+  - US - Texas
 listening mission:
 status: research-review
 writing theme:

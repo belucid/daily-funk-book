@@ -9,7 +9,8 @@ year: "1973"
 track length: 2m 41s
 genre:
   - Psychedelic Funk
-region: US - Ohio
+region:
+  - US - Ohio
 listening mission: At under three minutes, does this feel like a throwaway novelty song? Does knowing it became one of the most sampled tracks ever, and that its synth line helped define West Coast G-funk, change your assessment?
 status: verified
 writing theme:

@@ -8,7 +8,8 @@ label: Luaka Bop
 year: "2025"
 track length: 10m 17s
 genre: Gospel Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission: The Caldwells recorded this live in a one-room church with no rehearsal. Listen for the moments where the family locks in without cues. That is 50 years of familiarity.
 status: complete
 writing theme: When words become sounds

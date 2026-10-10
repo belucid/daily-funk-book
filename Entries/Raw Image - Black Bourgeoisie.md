@@ -8,7 +8,8 @@ label: Phil-L.A. of Soul
 year: 1975
 track length: 4m 55s
 genre:
-region: US - Northeast
+region:
+  - US - Northeast
 listening mission:
 status: research-review
 writing theme:

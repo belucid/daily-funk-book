@@ -8,7 +8,8 @@ label: Mod-Art
 year: 1974
 track length: 3m 33s
 genre: Deep Funk
-region: US - Illinois
+region:
+  - US - Illinois
 listening mission: What might a Eunice Collins album have sounded like?
 status: verified
 writing theme: Tale of unusual recording and Deep funk rediscovery.

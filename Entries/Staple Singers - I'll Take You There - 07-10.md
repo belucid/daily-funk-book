@@ -9,7 +9,8 @@ year: "1972"
 track length: 4m 43s
 genre:
   - Gospel Funk
-region: US - Illinois
+region:
+  - US - Illinois
 listening mission: Listen for the moment when Mavis Staples stops singing words and starts echoing the bassline. Magic.
 status: complete
 writing theme:

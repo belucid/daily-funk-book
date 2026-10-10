@@ -9,7 +9,8 @@ year: 1974
 track length: 2m 44s
 genre:
   - Jazz-Funk
-region: US - Texas
+region:
+  - US - Texas
 listening mission: "Listen for how the song spotlights each player: drums, bass, keys, and horns. How does it fit so many moments into such a compact space without anyone stepping on anyone else?"
 status: verified
 writing theme:

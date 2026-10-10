@@ -9,7 +9,8 @@ year: 1995
 track length: 4m 40s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: This is a horn band paying tribute to the Godfather of Funk. Listen closely to the horn arrangement. What makes it sound like Tower of Power, not James Brown?
 status: complete
 writing theme:

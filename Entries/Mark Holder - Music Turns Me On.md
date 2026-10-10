@@ -8,7 +8,8 @@ label: Dervia
 year: 1974
 track length:
 genre:
-region: Jamaica
+region:
+  - Jamaica
 listening mission:
 status: research-review
 writing theme:

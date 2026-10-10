@@ -9,7 +9,8 @@ year: "1975"
 track length: 9m 35s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: Notice how the groove starts to come apart after the five-minute mark. The band pulls it back together around eight minutes in. Does that return feel like a funk version of coming back to the home key for closure?
 status: complete
 writing theme:

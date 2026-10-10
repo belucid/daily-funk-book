@@ -9,7 +9,8 @@ year: 1976
 track length: 5m 46s
 genre:
   - Psychedelic Funk
-region: US - Michigan
+region:
+  - US - Michigan
 listening mission: The drums, bass, and intergalactic vocals dominate today’s track, but listen for the horns. These are Fred Wesley’s charts with Maceo Parker on sax. Do they still sound like James Brown’s horn section, or does it feel like their talent gets lost once they step aboard this UFO?
 status: complete
 writing theme:

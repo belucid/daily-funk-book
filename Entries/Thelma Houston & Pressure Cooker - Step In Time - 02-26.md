@@ -9,7 +9,8 @@ year: 1975
 track length: 3m 12s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: Two drummers, Jim Gordon and Jim Keltner, are credited on the live recording of “Step in Time.” Can you pick out each drummer at work?
 status: review
 writing theme: live recording

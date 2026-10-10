@@ -9,7 +9,8 @@ year: 1975
 track length: 2m 50s
 genre:
   - Deep Funk
-region: US - California
+region:
+  - US - California
 listening mission: Dylan’s original is a loose, shambolic brass-band march. Clayton’s version hits hard and fast. Does the subject matter lend itself to a tight funk groove?
 status: complete
 writing theme:

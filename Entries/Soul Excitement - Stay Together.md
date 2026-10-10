@@ -8,7 +8,8 @@ label: Pink Dolphin Records
 year: 1969
 track length: 2m 50s
 genre:
-region: US - Northeast
+region:
+  - US - Northeast
 listening mission:
 status: research-review
 writing theme:

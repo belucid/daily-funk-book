@@ -9,11 +9,12 @@ year: 1980
 track length: 4m 40s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: Marcus Miller was still a teenager when he laid down this epic bassline. It's incredibly funky, but focus on how melodic it is too. He avoids the popping and slapping that became so closely associated with funk. Is it any surprise that Miller later made the bass a lead melodic instrument in his solo career?
 status: complete
 writing theme: Musician / pilot
-funk.day code:
+funk.day code: ygg7
 cover:
 ---
 The cover of Tom Browne’s *Love Approach* shows him in the pilot’s seat of a small plane, trumpet in hand. “Approach” is aviation jargon for preparing to land. Lest listeners think Browne was merely extending the title’s metaphor, the gatefold explained that he was a licensed commercial pilot who flew the Piper Seneca on the cover.

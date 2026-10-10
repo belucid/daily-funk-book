@@ -9,7 +9,8 @@ year: 1974
 track length: 2m 38s
 genre:
   - Gospel Funk
-region: US - Midwest
+region:
+  - US - Midwest
 listening mission:
 status: research-review
 writing theme:

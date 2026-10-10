@@ -9,7 +9,8 @@ year: 1974
 track length: 2m 43s
 genre:
   - Classic Funk
-region: US - Southeast
+region:
+  - US - Southeast
 listening mission: It was originally called “The Ram.” Motown founder Berry Gordy said it sounded like machine guns, and the new title stuck. What would you name this instrumental?
 status: verified
 writing theme: instrumental track from a band that became know for its vocalists

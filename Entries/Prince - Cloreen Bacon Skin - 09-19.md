@@ -9,7 +9,8 @@ year: "1998"
 track length: 15m 36s
 genre:
   - Minneapolis Sound
-region: US - Minnesota
+region:
+  - US - Minnesota
 listening mission: Prince keeps telling drummer Morris Day not to lose the pocket. Each time he says it, listen to Morris’ drums. Was Morris actually slipping, or was Prince just messing with him?
 status: verified
 writing theme: Humor in funk, too indulgent to release this given the length and the strip down nature of drums and bass and spoken word

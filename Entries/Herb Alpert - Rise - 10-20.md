@@ -9,7 +9,8 @@ year: 1979
 track length: 7m 37s
 genre:
   - Jazz-Funk
-region: US - California
+region:
+  - US - California
 listening mission: This was originally cut at a more disco-friendly 120 BPM before the drummer insisted they slow it to 100. It is harder to dance to, but listen to how the slower tempo leaves extra space for the funk to sneak back in.
 status: complete
 writing theme: It pays to Own the Record Label

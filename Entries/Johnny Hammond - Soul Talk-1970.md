@@ -9,7 +9,8 @@ year: "1970"
 track length: 6m 20s
 genre:
   - Soul Jazz
-region: US - Northeast
+region:
+  - US - Northeast
 listening mission:
 status: research-review
 writing theme:

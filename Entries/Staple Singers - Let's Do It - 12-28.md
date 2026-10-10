@@ -9,7 +9,8 @@ year: 1975
 track length: 4m 52s
 genre:
   - Gospel Funk
-region: US - Illinois
+region:
+  - US - Illinois
 listening mission: "This was the last #1 single of 1975. Tempos were about to jump as the decade shifted into the disco era. Would this track work at a faster pace?"
 status: complete
 writing theme:

@@ -2,7 +2,6 @@ Author's Note
 Preface
 Introduction
 	On Funk
-	On Syncopation
 	On Selections
 	On Listening Missions
 	On Subgenres

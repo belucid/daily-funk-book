@@ -9,7 +9,8 @@ year: 2010
 track length: 6m 27s
 genre:
   - Nu-Funk
-region: US - Pennsylvania
+region:
+  - US - Northeast
 listening mission:
 status: research-review
 writing theme:
@@ -21,6 +22,7 @@ funk.day code: 2yxb
 
 **[AUDIT]** `2026-05-23 12:00` — `label` changed from `(empty)` to `GOOD Music / Columbia` — Source: https://en.wikipedia.org/wiki/Wake_Up!_(John_Legend_and_the_Roots_album)
 **[AUDIT]** `2026-05-23 12:00` — `region` changed from `(empty)` to `US - Pennsylvania` — Source: https://en.wikipedia.org/wiki/The_Roots (The Roots formed in Philadelphia, PA; this is a Roots-led recording.) NOTE: `US - Pennsylvania` is not in the canonical `Field Values.md` region list — see Region Suggestions below.
+**[AUDIT]** `2026-10-10 15:45` — `region` changed from `US - Pennsylvania` to `US - Northeast` — Source: author decision; `US - Pennsylvania` is not in `Planning/Field Values.md`. The Roots formed in Philadelphia, PA, https://en.wikipedia.org/wiki/The_Roots
 
 ### Open Research Questions
 

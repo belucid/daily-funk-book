@@ -9,7 +9,8 @@ year: 1972
 track length: 5m 17s
 genre:
   - Country Funk
-region: US - Louisiana
+region:
+  - US - Louisiana
 listening mission:
 status: research-review
 writing theme:

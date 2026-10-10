@@ -9,7 +9,8 @@ year: 2026
 track length: 2m 50s
 genre:
   - Nu-Funk
-region: UK
+region:
+  - UK
 listening mission: "On the surface, this sounds like playground trash talk: “You’re just a loser, and hate that I’m a winner.” Listen past the taunt. Is the song really about ego, or is it about something else?"
 status: verified
 writing theme:

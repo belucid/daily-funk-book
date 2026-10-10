@@ -9,7 +9,8 @@ year: 2022
 track length: 3m 9s
 genre:
   - Nu-Funk
-region: US - California
+region:
+  - US - California
 listening mission: Lizzy McAlpine’s vocal sits in the pocket instead of floating above the groove like the Bee Gees. Focus on her lower-pitched “Ah, ah, ah, ah.” Does it keep you rooted in the rhythm rather than sending you soaring?
 status: complete
 writing theme:

@@ -9,7 +9,8 @@ year: 2022
 track length: 4m 47s
 genre:
   - Jazz-Funk
-region: Japan
+region:
+  - Japan
 listening mission: Singer Corey King softly repeats his two lines through the first half. How does that set up what happens in the second half?
 status: complete
 writing theme:

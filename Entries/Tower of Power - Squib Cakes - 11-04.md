@@ -9,7 +9,8 @@ year: 1974
 track length: 7m 49s
 genre:
   - Classic Funk
-region: US - California
+region:
+  - US - California
 listening mission: Squib Cakes" is slang the band invented to describe the shape of a woman's hips and the way she walks. Other than the chant "squib cakes," the song is an instrumental. Can you hear the shape and movement in the music?
 status: complete
 writing theme:

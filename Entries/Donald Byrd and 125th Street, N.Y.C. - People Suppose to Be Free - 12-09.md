@@ -9,7 +9,8 @@ year: "1979"
 track length: 4m 48s
 genre:
   - Jazz-Funk
-region: US - New York
+region:
+  - US - New York
 listening mission: "This is the second track from this album in the book. You heard “Morning” on October 22, which was an instrumental. Here, the vocals take over. Which version of this band do you prefer: the one that plays, or the one that sings?"
 status: complete
 writing theme:

@@ -9,7 +9,8 @@ year: 1975
 track length: 6m 06s
 genre:
   - Afrobeat
-region: South Africa
+region:
+  - South Africa
 listening mission:
 status: research-review
 writing theme:

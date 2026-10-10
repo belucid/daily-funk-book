@@ -9,7 +9,8 @@ year: 1971
 track length: 5m 28s
 genre:
   - Classic Funk
-region: US - Michigan
+region:
+  - US - Michigan
 listening mission:
 status: research-review
 writing theme:

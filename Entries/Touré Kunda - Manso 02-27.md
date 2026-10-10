@@ -9,7 +9,8 @@ year: "1980"
 track length: 4m 26s
 genre:
   - Afrobeat
-region: Senegal
+region:
+  - Senegal
 listening mission: Touré Kunda sang in six languages across their career, often inside a single song. Presumably you can’t understand a word of the lyrics, so try listening for meaning without translation. What do you imagine the song is about?
 status: verified
 writing theme:

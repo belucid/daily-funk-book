@@ -9,7 +9,8 @@ year: 1969
 track length: 2m 51s
 genre:
   - Deep Funk
-region: US - Louisiana
+region:
+  - US - Louisiana
 listening mission: Harris recorded her vocal separately from the band. Notice when your attention shifts from her voice to the rhythm section. What tells you they were not in the room together?
 status: complete
 writing theme: Two separate tracks competing for attention

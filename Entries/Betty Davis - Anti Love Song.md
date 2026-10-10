@@ -9,7 +9,8 @@ year: 1973
 track length: 4m 32s
 genre:
   - Deep Funk
-region: US - California
+region:
+  - US - California
 listening mission: Lock in on Larry Graham’s bass. His slap-and-pop style became a defining sound of the funk era. Does something in Davis’ vocal attack evoke a slap bass too?
 status: verified
 writing theme:

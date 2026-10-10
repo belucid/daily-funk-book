@@ -9,7 +9,8 @@ year: 1979
 track length: 7m 11s
 genre:
   - Jazz-Funk
-region: Japan
+region:
+  - Japan
 listening mission: "This is funk performed under tightrope conditions. Can you hear the focus? Ask yourself: where would they have made an edit if they could have?"
 status: verified
 writing theme: recording technology

@@ -8,7 +8,8 @@ label: Blue Note
 year: 2014
 track length: 9m 26s
 genre:
-region: Japan
+region:
+  - Japan
 listening mission: The band leader on this cover is a trumpeter, not a vibes player like Ayers, and he's also not the vocalist. Notice how Kuroda's muted-and-open trumpet answers José James' vocal line.
 status: research-review
 writing theme:

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 07-03
 artist: Lonnie Smith
 track: Sizzle Stick
 album: Keep On Lovin'
@@ -8,16 +8,28 @@ label: Groove Merchant
 year: 1976
 track length: 5m 57s
 genre:
-region: US - New York
-listening mission:
-status: research-review
+  - Jazz-Funk
+region:
+  - US - New York
+listening mission: Dr. Lonnie Smith was a Hammond B-3 master, yet you won’t hear one anywhere on this track. Listen to his Fender Rhodes instead. Can you hear anything that sounds like an organ player?
+status: review
 writing theme: saga of Lonnie Smith and Lonnie Liston Smith
 funk.day code:
 cover:
 ---
+If you spend any time exploring 1970s jazz-funk, you’re eventually going to get confused by the two Lonnie Smiths. They’re not related. They just happened to be Black keyboard players with identical names making jazz-funk records at the same time.
+
+The Lonnie Smith behind today’s track, "Sizzle Stick," was born on July 3, 1942, in Lackawanna, New York. He established his jazz credentials in George Benson’s quartet before becoming one of soul jazz’s leading Hammond B-3 organists.
+
+I’ve classified today’s track, and the entire album *Keep On Lovin’*, as jazz-funk rather than soul jazz for two reasons. First, it arrived in 1976, near the peak of jazz-funk’s popularity. Second, Smith set aside his trademark Hammond B-3, the defining instrument of soul jazz, in favor of the Fender Rhodes.
+
+Now for your first decoder ring for telling the two Lonnie Smiths apart. In 1976 this Lonnie Smith adopted a new stage persona, complete with the self-bestowed title "Dr." and signature Sikh turban. If you see a turban on the cover, or the music is credited to Dr. Lonnie Smith, you’re listening to the Hammond B-3 master who passed away in 2021.
+
 
 ---
 ## Research Notes
+
+OPEN: Where did the Dr. prefix come from? When? Was he an actual doctor of something?
 
 **[AUDIT]** `2026-06-23 12:00` — `album` changed from `(empty)` to `Keep On Lovin'` — Source: https://www.discogs.com/master/166123-Lonnie-Smith-Keep-On-Lovin
 **[AUDIT]** `2026-06-23 12:00` — `label` changed from `(empty)` to `Groove Merchant` — Source: https://www.discogs.com/release/849554-Lonnie-Smith-Keep-On-Lovin
@@ -27,8 +39,7 @@ cover:
 
 ### Open Research Questions
 
-The author left no `open:` items in the entry. One question surfaced during research and is resolved below:
-
+- **OPEN (author): Where did the "Dr." prefix come from? When? Was he an actual doctor of something?** — Resolved. **He was never a real doctor**, of medicine or anything academic; every reliable source states plainly that the "Dr." was **not an academic title**. It was a self-adopted stage honorific he added in the **1970s** (sources specify mid-70s), around the same time he took up his trademark turban. Three overlapping origin stories: (1) fellow musicians called him "Doctor" for his ability to "doctor up" — fix and arrange — their tunes in the studio; (2) he appropriated it in the mid-1970s partly to distinguish himself from keyboardist **Lonnie Liston Smith** (directly feeding the entry's "two Lonnie Smiths" theme); (3) his own playful gloss: "I'm a doctor of music. I've been playing long enough to operate on it, and I do have a degree, and I *will* operate on you." Note the timing irony for the saga angle: the differentiating "Dr." was emerging by 1976, yet this album's sleeve still reads only "Lonnie Smith." Sources: https://en.wikipedia.org/wiki/Dr._Lonnie_Smith , https://www.encyclopedia.com/education/news-wires-white-papers-and-books/smith-dr-lonnie , https://www.jazztimes.com/features/profiles/dr-lonnie-smith-the-doctor-is-in/
 - **Which Lonnie Smith is this?** This is Dr. Lonnie Smith, the Hammond B-3 organist (1942-2021), not Lonnie Liston Smith, the Richmond-born pianist (b. 1940). "Sizzle Stick" is from Dr. Lonnie Smith's 1976 Groove Merchant LP *Keep On Lovin'*. Confirmed via Discogs personnel and Wikipedia. Source: https://en.wikipedia.org/wiki/Dr._Lonnie_Smith , https://en.wikipedia.org/wiki/Keep_On_Lovin%27
 - **One naming note for the saga theme:** the LP is credited simply to "Lonnie Smith" on the sleeve (the "Dr." was not yet a fixture on his Groove Merchant covers), which is exactly the kind of detail that fed decades of mix-ups with Lonnie Liston Smith. Source: https://www.discogs.com/release/849554-Lonnie-Smith-Keep-On-Lovin
 

@@ -8,7 +8,8 @@ label: Jay-Cee Records
 year:
 track length: 4m 25s
 genre:
-region: US - Louisiana
+region:
+  - US - Louisiana
 listening mission:
 status: research-review
 writing theme:
