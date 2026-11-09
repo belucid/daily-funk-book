@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 03-01
 artist: 24-Carat Black
 track: Foodstamps
 album: "Ghetto: Misfortune's Wealth"
@@ -11,11 +11,16 @@ genre:
   - Deep Funk
 region:
   - US - Ohio
-listening mission:
-status: research-review
+listening mission: Listen for the brass arrangement punching through the rhythm section (drums, bass and keys). Composer Dale Warren was a conservatory-trained violinist. Can you hear his orchestrator's instincts in the way the horns and rhythm section work together?
+status: review
 writing theme:
 funk.day code: rp5f
 ---
+24-Carat Black’s concept album, *Ghetto: Misfortune’s Wealth*, is a funk opera about Black poverty, told through spoken word and song. But "Foodstamps," a tight, brassy, very funky instrumental, tells its part of the story without words.
+
+Like the rest of the album, "Foodstamps" would have remained obscure were it not for its rediscovery by sampling DJs and rappers. The song opens with a stop-start drum solo by percussionist Tyrone Steels. Digable Planets used the break as the bridge in "Rebirth of Slick (Cool Like Dat)," which won Best Rap Performance by a Duo or Group at the 36th Grammy Awards on March 1, 1994.
+
+Steels started drumming with the Ditalians at Sawyer Junior High School in 1965, in the group that would eventually become 24-Carat Black. The band broke up after the release of *Ghetto* and the disastrous tour that followed, but Steels went on to form Shotgun with several other 24-Carat Black alumni and score a number of R&B hits. His "Foodstamps" break found another life two decades later, powering a signature moment 1990s jazz-rap.
 
 ---
 ## Research Notes
