@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-03
 artist: 24-Carat Black
 track: 24-Carat Black (Theme)
 album: "Ghetto: Misfortune's Wealth"

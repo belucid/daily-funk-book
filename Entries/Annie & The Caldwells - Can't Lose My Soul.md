@@ -17,7 +17,7 @@ funk.day code: y3wc
 ---
 Annie Caldwell was a singer in the Staples Jr. Singers at the age of 11 in 1971. The band's name came from audiences who told them they sounded like the Staple Singers. Their privately pressed 1975 album *When Do We Get Paid* was sold from the family’s front lawn in Aberdeen, Mississippi, and later became a grail for gospel-soul collectors. The album received a proper reissue in 2022.
 
-Annie now sings for Annie & The Caldwells. Not everything in the music business is big business. Sometimes funk is a side hustle in service of the Lord. Annie runs a women’s clothing store in West Point, Mississippi, and the rest of the band holds day jobs too, including a forklift driver, hospital transporter, elementary school teacher, and hairstylist.
+Not everything in the music business is big business. Sometimes funk is a side hustle in service of the Lord. Annie now sings for Annie & The Caldwells. and runs a women’s clothing store in West Point, Mississippi. The rest of the band holds day jobs too, including a forklift driver, hospital transporter, elementary school teacher, and hairstylist.
 
 Musically, today’s song “Can’t Lose My Soul” starts like a funky sermon. Around six minutes in, the funk thickens, and by the end, you’ve heard the word “soul” so many times it stops being a word and becomes a sound.
 

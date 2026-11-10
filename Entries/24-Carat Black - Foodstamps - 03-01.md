@@ -16,7 +16,7 @@ status: review
 writing theme:
 funk.day code: rp5f
 ---
-24-Carat Black’s concept album, *Ghetto: Misfortune’s Wealth*, is a funk opera about Black poverty, told through spoken word and song. But "Foodstamps," a tight, brassy, very funky instrumental, tells its part of the story without words.
+24-Carat Black’s concept album, *Ghetto: Misfortune’s Wealth*, is a funk opera about Black poverty, told through spoken word and song. But "Foodstamps" is a tight, brassy, and very funky instrumental, and it tells its part of the story without words.
 
 Like the rest of the album, "Foodstamps" would have remained obscure were it not for its rediscovery by sampling DJs and rappers. The song opens with a stop-start drum solo by percussionist Tyrone Steels. Digable Planets used the break as the bridge in "Rebirth of Slick (Cool Like Dat)," which won Best Rap Performance by a Duo or Group at the 36th Grammy Awards on March 1, 1994.
 

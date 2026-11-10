@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 07-28
 artist: 24-Carat Black
 track: The Best Of Good Love Gone
 album: "Gone: The Promises Of Yesterday"
@@ -11,11 +11,18 @@ genre:
   - Deep Funk
 region:
   - US - Ohio
-listening mission:
-status: research-review
-writing theme: Some deep funk wasn't even released until after the band was rediscovered
+listening mission: First, listen for the wood blocks and percussion that quietly open the track. More than five minutes later, listen for how they remain at the end. There's a tremendous amount of craft in Dale Warren's arrangement of this funky love song.
+status: review
+writing theme:
 funk.day code: thjx
 ---
+*Gone: The Promises of Yesterday* by 24-Carat Black was released on July 28, 2009, by Numero Group. That simple statement grossly undersells the journey of this album; it's a bit like saying Neil Armstrong took a short stroll on July 20, 1969.
+
+The band recorded more than 20 songs at Universal Studios in Chicago in late 1974, but no album resulted from the session. The band's keyboardist, Bruce Thompson, held onto the tape reels for 35 years in his Chicago basement until members of Numero Group happened upon them while searching for unrelated material by the band Chocolate Sunday.
+
+Only six tracks were usable once the reels were transferred; the rest of the tape was too degraded. *Gone* isn't really a sequel to the band's debut album *Ghetto: Misfortune's Wealth*. Instead, it collects the love songs composer Dale Warren had been writing since his Motown days in 1965.
+
+Today's song, "The Best Of Good Love Gone," waited decades for a release and narrowly escaped being lost to tape rot. Princess Hearn sings the lead vocals over what Numero Group describes as a moody and meandering burner with a heavy Afro-jazz undercurrent. To my ears it builds more than meanders, with drums, bass and percussion locked into a super funky groove.
 
 ---
 ## Research Notes
