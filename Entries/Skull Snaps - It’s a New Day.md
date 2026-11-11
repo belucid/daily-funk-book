@@ -8,13 +8,21 @@ label: GSF Records
 year: 1973
 track length: 3m 4s
 genre:
+  - Deep Funk
 region:
   - US - Northeast
-listening mission:
-status: research-review
+listening mission: The first two bars of drums are among the most sampled sounds you'll hear this year. If you know the beat from other records, what kind of song do you expect to follow? Now listen to what Skull Snaps actually do with it.
+status: review
 writing theme:
 funk.day code:
 ---
+The *Skull Snaps* cover has no band photo: just skulls and skeletons. Bassist Samm Culley said that was deliberate since black music “wasn’t doing that great” and they couldn’t get the plays they wanted. The trio used a cover that might get a white rock fan to buy the record without hearing it first. For decades, even the producers sampling Skull Snaps knew little about the band.
+
+Skull Snaps cut the basic tracks for all nine songs live in a single day at Venture Sound Studios in New Jersey in early 1973. Today's song, "It's a New Day," was the B-side of the album's single, "My Hang Up Is You." GSF Records went bust shortly after the album came out, and copies became hard to find.
+
+Connecticut Rapper Dooley-O found a copy in a neighbor's basement in 1988. The next year, his cousin Stezo sampled drummer George "Buzzy" Bragg's opening break for "It's My Turn." It was the first commercially released track to sample the break. More than 500 tracks have used it since.
+
+In classic deep funk fashion, *Skull Snaps* has been reissued several times on CD and vinyl. Bootlegs started appearing in the 1990s, and licensed reissues followed in the mid-2000s. Back when the original LP was still scarce, producers had another way to get their hands on Bragg's break. They sampled it straight from Stezo's record.
 
 ---
 ## Research Notes
@@ -93,16 +101,16 @@ The author left no `open:` items in this entry. The questions below are the ones
 
 **Dates established by research**
 
-| Date | Event | Source |
-| --- | --- | --- |
-| 1973 (month unconfirmed) | *Skull Snaps* LP released, GSF-S-1011 | https://www.discogs.com/release/560501-Skull-Snaps-Skull-Snaps |
-| 1973 (day unknown) | "My Hang Up Is You" / "It's a New Day" 45, GSF 6891 | https://www.discogs.com/release/2304935-Skull-Snaps-My-Hang-Up-Is-You-Its-A-New-Day |
-| June 18, 2007 | George "Buzzy" Bragg (drummer) dies | https://theurbandaily.com/610022/sunday-soul-sample-its-a-new-day/ |
-| March 10, 1968 | Stezo (Stephen Jerome Williams) born, New Haven CT | https://en.wikipedia.org/wiki/Stezo |
-| April 29, 2020 | Stezo dies, age 52 | https://www.newhavenindependent.org/2020/04/30/stezo_rip/ |
-| March 9, 1933 | Lloyd Price (GSF A&R / exec producer) born | https://en.wikipedia.org/wiki/Lloyd_Price |
-| May 3, 2021 | Lloyd Price dies | https://en.wikipedia.org/wiki/Lloyd_Price |
-| May 2011 | Get On Down reissue 45, "It's A New Day" / "I Turn My Back On Love" | https://www.discogs.com/release/2948979-Skull-Snaps-Its-A-New-Day-I-Turn-My-Back-On-Love |
+| Date                     | Event                                                               | Source                                                                                   |
+| ------------------------ | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1973 (month unconfirmed) | *Skull Snaps* LP released, GSF-S-1011                               | https://www.discogs.com/release/560501-Skull-Snaps-Skull-Snaps                           |
+| 1973 (day unknown)       | "My Hang Up Is You" / "It's a New Day" 45, GSF 6891                 | https://www.discogs.com/release/2304935-Skull-Snaps-My-Hang-Up-Is-You-Its-A-New-Day      |
+| June 18, 2007            | George "Buzzy" Bragg (drummer) dies                                 | https://theurbandaily.com/610022/sunday-soul-sample-its-a-new-day/                       |
+| March 10, 1968           | Stezo (Stephen Jerome Williams) born, New Haven CT                  | https://en.wikipedia.org/wiki/Stezo                                                      |
+| April 29, 2020           | Stezo dies, age 52                                                  | https://www.newhavenindependent.org/2020/04/30/stezo_rip/                                |
+| March 9, 1933            | Lloyd Price (GSF A&R / exec producer) born                          | https://en.wikipedia.org/wiki/Lloyd_Price                                                |
+| May 3, 2021              | Lloyd Price dies                                                    | https://en.wikipedia.org/wiki/Lloyd_Price                                                |
+| May 2011                 | Get On Down reissue 45, "It's A New Day" / "I Turn My Back On Love" | https://www.discogs.com/release/2948979-Skull-Snaps-Its-A-New-Day-I-Turn-My-Back-On-Love |
 
 No birth dates were found for Culley, Waters or Bragg. Ed Stasium's birth year is given as 1948 or 1949 with no day (https://en.wikipedia.org/wiki/Ed_Stasium).
 
