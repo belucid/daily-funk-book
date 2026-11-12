@@ -1,21 +1,29 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-12
 artist: Bobby Byrd
-track: Hang Up Your Hang-ups
+track: Hang Ups We Don't Need (The Hungry We Got To Feed)
 album: I Need Help (Live On Stage)
 label: King Records
 year: 1970
 track length: 3m 06s
 genre:
+  - Classic Funk
 region:
   - US - Ohio
-listening mission:
-status: research-review
+listening mission: Listen to Bobby Byrd's vocal delivery. Where do you hear James Brown in his timing, phrasing and shouts? What sounds like Byrd's own style?
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+James Brown sang some of his best-known songs with a social message himself, including "Say It Loud - I'm Black and I'm Proud" (1968) and "Get Up, Get Into It, Get Involved" (1970). He also wrote and produced others for singers in his circle. For today's song, "Hang Ups We Don't Need (The Hungry We Got To Feed)," he gave the lead to friend and longtime collaborator Bobby Byrd.
+
+Byrd likely recorded the song in late 1969. King Records issued it as a 45 in February 1970. The label billed it as "A James Brown Production" and listed Brown as the sole songwriter.
+ 
+The single runs 2m 52s. The "live" version on Byrd's *I Need Help (Live on Stage)* runs just over three minutes, complete with canned crowd noise. The James Brown machine was famous for the energy of its live shows, so sometimes it gave studio recordings the sound of a concert. A small audience might be brought into the studio, band members might supply the crowd reactions, or applause might be dubbed in later.
+ 
+Byrd died of cancer on September 12, 2007, in Loganville, Georgia. In 2012, he was inducted posthumously into the Rock & Roll Hall of Fame as a member of the Famous Flames.
 
 ---
 ## Research Notes
