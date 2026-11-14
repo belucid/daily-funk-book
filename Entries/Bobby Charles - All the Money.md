@@ -11,11 +11,18 @@ genre:
   - Country Funk
 region:
   - US - Louisiana
-listening mission:
-status: research-review
+listening mission: As the groove builds, listen for the bass and Charles's "He" to land together on the one. The rhythm gets busier and spills into syncopated chaos. A few measures later, listen for the bass and that "He" to land hard on the one again.
+status: review
 writing theme:
 funk.day code: w24b
 ---
+First question: What's today's song called? On the original 1972 *Bobby Charles* LP, it was "He's Got All the Whiskey." On streaming today, the same recording goes by "All the Money." Both phrases are in the chorus.
+
+The record is sometimes called "the lost Band album." Four of The Band's five members played on it, and bassist Rick Danko co-produced it.
+
+Bobby Charles grew up on Cajun music in Abbeville, Louisiana. Seeing Fats Domino at fifteen, he said, "changed my life forever." At seventeen, he wrote "See You Later, Alligator" and auditioned for Chess Records over the phone. The label signed him sight unseen, assuming from his voice that he was Black. He went on to write songs for Domino and Clarence "Frogman" Henry. Facing a marijuana possession charge, he fled to Woodstock, New York, where he met Bearsville Records founder and Bob Dylan manager Albert Grossman.
+
+Second question: Is it funk? Once the groove gets going, the bass is right out front. The chords and vocals mostly stay put, leaving only the rhythm to build. That's funky!
 
 ---
 ## Research Notes

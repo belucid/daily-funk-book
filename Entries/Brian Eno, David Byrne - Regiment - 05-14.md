@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 05-14
 artist: Brian Eno, David Byrne
 track: Regiment
 album: My Life In The Bush Of Ghosts
@@ -11,11 +11,16 @@ genre:
   - Avant-Funk
 region:
   - UK
-listening mission:
-status: research-review
+listening mission: Listen to the groove of the drums, bass and percussion up to the 50-second mark. Before the voice comes in, imagine the vocal you'd put over that groove.
+status: review
 writing theme:
 song.now code:
 ---
+"Regiment," from Brian Eno and David Byrne's 1981 album *My Life in the Bush of Ghosts*, gets its vocal from a sample of a traditional Lebanese folk song, "Abu Zeluf," sung by Dunya Younes. She didn't know she was on the album until 2017. "Regiment" and "The Carrier," another track on the album that uses her voice, were later pulled from streaming services and returned after an out-of-court settlement.
+
+On paper, a mournful Lebanese vocal and a hard funk groove seem like an odd pairing. To my ear, they work beautifully together. Most of the singers you've heard this year were in the room with the band. Here the singer was spliced in from an earlier recording, the way a modern hip hop or R&B producer would drop in a sample.
+
+David Byrne was born on May 14, 1952, in Dumbarton, Scotland. If you're here a day late, you're just in time for Brian Eno's birthday. He was born on May 15, 1948, in Suffolk, England. Eno had played synthesizer in Roxy Music, and Byrne was the frontman of Talking Heads. The two began working on *My Life in the Bush of Ghosts* while Eno was producing Talking Heads.
 
 ---
 ## Research Notes
