@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 01-28
 artist: Brooklyn Funk Essentials
 track: Bust the Bus Stop
 album: Black Butterfly
@@ -11,11 +11,16 @@ genre:
   - Nu-Funk
 region:
   - US - New York
-listening mission:
-status: research-review
+listening mission: The song grew out of the electric piano part. Listen for the Fender Rhodes to come in with the drums, after the percussion intro and before the bass. Keep following that piano line as the horns, synths and vocals join in. Can you hear how the band built a whole song around one little riff?
+status: review
 writing theme:
 song.now code:
 ---
+A lot of the funk we'll hear this year comes from the 1970s, but Brooklyn Funk Essentials released "Bust the Bus Stop" on January 28, 2026. The groove goes back to the summer of 1997, when bassist Lati Kronlund bought a beat-up secondhand Fender Rhodes Mark I electric piano. Noodling around on it, he found the riff that would become "Bust the Bus Stop" nearly 30 years later.
+
+Another happy accident had brought the band together in 1993. A drummer failed to show up for an Al Green recording session, so the session's producer, Arthur Baker, pulled out unreleased tapes he’d recorded in the 1980s with Maceo Parker, Tower of Power, and other funk legends. Baker and Kronlund used the empty studio time to build tracks from those tapes, and Brooklyn Funk Essentials grew out of that work as a live band.
+
+Despite the Brooklyn name, the band recorded "Bust the Bus Stop" in Kronlund's native Sweden. Kronlund is the sole remaining original member of the band.
 
 ---
 ## Research Notes
