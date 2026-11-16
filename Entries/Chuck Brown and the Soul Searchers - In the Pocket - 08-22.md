@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 08-22
 artist: Chuck Brown and the Soul Searchers
 track: In the Pocket
 album: Funk Express
@@ -11,12 +11,17 @@ genre:
   - Go-Go
 region:
   - US - DC
-listening mission:
-status: research-review
+listening mission: Listen to the drums and percussion in the first ten seconds, before the horns come in. The tempo is slow, but the hits land in unexpected places. That’s the distinctive syncopated groove of go-go.
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+Go-go is the specific brand of funk coming out of the D.C. scene that took shape in the 1970s and early 1980s. It's live dance music built for the clubs, with a distinctive syncopated beat and call and response between the band and the crowd. It was named the official music of Washington, D.C. in 2020.
+
+The best way to get an ear for go-go is to listen, and today’s track, "In the Pocket," is a perfect example. It's by the premier go-go group, Chuck Brown and the Soul Searchers, from their 1980 album, *Funk Express*.
+
+For an album that's so deeply rooted in D.C., *Funk Express* has a nationwide production story. It's from the Los Angeles label Source Records, and was produced by Houston-born ex-Jazz Crusader Wayne Henderson. The former Stax mastering engineer Larry Nix cut the record, likely in Memphis.
 
 ---
 ## Research Notes
