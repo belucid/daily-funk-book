@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 07-24
 artist: Dale Hawkins
 track: LA - Memphis - Tyler
 album: L.A., Memphis & Tyler, Texas
@@ -10,11 +10,16 @@ track length: 2m 44s
 genre:
   - Country Funk
 region:
-listening mission:
-status: research-review
+listening mission: Hawkins names each city as the band and the groove shift beneath him. Listen for the changes as he announces each location. What sets the sound of the three studios apart?
+status: review
 writing theme:
 funk.day code: zn5u
 ---
+If you've heard of Dale Hawkins, you probably know him for 1957's "Susie Q" with the memorable line, "Oh, Susie Q, baby I love you. My Susie Q." Many people think of it as a Creedence Clearwater Revival song, but they only covered it. The song helped define the swamp rock genre.
+
+In 1969, Hawkins recorded an LP, *L.A., Memphis & Tyler, Texas*. Its opening track is today's song, "LA - Memphis - Tyler Texas." Decades later, Light in the Attic used it to open their *Country Funk 1969-1975* compilation, released on July 24, 2012. The label retroactively gave a name to the blend of country, soul and funk that Hawkins and others had been making.
+
+By the late 1960s, Hawkins was working as an A&R man and producer, making hits for other people. He had the idea for a roots-music album and arranged recording sessions in California, Tennessee, and Texas to tap into his network of talented musicians. His Rolodex was full of players like Ry Cooder, James Burton, Taj Mahal, Dan Penn, Spooner Oldham and the Memphis Horns. He put those connections to work on a fantastic record.
 
 ---
 ## Research Notes
