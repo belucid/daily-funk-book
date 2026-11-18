@@ -33,4 +33,4 @@ Here is an illustrative, though not exhaustive, list of the kind of mega-hits I 
 
 These are amazing songs. If you are unfamiliar with any of them, go listen immediately. I just assume most people, no matter when they were born, already know at least the chorus of the songs in this top-shelf tier of funk history.
 
-Rather than cement a cartoonish view of what funk is, I want this book to open your ears to the variety and depth the genre offers once you peek beyond the obvious hits.
+Rather than cement a limited view of what funk is, I want this book to open your ears to the variety and depth the genre offers, once you peek beyond the obvious hits.

@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 11-11
 artist: Dennis Coffey
 track: Scorpio
 album: Evolution
@@ -11,11 +11,16 @@ genre:
   - Funk Rock
 region:
   - US - Michigan
-listening mission:
-status: research-review
+listening mission: Listen for Bob Babbitt's bass solo after the drum break. It gets a vocal reaction from the band. Can you make out what they're saying?
+status: review
 writing theme:
 funk.day code: rw6s
 ---
+Dennis Coffey was born in Detroit, Michigan, on November 11, 1940. As one of Motown's legendary Funk Brothers, he helped define the Detroit sound, bringing distortion, tape-loop delays and wah-wah guitar to records by the Temptations and Edwin Starr.
+
+In 1971, Dennis Coffey recorded "Song #4," an instrumental and the fourth track on his second record, *Evolution*, credited to Dennis Coffey & The Detroit Guitar Band. Later, when Coffey needed to give the instrumental a name, he turned to the zodiac and today's song became "Scorpio."
+
+At 1m 9s, the arrangement drops away so dramatically you might think the song has ended. It hasn't. The guitars and bass give way to roughly 50 seconds of drums and percussion, played by Uriel Jones and Richard "Pistol" Allen on drums, with Jack Ashford and Eddie "Bongo" Brown on percussion. The length and variety made it a perfect catalog of sounds for early DJs to shop from, and the break became one of the foundations of hip-hop. It's been sampled by Public Enemy, LL Cool J, Young MC and Mark Ronson, among many others.
 
 ---
 ## Research Notes
