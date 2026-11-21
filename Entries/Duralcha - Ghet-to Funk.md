@@ -1,7 +1,7 @@
 ---
 fileClass: funk-entry
 day:
-artist: Duracha
+artist: Duraclha
 track: Ghet-to Funk
 album:
 label: Microtronics Sound
@@ -11,16 +11,22 @@ genre:
   - Deep Funk
 region:
   - US - Southeast
-listening mission:
-status: research-review
+listening mission: Focus on the unaccompanied drum break in the opening seconds. It's exactly the kind of moment early hip-hop producers searched for.
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
-https://www.bullcitysoul.org/duracha.html
+Funk doesn't get much deeper than today's track, "Ghet-to Funk," by Duralcha. Or is it Duracha? The label says Duralcha, but the band's own promo sign says Duracha. The name combines Durham, Raleigh and Chapel Hill, the cities of North Carolina's Research Triangle. Its ten members were teenagers from Durham's Hillside High School, seizing their one and only shot at making a record.
+
+The instrumental came out in 1974 as the B-side of "Jody Is Gone." A local label pressed a tiny run. For friends and family, really. For decades, it remained out of reach of all but the most plugged-in funk 45 crate diggers.
+
+Thirty-eight years later, in 2012, Numero Group repressed the 45 as part of a box set, *Eccentric Soul: Omnibus, Vol. 1*. The label went on to include "Ghet-to Funk" on the compilations *Can You Feel That Beat* in 2016 and *Eccentric Funk* in 2020.
 
 ---
 ## Research Notes
+
+https://www.bullcitysoul.org/duracha.html
 
 **[AUDIT]** `2026-06-21 14:30` — `label` changed from `(empty)` to `Microtronics Sound` — Source: https://www.discogs.com/release/4199382-Duralcha-Jody-Is-Gone
 **[AUDIT]** `2026-06-21 14:30` — `year` changed from `(empty)` to `1974` — Source: https://www.discogs.com/master/2349895-Duralcha-Jody-Is-Gone

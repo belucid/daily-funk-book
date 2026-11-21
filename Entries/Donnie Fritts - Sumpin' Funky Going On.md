@@ -2,7 +2,7 @@
 fileClass: funk-entry
 day:
 artist: Donnie Fritts
-track: Sumpin Funky Going On
+track: Sumpin' Funky Going On
 album: Prone To Lean
 label: Atlantic Records
 year: 1974
@@ -11,11 +11,17 @@ genre:
   - Country Funk
 region:
   - US - Southeast
-listening mission:
-status: research-review
+listening mission: Fritts sings like he's three steps behind the beat. Listen to how the Muscle Shoals rhythm section locks it down while he leans the vocal back. Where does the pocket live? In the band, in his lagging voice, or in the space between them?
+status: review
 writing theme:
 funk.day code: b36r
 ---
+
+Today's song, "Sumpin' Funky Going On," by Donnie Fritts, barely registered when it was released in 1974. Forty years later, Light in the Attic introduced it to new listeners on *Country Funk II*, giving it a home in a genre named long after the music was made.
+
+Jerry Wexler nicknamed Fritts "the Alabama Leaning Man," and his debut solo album, *Prone to Lean*, was a slow-talking, country-meets-Muscle-Shoals-soul mashup. "Sumpin' Funky Going On" was the track where the country lean gave way to a flat-out groove. Wexler and Kris Kristofferson co-produced the album at Muscle Shoals Sound Studio in Alabama.
+
+The album didn't sell, so Fritts carried on with his session work and touring in Kristofferson's band. It would be 23 years before he released another solo album, *Everybody's Got a Song*, in 1997.
 
 ---
 ## Research Notes

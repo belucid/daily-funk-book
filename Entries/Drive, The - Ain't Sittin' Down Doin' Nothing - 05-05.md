@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 05-05
 artist: The Drive
 track: Ain't Sittin' Down Doin' Nothing
 album: Drive Unlimited
@@ -11,11 +11,16 @@ genre:
   - Afrobeat
 region:
   - South Africa
-listening mission:
-status: research-review
+listening mission: The horn section features the Sithole brothers, Henry on alto sax and Stanley on tenor. Try to pick out each saxophone, then listen to how their lines work together.
+status: review
 writing theme:
 funk.day code: x7tr
 ---
+Today's song, "Ain't Sittin' Down Doin' Nothin'," is a soul-jazz banger by South African band The Drive. Co-founder and guitarist Bunny Luthuli wrote it, and the title speaks to the work and hustle required of a Black band in Johannesburg under apartheid in 1975.
+
+The prominent electric organ is played by Bheki Mseleku. At just twenty, he was near the beginning of a recording career that would take him across Europe, Africa and the US, including a string of albums for Verve in the 1990s.
+
+On May 5, 1977, Luthuli and saxophonist Henry Sithole were killed in a car accident, just two weeks after recording another album. The band's first international touring opportunities were being arranged. The Drive did not survive the tragedy.
 
 ---
 ## Research Notes

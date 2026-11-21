@@ -8,6 +8,7 @@ label: Casablanca
 year: 1976
 track length: 5m 20s
 genre:
+  - Psychedelic Funk
 region:
   - US - Michigan
 listening mission:

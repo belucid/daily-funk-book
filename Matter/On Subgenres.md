@@ -34,7 +34,7 @@ In this book, soul jazz is mostly used to label the earlier, smaller-ensemble si
 
 **Go-Go (n days):** More than most of these labels, go-go is defined by a specific time and place: early 1980s Washington, D.C. Its signature is a conga-and-cowbell-driven beat and a call and response between the singer and the crowd. On studio recordings the band often stands in for the crowd and provides the response.
 
-**Country Funk (n days):** Like most genres, country funk was named after the fact, but this one is an extreme case. The crate-digger compilations *Country Funk*, *Country Funk II*, and *Country Funk III*, released in 2012, 2014, and 2021, effectively named the subgenre and spotlighted the core country-funk fusion tracks that define it. These songs show just how far funk’s influence spread during its commercial peak.
+**Country Funk (n days):** Like most genres, country funk was named after the fact, but this one is an extreme case. The crate-digger compilations *Country Funk*, *Country Funk II*, and *Country Funk III*, released in 2012, 2014, and 2021, effectively named the subgenre and spotlighted the core country-funk fusion tracks that define it. This genre is probably a bit over-represented in the book, but I find these songs very compelling because they show just how far funk’s influence spread during its commercial peak.
 
 **Gospel Funk (n days):** This is an after-the-fact label, coined by collectors. There were no artists or labels focused on gospel funk. It is simply gospel music that absorbed the funk vocabulary of its era, or funk musicians turning their groove toward praise. In practice, it shows up as a gospel act getting seriously funky on a track, or as a funk act using a track to make a joyful noise for the Lord.
 
