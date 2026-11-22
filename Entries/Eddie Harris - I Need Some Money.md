@@ -11,11 +11,16 @@ genre:
   - Jazz-Funk
 region:
   - US - Illinois
-listening mission:
-status: research-review
+listening mission: This is a respected jazz tenor saxophonist making a funk record. What do you hear him keeping from his jazz background? What do you hear him borrowing from popular funk bands?
+status: review
 writing theme:
 funk.day code: dmt6
 ---
+Economists tell us the economy works in cycles, and the sentiment behind Eddie Harris' "I Need Some Money" rings true 50 years later. The album's title was reportedly an indication of Harris's actual financial state at the time, which could explain why a respected jazz man stepped up to the microphone and made his first all-vocals jazz-funk album. It started him on a path of making humorous, hard-luck songs the focus of his next few records.
+
+Singing came naturally to Harris. He started singing in Baptist churches before he ever picked up a horn. Always on the lookout for new sounds and ways to express himself, Harris was considered the most skilled user of the Selmer Varitone, an electronic effects device for the saxophone. He also invented the reed trumpet and the saxobone.
+
+If today's song catches your ear, try the album's final track, "That's It." I hear it as a response to Quincy Jones' "Sanford and Son Theme (The Streetbeater)" (January 14). It's slower, but it would fit right over the show's end credits.
 
 ---
 ## Research Notes
