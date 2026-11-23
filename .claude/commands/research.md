@@ -204,7 +204,7 @@ For each suggestion you make, check the existing `./Daily Funk Project/Entries` 
 
 ### Step 6: Genre Suggestions
 
-Read the `./Daily Funk Project/Matter/On Genres & Regions.md` front matter list and definition of the book's genres. 
+Read `./Daily Funk Project/Matter/On Subgenres.md` for the list and definition of the book's genres. 
 
 Consider the current value of the `genre` field, if any, and our enumeration and definition of genres.
 
@@ -212,7 +212,7 @@ Your job is to make a CASE and a SUGGESTION for 2-3 genres that the track may fi
 
 ### Step 7: Region Suggestions
 
-Read the `./Daily Funk Project/Matter/On Genres & Regions.md` front matter description of regions. Read the region list from `Daily Funk Project/Planning/Field Values`
+Read `./Daily Funk Project/Matter/On Regions.md` for the book's approach to regions. Read the region list from `Daily Funk Project/Planning/Field Values.md`
 
 Consider the current value of the `region` field, if any, and our enumeration of regions.
 

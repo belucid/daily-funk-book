@@ -8,14 +8,20 @@ label: Power Funksion Records
 year: 1973
 track length: 3m 44s
 genre:
+  - Deep Funk
 region:
   - US - Louisiana
-listening mission:
-status: research-review
+listening mission: The Fantoms had two lead singers, Anthony "Nate" Rainey and Roland Treaudo, and both are credited on this song. Listen to their harmonies, unison lines and vocal handoffs. How do they make two voices sound like one? Does it sound like a song the band perfected live, long before they recorded it?
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+"Turn Me On" by the Fantoms is a funky slice of private-press New Orleans. The band ran its own label, Power Funksion Records, distributing 45s through local record stores and at shows. Only a handful of copies of the original 1973 single are known to survive. The song resurfaced in 2004 on the *Funky Funky New Orleans, Vol. 4 (Rare and Unreleased New Orleans Funk 1969-1973)* compilation.
+
+The Fantoms formed in 1968 when two bands merged, a 15-piece ensemble led by high school student William Norflin and a funk band led by tenor saxophonist Milton Lewis. They became a ten-piece group with four horns and two lead singers. Three of the original members were drafted into military service, forcing an adjustment in the lineup that happened before "Turn Me On" was recorded.
+
+The band split up in 1974. Singer Roland Treaudo and keyboardist Manuel Herrera formed Family Underground, taking five band members with them. The new band went on to release additional 45s under the Power Funksion label name.
 
 ---
 ## Research Notes
