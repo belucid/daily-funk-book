@@ -17,7 +17,7 @@ writing theme: saga of Lonnie Smith and Lonnie Liston Smith
 funk.day code:
 cover:
 ---
-If you spend any time exploring 1970s jazz-funk, you’re eventually going to get confused by the two Lonnie Smiths. They’re not related. They just happened to be Black keyboard players with identical names making jazz-funk records at the same time.
+If you spend any time exploring 1970s jazz-funk, you’re eventually going to get confused by the two Lonnie Smiths. They’re not related. They just happened to be Black keyboard players with the same name making jazz-funk records at the same time.
 
 The Lonnie Smith behind today’s track, "Sizzle Stick," was born on July 3, 1942, in Lackawanna, New York. He established his jazz credentials in George Benson’s quartet before becoming one of soul jazz’s leading Hammond B-3 organists.
 

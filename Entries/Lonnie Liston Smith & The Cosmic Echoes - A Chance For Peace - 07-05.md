@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day: 07-04
+day: 07-05
 artist: Lonnie Liston Smith & The Cosmic Echoes
 track: A Chance For Peace
 album: Visions Of A New World
@@ -16,11 +16,11 @@ writing theme:
 funk.day code:
 cover:
 ---
-Yesterday you met the first of our two funky Lonnie Smiths. Today’s song, “A Chance for Peace,” is by the other one: Lonnie Liston Smith Jr., born in Richmond, Virginia. He played tuba, trumpet, and piano in high school before settling on the piano. After stints with Art Blakey, Pharoah Sanders, and Miles Davis, he launched his own career as a bandleader in 1973.
+A couple of days ago you met the first of our two funky Lonnie Smiths. Today’s song, “A Chance for Peace,” is by the other one: Lonnie Liston Smith Jr., born in Richmond, Virginia. He played tuba, trumpet, and piano in high school before settling on the piano. After stints with Art Blakey, Pharoah Sanders, and Miles Davis, he launched his own career as a bandleader in 1973.
 
 His funkiest work, and the records I would point you at, are the mid-1970s releases attributed to his band, Lonnie Liston Smith & The Cosmic Echoes. *Visions Of A New World* is one of the best examples of his spiritually infused brand of jazz-funk, with vocals by Lonnie Liston Smith and yet another Smith, the band's vocalist, Donald Smith. This Smith is actually related: Donald is Lonnie Liston Smith's younger brother.
 
-Yesterday’s decoder ring was the turban. Today’s is the middle name. If there’s no “Dr.” honorific or Sikh turban, but you do see “Liston” in the credits, you’ve found the jazz pianist. His catalog is less consistently funky than Dr. Lonnie Smith’s, so look for his mid-1970s recordings with the Cosmic Echoes.
+Your prior Lonnie Smith decoder ring was the turban. Today’s it's the middle name. If there’s no “Dr.” honorific or Sikh turban, but you do see “Liston” in the credits, you’ve found the jazz pianist. His catalog is less consistently funky than Dr. Lonnie Smith’s, so look for his mid-1970s recordings with the Cosmic Echoes.
 
 ---
 ## Research Notes

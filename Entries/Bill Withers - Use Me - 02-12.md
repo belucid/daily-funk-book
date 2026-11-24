@@ -25,6 +25,7 @@ And yes, even with a voice that good, this is funk. Funk does not require lesser
 ---
 ## Research Notes
 
+Note... 2/12 is an arbitrary date, but it's referenced from 
 ### Open Research Questions
 
 No open research questions found in the entry.

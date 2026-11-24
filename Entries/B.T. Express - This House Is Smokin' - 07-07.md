@@ -18,13 +18,13 @@ funk.day code: 3ssw
 ---
 July 7 is B.T. Express Day. At least in Brooklyn, New York. At least in 1977.
 
-The second half of the 1970s was a rough stretch for Brooklyn, so it is easy to imagine city leaders welcoming anything that brought a little borough pride. A free concert by Brooklyn Transit Express, a homegrown act that made it big, must have felt like the right ticket.
+The second half of the 1970s was a rough stretch for Brooklyn, so it's easy to imagine city leaders welcoming anything that brought a little borough pride. A free concert by Brooklyn Transit Express, a homegrown act that made it big, must have felt like the right ticket.
 
-B.T. Express’ debut album, *Do It (‘Til You’re Satisfied)*, was a huge success. The title track hit #1 on the R&B chart, #2 on the pop chart, and sold over a million copies. The next single, "Express," followed in 1975 and reached #1 R&B and #4 pop. The album itself reached #1 on the R&B album chart and #5 on the *Billboard* 200.
+B.T. Express’ debut album, *Do It (‘Til You’re Satisfied)*, was a huge success. The title track hit #1 on the R&B chart, #2 on the pop chart, and sold over a million copies. The album itself reached #1 on the R&B album chart and #5 on the *Billboard* 200.
 
-Brooklyn’s government was not the only one to take notice. B.T. Express was the first funk band to play at the White House. Or were they? The claim sits right on the fault line between funk and disco. “Do It (‘Til You’re Satisfied)” is often cited as an early disco hit, and “Express” points even more clearly toward the disco sound that would soon dominate.
+Brooklyn’s government was not the only one to take notice. Many say B.T. Express was the first funk band to play at the White House. But were they? That claim sits right on the fault line between funk and disco. “Do It (‘Til You’re Satisfied)” is often cited as an early disco hit, and their next hit, “Express”, points even more clearly toward the disco sound that would soon dominate.
 
-Today’s song, “This House Is Smokin’,” is a two-minute funky burner that closes out the gold-selling album.
+Funk band or disco band? It's hard to say. I can tell you that today’s song, “This House Is Smokin’,” is a two-minute funky burner that closes out their gold-selling album.
 
 
 ---

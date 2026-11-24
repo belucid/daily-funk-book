@@ -1,21 +1,28 @@
 ---
 fileClass: funk-entry
-day:
-artist: Fred Wesley & The J.B.'s
+day: 07-04
+artist: The J.B.'s & Fred Wesley
 track: Use Me
-album: The Lost Album
+album:
 label: Polydor
 year: 1972
 track length: 3m 47s
 genre:
+  - Deep Funk
 region:
   - US - New York
-listening mission:
-status: research-review
+listening mission: This is an instrumental cover of a song famous for its lyrics and soulful vocals. Listen to how the horn section "sings" the melody. How well do the horns stand in for Withers' voice?
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+Fred Wesley and Bill Withers shared a birthday. Both were born on July 4th: Withers in 1938 and Wesley five years later in 1943. So what better Fourth of July song than Fred Wesley & The J.B.'s covering Withers' "Use Me" (February 12)?
+
+If James Brown had his way, maybe you weren't meant to hear this take at all. It comes from the first album Wesley recorded under his own name, and though it was recorded, cut, and test-pressed by Brown's own label, it was then shelved. "Use Me" waited on the shelf for 21 years before a release on *The First Family of Funk* in 1993, and the album waited 39 years until it was released as *The Lost Album* in 2011.
+
+There's also some confusion about who played on each song. Most of the *Lost Album* was recorded with New York session players, not with The J.B.'s, but it was still a funky lineup: the Brecker brothers, Joe Farrell, Hugh McCracken, Eddie Daniels, Steve Gadd, and Ron Carter. The album's cover of Herbie Hancock's "Watermelon Man" is considered the only true J.B.'s track, with James Brown himself behind the drum kit.
+
 
 ---
 ## Research Notes

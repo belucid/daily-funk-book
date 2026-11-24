@@ -16,7 +16,7 @@ status: review
 writing theme:
 funk.day code: thjx
 ---
-*Gone: The Promises of Yesterday* by 24-Carat Black was released on July 28, 2009, by Numero Group. That simple statement grossly undersells the journey of this album; it's a bit like saying Neil Armstrong took a short stroll on July 20, 1969.
+*Gone: The Promises of Yesterday* by 24-Carat Black was released on July 28, 2009, by Numero Group. That simple statement grossly undersells the journey of this album; it's a bit like saying Neil Armstrong took a short stroll in the summer of 1969.
 
 The band recorded more than 20 songs at Universal Studios in Chicago in late 1974, but no album resulted from the session. The band's keyboardist, Bruce Thompson, held onto the tape reels for 35 years in his Chicago basement until members of Numero Group happened upon them while searching for unrelated material by the band Chocolate Sunday.
 

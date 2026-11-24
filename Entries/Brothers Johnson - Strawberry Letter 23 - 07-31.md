@@ -22,7 +22,7 @@ In 1977, The Brothers Johnson teamed up with Quincy Jones to make *Right on Time
  
 Otis’ original version went largely unnoticed, but the Johnsons, Jones, and Ritenour made "Strawberry Letter 23" a #1 R&B hit on July 31, 1977. It has remained a funk staple ever since. Quentin Tarantino used the Brothers Johnson version in *Pulp Fiction* and *Jackie Brown*.
 
-The 1977 12-inch single was pressed on red, strawberry-scented vinyl, with a strawberry-scented jacket. Do not spend a lot of time and money trying to hunt down a copy to experience the smell. Reportedly, the scent has faded from most surviving copies.
+The 1977 12-inch single was pressed on red, strawberry-scented vinyl, with a strawberry-scented jacket, but don't spend time or money trying to hunt down a copy to experience the smell. Reportedly, the scent has faded from the surviving copies.
  
 ---
 ## Research Notes

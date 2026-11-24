@@ -16,7 +16,7 @@ writing theme:
 funk.day code:
 cover:
 ---
-If ever a song title was going to match up with the theme of this book, then today's song "I Don't Know What It Is, But It Sure Is Funky," by Ripple is indeed that song.
+If a song title was ever going to match the theme of this book, then today's song "I Don't Know What It Is, But It Sure Is Funky," by Ripple is that song.
 
 ---
 ## Research Notes
