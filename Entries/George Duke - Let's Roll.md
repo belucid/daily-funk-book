@@ -8,13 +8,19 @@ label: BPM (Big Piano Music)
 year: 2002
 track length: 8m 14s
 genre:
+  - Jazz-Funk
 region: US - California
-listening mission:
-status: research-review
+listening mission: Duke's own advice was "Listen to Christian on this one." Follow Christian McBride's upright acoustic bass through the full eight minutes. Does he sound like he's leading the band? Notice what changes when the bass drops out, or when McBride takes a solo.
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+George Duke was one of the true legends of the 1970s jazz-funk scene. He embraced jazz-funk fusion without reservation, making some of the funkiest jazz of the decade.
+
+*Face the Music* is a 2002 return to that sound. Duke called today's song, "Let's Roll," "a throwback to the music I used to play with Flora Purim, Airto (Moreira), Stanley Clarke and other fusioneers."
+
+After years with Epic, Elektra and Warner Bros., Duke released *Face the Music* on his own BPM Records label. He called the move "definitely a turning point in my career." The album reached #4 on Billboard's Contemporary Jazz chart.
 
 ---
 ## Research Notes

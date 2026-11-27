@@ -9,12 +9,19 @@ year: 1973
 track length: 2m 57s
 genre:
 region: US - California
-listening mission:
-status: research-review
+listening mission: This is a song about a man thinking about walking into a river. Does the relaxed groove clash with the lyric?
+status: review
 writing theme:
 funk.day code:
 cover:
 ---
+Today's song is Freddie Robinson's cover of Percy Mayfield's "River's Invitation." Harmonically, it's unmistakably blues, and Robinson was known primarily as a Chicago blues guitarist. But do he and the band bring enough funk to warrant its inclusion in this book? I'll make the case.
+
+First, consider the players on *Off the Cuff*. The lineup draws heavily from LA's jazz-funk scene, with Monk Higgins arranging, Joe Sample on keys, Wilton Felder on bass, Harvey Mason on drums, and Red Holloway, George Bohanon and Oscar Brashear on horns.
+
+Then there's the record label. Al Bell started Enterprise in 1967 as a jazz subsidiary of Stax. Robinson's Enterprise recordings leaned toward soul-jazz, giving him plenty of room to stretch beyond Chicago blues standards.
+
+Finally, let's consider the reception. The album didn't sell well, but hip-hop producers later found something in the opening bass and drums of "River's Invitation." House of Pain, Bloods & Crips, M.A.C. 10, Casual and Brother Ali sampled it. The track also appeared on the DJ-oriented compilation *Super Breaks Vol. 3* in 2002.
 
 ---
 ## Research Notes

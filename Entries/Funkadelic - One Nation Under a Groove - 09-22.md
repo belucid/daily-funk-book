@@ -1,6 +1,6 @@
 ---
 fileClass: funk-entry
-day:
+day: 09-22
 artist: Funkadelic
 track: One Nation Under a Groove
 album: One Nation Under a Groove
@@ -11,11 +11,16 @@ genre:
   - Psychedelic Funk
 region:
   - US - Michigan
-listening mission:
-status: research-review
+listening mission: Around the four-and-a-half-minute mark, the synth bass stops anchoring on the One. Does the groove still feel locked in? What changes for you when only the kick drum holds down the One?
+status: review
 writing theme:
 funk.day code: kbfr
 ---
+Funkadelic spent years close to funk's commercial windfall without quite breaking through. Then came *One Nation Under a Groove*. The title track became the band's first million-selling single and spent six weeks at #1 on Billboard's Soul chart, the longest run of any single in 1978. The album, released September 22, 1978, went platinum in December. They'd finally struck gold. Platinum, actually.
+
+The breakthrough was deliberate. Funkadelic's far-out reputation hadn't always translated into massive radio play, and George Clinton acknowledged that the band was chasing a big hit with a more commercial sound. They nailed it. "One Nation Under a Groove" went on to appear on the Rock and Roll Hall of Fame's "500 Songs That Shaped Rock and Roll" and Rolling Stone's "500 Greatest Songs of All Time."
+
+Junie Morrison, the funky brain behind Ohio Players' "Funky Worm" (March 20), joined P-Funk as musical director in 1977. He arranged "One Nation Under a Groove" and co-wrote the music with Garry Shider, while Clinton wrote the lyrics. The instrumental roles shifted too. Legendary bassist Bootsy Collins played drums, and the band's keyboardist, Bernie Worrell, supplied the synth bass.
 
 ---
 ## Research Notes
